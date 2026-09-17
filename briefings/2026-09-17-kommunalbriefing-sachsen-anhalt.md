@@ -1,6 +1,6 @@
 # Kommunalbriefing Sachsen-Anhalt — Mittwoch, 17. September 2026
 
-**Adressat:** Bürgermeister/kommunale Verwaltungsspitze in Sachsen-Anhalt
+**Adressat:** Bürgermeister der Stadt Hettstedt, Landkreis Mansfeld-Südharz (rd. 14.000 EW)
 **Schwerpunkte:** Gesetzesänderungen · Fördermittel · Landespolitik mit Kommunalbezug
 **Redaktionsschluss:** 17.09.2026
 
@@ -163,29 +163,102 @@ Das **OVG Berlin-Brandenburg** hat am **06.07.2026** entschieden, dass Äußerun
 
 ---
 
-## 7. Ihre Termine und Fristen
+## 7. Konkret für Hettstedt
 
-| Frist | Gegenstand |
-|---|---|
-| **06.10.2026** | Konstituierende Sitzung des 9. Landtags (spätestens), Art. 45 Abs. 1 LVerf |
-| **30.11.2026** | Antragsfrist Städtebauförderung (StäBauFRL) |
-| **laufend** | Projektanzeige Kommunalarm Sondervermögen Infrastruktur über die IB |
-| **30.06.2028** | Kommunale Wärmeplanung, Gemeinden unter 100.000 EW |
-| **offen** | FAG 2027 — Rechtsgrundlage noch nicht vorhanden |
+*Zugeschnitten auf die Stadt Hettstedt, Landkreis Mansfeld-Südharz, rund 14.000 Einwohner, kreisangehörige Einheitsgemeinde. Standing-Kontext siehe `profil-hettstedt.md`.*
+
+### 7.1 Konsolidierungsauflage trifft auf fehlenden FAG 2027
+
+Hettstedt hat **Anfang März 2026** eine **Bedarfszuweisung aus dem Ausgleichsstock in Höhe von 10.119.796,00 €** erhalten, um Fehlbeträge aus Vorjahren auszugleichen. Die Zuweisung ist **mit der Auflage verbunden**, die Haushaltskonsolidierung fortzusetzen und gesicherte finanzielle Leistungsfähigkeit wiederzuerlangen.
+
+Genau hier liegt das Problem der aktuellen Lage: Eine Konsolidierungsauflage setzt eine belastbare Einnahmeprognose voraus — und die **fehlt für 2027**, weil das FAG nur bis 2026 geregelt ist (Ziffer 3). 
+
+👉 **Empfehlung:** Dokumentieren Sie gegenüber der Kommunalaufsicht ausdrücklich, dass die Fortschreibung des Konsolidierungspfads ab 2027 unter dem Vorbehalt der noch ausstehenden FAG-Regelung steht. Das schützt die Stadt, wenn die Zuweisung 2027 niedriger ausfällt als unterstellt.
+
+**Ausgleichsstock 2026:** Volumen **40,9 Mio. €** für Bedarfszuweisungen und **zinslose rückzahlbare Liquiditätshilfen**. Antragsformulare per E-Mail an `ausgleichsstock@sachsen-anhalt.de`, Betreff mit Gemeindename und Art der beantragten Leistung. Eine feste Antragsfrist ließ sich nicht belegen — direkt beim MF erfragen.
+
+### 7.2 Kreisumlage Mansfeld-Südharz: 40 % — der größte Einzelposten
+
+Der Landkreis hat die **Kreisumlage 2026 auf 40 %** festgesetzt und schöpft den rechtlich möglichen Spielraum damit stärker aus. Der **Kreishaushalt 2026 wurde erst im zweiten Anlauf** vom Landesverwaltungsamt genehmigt — der erste Beschluss vom **10.12.2025** war wegen **erheblicher Verstöße gegen geltendes Haushaltsrecht** beanstandet worden. Die Genehmigung erfolgte unter Auflagen zur Stabilisierung der Haushaltslage.
+
+**Vorgeschichte mit Präzedenzwirkung:** Ein Gericht hatte zugunsten der Kommunen entschieden; der Landkreis musste die Kreisumlage rückwirkend senken und beschloss im **April 2024**, durch rückwirkende Senkung der Umlagesätze für **2017–2023 rund 39 Mio. €** an die Städte und Gemeinden zurückzuzahlen.
+
+👉 **Empfehlung:** Die Kombination aus 40 % Umlagesatz, beanstandetem Erstbeschluss und einer bereits einmal erfolgreichen gerichtlichen Überprüfung ist ein belastbarer Anlass, die **Umlagegenehmigung 2026 rechtlich prüfen zu lassen** — insbesondere die Frage, ob der Landkreis seiner Pflicht zur Rücksichtnahme auf die Finanzausstattung der kreisangehörigen Gemeinden genügt hat. Abstimmung mit den übrigen Städten und Gemeinden des Landkreises erhöht die Durchsetzungschancen.
+
+### 7.3 Sondervermögen Infrastruktur — Hettstedt ist unmittelbarer Empfänger
+
+Als **kreisangehörige Einheitsgemeinde** gehört Hettstedt zum Empfängerkreis des Kommunalarms (kreisfreie Städte, Landkreise, **Einheits- und Verbandsgemeinden**) und erhält ein **eigenes Pauschalbudget** — kein Umweg über den Landkreis.
+
+Zwei Punkte sprechen dafür, dass Hettstedts Budget eher am oberen Rand liegt:
+- **Finanzschwache Kommunen wurden bei der Bemessung der Pauschalbudgets besonders berücksichtigt.**
+- Die Mittel sind **eigenverantwortlich** einsetzbar, ohne klassisches Antragsverfahren.
+
+📐 *Größenordnung (eigene Überschlagsrechnung, keine Quelle):* 1,57 Mrd. € Kommunalarm auf rund 2,17 Mio. Einwohner ergibt rechnerisch etwa 720 € je Einwohner, also grob **10 Mio. €** für eine Kommune der Größe Hettstedts — dieser Betrag verteilt sich jedoch auf Gemeinde- **und** Kreisebene und ist nach Finanzkraft gewichtet. **Der tatsächliche Wert ist bei der IB abzurufen und durch nichts in diesem Briefing belegt.**
+
+👉 **Empfehlung — höchste Priorität dieser Woche:** Pauschalbudget bei der IB abfragen und prüfen, welcher Teil noch nicht durch Projektanzeigen belegt ist. Für eine Kommune unter Konsolidierungsauflage sind antragsfreie, eigenverantwortlich verwendbare Investitionsmittel der mit Abstand günstigste Finanzierungsweg.
+
+### 7.4 Strukturwandel — die Schiene, die andere Kommunen nicht haben
+
+**Mansfeld-Südharz ist einer von vier Landkreisen (zzgl. Stadt Halle) im Mitteldeutschen Revier** und damit Strukturwandelregion im Zusammenhang mit dem Braunkohleausstieg. Für Hettstedt sind dadurch zusätzlich einschlägig:
+
+- **STARK-Programm des Bundes** („Stärkung der Transformationsdynamik und Aufbruch in den Revieren und an den Kohlekraftwerksstandorten") — fördert auch **nicht-investive** Strukturstärkungsprojekte.
+- **Masterplan Strukturwandel Mansfeld-Südharz** (Fortschreibung nach Evaluierung 2023/24).
+- Umsetzungsunterstützung durch die **Standortentwicklungsgesellschaft Mansfeld-Südharz mbH (SEG-MSH)**; für das Vorhaben „Innovationsstandorte MSH" wurden rund **2,2 Mio. €** bewilligt, womit ein Projektteam für zentrale Strukturwandelmaßnahmen im Landkreis aufgebaut wurde.
+- Der **zweite Landesevaluierungsbericht Strukturwandel** datiert vom **30.03.2026**.
+
+👉 **Empfehlung:** Falls noch nicht geschehen, Hettstedter Vorhaben gezielt im Masterplan verankern — die Aufnahme in den Masterplan ist regelmäßig Voraussetzung für den Zugriff auf Strukturwandelmittel. Ansprechpartner ist die SEG-MSH.
+
+### 7.5 LEADER — LAG Mansfeld-Südharz
+
+Zuständig ist die **LAG Mansfeld-Südharz**, anerkannt am 09.03.2023, aktiv seit 2002, Förderphase bis 2027. Aktuell läuft ein **Projektaufruf 2026**; parallel ist die **LEADER/CLLD-Konzeptphase** gestartet, für die neue Projektideen gesucht werden.
+
+- Voraussetzung: **ausgefülltes Projektdatenblatt** als Entscheidungsgrundlage für Steuerungsgruppe und Mitgliederversammlung.
+- Kontakt LEADER-Management: **03475 / 612 387** · `lag-mansfeld-suedharz.de` · `lag-ms.de`
+
+⚠️ Eine landesweit einheitliche Einreichungsfrist ließ sich nicht belegen; die Quellen widersprechen sich zudem bei der Zahl der Aktionsgruppen (23 bzw. 24). **Frist bitte direkt beim LEADER-Management erfragen.**
+
+### 7.6 Wärmeplanung — Frist 2028, Handeln aber 2026/2027
+
+Mit rund 14.000 Einwohnern gilt für Hettstedt die Frist **30.06.2028**, nicht die Frist 30.06.2026 (die betrifft nur Magdeburg und Halle). Der finanzielle Ausgleich des Landes bemisst sich **nach der Einwohnerzahl** der Gemeinde.
+
+👉 Bei realistisch 18–24 Monaten für Datenerhebung, Vergabe und Beteiligung ist der Vergabestart **2026/2027** einzuplanen. Den Ausgleichsanspruch gegenüber dem Land vorab beziffern und im Haushalt als Einnahme veranschlagen.
+
+### 7.7 Aus dem Rathaus
+
+Zwei lokale Vorgänge sind in den Landesmedien präsent und in der Kommunikation weiterhin zu begleiten: der **Kunstrasenplatz des FC Hettstedt** am Sportplatz Kirschweg (Klarstellung der Stadt zu einem MZ-Artikel vom 20.03.2026) sowie die **Anpassung der Kostenbeiträge in der Kindertagespflege** (Klarstellungen zu Artikeln vom 19.02. und 14.03.2026).
+
+Ergänzender Hinweis zu Ziffer 5.4: Für die Trennung von Amts- und Privataccount in sozialen Medien gilt die OVG-Rechtsprechung unabhängig von der Gemeindegröße — in einer Stadt dieser Größe, in der der Bürgermeister öffentlich stark personalisiert wahrgenommen wird, ist das Risiko der Zurechnung eher höher.
 
 ---
 
-## 8. Empfohlene Handlungen dieser Woche
+## 8. Ihre Termine und Fristen
 
-1. **Pauschalbudget Sondervermögen Infrastruktur** auf Ausschöpfung prüfen; nicht belegte Mittel durch Projektanzeige sichern.
-2. **Haushalt 2027**: FAG-Risiko im Vorbericht dokumentieren, Nachtrag einplanen.
-3. **Städtebauförderung**: Maßnahmenliste bis Ende Oktober finalisieren (Frist 30.11.).
-4. **Wärmeplanung**: Vergabeverfahren vorbereiten, Ausgleichsanspruch gegenüber dem Land ermitteln.
-5. **Social-Media-Auftritt** der Amtsleitung auf Trennung Amt/Privat prüfen.
+| Frist | Gegenstand | Relevanz für Hettstedt |
+|---|---|---|
+| **06.10.2026** | Konstituierende Sitzung des 9. Landtags (spätestens) | mittelbar — Startpunkt für FAG 2027 |
+| **30.11.2026** | Antragsfrist Städtebauförderung (StäBauFRL) | hoch |
+| **laufend** | Projektanzeige Kommunalarm Sondervermögen Infrastruktur (IB) | **höchste** |
+| **laufend** | Projektaufruf 2026 LAG Mansfeld-Südharz | hoch — Frist erfragen |
+| **laufend** | Ausgleichsstock 2026, 40,9 Mio. € Gesamtvolumen | hoch — Konsolidierungsauflage |
+| **30.06.2028** | Kommunale Wärmeplanung (unter 100.000 EW) | Vergabe 2026/2027 einleiten |
+| **offen** | FAG 2027 — Rechtsgrundlage fehlt | **höchste** |
 
 ---
 
-## 9. Quellennachweis
+## 9. Empfohlene Handlungen dieser Woche
+
+1. **Pauschalbudget Sondervermögen Infrastruktur** bei der IB abfragen und offene Budgetanteile durch Projektanzeigen belegen. *Höchste Priorität — antragsfreie Investitionsmittel.*
+2. **Kreisumlage 2026 (40 %)** rechtlich prüfen lassen; Abstimmung mit den übrigen Städten und Gemeinden des Landkreises suchen.
+3. **Konsolidierungspfad ab 2027** gegenüber der Kommunalaufsicht unter den ausdrücklichen Vorbehalt der ausstehenden FAG-Regelung stellen.
+4. **Städtebauförderung**: Maßnahmenliste bis Ende Oktober finalisieren (Frist 30.11.).
+5. **LAG Mansfeld-Südharz** kontaktieren: Einreichungsfrist des Projektaufrufs 2026 klären, Projektdatenblatt vorbereiten.
+6. **SEG-MSH** kontaktieren: Verankerung Hettstedter Vorhaben im Masterplan Strukturwandel prüfen.
+7. **Wärmeplanung**: Vergabeverfahren vorbereiten, Ausgleichsanspruch beziffern.
+8. **Social-Media-Auftritt** auf Trennung Amt/Privat prüfen.
+
+---
+
+## 10. Quellennachweis
 
 **Landtagswahl und Regierungsbildung**
 - Landtagswahl in Sachsen-Anhalt 2026 — Wikipedia: https://de.wikipedia.org/wiki/Landtagswahl_in_Sachsen-Anhalt_2026
@@ -243,6 +316,39 @@ Das **OVG Berlin-Brandenburg** hat am **06.07.2026** entschieden, dass Äußerun
 **Wahlen auf kommunaler Ebene**
 - Bürgermeisterwahlen 2026, Statistisches Landesamt: https://wahlergebnisse.sachsen-anhalt.de/wahlen/bm26/
 - Wahlen in Sachsen-Anhalt (Übersicht): https://wahlergebnisse.sachsen-anhalt.de/
+
+**Hettstedt und Mansfeld-Südharz**
+- Stadt Hettstedt, News und Pressemitteilungen: https://www.hettstedt.de/aktuelles/news-pressemitteilungen/
+- Kupferstadt Hettstedt: https://www.hettstedt.de/
+- „Hettstedt erhält rund 10 Millionen Euro" (Meldung vom 02.03.2026): https://nordthueringen.de/news/news_lang.php?ArtNr=380447
+- Wegweiser Kommune, Hettstedt: https://www.wegweiser-kommune.de/kommunen/hettstedt
+- Landkreis Mansfeld-Südharz: https://www.mansfeldsuedharz.de/
+- Landesverwaltungsamt, „Landkreis Mansfeld-Südharz: Haushalt 2026 im zweiten Anlauf genehmigt": https://lvwa.sachsen-anhalt.de/das-lvwa/news-details/landkreis-mansfeld-suedharz-haushalt-2026-im-zweiten-anlauf-genehmigt-auflagen-sollen-haushaltslage-stabilisieren
+- Kreisumlage (Begriff und Rechtsrahmen), KommunalWiki: https://kommunalwiki.boell.de/index.php/Kreisumlage
+
+**Ausgleichsstock und Bedarfszuweisungen**
+- MF, Bedarfszuweisungen aus dem Ausgleichsstock für kreisangehörige Gemeinden: https://mf.sachsen-anhalt.de/ministerium-der-finanzen/news-detail/bedarfszuweisungen-aus-dem-ausgleichstock-fuer-kreisangehoerige-gemeinden-uebergangsregelung-zum-ausgleich-von-einzahlungsverlusten-infolge-des-neuen-finanzausgleichsgesetzes
+- MF, „Weitere Unterstützung für die Kommunen vom Land": https://mf.sachsen-anhalt.de/ministerium-der-finanzen/news-detail/weitere-unterstuetzung-fuer-die-kommunen-vom-land
+- MF, Mittel aus dem Ausgleichsstock (Beispiel Calbe/Saale): https://mf.sachsen-anhalt.de/ministerium-der-finanzen/news-detail/mittel-aus-dem-ausgleichsstock-gut-57-millionen-euro-fuer-calbe-saale
+
+**LEADER Mansfeld-Südharz**
+- LAG Mansfeld-Südharz: https://lag-mansfeld-suedharz.de/
+- LAG Mansfeld-Südharz, Formularübersicht: https://lag-ms.de/formularuebersicht/
+- LAG Mansfeld-Südharz, LEADER/CLLD-Konzeptphase: https://lag-mansfeld-suedharz.de/aktuelles/neue-leader-clld-projektideen/
+- LEADER Sachsen-Anhalt, LAG Mansfeld-Südharz: https://leader.sachsen-anhalt.de/lokale-aktionsgruppen/uebersichtskarte-informationen-zu-allen-23-lag-des-landes/lokale-aktionsgruppe-mansfeld-suedharz/
+- LEADER Sachsen-Anhalt, Übersicht der Aktionsgruppen: https://leader.sachsen-anhalt.de/lokale-aktionsgruppen/die-24-lokalen-aktionsgruppen
+- LES 2021–2027 der LAG Mansfeld-Südharz (PDF): https://www.mansfeldsuedharz.de/fileadmin/mediamanager/SampleFiles/Dokumente/LES_2027_LAG_MSH_.pdf
+- Landkreis MSH, Regionalentwicklung und LEADER: https://www.mansfeldsuedharz.de/unser-landkreis/regionalentwicklung-strukturwandel/regionalentwicklung
+
+**Strukturwandel Mitteldeutsches Revier**
+- Strukturwandel Sachsen-Anhalt, Landkreis Mansfeld-Südharz: https://strukturwandel.sachsen-anhalt.de/revier/landkreis-mansfeld-suedharz
+- Landkreis MSH, Strukturwandel: https://www.mansfeldsuedharz.de/unser-landkreis/regionalentwicklung-strukturwandel/strukturwandel
+- Masterplan Strukturwandel Mansfeld-Südharz (PDF): https://www.mansfeldsuedharz.de/fileadmin/mediamanager/SampleFiles/Dokumente/Regionalentwicklung/masterplan_strukturwandel_mansfeld_suedharz_v1.0.pdf
+- Fortschreibung Masterplan, Evaluierung 2023/24 (PDF): https://www.mansfeldsuedharz.de/fileadmin/mediamanager/SampleFiles/Dokumente/Presse/05_Evaluierung_Masterplan_Strukturwandel_MSH_gesamt_final.pdf
+- Zweiter Bericht der Landesevaluierung Strukturwandel, 30.03.2026 (PDF): https://strukturwandel.sachsen-anhalt.de/fileadmin/Bibliothek/Sonstige_Webprojekte/Strukturwandel_Kohleregion/Bilder/Dokumente_und_Informationen/Evaluierungsbericht/Zweiter_Bericht_Landesevaluierung_Strukturwandel_300326.pdf
+- „Projektteam für zentrale Vorhaben in Mansfeld-Südharz": https://strukturwandel.sachsen-anhalt.de/zukunft-mitgestalten/news-detail/projektteam-soll-zentrale-vorhaben-in-mansfeld-suedharz-umsetzen
+- „Landkreis Mansfeld-Südharz erhält drei Zuwendungsbescheide": https://strukturwandel.sachsen-anhalt.de/service/news/landkreis-mansfeld-suedharz-erhaelt-drei-zuwendungsbescheide-1
+- SEG Mansfeld-Südharz mbH, Regionalentwicklung: https://www.seg-msh.de/regionalentwicklung-in-mansfeld-suedharz/
 
 **Allgemein**
 - Pressemitteilungen der Landesregierung: https://www.sachsen-anhalt.de/lj/politik-und-verwaltung/service/politik-aktuell/pressemitteilungen

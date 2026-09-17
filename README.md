@@ -1,7 +1,12 @@
 # Kommunalbriefing Sachsen-Anhalt
 
 Tägliche Nachrichtenübersicht für die kommunale Ebene in Sachsen-Anhalt,
-zugeschnitten auf die Perspektive einer Bürgermeisterin / eines Bürgermeisters.
+zugeschnitten auf die **Stadt Hettstedt** im Landkreis Mansfeld-Südharz
+(rund 14.000 Einwohner, kreisangehörige Einheitsgemeinde).
+
+Der stehende Recherchekontext — was für diese Kommune einschlägig ist und was
+nicht — steht in [`profil-hettstedt.md`](profil-hettstedt.md) und ist vor jeder
+Ausgabe zu lesen und fortzuschreiben.
 
 ## Schwerpunkte
 
@@ -20,15 +25,19 @@ und folgt derselben Gliederung:
 4. Fördermittel
 5. Gesetzesänderungen und Rechtsprechung
 6. Aus der kommunalen Praxis
-7. Termine und Fristen
-8. Empfohlene Handlungen
-9. Quellennachweis
+7. **Konkret für Hettstedt** — Übersetzung der Landesvorgänge auf die Stadt
+8. Termine und Fristen
+9. Empfohlene Handlungen
+10. Quellennachweis
 
 ## Redaktionelle Regeln
 
-- Jede Aussage ist mit einer Quelle belegt; die Quellen stehen gesammelt in Ziffer 9.
+- Jede Aussage ist mit einer Quelle belegt; die Quellen stehen gesammelt in der letzten Ziffer.
 - Angaben aus nur einer Fundstelle werden mit ⚠️ als ungeprüft gekennzeichnet.
 - Widersprüchliche Angaben werden benannt, nicht stillschweigend aufgelöst.
+- Eigene Überschlagsrechnungen werden als solche gekennzeichnet und nie als Quelle ausgegeben.
+- Liegt zu einem Schwerpunkt nichts Neues vor, wird das ausdrücklich geschrieben,
+  statt Altes umzuformulieren.
 - Für rechtsverbindliche Entscheidungen gelten ausschließlich die amtlichen
   Verkündungen im GVBl. LSA und die Originalverlautbarungen der Ressorts.
 
