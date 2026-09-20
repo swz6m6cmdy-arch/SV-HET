@@ -30,6 +30,10 @@ und folgt derselben Gliederung:
 9. Empfohlene Handlungen
 10. Quellennachweis
 
+Optional folgt als **Anlage** eine datierte Wiedergabe von `profil-hettstedt.md`,
+damit die Ausgabe als Druckstück für sich steht. Maßgeblich bleibt die Datei im
+Repository; die Anlage ist eine Momentaufnahme.
+
 ## Redaktionelle Regeln
 
 - Jede Aussage ist mit einer Quelle belegt; die Quellen stehen gesammelt in der letzten Ziffer.
