@@ -41,6 +41,26 @@ und folgt derselben Gliederung:
 - Für rechtsverbindliche Entscheidungen gelten ausschließlich die amtlichen
   Verkündungen im GVBl. LSA und die Originalverlautbarungen der Ressorts.
 
+## PDF-Export
+
+Jede Ausgabe laesst sich druckfertig als PDF ausgeben (A4, Seitenzahlen,
+anklickbare Quellenlinks):
+
+```
+pip install markdown weasyprint
+python3 tools/briefing2pdf.py briefings/2026-09-17-kommunalbriefing-sachsen-anhalt.md
+```
+
+Mehrere Dateien und ein abweichendes Zielverzeichnis sind moeglich:
+
+```
+python3 tools/briefing2pdf.py briefings/*.md --out-dir export/
+```
+
+Das Skript gleicht zwei Markdown-Eigenheiten aus, die sonst das Layout
+zerstoeren: Listen, die ohne Leerzeile auf einen Absatz folgen, und Emoji,
+die von den installierten Schriften nicht gedeckt sind.
+
 ## Ausgaben
 
 - [17.09.2026](briefings/2026-09-17-kommunalbriefing-sachsen-anhalt.md)
