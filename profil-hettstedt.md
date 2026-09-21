@@ -49,6 +49,42 @@ seit 2002, Förderphase bis 2027. Ein ausgefülltes Projektdatenblatt ist Voraus
 die Entscheidung von Steuerungsgruppe und Mitgliederversammlung.
 Kontakt LEADER-Management: 03475 / 612 387 · lag-mansfeld-suedharz.de · lag-ms.de
 
+## Strukturwandel vor Ort: Hettstedt ist bereits Standort
+
+Wichtig für die Einordnung jeder Strukturwandelmeldung: In Hettstedt **läuft bereits ein
+gefördertes Vorhaben**. Die Frage lautet nicht mehr, ob die Stadt im Masterplan verankert ist,
+sondern wie der vorhandene Standortvorteil ausgebaut wird.
+
+**REGENT — Regionales Gesundheits- und Notfallzentrum.** Der Landkreis errichtet an den
+Standorten **Hettstedt und Sangerhausen** Gesundheits- und Notfallzentren, die ambulante
+Versorgung, Notfallversorgung und Telemedizin bündeln, jeweils ergänzt um eine **neue
+Rettungswache**. Förderung aus dem **Strukturstärkungsgesetz** rund **22,55 Mio. €**, davon
+**9,3 Mio. € für Hettstedt** und 13,2 Mio. € für Sangerhausen. Stand: **im Bau**.
+Träger ist der **Eigenbetrieb Rettungsdienst Landkreis Mansfeld-Südharz** — **Bauherr ist der
+Landkreis, nicht die Stadt**; die Mittel laufen nicht über den Hettstedter Haushalt. Die Stadt
+ist Standortkommune mit Zuständigkeiten bei Erschließung, Verkehrsanbindung und Bauleitplanung.
+⚠️ Zeitangaben widersprüchlich (Spatenstich Sangerhausen 25. März; ältere Darstellung mit
+Baubeginn 2025 und Inbetriebnahme der Rettungswache 2026); Bautenstand beim Eigenbetrieb erfragen.
+
+**H2HET — Grubenwassernutzung.** Für das Stadtgebiet Hettstedt wird untersucht, ob **Grubenwasser
+aus dem ehemaligen Kupferbergbau** in einem thermisch-elektrisch gekoppelten System für den
+**Betrieb von Wärmepumpen** und als **Wasserbasis für die Elektrolyse zur Wasserstofferzeugung**
+nutzbar ist, samt CO₂-Bilanz. Konsortium: RBFK e. V., Westsächsische Hochschule Zwickau,
+JENA-GEOS Ingenieurbüro GmbH. ⚠️ Laufzeit, Förderquelle und Ergebnisstand unbelegt.
+→ **Direkter Bezug zur Pflicht-Wärmeplanung bis 30.06.2028:** Die Studie ist Vorarbeit für die
+Erhebung lokaler Wärmequellen und sollte vor der Ausschreibung gesichert werden.
+
+**Sachsen-Anhalt REVIER 2038 (IB)** — die Förderschiene für die Gebietskulisse. **Fördersatz 90 %**,
+**Kommunen primär antragsberechtigt** (auch kreisangehörige Städte). **Projektanmeldung bei der IB
+muss der Antragstellung vorausgehen.** ⚠️ Angabe zur hälftigen Übernahme des kommunalen
+Eigenanteils durch das Land bezieht sich auf 2022; aktuellen Stand erfragen. Ob Kommunalarm-Mittel
+als Eigenanteil anerkannt werden, ist **ungeklärt** und vor jeder Planung bei der IB zu klären.
+
+**REVIERPIONIER** — jährlicher Ideenwettbewerb, 1 Mio. € Preisgeld, **kein Eigenanteil**.
+Antragsberechtigt sind **Bürger, Vereine, gemeinnützige Institutionen, Kitas, Schulen** —
+**nicht die Stadt**. Für Hettstedt eine Multiplikatorenaufgabe. Aufruf 2026 lief vom 10.03. bis
+14.04.2026; Ansprache für die Runde 2027 entsprechend im Februar.
+
 ## Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
 
 Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
@@ -82,7 +118,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 20.09.2026)
+## Laufende lokale Vorgänge (Stand 21.09.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -92,7 +128,20 @@ Landkreis ist für Hettstedt berichtspflichtig.
 - **Kostenbeiträge Kindertagespflege** — Anpassung; Klarstellungen der Stadt zu Artikeln
   vom 19.02. und 14.03.2026.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 20.09.2026)
+## Bekanntmachungswesen
+
+Der Stadtrat hat am **09.07.2024** beschlossen, das **Amtsblatt in der bisherigen Form
+abzuschaffen**. Öffentliche Bekanntmachungen erfolgen seither **über die Website der Stadt**,
+für Hettstedt und seine Ortsteile. ⚠️ Einzelfundstelle; maßgeblich ist die Bekanntmachungssatzung.
+
+→ **Für die Recherche:** maßgeblicher Kanal ist `hettstedt.de/neuigkeiten/bekanntmachungen/`,
+nicht die Amtsblatt-Seite.
+→ **Rechtlich:** Bei elektronischer Bekanntmachung hängt die **Wirksamkeit von Satzungen** an der
+korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeitpunkts,
+gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
+Abgabensatzungen mit unmittelbarer Haushaltswirkung.
+
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 21.09.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -101,6 +150,8 @@ Landkreis ist für Hettstedt berichtspflichtig.
 | Stand der offenen **rückzahlbaren Liquiditätshilfen** | Präzedenz Gerbstedt: Bedarfszuweisung zur Ablösung einer früheren Liquiditätshilfe |
 | Welche **TVergG-LSA-Fassung** liegt Vergabevermerken zugrunde? | Widersprüchliche Angaben zum Inkrafttreten der geänderten Fassung (01.11.2025 vs. 01.11.2026); Wertgrenzen sollen entfallen, Vereinfachungen bis Ende 2028 |
 | Szenarien **KiFöG ab 01.01.2027** | Geschwisterregelung und Ausgleichszahlungen von bis zu 10,7 Mio. €/Jahr an die Gemeinden sind bis 31.12.2026 befristet |
+| Entspricht die **elektronische Bekanntmachung** seit dem 09.07.2024 der Bekanntmachungssatzung? | Risiko unwirksamer Satzungen |
+| Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
 
 ## Wiederkehrende Antragsfristen
 
@@ -109,6 +160,8 @@ Landkreis ist für Hettstedt berichtspflichtig.
 | **30.11.** | Städtebauförderung (StäBauFRL) | Antrag vor Maßnahmenbeginn; Zuschuss i. d. R. bis 2/3. ⚠️ Zuständigkeit klären: Richtlinie vom Ministerium, Servicebereich beim Landesverwaltungsamt |
 | **31.08.** | Vereinssportstättenbau (IB) | jeweils für das **Folgejahr**; die Frist für das Förderjahr 2027 ist am 31.08.2026 abgelaufen |
 | keine | Kommunalarm Sondervermögen Infrastruktur | laufende Projektanzeige, keine Jahresfrist |
+| laufend | **REVIER 2038 (IB)** | 90 % Fördersatz; **Projektanmeldung vor Antragstellung**; kein Maßnahmenbeginn vor Bewilligung |
+| **10.03.–14.04.** | REVIERPIONIER (Richtwert nach 2026) | nicht die Stadt, sondern Vereine, Schulen, Kitas; Ansprache im Februar |
 | unbelegt | Ausgleichsstock | feste Antragsfrist ließ sich nicht belegen — beim MF erfragen |
 | unbelegt | LEADER-Projektaufruf LAG MSH | Aufruf seit 01.07.2026 ⚠️; Einreichungsfrist beim LEADER-Management erfragen |
 
@@ -120,5 +173,8 @@ Landkreis ist für Hettstedt berichtspflichtig.
 | Sondervermögen Infrastruktur | Investitionsbank Sachsen-Anhalt (IB) |
 | LEADER | LAG Mansfeld-Südharz, 03475 / 612 387 |
 | Strukturwandel | SEG Mansfeld-Südharz mbH · strukturwandel.sachsen-anhalt.de |
+| REVIER 2038 / Projektanmeldung | Investitionsbank Sachsen-Anhalt |
+| REGENT Hettstedt | Eigenbetrieb Rettungsdienst Landkreis Mansfeld-Südharz |
+| H2HET / Grubenwasser | JENA-GEOS Ingenieurbüro GmbH · RBFK e. V. |
 | Kommunalaufsicht | Landesverwaltungsamt Sachsen-Anhalt |
 | Städtebauförderung | Ministerium für Infrastruktur und Digitales (MID) |
