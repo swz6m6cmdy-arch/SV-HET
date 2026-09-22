@@ -85,6 +85,17 @@ Antragsberechtigt sind **Bürger, Vereine, gemeinnützige Institutionen, Kitas, 
 **nicht die Stadt**. Für Hettstedt eine Multiplikatorenaufgabe. Aufruf 2026 lief vom 10.03. bis
 14.04.2026; Ansprache für die Runde 2027 entsprechend im Februar.
 
+**GRW-Infrastrukturförderung (IB)** — zweite, von REVIER 2038 getrennte Schiene für wirtschaftsnahe
+Infrastruktur. Fördersätze im Regionalbudget: **60 %** Regelsatz (gewerbliche und touristische
+Infrastruktur), **bis 80 %** bei besonderem Landesinteresse, **bis 90 % bei interkommunalen
+Kooperationsvorhaben mehrerer Kommunen**. Bausteine: Regionalbudget, Regionalmanagement, IREK,
+Industrie- und Gewerbegelände, Gewerbezentren, Planungs- und Beratungsleistungen.
+Seit **01.01.2026** gilt ein neuer GRW-Koordinierungsrahmen; die **GRW-Landesregelungen sind noch
+in Überarbeitung**. Anträge sollen binnen eines Jahres nach Bestätigung des Antragseingangs
+vollständig sein.
+→ **Der Hebel liegt im Wort „interkommunal":** 90 % gibt es nur gemeinsam mit Nachbarkommunen —
+denselben Gesprächspartnern, mit denen die Kreisumlage abzustimmen ist.
+
 ## Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
 
 Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
@@ -118,7 +129,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 21.09.2026)
+## Laufende lokale Vorgänge (Stand 22.09.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -141,7 +152,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 21.09.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 22.09.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -161,6 +172,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | **31.08.** | Vereinssportstättenbau (IB) | jeweils für das **Folgejahr**; die Frist für das Förderjahr 2027 ist am 31.08.2026 abgelaufen |
 | keine | Kommunalarm Sondervermögen Infrastruktur | laufende Projektanzeige, keine Jahresfrist |
 | laufend | **REVIER 2038 (IB)** | 90 % Fördersatz; **Projektanmeldung vor Antragstellung**; kein Maßnahmenbeginn vor Bewilligung |
+| offen | **GRW-Infrastrukturförderung (IB)** | Landesregelungen in Überarbeitung; Veröffentlichung abwarten, Vorhaben vorher abstimmen |
 | **10.03.–14.04.** | REVIERPIONIER (Richtwert nach 2026) | nicht die Stadt, sondern Vereine, Schulen, Kitas; Ansprache im Februar |
 | unbelegt | Ausgleichsstock | feste Antragsfrist ließ sich nicht belegen — beim MF erfragen |
 | unbelegt | LEADER-Projektaufruf LAG MSH | Aufruf seit 01.07.2026 ⚠️; Einreichungsfrist beim LEADER-Management erfragen |
@@ -174,6 +186,8 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | LEADER | LAG Mansfeld-Südharz, 03475 / 612 387 |
 | Strukturwandel | SEG Mansfeld-Südharz mbH · strukturwandel.sachsen-anhalt.de |
 | REVIER 2038 / Projektanmeldung | Investitionsbank Sachsen-Anhalt |
+| GRW-Infrastrukturförderung | Investitionsbank Sachsen-Anhalt · Ministerium für Wirtschaft und Arbeit |
+| Kreishaushalt / Kreisumlage | Landkreis Mansfeld-Südharz, Kämmerei |
 | REGENT Hettstedt | Eigenbetrieb Rettungsdienst Landkreis Mansfeld-Südharz |
 | H2HET / Grubenwasser | JENA-GEOS Ingenieurbüro GmbH · RBFK e. V. |
 | Kommunalaufsicht | Landesverwaltungsamt Sachsen-Anhalt |

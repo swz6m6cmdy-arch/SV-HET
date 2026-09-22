@@ -70,3 +70,4 @@ die von den installierten Schriften nicht gedeckt sind.
 - [17.09.2026](briefings/2026-09-17-kommunalbriefing-sachsen-anhalt.md)
 - [20.09.2026](briefings/2026-09-20-kommunalbriefing-sachsen-anhalt.md) — Sammelausgabe für den Zeitraum 18.–20.09.2026
 - [21.09.2026](briefings/2026-09-21-kommunalbriefing-sachsen-anhalt.md)
+- [22.09.2026](briefings/2026-09-22-kommunalbriefing-sachsen-anhalt.md)
