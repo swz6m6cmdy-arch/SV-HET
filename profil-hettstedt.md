@@ -74,6 +74,29 @@ JENA-GEOS Ingenieurbüro GmbH. ⚠️ Laufzeit, Förderquelle und Ergebnisstand 
 → **Direkter Bezug zur Pflicht-Wärmeplanung bis 30.06.2028:** Die Studie ist Vorarbeit für die
 Erhebung lokaler Wärmequellen und sollte vor der Ausschreibung gesichert werden.
 
+**Hettstedter Anschlussbahn.** Am Industriestandort **Hettstedt/Großörner** wird die
+schienengebundene wirtschaftsnahe Infrastruktur ausgebaut: **Ersatzneubau der Brücken BW 1, BW 7,
+BW 8, BW 10 und BW 11** sowie Ausbau der **Hauptanschlussbahn Hettstedt**. Volumen **über
+23,5 Mio. €** von Bund und Land über die Richtlinie **REVIER 2038** (Investitionsgesetz
+Kohleregionen). Ziel: Aufhebung der Langsamfahrstellen (derzeit 30 km/h und 10 km/h), Verlagerung
+von Transportvolumen auf die Schiene, Anbindung bestehender Unternehmen **und Ermöglichung von
+Neuansiedlungen**. Grundlage: **Masterplan Strukturwandel MSH** (Kreistagsbeschluss).
+→ **Für die Stadt:** Bauzeitraum und Auswirkungen auf Gemeindestraßen erfragen — fünf
+Brückenersatzneubauten sind ein erheblicher Eingriff, und die Stadt ist Straßenbaulastträger für
+kreuzende und begleitende Gemeindestraßen.
+→ **Als Beleg:** Das Vorhaben zeigt, dass REVIER 2038 in Hettstedt praktisch funktioniert.
+
+**HIP — Hettstedt Industrie Park, Großörner.** Revitalisierung eines Industrieareals:
+**280.000 m² brutto, davon 172.000 m² frei verfügbar**, durch die **WEP Projektgesellschaft** im
+Auftrag der **HIP Land GmbH**, begleitet von der SEG-MSH. Lage südöstlich von Großörner neben dem
+Werk der **KME Mansfeld GmbH**; **Teilflächen liegen auf Hettstedter Gebiet**. Entwicklungsziel:
+Vorrang für **innovative und klimafreundliche Versorgungskonzepte**; es wird ermittelt, welche
+Branchen dafür in Frage kommen. Standortvorteile: Nähe zum KME-Werk, Anschluss ans regionale und
+überregionale Schienennetz.
+→ **Die Verbindung zu H2HET ist der Ansatzpunkt:** Das HIP sucht ein klimafreundliches
+Versorgungskonzept, H2HET untersucht genau eine solche lokale Quelle. Ob der Zusammenhang bereits
+hergestellt wurde, ist aus den Quellen nicht ersichtlich.
+
 **Sachsen-Anhalt REVIER 2038 (IB)** — die Förderschiene für die Gebietskulisse. **Fördersatz 90 %**,
 **Kommunen primär antragsberechtigt** (auch kreisangehörige Städte). **Projektanmeldung bei der IB
 muss der Antragstellung vorausgehen.** ⚠️ Angabe zur hälftigen Übernahme des kommunalen
@@ -129,7 +152,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 22.09.2026)
+## Laufende lokale Vorgänge (Stand 23.09.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -152,11 +175,11 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 22.09.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 23.09.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
-| Erhält Hettstedt Ausgleichsleistungen nach dem **MBAG LSA**? | OVG LSA hält § 1 Satz 2 MBAG LSA für unvereinbar mit Art. 87 Abs. 1 Verf LSA ⚠️ |
+| Erhält Hettstedt Ausgleichsleistungen nach dem **MBAG LSA**? | OVG LSA hält § 1 Satz 2 MBAG LSA für unvereinbar mit Art. 87 Abs. 1 Verf LSA ⚠️. Mutmaßlich **OVG LSA, Urteil vom 24.07.2026, Az. 3 L 48/24** (Folgenbeseitigungsanspruch einer Gemeinde gegen das Land) — Identität der Entscheidung **nicht belegt**; Volltext über das Aktenzeichen beschaffen |
 | Werden **Stellplatzablösebeträge** vereinnahmt und zweckgerecht gebucht? | Bauordnungsnovelle, in Kraft seit 24.01.2026: Zweckbindung für öffentliche Parkflächen und Fahrradabstellanlagen |
 | Stand der offenen **rückzahlbaren Liquiditätshilfen** | Präzedenz Gerbstedt: Bedarfszuweisung zur Ablösung einer früheren Liquiditätshilfe |
 | Welche **TVergG-LSA-Fassung** liegt Vergabevermerken zugrunde? | Widersprüchliche Angaben zum Inkrafttreten der geänderten Fassung (01.11.2025 vs. 01.11.2026); Wertgrenzen sollen entfallen, Vereinfachungen bis Ende 2028 |
@@ -190,5 +213,6 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Kreishaushalt / Kreisumlage | Landkreis Mansfeld-Südharz, Kämmerei |
 | REGENT Hettstedt | Eigenbetrieb Rettungsdienst Landkreis Mansfeld-Südharz |
 | H2HET / Grubenwasser | JENA-GEOS Ingenieurbüro GmbH · RBFK e. V. |
+| HIP Industriepark / Anschlussbahn | SEG Mansfeld-Südharz mbH · WEP Projektgesellschaft |
 | Kommunalaufsicht | Landesverwaltungsamt Sachsen-Anhalt |
 | Städtebauförderung | Ministerium für Infrastruktur und Digitales (MID) |
