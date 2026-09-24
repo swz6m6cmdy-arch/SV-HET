@@ -152,7 +152,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 23.09.2026)
+## Laufende lokale Vorgänge (Stand 24.09.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -161,6 +161,23 @@ Landkreis ist für Hettstedt berichtspflichtig.
   Artikel der Mitteldeutschen Zeitung vom 20.03.2026.
 - **Kostenbeiträge Kindertagespflege** — Anpassung; Klarstellungen der Stadt zu Artikeln
   vom 19.02. und 14.03.2026.
+
+## Verwaltungsorganisation — belegte Zuständigkeiten
+
+| Gegenstand | Stelle / Quelle |
+|---|---|
+| **Kommunale Wärmeplanung** | **Bauverwaltungsamt** der Stadt ⚠️ (Leistungsverzeichnis der Stadt). Dass die Aufgabe zugeordnet ist, heißt **nicht**, dass die Planung begonnen hat. Dasselbe Amt bearbeitet Erschließungs- und Straßenbaubeiträge — die Ressourcenfrage ist **vor** der Leistungsbeschreibung zu klären. |
+| **Ratsinformationssystem** | `ratsinfo-online.net/hettstedt-bi/` — maßgeblich für die Gegenprüfung von Beschlusslagen, die bisher nur als Einzelfundstelle aus Lokalmedien vorliegen |
+| **Kindertageseinrichtungen** | **Eigenbetrieb der Kindertageseinrichtungen der Stadt Hettstedt**, ⚠️ sieben Einrichtungen (`eigenbetrieb-kita.de`). Kostenbeiträge in einer eigenen **Kostenbeitragssatzung** geregelt. Der **Finanzplan des Eigenbetriebs** hat im Stadtrat mehrfach Rückfragen ausgelöst. |
+
+**Warum die Eigenbetriebsstruktur für das KiFöG-Risiko zählt:** Das Auslaufen der Geschwisterregelung
+zum **31.12.2026** wirkt **zweistufig** — zuerst im **Wirtschaftsplan des Eigenbetriebs** (dort
+entstehen Beitragserträge und Aufwendungen), erst über den **Zuschussbedarf** im städtischen
+Haushalt. Beide Ebenen müssen die Szenarien abbilden, sonst trägt der Wirtschaftsplan die Zahl im
+Vorbericht nicht. Zusätzlich zu prüfen: Nimmt die **Kostenbeitragssatzung** auf die
+Geschwisterregelung Bezug? Läuft die landesrechtliche Grundlage aus, während die Satzung sie weiter
+voraussetzt, entsteht zum 01.01.2027 ein **Satzungswiderspruch** mit unmittelbarer Wirkung auf die
+Beitragserhebung.
 
 ## Bekanntmachungswesen
 
@@ -175,7 +192,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 23.09.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 24.09.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -184,6 +201,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Stand der offenen **rückzahlbaren Liquiditätshilfen** | Präzedenz Gerbstedt: Bedarfszuweisung zur Ablösung einer früheren Liquiditätshilfe |
 | Welche **TVergG-LSA-Fassung** liegt Vergabevermerken zugrunde? | Widersprüchliche Angaben zum Inkrafttreten der geänderten Fassung (01.11.2025 vs. 01.11.2026); Wertgrenzen sollen entfallen, Vereinfachungen bis Ende 2028 |
 | Szenarien **KiFöG ab 01.01.2027** | Geschwisterregelung und Ausgleichszahlungen von bis zu 10,7 Mio. €/Jahr an die Gemeinden sind bis 31.12.2026 befristet |
+| Nimmt die **Kostenbeitragssatzung Kita** auf die KiFöG-Geschwisterregelung Bezug? | Satzungswiderspruch zum 01.01.2027 möglich; Szenarien zweistufig (Eigenbetrieb und Haushalt) rechnen |
 | Entspricht die **elektronische Bekanntmachung** seit dem 09.07.2024 der Bekanntmachungssatzung? | Risiko unwirksamer Satzungen |
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
 
@@ -214,5 +232,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | REGENT Hettstedt | Eigenbetrieb Rettungsdienst Landkreis Mansfeld-Südharz |
 | H2HET / Grubenwasser | JENA-GEOS Ingenieurbüro GmbH · RBFK e. V. |
 | HIP Industriepark / Anschlussbahn | SEG Mansfeld-Südharz mbH · WEP Projektgesellschaft |
+| Wärmeplanung (intern) | Bauverwaltungsamt der Stadt Hettstedt |
+| Kita-Beiträge (intern) | Eigenbetrieb der Kindertageseinrichtungen · Kämmerei |
 | Kommunalaufsicht | Landesverwaltungsamt Sachsen-Anhalt |
 | Städtebauförderung | Ministerium für Infrastruktur und Digitales (MID) |
