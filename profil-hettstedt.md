@@ -18,7 +18,7 @@ welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht
 **Kreisangehörige Einheitsgemeinde** → Hettstedt ist beim **Sondervermögen Infrastruktur**
 unmittelbar eigener Empfänger eines Pauschalbudgets im Kommunalarm (Empfängerkreis:
 kreisfreie Städte, Landkreise, Einheits- und Verbandsgemeinden). Kein Umweg über den Landkreis.
-Kommunalarm-Volumen: **1.568.340.000 €**. Verfahrensfristen: vollständige Projektanzeige bis
+Rechtsgrundlage: **Infra-SVG vom 17.12.2025**, **GVBl. LSA 2025 S. 835**, in Kraft seit 01.01.2026. Kommunalarm-Volumen: **1.568.340.000 €**. Verfahrensfristen: vollständige Projektanzeige bis
 **31.12.2036**, Abschluss der Maßnahmen bis **31.12.2042**. Über **§ 4a LuKIFG** (parlamentarisches
 Verfahren abgeschlossen am 10.07.2026) sind die Mittel **neben anderen Bundesmitteln** einsetzbar —
 für eine Kommune unter Konsolidierungsauflage der Hebel, um Eigenanteile darzustellen.
@@ -130,6 +130,13 @@ Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
   erheblicher Verstöße gegen geltendes Haushaltsrecht beanstandet worden.
   Die Festsetzung auf 40 % erfolgte durch **Kreistagsbeschlüsse vom 11.02.2026**, mit denen die
   ursprünglichen Regelungen aufgehoben und neu gefasst wurden.
+- **Die Haushaltslage des Kreises, belegt:** Der **Ergebnishaushalt 2026** wies ein Defizit von
+  **52,4 Mio. €** aus und war damit **nicht ausgeglichen**; **Rücklagen zum Ausgleich sind nicht
+  vorhanden**, die mittelfristige Planung weist **weitere massive Defizite bis 2029** aus. Das
+  Landesverwaltungsamt prüfte namentlich **Haushaltsausgleich und Festsetzung der Kreisumlage** und
+  sah rechtlichen Anpassungsbedarf. Genehmigung im zweiten Anlauf mit der **Auflage, das
+  Finanzplanungsergebnis um 9,6 Mio. € zu verbessern**, und mit **angeordneter Haushaltssperre**
+  (nur notwendige Ausgaben, bis die Verbesserung erreicht ist).
 - **Vorgeschichte:** Ein Gericht hatte zugunsten der Kommunen entschieden; der Landkreis
   musste die Kreisumlage rückwirkend senken. Im April 2024 wurde beschlossen, durch
   rückwirkende Senkung der Umlagesätze für **2017–2023 rund 39 Mio. €** an die Städte und
@@ -145,6 +152,14 @@ Sondersitzung mit zwei Beschlüssen eröffnet. Begründungslage: Defizite der La
 10,2 % Arbeitslosenquote (2024). ⚠️ Eine Entscheidung ist nicht belegt; das Verfahren ist nach
 derzeitigem Kenntnisstand anhängig.
 
+→ **Wie die Umlageprüfung anzusetzen ist:** Nicht auf „der Kreis nimmt zu viel" — das scheitert an
+der belegten Defizitlage. Sondern auf die **Abwägung**: Hat der Kreis dargelegt, dass er die
+Auswirkungen auf die Finanzausstattung der kreisangehörigen Gemeinden geprüft hat, und ist er den
+Auflagen auf der **Ausgabenseite** nachgekommen, bevor er die Einnahmeseite ausgeschöpft hat? Die
+Haushaltssperre mit der 9,6-Mio.-Auflage belegt, dass die Aufsicht Konsolidierungsbedarf beim Kreis
+selbst sah. Grundlage der Prüfung ist der **Genehmigungsbescheid des Landesverwaltungsamts samt
+Auflagen** — als kreisangehörige Gemeinde anforderbar.
+
 → **Taktisch für Hettstedt:** Die Rechtsposition, die der Landkreis gegenüber dem Land vertritt,
 steht Hettstedt gegenüber dem Landkreis zur Verfügung. Ein Landkreis, der sie in Karlsruhe
 geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich bestreiten.
@@ -152,7 +167,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 24.09.2026)
+## Laufende lokale Vorgänge (Stand 25.09.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -192,7 +207,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 24.09.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 25.09.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -209,6 +224,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
 | Frist | Programm | Hinweis |
 |---|---|---|
+| **31.03. und 30.09.** | **Sachsen-Anhalt REGIO (IB)** | zwei Antragstermine je Jahr, **vorbehaltlich verfügbarer Haushaltsmittel** ⚠️; Planungsmaßnahmen bis **80 %**, max. **100.000 €**; Regionalbudget bis **300.000 €/Jahr** über max. 3 Jahre, setzt Regionalmanagement und/oder IREK voraus. Antrag **schriftlich** an IB, Domplatz 12, 39104 Magdeburg |
 | **30.11.** | Städtebauförderung (StäBauFRL) | Antrag vor Maßnahmenbeginn; Zuschuss i. d. R. bis 2/3. ⚠️ Zuständigkeit klären: Richtlinie vom Ministerium, Servicebereich beim Landesverwaltungsamt |
 | **31.08.** | Vereinssportstättenbau (IB) | jeweils für das **Folgejahr**; die Frist für das Förderjahr 2027 ist am 31.08.2026 abgelaufen |
 | keine | Kommunalarm Sondervermögen Infrastruktur | laufende Projektanzeige, keine Jahresfrist |
@@ -227,6 +243,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | LEADER | LAG Mansfeld-Südharz, 03475 / 612 387 |
 | Strukturwandel | SEG Mansfeld-Südharz mbH · strukturwandel.sachsen-anhalt.de |
 | REVIER 2038 / Projektanmeldung | Investitionsbank Sachsen-Anhalt |
+| Sachsen-Anhalt REGIO | Investitionsbank Sachsen-Anhalt, Domplatz 12, 39104 Magdeburg |
 | GRW-Infrastrukturförderung | Investitionsbank Sachsen-Anhalt · Ministerium für Wirtschaft und Arbeit |
 | Kreishaushalt / Kreisumlage | Landkreis Mansfeld-Südharz, Kämmerei |
 | REGENT Hettstedt | Eigenbetrieb Rettungsdienst Landkreis Mansfeld-Südharz |
