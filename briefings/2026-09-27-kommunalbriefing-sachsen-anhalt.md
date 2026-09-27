@@ -1,9 +1,193 @@
-# Stadtprofil Hettstedt — Recherchekontext für das Kommunalbriefing
+# Kommunalbriefing Sachsen-Anhalt — Sonntag, 27. September 2026
+
+**Adressat:** Bürgermeister der Stadt Hettstedt, Landkreis Mansfeld-Südharz (rd. 14.000 EW)
+**Schwerpunkte:** Gesetzesänderungen · Fördermittel · Landespolitik mit Kommunalbezug
+**Redaktionsschluss:** 27.09.2026
+**Berichtszeitraum:** seit dem 26.09.2026
+
+> **Quellenhinweis:** Direkte Seitenabrufe (WebFetch) bleiben durch die Egress-Policy gesperrt. Die Inhalte stammen aus Websuche-Treffern und deren Zusammenfassungen, soweit möglich zwischen mehreren Treffern abgeglichen. Einzelfundstellen sind mit ⚠️ markiert und vor einer Verwendung in Beschlussvorlagen an der Primärquelle zu verifizieren.
+
+> **Zur Lage: Es ist Sonntag, und es ist nichts passiert.** Zur Regierungsbildung, zu Kommunalfinanzen, Fördermitteln, Gesetzgebung und Rechtsprechung ließ sich **nichts Neues** belegen. Statt das zu strecken, enthält Ziffer 1 eine **Vorschau auf die kommende Woche** — vier Termine in acht Tagen — und Ziffer 6/7 einen neu recherchierten Befund zum Landkreis, der für Hettstedt zählt.
+
+---
+
+## 1. Lage des Tages: Die Woche, die vor Ihnen liegt
+
+**Zur Regierungsbildung nichts Neues.** Der Stand vom 26.09. gilt unverändert: AfD und BSW haben sich auf das Landtagspräsidium verständigt, es gibt **keine Koalition und keine Vereinbarung** für die Wahl einer AfD-geführten Landesregierung, und der MPK-Vorsitz bleibt bei Rheinland-Pfalz.
+
+**Vier Termine in acht Tagen — so ist die Woche getaktet:**
+
+| Datum | Termin | Was daran für Hettstedt hängt |
+|---|---|---|
+| **Mo, 28.09.** | *(intern)* | **Letzter sinnvoller Tag für den Anruf bei der Investitionsbank** — REGIO-Termin, Kommunalarm-Budget, Eigenanteilsfrage REVIER 2038 in einem Gespräch |
+| **Di, 29.09.** | AfD-Fraktion nominiert ihren Kandidaten für das Landtagspräsidium ⚠️ | Indikator für die Handlungsfähigkeit; keine unmittelbare Folge |
+| **Mi, 30.09.** | **⏰ Antragstermin Sachsen-Anhalt REGIO** (vorbehaltlich verfügbarer Mittel ⚠️) | Planungsmaßnahmen bis 80 %, max. 100.000 € — oder Verweis auf 31.03.2027 |
+| **Do, 01.10.** | MPK-Vorsitz **entfällt** für Sachsen-Anhalt | Indikator, keine Rechtsfolge |
+| **Di, 06.10.** | **Konstituierende Sitzung des 9. Landtags** | Startpunkt für alles Weitere; das eigentliche Signal bleibt aber der **erste Wahlgang** zur Ministerpräsidentenwahl |
+
+📐 *Eigene Einordnung, keine Quelle:* Von diesen Terminen ist **nur einer von der Stadt beeinflussbar** — der Montag. Die übrigen drei sind zu beobachten, nicht zu bearbeiten. Falls die Woche knapp wird: **Der Anruf bei der Investitionsbank ist die Handlung mit dem besten Verhältnis von Aufwand zu Wirkung**, die auf der Liste dieses Briefings steht.
+
+---
+
+## 2. Kommunale Spitzenverbände
+
+**Nichts Neues.** Der Stand bleibt unverändert. Ergänzend für die Adressliste: Als geschäftsführendes Präsidialmitglied des **Landkreistages Sachsen-Anhalt** tritt **Prof. Dr. Ariane Berger** auf; sie hat auf der 122. Landkreisversammlung (10./11.09.) betont, die verfügbaren begrenzten Mittel müssten klug eingesetzt werden. ⚠️ *Einzelfundstelle.*
+
+---
+
+## 3. Kommunalfinanzen
+
+**Nichts Neues.** Stand unverändert: kommunale Kernhaushalte zum 30.06.2026 bei **3.873 Mio. €** (+8,3 %), Kassenkredite **1,7 Mrd. €**, Finanzausgleichsmasse 2026 rund 2.136 Mio. €, **für 2027 keine Regelung**. Die BIP-Zahlen aus der Ausgabe vom 26.09. (+0,6 % real, +2,9 % nominal) bleiben Kontextangabe, keine Planungsgröße.
+
+---
+
+## 4. Fördermittel
+
+**Nichts Neues.** Kein neuer Aufruf, keine neue Frist, keine geänderte Kondition bei irgendeinem der beobachteten Programme.
+
+⏰ **Drei Tage:** Der **REGIO-Antragstermin am 30.09.2026**. Der Vorbehalt bleibt — ob der zweite Jahrestermin 2026 offen ist, hängt von verfügbaren Haushaltsmitteln ab und ist **nicht belegt**. **Montag ist der Tag für den Anruf.**
+
+Der AGVO-Änderungserlass vom 06.03.2026 bleibt den sechsten Tag **unbestätigt**. 📐 *Eigene Anmerkung:* Nach sechs erfolglosen Versuchen ist die Angabe als Rechercheergebnis erschöpft. Sie bleibt im Briefing als offener Punkt stehen, wird aber nicht weiter täglich geprüft — falls sie gebraucht wird, ist der Weg über `foerderrichtlinien.sachsen-anhalt.de` oder eine direkte Anfrage bei der IB schneller als weitere Websuche.
+
+---
+
+## 5. Gesetzesänderungen und Rechtsprechung
+
+**Nichts Neues.** Keine neuen Verkündungen im GVBl. LSA, keine neuen Entscheidungen mit Kommunalbezug. Offene Punkte unverändert: **§ 1 Satz 2 MBAG LSA** (Volltext über Az. 3 L 48/24), **TVergG-LSA-Fassung**, **Datum des Wärmeplanungs-Ausführungsgesetzes**.
+
+---
+
+## 6. Aus der kommunalen Praxis: Der Landkreis investiert rund 20 Mio. € in Rettungswachen
+
+**Neu recherchiert.** Der Landkreis Mansfeld-Südharz modernisiert seine Rettungswachen-Infrastruktur in einem Programm, das über die einzelnen Standorte hinausgeht:
+
+- **Rund 20 Mio. €** werden in den kommenden Jahren in **neue Rettungswachen in Helbra, Mansfeld, Schwenda** sowie an den **REGENT-Standorten Sangerhausen und Hettstedt** investiert. ⚠️ *Einzelfundstelle; Aufteilung auf die Standorte und Finanzierungsquellen nicht belegt.*
+- Die **Rettungswache Schwenda** im Südharz wurde am **27.08.2026** eingeweiht — heute vor einem Monat.
+
+👉 **Für Hettstedt heißt das: Die REGENT-Rettungswache ist kein Einzelvorhaben**, sondern Teil eines Kreisprogramms. Das ist für die Einordnung des Bautenstands und der Inbetriebnahme relevant — die Standorte konkurrieren um dieselben Planungs- und Baukapazitäten.
+
+---
+
+## 7. Konkret für Hettstedt
+
+*Zugeschnitten auf die Stadt Hettstedt, Landkreis Mansfeld-Südharz, rund 14.000 Einwohner, kreisangehörige Einheitsgemeinde. Stehender Kontext: `profil-hettstedt.md`.*
+
+**Zur Stadt Hettstedt liegt im Berichtszeitraum nichts Neues vor.**
+
+### 7.1 Ein naheliegender Fehlschluss, vor dem ausdrücklich zu warnen ist
+
+Die Ausgabe vom 25.09. hat belegt, dass der Landkreis einen **Ergebnishaushalt mit 52,4 Mio. € Defizit** hat, **keine Rücklagen** besitzt und unter **Haushaltssperre** mit der Auflage steht, 9,6 Mio. € zu verbessern. Ziffer 6 fügt hinzu: Derselbe Landkreis investiert **rund 20 Mio. €** in Rettungswachen.
+
+⚠️ **Daraus folgt nicht, dass der Landkreis Geld übrig hat — und dieses Argument wäre in der Kreisumlagediskussion ein Eigentor.** Zwei Gründe:
+
+1. **Investitionen laufen nicht im Ergebnishaushalt.** Das 52,4-Mio.-Defizit betrifft die laufende Ergebnisrechnung; Rettungswachenbauten sind Investitionen im Finanzhaushalt, typischerweise kredit- oder zuschussfinanziert. Die beiden Zahlen sind haushaltsrechtlich verschiedene Dinge.
+2. **REGENT ist überwiegend gefördert.** Für die REGENT-Standorte sind **22,55 Mio. € aus dem Strukturstärkungsgesetz** belegt (Ausgabe vom 21.09.), davon 9,3 Mio. € für Hettstedt. Das sind **keine freien Kreismittel**, sondern zweckgebundene Strukturwandelmittel, die ohne das Vorhaben verfallen wären.
+
+👉 **Die Empfehlung aus der Ausgabe vom 25.09. bleibt deshalb unverändert richtig:** Die Umlageprüfung muss auf die **Abwägung** zielen — hat der Kreis die Auswirkungen auf die Gemeinden geprüft, und ist er den Auflagen auf der **Ausgabenseite der laufenden Rechnung** nachgekommen? **Nicht** auf „der Kreis baut, also hat er Geld". Wer so argumentiert, wird in der ersten Stellungnahme des Kreises widerlegt und verliert Glaubwürdigkeit für die tragfähigen Argumente.
+
+📐 *Eigene Einordnung:* Der belastbare Punkt liegt anders — bei den **Folgekosten**. Fünf neue Rettungswachen erzeugen dauerhaften Betriebsaufwand im **Ergebnishaushalt** des Kreises, und zwar genau dort, wo das 52,4-Mio.-Defizit entsteht. Die Frage, wie diese Folgekosten in der mittelfristigen Planung bis 2029 abgebildet sind, ist legitim, präzise und schwer auszuweichen. **Sie gehört in die Anfrage zum Kreishaushalt 2027.**
+
+### 7.2 Status der Prioritäten
+
+1. **Montag: Investitionsbank anrufen.** REGIO-Termin 30.09., Kommunalarm-Pauschalbudget, Eigenanteilsfrage REVIER 2038 — ein Gespräch, drei offene Punkte.
+2. **Genehmigungsbescheid Kreishaushalt 2026 samt Auflagen anfordern.**
+3. **Zeitplan Kreishaushalt 2027 erfragen** — sechster Tag offen; **jetzt ergänzt um die Frage nach den Folgekosten des Rettungswachenprogramms** in der mittelfristigen Planung.
+
+### 7.3 Fortgeschriebener Status — ohne neuen Stand
+
+- **REGENT** (9,3 Mio. €, im Bau), **Anschlussbahn** (über 23,5 Mio. €), **HIP** (172.000 m² frei), **H2HET**: kein neuer Stand.
+- **Konsolidierungsauflage, Kreisumlage 40 %, BVerfG-Verfahren, Ausgleichsstock/Gerbstedt, Kunstrasenplatz, Kita-Beiträge:** kein neuer Stand.
+- **Vollsperrung Arnstedter Weg** bis 06.11.2026: unverändert.
+- **Offene Prüfaufträge:** unverändert.
+
+---
+
+## 8. Ihre Termine und Fristen
+
+| Frist | Gegenstand | Relevanz für Hettstedt |
+|---|---|---|
+| **Mo, 28.09.2026** *(intern)* | **Anruf Investitionsbank: REGIO, Kommunalarm, REVIER-2038-Eigenanteil** | **höchste** |
+| **29.09.2026** | AfD-Fraktion nominiert Kandidaten für das Landtagspräsidium ⚠️ | Indikator |
+| **⏰ 30.09.2026** | Antragstermin Sachsen-Anhalt REGIO — vorbehaltlich verfügbarer Mittel ⚠️ | höchste — drei Tage |
+| **01.10.2026** | MPK-Vorsitz entfällt für Sachsen-Anhalt | Indikator |
+| **06.10.2026** | Konstituierende Sitzung des 9. Landtags | hoch |
+| **offen** | 1. Wahlgang Ministerpräsident — danach 7 Tage, dann 14 Tage bis zur Entscheidung über Selbstauflösung | höchste — das Signal |
+| **31.10.2026** *(intern)* | Maßnahmenliste Städtebauförderung finalisieren | hoch |
+| **06.11.2026** | Ende Vollsperrung Arnstedter Weg | örtlich |
+| **30.11.2026** | Antragsfrist Städtebauförderung (StäBauFRL) ⏰ | hoch |
+| **31.12.2026** | Auslaufen KiFöG-Geschwisterregelung — zweistufig (Eigenbetrieb und Haushalt) | hoch |
+| **Q4 2026** *(intern)* | Leistungsbeschreibung Wärmeplanung vorbereiten (Bauverwaltungsamt) | hoch |
+| **Herbst 2026** *(erwartet)* | Entwurf Kreishaushalt 2027 — Zeitplan **und Folgekosten Rettungswachen** erfragen | hoch — sechster Tag offen |
+| **31.03.2027** | Nächster Antragstermin Sachsen-Anhalt REGIO | hoch — realistischer Zieltermin |
+| **offen** | GRW-Landesregelungen — Veröffentlichung abwarten | hoch |
+| **laufend** | REVIER 2038 (IB) — 90 %, Projektanmeldung vor Antrag | höchste |
+| **laufend** | Projektanzeige Kommunalarm (IB) | höchste |
+| **laufend** | Ausgleichsstock 2026 — keine belegte Frist | hoch |
+| **laufend** | Projektaufruf LAG Mansfeld-Südharz ⚠️ | hoch — Frist erfragen |
+| **31.08.2027** | Vereinssportstättenbau, Förderjahr 2028 | mittel |
+| **30.06.2028** | Kommunale Wärmeplanung (unter 100.000 EW) | Vergabe 2027 |
+| **offen** | FAG 2027 — Rechtsgrundlage fehlt; Neuwahl-Szenario | höchste |
+| **offen** | BVerfG-Verfahren MSH/Salzlandkreis | hoch — Kreisumlage |
+
+---
+
+## 9. Empfohlene Handlungen dieser Woche
+
+1. **Montag früh: Investitionsbank anrufen.** Drei Fragen in einem Gespräch — ist der REGIO-Termin 30.09. offen und sind Mittel vorhanden; wie hoch ist das Kommunalarm-Pauschalbudget und welcher Teil ist unbelegt; werden Kommunalarm-Mittel als Eigenanteil bei REVIER 2038 anerkannt? *Ziffer 1 und 4.*
+2. **Genehmigungsbescheid zum Kreishaushalt 2026 samt Auflagen anfordern.** *Ausgabe vom 25.09.*
+3. **Anfrage an den Landkreis, erweitert:** Zeitplan Kreishaushalt 2027 **und** Abbildung der Folgekosten des Rettungswachenprogramms in der mittelfristigen Planung bis 2029. *Ziffer 7.1.*
+4. **KiFöG-Szenarien zweistufig aufsetzen**, Kostenbeitragssatzung prüfen. *Frist 31.12.2026.*
+5. **OVG-Entscheidung 3 L 48/24 beschaffen.**
+6. **Übriges** unverändert: Sachstand Anschlussbahn und REGENT; Termin SEG-MSH zu HIP; H2HET und HIP zusammenführen; Nachbarkommunen zu GRW und Kreisumlage; Vorbericht 2027 um das Neuwahl-Szenario ergänzen; Antrittstermin Kreisbrandmeister Kujas; Städtebauförderung finalisieren; Ausgleichsstock/Gerbstedt auswerten; Ressourcenfrage Wärmeplanung; Bekanntmachungspraxis; TVergG-Fassung; LAG-Frist.
+
+---
+
+## 10. Quellennachweis
+
+**Rettungswachen und REGENT im Landkreis**
+- radio SAW, „Mansfeld-Südharz: Kreis investiert in Rettungswachen": https://www.radiosaw.de/artikel/mansfeld-suedharz-kreis-investiert-rettungswachen
+- Landkreis Mansfeld-Südharz, Meldungen: https://www.mansfeldsuedharz.de/aktuell/meldungen
+- Heimat-Info, Landkreis Mansfeld-Südharz, Beiträge: https://www.heimat-info.de/gemeinden/mein-msh/organisationen/landkreis-mansfeld-suedharz/beitraege
+- Eigenbetrieb Rettungsdienst Landkreis Mansfeld-Südharz, REGENT: https://www.rettungsdienst-msh.de/regent/
+- Strukturwandel Sachsen-Anhalt, „Erster Spatenstich für Gesundheits- und Notfallzentren in Mansfeld-Südharz": https://strukturwandel.sachsen-anhalt.de/zukunft-mitgestalten/news-detail/erster-spatenstich-fuer-gesundheits-und-notfallzentren-in-mansfeld-suedharz
+
+**Landkreis Mansfeld-Südharz — Haushalt und Gremien**
+- Landesverwaltungsamt, „Landkreis Mansfeld-Südharz: Haushalt 2026 im zweiten Anlauf genehmigt": https://lvwa.sachsen-anhalt.de/das-lvwa/news-details/landkreis-mansfeld-suedharz-haushalt-2026-im-zweiten-anlauf-genehmigt-auflagen-sollen-haushaltslage-stabilisieren
+- Landkreis Mansfeld-Südharz, Kreistag *(Wahlperiode 2024–2029, 48 Mitglieder zzgl. Landrat)*: https://www.mansfeldsuedharz.de/unser-service-ihr-ansprechpartner/kreistag
+- radio SAW, „Mansfeld-Südharz weiter ohne Haushalt": https://www.radiosaw.de/artikel/mansfeld-suedharz-weiter-ohne-haushalt
+
+**Regierungsbildung (Statusprüfung, nichts Neues)**
+- Landtag Sachsen-Anhalt, „Wie entsteht die neue Landesregierung?": https://www.landtag.sachsen-anhalt.de/alle-dossiers/landtagswahl-am-6-september-2026/wie-entsteht-die-neue-landesregierung-kopie-1
+- Landtag Sachsen-Anhalt, Startseite: https://www.landtag.sachsen-anhalt.de/
+- Heinrich-Böll-Stiftung, „Landtagswahl in Sachsen-Anhalt 2026": https://www.boell.de/de/2026/09/07/landtagswahl-in-sachsen-anhalt-2026
+- Landtagswahl in Sachsen-Anhalt 2026 — Wikipedia: https://de.wikipedia.org/wiki/Landtagswahl_in_Sachsen-Anhalt_2026
+
+**Kommunale Spitzenverbände**
+- Städte- und Gemeindebund Sachsen-Anhalt, Presse: https://www.kommunales-sachsen-anhalt.de/St%C3%A4dte-und-Gemeindebund/Verbandsinformationen/Presse/
+- Landkreistag Sachsen-Anhalt: https://lkt-st.de/
+- Landkreis Wittenberg, „Landkreise fordern bessere Finanzausstattung und umfassende Verwaltungsreformen": https://www.landkreis-wittenberg.de/landkreise-fordern-bessere-finanzausstattung-und-umfassende-verwaltungsreformen/
+
+**Fördermittel (Statusprüfung, nichts Neues)**
+- IB Sachsen-Anhalt, Sachsen-Anhalt REGIO: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/zusammenleben/regio
+- IB Sachsen-Anhalt, Sondervermögen „Infrastruktur" — Kommunalarm: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/investieren-ausgleichen/sondervermoegen-infrastruktur/kommunalarm
+- IB Sachsen-Anhalt, Sachsen-Anhalt REVIER 2038: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/investieren-ausgleichen/revier-2038
+- Landesportal Förderrichtlinien: https://foerderrichtlinien.sachsen-anhalt.de/
+
+**Hettstedt (Statusprüfung)**
+- Stadt Hettstedt: https://www.hettstedt.de/
+- Ratsinformationssystem der Stadt Hettstedt: https://ratsinfo-online.net/hettstedt-bi/
+- Wegweiser Kommune, Hettstedt: https://www.wegweiser-kommune.de/kommunen/hettstedt
+
+---
+
+## Anlage: Stadtprofil Hettstedt — stehender Recherchekontext
+
+*Stand 27.09.2026. Diese Anlage gibt den Inhalt von `profil-hettstedt.md` wieder, damit die Ausgabe als Druckstück für sich steht. Das Profil wurde für diese Ausgabe um das Rettungswachenprogramm des Landkreises und den Hinweis zur Folgekostenfrage erweitert. Maßgeblich und fortgeschrieben wird die Datei im Repository.*
 
 Dieses Profil ist der stehende Kontext für jede Ausgabe. Es beantwortet die Frage,
 welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht.
 
-## Eckdaten
+### Eckdaten
 
 | Merkmal | Wert |
 |---|---|
@@ -13,7 +197,7 @@ welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht
 | Gemeindetyp | Einheitsgemeinde, kreisangehörig |
 | Website | hettstedt.de |
 
-## Was sich daraus für die Einordnung von Landesvorgängen ergibt
+### Was sich daraus für die Einordnung von Landesvorgängen ergibt
 
 **Kreisangehörige Einheitsgemeinde** → Hettstedt ist beim **Sondervermögen Infrastruktur**
 unmittelbar eigener Empfänger eines Pauschalbudgets im Kommunalarm (Empfängerkreis:
@@ -49,7 +233,7 @@ seit 2002, Förderphase bis 2027. Ein ausgefülltes Projektdatenblatt ist Voraus
 die Entscheidung von Steuerungsgruppe und Mitgliederversammlung.
 Kontakt LEADER-Management: 03475 / 612 387 · lag-mansfeld-suedharz.de · lag-ms.de
 
-## Strukturwandel vor Ort: Hettstedt ist bereits Standort
+### Strukturwandel vor Ort: Hettstedt ist bereits Standort
 
 Wichtig für die Einordnung jeder Strukturwandelmeldung: In Hettstedt **läuft bereits ein
 gefördertes Vorhaben**. Die Frage lautet nicht mehr, ob die Stadt im Masterplan verankert ist,
@@ -134,7 +318,7 @@ vollständig sein.
 → **Der Hebel liegt im Wort „interkommunal":** 90 % gibt es nur gemeinsam mit Nachbarkommunen —
 denselben Gesprächspartnern, mit denen die Kreisumlage abzustimmen ist.
 
-## Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
+### Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
 
 Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
 
@@ -182,7 +366,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 27.09.2026)
+### Laufende lokale Vorgänge (Stand 27.09.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -192,7 +376,7 @@ Landkreis ist für Hettstedt berichtspflichtig.
 - **Kostenbeiträge Kindertagespflege** — Anpassung; Klarstellungen der Stadt zu Artikeln
   vom 19.02. und 14.03.2026.
 
-## Verwaltungsorganisation — belegte Zuständigkeiten
+### Verwaltungsorganisation — belegte Zuständigkeiten
 
 | Gegenstand | Stelle / Quelle |
 |---|---|
@@ -209,7 +393,7 @@ Geschwisterregelung Bezug? Läuft die landesrechtliche Grundlage aus, während d
 voraussetzt, entsteht zum 01.01.2027 ein **Satzungswiderspruch** mit unmittelbarer Wirkung auf die
 Beitragserhebung.
 
-## Bekanntmachungswesen
+### Bekanntmachungswesen
 
 Der Stadtrat hat am **09.07.2024** beschlossen, das **Amtsblatt in der bisherigen Form
 abzuschaffen**. Öffentliche Bekanntmachungen erfolgen seither **über die Website der Stadt**,
@@ -222,7 +406,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 27.09.2026)
+### Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 27.09.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -235,7 +419,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Entspricht die **elektronische Bekanntmachung** seit dem 09.07.2024 der Bekanntmachungssatzung? | Risiko unwirksamer Satzungen |
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
 
-## Wiederkehrende Antragsfristen
+### Wiederkehrende Antragsfristen
 
 | Frist | Programm | Hinweis |
 |---|---|---|
@@ -249,7 +433,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | unbelegt | Ausgleichsstock | feste Antragsfrist ließ sich nicht belegen — beim MF erfragen |
 | unbelegt | LEADER-Projektaufruf LAG MSH | Aufruf seit 01.07.2026 ⚠️; Einreichungsfrist beim LEADER-Management erfragen |
 
-## Feste Anlaufstellen
+### Feste Anlaufstellen
 
 | Anliegen | Stelle |
 |---|---|
@@ -268,3 +452,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Kita-Beiträge (intern) | Eigenbetrieb der Kindertageseinrichtungen · Kämmerei |
 | Kommunalaufsicht | Landesverwaltungsamt Sachsen-Anhalt |
 | Städtebauförderung | Ministerium für Infrastruktur und Digitales (MID) |
+
+---
+
+*Erstellt am 27.09.2026. Alle Angaben ohne Gewähr; für rechtsverbindliche Entscheidungen sind die amtlichen Verkündungen im GVBl. LSA und die Originalverlautbarungen der Ressorts maßgeblich.*
