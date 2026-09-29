@@ -77,3 +77,4 @@ die von den installierten Schriften nicht gedeckt sind.
 - [26.09.2026](briefings/2026-09-26-kommunalbriefing-sachsen-anhalt.md) — ohne Profil-Anlage (Profil unverändert)
 - [27.09.2026](briefings/2026-09-27-kommunalbriefing-sachsen-anhalt.md)
 - [28.09.2026](briefings/2026-09-28-kommunalbriefing-sachsen-anhalt.md)
+- [29.09.2026](briefings/2026-09-29-kommunalbriefing-sachsen-anhalt.md) — ohne Profil-Anlage (Profil unverändert)
