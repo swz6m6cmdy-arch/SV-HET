@@ -18,7 +18,7 @@ welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht
 **Kreisangehörige Einheitsgemeinde** → Hettstedt ist beim **Sondervermögen Infrastruktur**
 unmittelbar eigener Empfänger eines Pauschalbudgets im Kommunalarm (Empfängerkreis:
 kreisfreie Städte, Landkreise, Einheits- und Verbandsgemeinden). Kein Umweg über den Landkreis.
-Rechtsgrundlage: **Infra-SVG vom 17.12.2025**, **GVBl. LSA 2025 S. 835**, in Kraft seit 01.01.2026. Kommunalarm-Volumen: **1.568.340.000 €**. Verfahrensfristen: vollständige Projektanzeige bis
+Rechtsgrundlage: **Infra-SVG vom 17.12.2025**, **GVBl. LSA 2025 S. 835**, in Kraft seit 01.01.2026. FAG-Änderung für 2025/2026: **Art. 3 Haushaltsbegleitgesetz vom 25.02.2025**, **GVBl. LSA S. 374**. Kommunalarm-Volumen: **1.568.340.000 €**. Verfahrensfristen: vollständige Projektanzeige bis
 **31.12.2036**, Abschluss der Maßnahmen bis **31.12.2042**. Über **§ 4a LuKIFG** (parlamentarisches
 Verfahren abgeschlossen am 10.07.2026) sind die Mittel **neben anderen Bundesmitteln** einsetzbar —
 für eine Kommune unter Konsolidierungsauflage der Hebel, um Eigenanteile darzustellen.
@@ -212,7 +212,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 28.09.2026)
+## Laufende lokale Vorgänge (Stand 30.09.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -253,7 +253,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 28.09.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 30.09.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|

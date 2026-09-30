@@ -31,8 +31,9 @@ und folgt derselben Gliederung:
 10. Quellennachweis
 
 Optional folgt als **Anlage** eine datierte Wiedergabe von `profil-hettstedt.md`,
-damit die Ausgabe als Druckstück für sich steht. Maßgeblich bleibt die Datei im
-Repository; die Anlage ist eine Momentaufnahme.
+damit die Ausgabe als Druckstück für sich steht. Die Anlage liegt bei, wenn sich das
+Profil **inhaltlich** geändert hat — nicht bei reinen Fundstellen- oder Datumspflegen.
+Maßgeblich bleibt die Datei im Repository; die Anlage ist eine Momentaufnahme.
 
 ## Redaktionelle Regeln
 
@@ -78,3 +79,4 @@ die von den installierten Schriften nicht gedeckt sind.
 - [27.09.2026](briefings/2026-09-27-kommunalbriefing-sachsen-anhalt.md)
 - [28.09.2026](briefings/2026-09-28-kommunalbriefing-sachsen-anhalt.md)
 - [29.09.2026](briefings/2026-09-29-kommunalbriefing-sachsen-anhalt.md) — ohne Profil-Anlage (Profil unverändert)
+- [30.09.2026](briefings/2026-09-30-kommunalbriefing-sachsen-anhalt.md) — ohne Profil-Anlage (nur Fundstellenpflege)
