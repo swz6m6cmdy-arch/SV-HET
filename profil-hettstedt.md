@@ -235,7 +235,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 01.10.2026)
+## Laufende lokale Vorgänge (Stand 02.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -251,6 +251,7 @@ Landkreis ist für Hettstedt berichtspflichtig.
 |---|---|
 | **Kommunale Wärmeplanung** | **Bauverwaltungsamt** der Stadt ⚠️ (Leistungsverzeichnis der Stadt). Dass die Aufgabe zugeordnet ist, heißt **nicht**, dass die Planung begonnen hat. Dasselbe Amt bearbeitet Erschließungs- und Straßenbaubeiträge — die Ressourcenfrage ist **vor** der Leistungsbeschreibung zu klären. |
 | **Ratsinformationssystem** | `ratsinfo-online.net/hettstedt-bi/` — maßgeblich für die Gegenprüfung von Beschlusslagen, die bisher nur als Einzelfundstelle aus Lokalmedien vorliegen |
+| **Recherchegrundsatz (ab 02.10.2026)** | Treffer zu Hettstedt und zum Landkreis **ohne belegbares Datum** werden nicht in die Tagesausgabe aufgenommen — auch nicht mit Warnzeichen. Anlass: Ein Altvorgang aus 2024 war am 01.10.2026 als möglicher Tagesbefund dargestellt worden. |
 | **Bürgerinformationsdienst des Landkreises** | über `mansfeldsuedharz.de` — alle Kreistagssitzungen und Themen einsehbar, Sitzungen **live im Internet** verfolgbar ⚠️. Kreistag 2024–2029: 48 stimmberechtigte Mitglieder zzgl. Landrat. **Wöchentlich vom Hauptamt zu prüfen** — so wird der Haushaltsentwurf 2027 sichtbar, ohne auf eine Antwort zu warten |
 | **Kindertageseinrichtungen** | **Eigenbetrieb der Kindertageseinrichtungen der Stadt Hettstedt**, ⚠️ sieben Einrichtungen (`eigenbetrieb-kita.de`). Kostenbeiträge in einer eigenen **Kostenbeitragssatzung** geregelt. Der **Finanzplan des Eigenbetriebs** hat im Stadtrat mehrfach Rückfragen ausgelöst. |
 
@@ -276,7 +277,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 01.10.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 02.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -288,7 +289,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Nimmt die **Kostenbeitragssatzung Kita** auf die KiFöG-Geschwisterregelung Bezug? | Satzungswiderspruch zum 01.01.2027 möglich; Szenarien zweistufig (Eigenbetrieb und Haushalt) rechnen |
 | Entspricht die **elektronische Bekanntmachung** seit dem 09.07.2024 der Bekanntmachungssatzung? | Risiko unwirksamer Satzungen |
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
-| **Radwegprojekt:** Ist Hettstedt ausgestiegen, und gibt der Landkreis die Beschlusslage zutreffend wieder? | ⚠️ Ungeprüfte Angabe aus einer Zusammenfassung der Meldungsseite des Landkreises — Datum, Wortlaut und betroffenes Projekt unbelegt. Zu klären: Beschlusslage im Ratsinformationssystem, entfallende Fördermittel (möglicher Bezug: „Radweg zur Industriekultur und Bergbau“, rund 227.000 € Planungsmittel), Notwendigkeit einer Klarstellung |
+| **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
 ## Wiederkehrende Antragsfristen
 

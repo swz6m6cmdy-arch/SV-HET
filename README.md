@@ -81,3 +81,4 @@ die von den installierten Schriften nicht gedeckt sind.
 - [29.09.2026](briefings/2026-09-29-kommunalbriefing-sachsen-anhalt.md) — ohne Profil-Anlage (Profil unverändert)
 - [30.09.2026](briefings/2026-09-30-kommunalbriefing-sachsen-anhalt.md) — ohne Profil-Anlage (nur Fundstellenpflege)
 - [01.10.2026](briefings/2026-10-01-kommunalbriefing-sachsen-anhalt.md)
+- [02.10.2026](briefings/2026-10-02-kommunalbriefing-sachsen-anhalt.md) — ohne Profil-Anlage (nur eine korrigierte Zeile); enthält eine Korrektur zur Ausgabe vom 01.10.
