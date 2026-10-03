@@ -1,9 +1,210 @@
-# Stadtprofil Hettstedt — Recherchekontext für das Kommunalbriefing
+# Kommunalbriefing Sachsen-Anhalt — Samstag, 3. Oktober 2026
+
+**Adressat:** Bürgermeister der Stadt Hettstedt, Landkreis Mansfeld-Südharz (rd. 14.000 EW)
+**Schwerpunkte:** Gesetzesänderungen · Fördermittel · Landespolitik mit Kommunalbezug
+**Redaktionsschluss:** 03.10.2026
+**Berichtszeitraum:** seit dem 02.10.2026
+
+> **Quellenhinweis:** Direkte Seitenabrufe (WebFetch) bleiben durch die Egress-Policy gesperrt. Die Inhalte stammen aus Websuche-Treffern und deren Zusammenfassungen, soweit möglich zwischen mehreren Treffern abgeglichen. Einzelfundstellen sind mit ⚠️ markiert und vor einer Verwendung in Beschlussvorlagen an der Primärquelle zu verifizieren.
+
+---
+
+## 1. Lage des Tages: Zwei Spuren der Regierungsbildung — und eine davon ist neu
+
+**Knapp vier Wochen nach der Wahl ist offen, wie die nächste Landesregierung aussieht.** Neu ist, dass jetzt **zwei Verhandlungsspuren parallel laufen**.
+
+### Spur 1: AfD und BSW
+
+Das BSW lehnt eine **formale Koalition** mit der AfD weiterhin ab. **Beide Parteien sprechen aber darüber, wie eine Minderheitsregierung funktionieren könnte**, und über mögliche Sachentscheidungen.
+
+⚠️ **Hier ist ein Widerspruch zu benennen, den ich nicht auflösen kann.** Die Ausgabe vom 22.09. hat belegt, dass **Siegmund eine Minderheitsregierung ausdrücklich ablehnte** und stattdessen Neuwahlen ins Spiel brachte. Jetzt wird berichtet, AfD und BSW sprächen über das Funktionieren einer Minderheitsregierung. **Ob sich Siegmunds Position geändert hat, ob innerhalb der AfD unterschiedliche Linien bestehen oder ob eine der beiden Darstellungen unpräzise ist, geht aus den Quellen nicht hervor.**
+
+### Spur 2: SPD, Grüne, Linke und BSW — der „Magdeburger Weg"
+
+**Das ist der neue Befund.** Auf Einladung der **SPD** haben sich **SPD, Grüne, Linke und BSW** zu einem ersten Austausch über die Regierungsbildung getroffen und wollen die **Gespräche in Magdeburg fortsetzen**.
+
+- Gegenstand ist die Frage, ob es einen **parteilosen Ministerpräsidenten** geben könnte.
+- Das **BSW** wirbt für dieses Modell unter dem Namen **„Magdeburger Weg"**: Die Parteien verständigen sich auf einen parteilosen Ministerpräsidenten, der mit **wechselnden Mehrheiten** regiert — **ausdrücklich auch unter Einbeziehung der AfD**.
+- **Rechtlich ist das möglich:** Die Landesverfassung verlangt keine Parteizugehörigkeit des Ministerpräsidenten.
+- Im Mittelpunkt stehen **parlamentarische Modelle** und die Bedingungen, unter denen eine **Minderheitsregierung** arbeiten könnte.
+- Die **CDU hat abgesagt** und hält an ihrem angekündigten Gang in die Opposition fest.
+- **Die Gespräche sollen nach der konstituierenden Sitzung am 6. Oktober fortgesetzt werden.**
+
+### Die Arithmetik, die alles erklärt
+
+Das BSW ist mit **69.355 Zweitstimmen** bzw. **5,3 %** in den Landtag gekommen — und lag damit nur **3.526 Stimmen über der Fünf-Prozent-Hürde**. 📐 *Eigene Überschlagsrechnung zur Plausibilisierung, keine Quelle:* Bei 3.526 Stimmen Vorsprung entspräche die Hürde rund 65.829 Stimmen, was auf etwa 1,317 Mio. gültige Zweitstimmen hindeutet — konsistent mit den 1.327.991 abgegebenen Stimmen abzüglich ungültiger. **Dass fünf Mandate an gut 3.500 Stimmen hängen, ist der Grund für die gesamte gegenwärtige Lage.**
+
+---
+
+## 2. Kommunale Spitzenverbände
+
+**Nichts Neues.**
+
+---
+
+## 3. Kommunalfinanzen
+
+**Nichts Neues.** Der Stand vom 01.10. gilt: Finanzierungsdefizit der Kommunen im ersten Halbjahr 2026 **339 Mio. €**, davon **178 Mio. €** bei den kreisangehörigen Gemeinden, **76,5 %** der Kommunen im Defizit, Ursache überwiegend auf der Einnahmeseite; Inflationsrate September **3,4 %**, Diesel **+43,3 %**.
+
+---
+
+## 4. Fördermittel
+
+**Nichts Neues.** Kein neuer Aufruf, keine neue Frist, keine geänderte Kondition. Die beiden fristfreien Fragen an die Investitionsbank bleiben offen.
+
+---
+
+## 5. Gesetzesänderungen und Rechtsprechung
+
+**Nichts Neues.** Keine neuen Verkündungen im GVBl. LSA, keine neuen Entscheidungen mit Kommunalbezug.
+
+**Ergänzende Fundstelle:** Der Gesetzentwurf zum Infrastruktur-Sondervermögen wurde als **Landtags-Drucksache 8/6170 vom 04.11.2025** eingebracht. ⚠️ *Einzelfundstelle; für Beschlussvorlagen bleibt das verkündete Gesetz maßgeblich (Infra-SVG vom 17.12.2025, GVBl. LSA 2025 S. 835).*
+
+Offene Punkte unverändert: § 1 Satz 2 MBAG LSA (Volltext über Az. 3 L 48/24), TVergG-LSA-Fassung, Datum des Wärmeplanungs-Ausführungsgesetzes.
+
+---
+
+## 6. Aus der kommunalen Praxis
+
+**Nichts Neues.** Zum **Kreishaushalt 2027** und zur **Kreisumlage 2027** liegt weiterhin nichts vor — zwölfter Tag ohne Antwort auf die Anfrage. Der Bürgerinformationsdienst des Kreises bleibt der zweite Weg.
+
+---
+
+## 7. Konkret für Hettstedt
+
+*Zugeschnitten auf die Stadt Hettstedt, Landkreis Mansfeld-Südharz, rund 14.000 Einwohner, kreisangehörige Einheitsgemeinde. Stehender Kontext: `profil-hettstedt.md`.*
+
+**Zur Stadt Hettstedt liegt im Berichtszeitraum nichts Neues vor.**
+
+### 7.1 Der „Magdeburger Weg" verändert die Risikoart — nicht nur den Zeitpunkt
+
+**Das ist die wichtigste Übersetzung dieser Ausgabe, und sie erfordert eine Anpassung des Vorberichts.**
+
+Bisher hat dieses Briefing zwei Szenarien für den FAG 2027 beschrieben: **„kommt spät"** (Nachtragshaushalt) und **„kommt nicht"** (vorläufige Haushaltsführung). Beide unterstellen eine Regierung mit **stabiler Mehrheit**, die irgendwann handelt. Der „Magdeburger Weg" ist ein **drittes Szenario mit anderer Risikologik**:
+
+| Szenario | Folge für FAG 2027 und Landeshaushalt | Folge für Hettstedt |
+|---|---|---|
+| **Koalition mit stabiler Mehrheit** | kommt, möglicherweise spät | Nachtragshaushalt einkalkulieren |
+| **Neuwahl / anhaltende Blockade** | kommt im Haushaltsjahr 2027 womöglich nicht | vorläufige Haushaltsführung |
+| **Parteiloser Ministerpräsident mit wechselnden Mehrheiten** | **kommt möglicherweise, aber für jedes Gesetz ist eine eigene Mehrheit zu suchen** | **planbar nur mit Vorbehalt je Einzelregelung** |
+
+📐 *Eigene Einordnung, keine Quelle:* Beim dritten Szenario ist nicht der Zeitpunkt das Problem, sondern die **Verlässlichkeit des Inhalts**. Ein FAG, für das im Plenum eine Gelegenheitsmehrheit gefunden werden muss, kann **anders ausfallen als von der Regierung eingebracht** — Änderungsanträge aus wechselnden Konstellationen sind dann die Regel, nicht die Ausnahme. **Für eine Kommune unter Konsolidierungsauflage heißt das: Selbst ein verabschiedeter FAG 2027 ist bis zur Verkündung keine belastbare Planungsgrundlage.**
+
+Dasselbe gilt für die **KiFöG-Nachfolgeregelung** (Frist 31.12.2026) und für jede andere kommunalrelevante Einzelregelung.
+
+👉 **Empfehlung, konkret:** Die Zwei-Szenarien-Darstellung im Vorbericht um das dritte Szenario erweitern — und zwar nicht als Variante von „kommt spät", sondern als eigene Kategorie: **Regelung kommt, Inhalt bis zur Verkündung unsicher.** Der praktische Unterschied liegt in der Vorsorge: Im ersten Fall genügt ein Nachtragshaushalt, im dritten Fall ist eine **Bandbreite** zu planen. **Stelle:** Kämmerei; Adressat ist die Kommunalaufsicht.
+
+### 7.2 Was der 6. Oktober jetzt bedeutet
+
+Beide Verhandlungsspuren wollen **nach** der konstituierenden Sitzung weiterverhandeln. Der 6. Oktober ist damit nicht nur der Tag der Präsidentenwahl, sondern der Tag, ab dem die eigentlichen Gespräche beginnen.
+
+📐 *Eigene Einordnung:* Das bestätigt die Einschätzung vom 23.09., dass **der erste Wahlgang zur Ministerpräsidentenwahl** das entscheidende Signal ist — und es verschiebt ihn tendenziell nach hinten. Wer am 6. Oktober erst anfängt zu verhandeln, stellt keinen Kandidaten in derselben Woche auf.
+
+### 7.3 Status der Prioritäten
+
+1. **Investitionsbank anrufen:** Kommunalarm-Pauschalbudget und unbelegter Anteil; Eigenanteilsfrage REVIER 2038.
+2. **Vorbericht 2027: drittes Szenario aufnehmen** (Ziffer 7.1) und Kassenstatistik, Inflation und Dieselpreis als Begründung verwenden.
+3. **Einnahmepositionen 2027 nach Rechtsgrundlage sortieren.**
+4. **Kreishaushalt 2027 über den Bürgerinformationsdienst beobachten** — zwölfter Tag ohne Antwort.
+5. **Genehmigungsbescheid Kreishaushalt 2026 samt Auflagen anfordern.**
+
+### 7.4 Fortgeschriebener Status — ohne neuen Stand
+
+- **REGENT** (9,3 Mio. €, im Bau), **Anschlussbahn** (über 23,5 Mio. €), **HIP** (172.000 m² frei), **H2HET**, **Rettungswachenprogramm** (rund 20 Mio. €): kein neuer Stand.
+- **Konsolidierungsauflage, Kreisumlage 40 %, BVerfG-Verfahren, Ausgleichsstock/Gerbstedt, Kunstrasenplatz, Kita-Beiträge:** kein neuer Stand.
+- **Vollsperrung Arnstedter Weg** bis 06.11.2026: unverändert.
+- **Offene Prüfaufträge:** unverändert.
+
+---
+
+## 8. Ihre Termine und Fristen
+
+| Frist | Gegenstand | Relevanz für Hettstedt |
+|---|---|---|
+| **06.10.2026, 11 Uhr** | Konstituierende Sitzung; Wahl des Landtagspräsidenten; strittiger Beschluss der Geschäftsordnung; **danach Fortsetzung beider Verhandlungsspuren** | hoch |
+| **offen** | 1. Wahlgang Ministerpräsident — danach 7 Tage, dann 14 Tage bis zur Entscheidung über Selbstauflösung | höchste — das Signal |
+| **offen** | Mögliches Verfahren vor dem Landesverfassungsgericht zur Geschäftsordnung | mittelbar |
+| **31.10.2026** *(intern)* | Maßnahmenliste Städtebauförderung finalisieren | hoch |
+| **06.11.2026** | Ende Vollsperrung Arnstedter Weg | örtlich |
+| **30.11.2026** | Antragsfrist Städtebauförderung (StäBauFRL) ⏰ | hoch |
+| **31.12.2026** | Auslaufen KiFöG-Geschwisterregelung — **im dritten Szenario auch inhaltlich unsicher** | hoch |
+| **Q4 2026** *(intern)* | Leistungsbeschreibung Wärmeplanung; Einnahmen 2027 sortieren; **drittes Szenario in den Vorbericht** | hoch |
+| **Herbst 2026** *(erwartet)* | Entwurf Kreishaushalt 2027 — über Bürgerinformationsdienst beobachten | hoch — zwölfter Tag ohne Antwort |
+| **31.03.2027** | Nächster Antragstermin Sachsen-Anhalt REGIO | hoch |
+| **offen** | GRW-Landesregelungen — Veröffentlichung abwarten | hoch |
+| **laufend** | REVIER 2038 (IB) — 90 %, Projektanmeldung vor Antrag | höchste |
+| **laufend** | Projektanzeige Kommunalarm (IB) | höchste |
+| **laufend** | Ausgleichsstock 2026 — keine belegte Frist | hoch |
+| **laufend** | Projektaufruf LAG Mansfeld-Südharz ⚠️ | hoch — Frist erfragen |
+| **31.08.2027** | Vereinssportstättenbau, Förderjahr 2028 | mittel |
+| **30.06.2028** | Kommunale Wärmeplanung (unter 100.000 EW) | Vergabe 2027 |
+| **offen** | FAG 2027 und Landeshaushalt 2027 — rund 4,3 Mrd. € Landeszahlungen ohne Grundlage | höchste |
+| **offen** | BVerfG-Verfahren MSH/Salzlandkreis | hoch — Kreisumlage |
+
+---
+
+## 9. Empfohlene Handlungen dieser Woche
+
+**Es ist Samstag; vor dem 6. Oktober ist landesseitig nichts zu erwarten.**
+
+1. **Drittes Szenario in den Vorbericht 2027 aufnehmen** — „Regelung kommt, Inhalt bis zur Verkündung unsicher" als eigene Kategorie, nicht als Variante von „kommt spät". *Ziffer 7.1 — neu.*
+2. **Investitionsbank anrufen:** Kommunalarm-Pauschalbudget und Eigenanteilsfrage REVIER 2038.
+3. **Einnahmepositionen 2027 nach Rechtsgrundlage sortieren**, Kassenstatistik und Preisdaten als Begründung.
+4. **Bürgerinformationsdienst des Kreises prüfen.**
+5. **Genehmigungsbescheid Kreishaushalt 2026 samt Auflagen anfordern.**
+6. **KiFöG-Szenarien zweistufig aufsetzen**, Kostenbeitragssatzung prüfen. *Frist 31.12.2026.*
+7. **OVG-Entscheidung 3 L 48/24 beschaffen.**
+8. **Übriges** unverändert: Sachstand Anschlussbahn und REGENT; Termin SEG-MSH zu HIP; H2HET und HIP zusammenführen; Nachbarkommunen zu GRW und Kreisumlage; Antrittstermin Kreisbrandmeister Kujas; Städtebauförderung finalisieren; Ausgleichsstock/Gerbstedt auswerten; Ressourcenfrage Wärmeplanung; Bekanntmachungspraxis; TVergG-Fassung; LAG-Frist.
+
+---
+
+## 10. Quellennachweis
+
+**Regierungsbildung — beide Spuren**
+- Stuttgarter Zeitung, „Regierungsbildung in Sachsen-Anhalt: Wie ist der aktuelle Stand?": https://www.stuttgarter-zeitung.de/politik/regierungsbildung-in-sachsen-anhalt-wie-ist-der-aktuelle-stand-79514188.html
+- Volksstimme, „SPD, Grüne, Linke und BSW wollen Gespräche fortsetzen": https://www.volksstimme.de/panorama/spd-grune-linke-und-bsw-wollen-gesprache-fortsetzen-4328668
+- t-online, „Ministerpräsident ohne Parteibuch: BSW wirbt für ‚Magdeburger Weg'": https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101427296/ministerpraesident-ohne-parteibuch-bsw-wirbt-fuer-magdeburger-weg-.html
+- Online-Zeitung Deutschland, „Wer regiert Sachsen-Anhalt? SPD lädt zu Gesprächen, CDU sagt ab, Grüne, Linke und BSW kommen": https://www.online-zeitung-deutschland.de/a/49215/wer-regiert-sachsen-anhalt-spd-ladt-zu-gesprachen-cdu-sagt-ab-grune-linke-und-bsw-kommen
+- Das Unternehmer-Wissen, „Sachsen-Anhalt diskutiert Regierung mit parteilosem Ministerpräsidenten": https://das-unternehmer-wissen.de/politik/spd-stoesst-gespraeche-ueber-neue-regierung-in-sachsen-anhalt-an/
+- Landesverfassung Sachsen-Anhalt, Handbuch des Landtages, Stand 01.06.2026 (PDF): https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Rechtsgrundlagen/Gesetze_8.WP/20260601_Landesverfassung_LV1.pdf
+- Landtagswahl in Sachsen-Anhalt 2026 — Wikipedia: https://de.wikipedia.org/wiki/Landtagswahl_in_Sachsen-Anhalt_2026
+- LTO, „Sachsen-Anhalt hat seinen Landtag gewählt: Was jetzt?": https://www.lto.de/recht/nachrichten/n/landtagswahl-sachsen-anhalt-ueberblick
+- statistiken-aktuell.de, „Landtagswahl Sachsen-Anhalt 2026: Ergebnis, Sitze und Wahlbeteiligung": https://statistiken-aktuell.de/landtagswahl-sachsen-anhalt-2026/
+- Landtag Sachsen-Anhalt, „Konstituierung findet am 6. Oktober statt": https://www.landtag.sachsen-anhalt.de/artikel/konstituierung-findet-am-6-oktober-statt
+
+**Gesetzgebung — ergänzende Fundstelle**
+- Länderbericht Sachsen-Anhalt zum SVIK, BMF *(Verweis auf Landtags-Drucksache 8/6170 vom 04.11.2025)*: https://www.bundesfinanzministerium.de/Content/DE/Downloads/Oeffentliche-Finanzen/SVIK/Laenderberichte/sachsen-anhalt.pdf?__blob=publicationFile&v=5
+- Gesetz- und Verordnungsblatt für das Land Sachsen-Anhalt, letzte Gesetze: https://www.landesrecht-sachsen-anhalt.info/down/aletztg.pdf
+
+**Kommunalfinanzen (Statusprüfung, nichts Neues)**
+- Statistisches Landesamt Sachsen-Anhalt: https://statistik.sachsen-anhalt.de/
+- Ministerium der Finanzen, Kommunaler Finanzausgleich: https://mf.sachsen-anhalt.de/finanzen/kommunaler-finanzausgleich
+- Städte- und Gemeindebund Sachsen-Anhalt: https://www.kommunales-sachsen-anhalt.de/
+- Landkreistag Sachsen-Anhalt: https://lkt-st.de/
+
+**Fördermittel (Statusprüfung, nichts Neues)**
+- IB Sachsen-Anhalt, Sondervermögen „Infrastruktur" — Kommunalarm: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/investieren-ausgleichen/sondervermoegen-infrastruktur/kommunalarm
+- IB Sachsen-Anhalt, Sachsen-Anhalt REVIER 2038: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/investieren-ausgleichen/revier-2038
+- IB Sachsen-Anhalt, Sachsen-Anhalt REGIO: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/zusammenleben/regio
+- REGIO-Richtlinie (PDF): https://www.ib-sachsen-anhalt.de/fileadmin/user_upload/Dokumente/Kommunen/REGIO_Richtlinie.pdf
+
+**Hettstedt und Landkreis (Statusprüfung)**
+- Stadt Hettstedt: https://www.hettstedt.de/
+- Ratsinformationssystem der Stadt Hettstedt: https://ratsinfo-online.net/hettstedt-bi/
+- Landkreis Mansfeld-Südharz, Meldungen: https://www.mansfeldsuedharz.de/aktuell/meldungen
+- Landkreis Mansfeld-Südharz, Kreistag und Bürgerinformationsdienst: https://www.mansfeldsuedharz.de/unser-service-ihr-ansprechpartner/kreistag
+- SEG Mansfeld-Südharz, Wirtschaftsstandort Hettstedt: https://www.seg-msh.de/wirtschaftsstandort-hettstedt/
+
+---
+
+## Anlage: Stadtprofil Hettstedt — stehender Recherchekontext
+
+*Stand 03.10.2026. Diese Anlage gibt den Inhalt von `profil-hettstedt.md` wieder, damit die Ausgabe als Druckstück für sich steht. Das Profil wurde für diese Ausgabe um die drei Szenarien für den FAG 2027 erweitert. Maßgeblich und fortgeschrieben wird die Datei im Repository.*
 
 Dieses Profil ist der stehende Kontext für jede Ausgabe. Es beantwortet die Frage,
 welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht.
 
-## Eckdaten
+### Eckdaten
 
 | Merkmal | Wert |
 |---|---|
@@ -13,7 +214,7 @@ welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht
 | Gemeindetyp | Einheitsgemeinde, kreisangehörig |
 | Website | hettstedt.de |
 
-## Was sich daraus für die Einordnung von Landesvorgängen ergibt
+### Was sich daraus für die Einordnung von Landesvorgängen ergibt
 
 **Kreisangehörige Einheitsgemeinde** → Hettstedt ist beim **Sondervermögen Infrastruktur**
 unmittelbar eigener Empfänger eines Pauschalbudgets im Kommunalarm (Empfängerkreis:
@@ -49,7 +250,7 @@ seit 2002, Förderphase bis 2027. Ein ausgefülltes Projektdatenblatt ist Voraus
 die Entscheidung von Steuerungsgruppe und Mitgliederversammlung.
 Kontakt LEADER-Management: 03475 / 612 387 · lag-mansfeld-suedharz.de · lag-ms.de
 
-## Strukturwandel vor Ort: Hettstedt ist bereits Standort
+### Strukturwandel vor Ort: Hettstedt ist bereits Standort
 
 Wichtig für die Einordnung jeder Strukturwandelmeldung: In Hettstedt **läuft bereits ein
 gefördertes Vorhaben**. Die Frage lautet nicht mehr, ob die Stadt im Masterplan verankert ist,
@@ -134,7 +335,7 @@ vollständig sein.
 → **Der Hebel liegt im Wort „interkommunal":** 90 % gibt es nur gemeinsam mit Nachbarkommunen —
 denselben Gesprächspartnern, mit denen die Kreisumlage abzustimmen ist.
 
-## Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
+### Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
 
 Für die Einordnung jeder FAG-Meldung wichtig: **Rund die Hälfte der Landeszahlungen an die Kommunen
 läuft nicht über den Finanzausgleich.**
@@ -201,7 +402,7 @@ Kassenstatistik, die Inflationsrate (September 2026: **3,4 %**) und den Dieselpr
 gegenüber September 2025, unmittelbar relevant für Bauhof, Winterdienst und Feuerwehr). Eine
 Konsolidierungsauflage, die auf Ausgabendisziplin zielt, adressiert damit nicht die Ursache.
 
-## Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
+### Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
 
 Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
 
@@ -249,7 +450,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 03.10.2026)
+### Laufende lokale Vorgänge (Stand 03.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -259,7 +460,7 @@ Landkreis ist für Hettstedt berichtspflichtig.
 - **Kostenbeiträge Kindertagespflege** — Anpassung; Klarstellungen der Stadt zu Artikeln
   vom 19.02. und 14.03.2026.
 
-## Verwaltungsorganisation — belegte Zuständigkeiten
+### Verwaltungsorganisation — belegte Zuständigkeiten
 
 | Gegenstand | Stelle / Quelle |
 |---|---|
@@ -278,7 +479,7 @@ Geschwisterregelung Bezug? Läuft die landesrechtliche Grundlage aus, während d
 voraussetzt, entsteht zum 01.01.2027 ein **Satzungswiderspruch** mit unmittelbarer Wirkung auf die
 Beitragserhebung.
 
-## Bekanntmachungswesen
+### Bekanntmachungswesen
 
 Der Stadtrat hat am **09.07.2024** beschlossen, das **Amtsblatt in der bisherigen Form
 abzuschaffen**. Öffentliche Bekanntmachungen erfolgen seither **über die Website der Stadt**,
@@ -291,7 +492,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 03.10.2026)
+### Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 03.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -305,7 +506,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
 | **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
-## Wiederkehrende Antragsfristen
+### Wiederkehrende Antragsfristen
 
 | Frist | Programm | Hinweis |
 |---|---|---|
@@ -319,7 +520,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | unbelegt | Ausgleichsstock | feste Antragsfrist ließ sich nicht belegen — beim MF erfragen |
 | unbelegt | LEADER-Projektaufruf LAG MSH | Aufruf seit 01.07.2026 ⚠️; Einreichungsfrist beim LEADER-Management erfragen |
 
-## Feste Anlaufstellen
+### Feste Anlaufstellen
 
 | Anliegen | Stelle |
 |---|---|
@@ -338,3 +539,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Kita-Beiträge (intern) | Eigenbetrieb der Kindertageseinrichtungen · Kämmerei |
 | Kommunalaufsicht | Landesverwaltungsamt Sachsen-Anhalt |
 | Städtebauförderung | Ministerium für Infrastruktur und Digitales (MID) |
+
+---
+
+*Erstellt am 03.10.2026. Alle Angaben ohne Gewähr; für rechtsverbindliche Entscheidungen sind die amtlichen Verkündungen im GVBl. LSA und die Originalverlautbarungen der Ressorts maßgeblich.*
