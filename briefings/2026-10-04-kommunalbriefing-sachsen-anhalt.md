@@ -1,9 +1,199 @@
-# Stadtprofil Hettstedt — Recherchekontext für das Kommunalbriefing
+# Kommunalbriefing Sachsen-Anhalt — Sonntag, 4. Oktober 2026
+
+**Adressat:** Bürgermeister der Stadt Hettstedt, Landkreis Mansfeld-Südharz (rd. 14.000 EW)
+**Schwerpunkte:** Gesetzesänderungen · Fördermittel · Landespolitik mit Kommunalbezug
+**Redaktionsschluss:** 04.10.2026
+**Berichtszeitraum:** seit dem 03.10.2026
+
+> **Quellenhinweis:** Direkte Seitenabrufe (WebFetch) bleiben durch die Egress-Policy gesperrt. Die Inhalte stammen aus Websuche-Treffern und deren Zusammenfassungen, soweit möglich zwischen mehreren Treffern abgeglichen. Einzelfundstellen sind mit ⚠️ markiert und vor einer Verwendung in Beschlussvorlagen an der Primärquelle zu verifizieren.
+
+---
+
+## 1. Lage des Tages: Zwei Tage vor der Konstituierung — und eine Klarstellung zum Zeitplan
+
+**Zur Regierungsbildung nichts Neues.** Der Stand vom 03.10. gilt unverändert: zwei parallele Verhandlungsspuren, keine abgestimmte Regierung, **keine gesicherte Mehrheit für einen Ministerpräsidenten**. Zur Erinnerung: Die AfD hatte alle im Landtag vertretenen Parteien zu Verhandlungen eingeladen; CDU, SPD, Grüne und Linke haben abgelehnt, nur das BSW war gesprächsbereit.
+
+**Neu belegt und wichtig für Ihre Zeitplanung:** Die **Wahl des Ministerpräsidenten muss nicht am Tag der konstituierenden Sitzung stattfinden** — in Sachsen-Anhalt gibt es dafür **keine feste kurze Frist**.
+
+✅ **Damit ist die Einschätzung vom 23.09. bestätigt und präzisiert.** Dort hatte dieses Briefing darauf hingewiesen, dass die Pflicht, den ersten Wahlgang binnen 14 Tagen nach der Konstituierung durchzuführen, mit der Parlamentsreform 2020 entfallen ist. Die Konsequenz ist jetzt eindeutig: **Am 6. Oktober wird voraussichtlich ein Landtagspräsident gewählt, aber kein Ministerpräsident.** Die Kaskade nach Art. 65 Verf LSA — erster Wahlgang, dann sieben Tage, dann vierzehn Tage bis zur Entscheidung über die Selbstauflösung — **beginnt erst, wenn der erste Wahlgang angesetzt wird, und wann das geschieht, ist offen.**
+
+👉 **Für den Haushalt 2027 heißt das:** Erwarten Sie am Dienstag **keine Klärung der FAG-Frage**. Das Signal, auf das es ankommt, ist die **Ansetzung des ersten Wahlgangs** — und da beide Verhandlungsspuren erst nach dem 6. Oktober weiterverhandeln wollen, ist damit in dieser Woche nicht zu rechnen.
+
+---
+
+## 2. Kommunale Spitzenverbände: Zehn Kernforderungen — und der Konnexitätshebel
+
+**Das ist der substanzielle Befund des Tages.** Der **Landkreistag Sachsen-Anhalt** hat auf seiner 122. Landkreisversammlung (10./11.09.2026) **zehn Kernforderungen** an Landtag und Landesregierung formuliert — von den Kommunalfinanzen bis zur Verwaltungsreform. Die Schwerpunkte:
+
+| Forderung | Gehalt |
+|---|---|
+| **Verfassungsgemäße Finanzausstattung** | Anspruch auf angemessene Mittel, nicht auf Ermessensleistungen |
+| **„Wer anordnet, zahlt"** | **Konnexitätsprinzip** — wer eine Aufgabe überträgt, trägt die Kosten |
+| **Umfassende Verwaltungsmodernisierung** | Aufgabenkritik, Digitalisierung, Entbürokratisierung |
+| **Sicherung notwendiger Investitionen** | Investitionsfähigkeit der kommunalen Ebene erhalten |
+| **Pauschalförderung statt Kleinteiligkeit** | weg von der Vielzahl kleinteiliger Landesprogramme |
+
+**Die Spitzen beider Verbände äußern sich gemeinsam:** **Götz Ulrich**, Präsident des Landkreistages Sachsen-Anhalt, und **Andreas Dittmann**, Präsident des Städte- und Gemeindebundes Sachsen-Anhalt, warnen, die Finanzlage schwäche „nicht nur die kommunale Ebene, sondern gefährdet das Vertrauen in die Gesamtleistungsfähigkeit des Staates". Belegt wird das mit dem Anstieg der **Kassenkredite auf 1,7 Mrd. €**.
+
+👉 **Der für Hettstedt wichtigste Punkt ist das Konnexitätsprinzip** — siehe Ziffer 7.1. Es ist von den fünf Forderungen diejenige, die sich unmittelbar in konkrete Ansprüche der Stadt übersetzen lässt.
+
+📐 *Eigene Einordnung, keine Quelle:* **Andreas Dittmann ist für Hettstedt der sachlich näherstehende der beiden Verbandspräsidenten.** Der Städte- und Gemeindebund vertritt die kreisangehörigen Städte und Gemeinden; der Landkreistag vertritt die Landkreise — also bei der Kreisumlage die Gegenseite. Das ist bei der Auswahl des Ansprechpartners zu beachten.
+
+---
+
+## 3. Kommunalfinanzen
+
+**Nichts Neues.** Stand unverändert: Finanzierungsdefizit der Kommunen im ersten Halbjahr 2026 **339 Mio. €**, davon **178 Mio. €** bei den kreisangehörigen Gemeinden, **76,5 %** der Kommunen im Defizit; Kassenkredite **1,7 Mrd. €**; Inflationsrate September **3,4 %**, Diesel **+43,3 %**; **für 2027 keine FAG-Regelung und kein beschlossener Landeshaushalt**.
+
+---
+
+## 4. Fördermittel
+
+**Nichts Neues.** Kein neuer Aufruf, keine neue Frist, keine geänderte Kondition. Die beiden fristfreien Fragen an die Investitionsbank bleiben offen.
+
+---
+
+## 5. Gesetzesänderungen und Rechtsprechung
+
+**Nichts Neues.** Keine neuen Verkündungen im GVBl. LSA, keine neuen Entscheidungen mit Kommunalbezug. Offene Punkte unverändert: § 1 Satz 2 MBAG LSA (Volltext über Az. 3 L 48/24), TVergG-LSA-Fassung, Datum des Wärmeplanungs-Ausführungsgesetzes.
+
+---
+
+## 6. Aus der kommunalen Praxis
+
+**Nichts Neues.** Zum **Kreishaushalt 2027** und zur **Kreisumlage 2027** liegt weiterhin nichts vor — dreizehnter Tag ohne Antwort auf die Anfrage.
+
+---
+
+## 7. Konkret für Hettstedt
+
+*Zugeschnitten auf die Stadt Hettstedt, Landkreis Mansfeld-Südharz, rund 14.000 Einwohner, kreisangehörige Einheitsgemeinde. Stehender Kontext: `profil-hettstedt.md`.*
+
+**Zur Stadt Hettstedt liegt im Berichtszeitraum nichts Neues vor.**
+
+### 7.1 „Wer anordnet, zahlt" — der Hebel, der zu Hettstedts offenen Fällen passt
+
+**Das Konnexitätsprinzip ist keine Abstraktion, sondern beschreibt genau zwei Vorgänge, die bei Ihnen offen sind.**
+
+**Erster Fall: Die kommunale Wärmeplanung.** Das Land hat die Pflicht gesetzlich auferlegt (Ausführungsgesetz zum Wärmeplanungsgesetz, Frist für Hettstedt **30.06.2028**) und dafür einen **finanziellen Ausgleich** vorgesehen, der sich unter anderem nach der Einwohnerzahl bemisst — bei rund **12 Mio. € Bundesmitteln** für das ganze Land. Das ist Konnexität in der Anwendung: aufgetragene Aufgabe, zugesagter Ausgleich.
+
+👉 **Die praktische Frage ist, ob der Ausgleich die tatsächlichen Kosten deckt.** 📐 *Eigene Überschlagsrechnung, keine Quelle:* 12 Mio. € auf rund 2,17 Mio. Einwohner ergeben rechnerisch etwa **5,50 € je Einwohner**, für Hettstedt also grob **77.000 €**. Ob eine Wärmeplanung für eine Stadt dieser Größe dafür zu haben ist, muss die Vergabe zeigen — **aber genau diese Differenz ist der Gegenstand, für den das Konnexitätsprinzip gedacht ist.** Die Rechnung ist eine Größenordnung, keine Zusage; der tatsächliche Ausgleichsbetrag ist beim MWU oder über LENA zu erfragen.
+
+**Zweiter Fall: Das KiFöG.** Die **Geschwisterregelung** und die **Ausgleichszahlungen von bis zu 10,7 Mio. € jährlich** an die Gemeinden laufen zum **31.12.2026** aus. Bleibt die Pflicht und entfällt der Ausgleich, ist das ein Konnexitätsproblem im Wortsinn.
+
+👉 **Empfehlung:** Dokumentieren Sie bei beiden Vorgängen die **Differenz zwischen aufgetragener Aufgabe und gewährtem Ausgleich** — bei der Wärmeplanung nach der Vergabe, beim KiFöG in den Szenarien. **Das ist die Datengrundlage, auf die sich der Städte- und Gemeindebund in der Verbandsarbeit stützen kann**, und sie ist für die Stadt ohnehin nötig. **Stelle intern:** Kämmerei und Bauverwaltungsamt. **Adressat außen:** Städte- und Gemeindebund Sachsen-Anhalt (Präsident **Andreas Dittmann**).
+
+📐 *Eigene Einordnung:* Eine einzelne Stadt mit 14.000 Einwohnern setzt das Konnexitätsprinzip nicht allein durch. Aber **belegte Einzelfälle sind das Material, aus dem Verbandsforderungen belastbar werden** — und Hettstedt hat mit Wärmeplanung und KiFöG zwei saubere Fälle.
+
+### 7.2 Was der 6. Oktober nicht bringt
+
+Siehe Ziffer 1. **Erwarten Sie am Dienstag keine Klärung zum FAG 2027.** Gewählt wird voraussichtlich ein Landtagspräsident; strittig ist die Geschäftsordnung mit den Ausschussgrößen. Die Ministerpräsidentenwahl ist terminlich offen, und beide Verhandlungsspuren beginnen erst danach.
+
+### 7.3 Status der Prioritäten
+
+1. **Investitionsbank anrufen:** Kommunalarm-Pauschalbudget und unbelegter Anteil; Eigenanteilsfrage REVIER 2038.
+2. **Vorbericht 2027:** drittes Szenario aufnehmen (Ausgabe vom 03.10.) und Kassenstatistik, Inflation, Dieselpreis als Begründung verwenden.
+3. **Einnahmepositionen 2027 nach Rechtsgrundlage sortieren.**
+4. **Kreishaushalt 2027 über den Bürgerinformationsdienst beobachten** — dreizehnter Tag ohne Antwort.
+5. **Genehmigungsbescheid Kreishaushalt 2026 samt Auflagen anfordern.**
+6. **Neu: Konnexitätsdifferenz bei Wärmeplanung und KiFöG dokumentieren.** *Ziffer 7.1 — nicht dringend, aber die Grundlage für jede Erstattungsforderung.*
+
+### 7.4 Fortgeschriebener Status — ohne neuen Stand
+
+- **REGENT** (9,3 Mio. €, im Bau), **Anschlussbahn** (über 23,5 Mio. €), **HIP** (172.000 m² frei), **H2HET**, **Rettungswachenprogramm** (rund 20 Mio. €): kein neuer Stand.
+- **Konsolidierungsauflage, Kreisumlage 40 %, BVerfG-Verfahren, Ausgleichsstock/Gerbstedt, Kunstrasenplatz, Kita-Beiträge:** kein neuer Stand.
+- **Vollsperrung Arnstedter Weg** bis 06.11.2026: unverändert.
+- **Offene Prüfaufträge:** unverändert.
+
+---
+
+## 8. Ihre Termine und Fristen
+
+| Frist | Gegenstand | Relevanz für Hettstedt |
+|---|---|---|
+| **06.10.2026, 11 Uhr** | Konstituierende Sitzung; Wahl des Landtagspräsidenten; strittiger Beschluss der Geschäftsordnung. **Keine Ministerpräsidentenwahl zu erwarten** | hoch |
+| **offen** | **Ansetzung des 1. Wahlgangs zur Ministerpräsidentenwahl** — keine feste Frist; danach 7 Tage, dann 14 Tage bis zur Entscheidung über Selbstauflösung | höchste — das Signal |
+| **offen** | Mögliches Verfahren vor dem Landesverfassungsgericht zur Geschäftsordnung | mittelbar |
+| **31.10.2026** *(intern)* | Maßnahmenliste Städtebauförderung finalisieren | hoch |
+| **06.11.2026** | Ende Vollsperrung Arnstedter Weg | örtlich |
+| **30.11.2026** | Antragsfrist Städtebauförderung (StäBauFRL) ⏰ | hoch |
+| **31.12.2026** | Auslaufen KiFöG-Geschwisterregelung und der Ausgleichszahlungen (bis 10,7 Mio. €/Jahr) — **Konnexitätsfall** | hoch |
+| **Q4 2026** *(intern)* | Leistungsbeschreibung Wärmeplanung; Einnahmen 2027 sortieren; drittes Szenario in den Vorbericht | hoch |
+| **Herbst 2026** *(erwartet)* | Entwurf Kreishaushalt 2027 — über Bürgerinformationsdienst beobachten | hoch — dreizehnter Tag ohne Antwort |
+| **31.03.2027** | Nächster Antragstermin Sachsen-Anhalt REGIO | hoch |
+| **offen** | GRW-Landesregelungen — Veröffentlichung abwarten | hoch |
+| **laufend** | REVIER 2038 (IB) — 90 %, Projektanmeldung vor Antrag | höchste |
+| **laufend** | Projektanzeige Kommunalarm (IB) | höchste |
+| **laufend** | Ausgleichsstock 2026 — keine belegte Frist | hoch |
+| **laufend** | Projektaufruf LAG Mansfeld-Südharz ⚠️ | hoch — Frist erfragen |
+| **31.08.2027** | Vereinssportstättenbau, Förderjahr 2028 | mittel |
+| **30.06.2028** | Kommunale Wärmeplanung (unter 100.000 EW) — **Konnexitätsfall**, Vergabe 2027 | hoch |
+| **offen** | FAG 2027 und Landeshaushalt 2027 — rund 4,3 Mrd. € Landeszahlungen ohne Grundlage | höchste |
+| **offen** | BVerfG-Verfahren MSH/Salzlandkreis | hoch — Kreisumlage |
+
+---
+
+## 9. Empfohlene Handlungen dieser Woche
+
+**Es ist Sonntag; der 6. Oktober bringt voraussichtlich keine Klärung zum FAG.**
+
+1. **Investitionsbank anrufen:** Kommunalarm-Pauschalbudget und Eigenanteilsfrage REVIER 2038.
+2. **Vorbericht 2027 um das dritte Szenario ergänzen** und mit Kassenstatistik, Inflation und Dieselpreis begründen.
+3. **Einnahmepositionen 2027 nach Rechtsgrundlage sortieren.**
+4. **Bürgerinformationsdienst des Kreises prüfen.**
+5. **Genehmigungsbescheid Kreishaushalt 2026 samt Auflagen anfordern.**
+6. **Konnexitätsdifferenz dokumentieren** — Ausgleichsbetrag für die Wärmeplanung beim MWU oder über LENA erfragen; KiFöG-Szenarien zweistufig rechnen. *Ziffer 7.1.*
+7. **OVG-Entscheidung 3 L 48/24 beschaffen.**
+8. **Übriges** unverändert: Sachstand Anschlussbahn und REGENT; Termin SEG-MSH zu HIP; H2HET und HIP zusammenführen; Nachbarkommunen zu GRW und Kreisumlage; Antrittstermin Kreisbrandmeister Kujas; Städtebauförderung finalisieren; Ausgleichsstock/Gerbstedt auswerten; Ressourcenfrage Wärmeplanung; Bekanntmachungspraxis; TVergG-Fassung; LAG-Frist.
+
+---
+
+## 10. Quellennachweis
+
+**Kommunale Spitzenverbände — zehn Kernforderungen**
+- Landkreistag Sachsen-Anhalt, Pressemitteilungen: https://www.kommunales-sachsen-anhalt.de/Landkreistag/Aktuelle-Informationen/Pressemitteilungen/
+- Kommunale Selbstverwaltung in Sachsen-Anhalt, gemeinsame Startseite: https://www.kommunales-sachsen-anhalt.de/
+- Landkreis Wittenberg, „Landkreise fordern bessere Finanzausstattung und umfassende Verwaltungsreformen": https://www.landkreis-wittenberg.de/landkreise-fordern-bessere-finanzausstattung-und-umfassende-verwaltungsreformen/
+- Burgenlandkreis, Aktionstag „Kommunen am Limit" *(Zitat Ulrich/Dittmann, Kassenkredite 1,7 Mrd. €)*: https://www.burgenlandkreis.de/de/pressebereich/bundesweiter-aktionstag-kommunen-am-limit-staedte-und-gemeindebund-sachsen-anhalt-und-landkreistag-sachsen-anhalt-warnen-vor-desastroeser-finanzlage-der-kommunen-appell-an-bund-und-laender-zur-politischen-loesung.html
+- Landkreistag Sachsen-Anhalt: https://lkt-st.de/
+
+**Regierungsbildung und Zeitplan**
+- Stuttgarter Zeitung, „Regierungsbildung in Sachsen-Anhalt: So ist der aktuelle Stand": https://www.stuttgarter-zeitung.de/politik/regierungsbildung-in-sachsen-anhalt-so-ist-der-aktuelle-stand-79460053.html
+- Stuttgarter Zeitung, „Regierungsbildung in Sachsen-Anhalt: Wer wird neuer Ministerpräsident?": https://www.stuttgarter-zeitung.de/politik/regierungsbildung-in-sachsen-anhalt-wer-wird-neuer-ministerpraesident-79480339.html
+- Landtag Sachsen-Anhalt, „Konstituierung findet am 6. Oktober statt": https://www.landtag.sachsen-anhalt.de/artikel/konstituierung-findet-am-6-oktober-statt
+- Landtag Sachsen-Anhalt, „Wie konstituiert sich der Landtag?": https://www.landtag.sachsen-anhalt.de/alle-dossiers/landtagswahl-am-13-maerz-2016/wie-konstituiert-sich-der-landtag-1
+- Landtagswahl in Sachsen-Anhalt 2026 — Wikipedia: https://de.wikipedia.org/wiki/Landtagswahl_in_Sachsen-Anhalt_2026
+
+**Wärmeplanung und KiFöG (Konnexitätsfälle)**
+- MWU, Kommunale Wärmeplanung in Sachsen-Anhalt: https://mwu.sachsen-anhalt.de/energie/kommunale-waermeplanung
+- LENA, Kommunale Wärmeplanung: https://lena.sachsen-anhalt.de/oeffentlicher-sektor/kommunale-waermeplanung
+- MS Sachsen-Anhalt, Kinderbetreuung in Sachsen-Anhalt: https://ms.sachsen-anhalt.de/themen/familie/kinderbetreuung-2/kinderbetreuung-in-sachsen-anhalt
+- MS Sachsen-Anhalt, Das neue Kinderförderungsgesetz, nichtamtliche Lesefassung (PDF): https://ms.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MS/MS/4_KifoeG/Kinderfoerderungsgesetz__bf.pdf
+
+**Kommunalfinanzen (Statusprüfung, nichts Neues)**
+- Statistisches Landesamt Sachsen-Anhalt: https://statistik.sachsen-anhalt.de/
+- Ministerium der Finanzen, Kommunaler Finanzausgleich: https://mf.sachsen-anhalt.de/finanzen/kommunaler-finanzausgleich
+
+**Fördermittel (Statusprüfung, nichts Neues)**
+- IB Sachsen-Anhalt, Sondervermögen „Infrastruktur" — Kommunalarm: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/investieren-ausgleichen/sondervermoegen-infrastruktur/kommunalarm
+- IB Sachsen-Anhalt, Sachsen-Anhalt REVIER 2038: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/investieren-ausgleichen/revier-2038
+- IB Sachsen-Anhalt, Sachsen-Anhalt REGIO: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/zusammenleben/regio
+
+**Hettstedt und Landkreis (Statusprüfung)**
+- Stadt Hettstedt: https://www.hettstedt.de/
+- Ratsinformationssystem der Stadt Hettstedt: https://ratsinfo-online.net/hettstedt-bi/
+- Landkreis Mansfeld-Südharz, Kreistag und Bürgerinformationsdienst: https://www.mansfeldsuedharz.de/unser-service-ihr-ansprechpartner/kreistag
+
+---
+
+## Anlage: Stadtprofil Hettstedt — stehender Recherchekontext
+
+*Stand 04.10.2026. Diese Anlage gibt den Inhalt von `profil-hettstedt.md` wieder, damit die Ausgabe als Druckstück für sich steht. Das Profil wurde für diese Ausgabe um den Konnexitätshebel und die Verbandsspitzen erweitert. Maßgeblich und fortgeschrieben wird die Datei im Repository.*
 
 Dieses Profil ist der stehende Kontext für jede Ausgabe. Es beantwortet die Frage,
 welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht.
 
-## Eckdaten
+### Eckdaten
 
 | Merkmal | Wert |
 |---|---|
@@ -13,7 +203,7 @@ welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht
 | Gemeindetyp | Einheitsgemeinde, kreisangehörig |
 | Website | hettstedt.de |
 
-## Was sich daraus für die Einordnung von Landesvorgängen ergibt
+### Was sich daraus für die Einordnung von Landesvorgängen ergibt
 
 **Kreisangehörige Einheitsgemeinde** → Hettstedt ist beim **Sondervermögen Infrastruktur**
 unmittelbar eigener Empfänger eines Pauschalbudgets im Kommunalarm (Empfängerkreis:
@@ -49,7 +239,7 @@ seit 2002, Förderphase bis 2027. Ein ausgefülltes Projektdatenblatt ist Voraus
 die Entscheidung von Steuerungsgruppe und Mitgliederversammlung.
 Kontakt LEADER-Management: 03475 / 612 387 · lag-mansfeld-suedharz.de · lag-ms.de
 
-## Strukturwandel vor Ort: Hettstedt ist bereits Standort
+### Strukturwandel vor Ort: Hettstedt ist bereits Standort
 
 Wichtig für die Einordnung jeder Strukturwandelmeldung: In Hettstedt **läuft bereits ein
 gefördertes Vorhaben**. Die Frage lautet nicht mehr, ob die Stadt im Masterplan verankert ist,
@@ -134,7 +324,7 @@ vollständig sein.
 → **Der Hebel liegt im Wort „interkommunal":** 90 % gibt es nur gemeinsam mit Nachbarkommunen —
 denselben Gesprächspartnern, mit denen die Kreisumlage abzustimmen ist.
 
-## Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
+### Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
 
 Für die Einordnung jeder FAG-Meldung wichtig: **Rund die Hälfte der Landeszahlungen an die Kommunen
 läuft nicht über den Finanzausgleich.**
@@ -223,7 +413,7 @@ Kassenstatistik, die Inflationsrate (September 2026: **3,4 %**) und den Dieselpr
 gegenüber September 2025, unmittelbar relevant für Bauhof, Winterdienst und Feuerwehr). Eine
 Konsolidierungsauflage, die auf Ausgabendisziplin zielt, adressiert damit nicht die Ursache.
 
-## Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
+### Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
 
 Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
 
@@ -271,7 +461,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 04.10.2026)
+### Laufende lokale Vorgänge (Stand 04.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -281,7 +471,7 @@ Landkreis ist für Hettstedt berichtspflichtig.
 - **Kostenbeiträge Kindertagespflege** — Anpassung; Klarstellungen der Stadt zu Artikeln
   vom 19.02. und 14.03.2026.
 
-## Verwaltungsorganisation — belegte Zuständigkeiten
+### Verwaltungsorganisation — belegte Zuständigkeiten
 
 | Gegenstand | Stelle / Quelle |
 |---|---|
@@ -300,7 +490,7 @@ Geschwisterregelung Bezug? Läuft die landesrechtliche Grundlage aus, während d
 voraussetzt, entsteht zum 01.01.2027 ein **Satzungswiderspruch** mit unmittelbarer Wirkung auf die
 Beitragserhebung.
 
-## Bekanntmachungswesen
+### Bekanntmachungswesen
 
 Der Stadtrat hat am **09.07.2024** beschlossen, das **Amtsblatt in der bisherigen Form
 abzuschaffen**. Öffentliche Bekanntmachungen erfolgen seither **über die Website der Stadt**,
@@ -313,7 +503,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 04.10.2026)
+### Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 04.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -327,7 +517,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
 | **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
-## Wiederkehrende Antragsfristen
+### Wiederkehrende Antragsfristen
 
 | Frist | Programm | Hinweis |
 |---|---|---|
@@ -341,7 +531,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | unbelegt | Ausgleichsstock | feste Antragsfrist ließ sich nicht belegen — beim MF erfragen |
 | unbelegt | LEADER-Projektaufruf LAG MSH | Aufruf seit 01.07.2026 ⚠️; Einreichungsfrist beim LEADER-Management erfragen |
 
-## Feste Anlaufstellen
+### Feste Anlaufstellen
 
 | Anliegen | Stelle |
 |---|---|
@@ -361,3 +551,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Kommunalaufsicht | Landesverwaltungsamt Sachsen-Anhalt |
 | Verbandsarbeit (kreisangehörige Städte) | Städte- und Gemeindebund Sachsen-Anhalt, Präsident Andreas Dittmann |
 | Städtebauförderung | Ministerium für Infrastruktur und Digitales (MID) |
+
+---
+
+*Erstellt am 04.10.2026. Alle Angaben ohne Gewähr; für rechtsverbindliche Entscheidungen sind die amtlichen Verkündungen im GVBl. LSA und die Originalverlautbarungen der Ressorts maßgeblich.*
