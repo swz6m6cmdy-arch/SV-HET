@@ -1,9 +1,274 @@
-# Stadtprofil Hettstedt — Recherchekontext für das Kommunalbriefing
+# Kommunalbriefing Sachsen-Anhalt — Dienstag, 6. Oktober 2026
+
+**Adressat:** Bürgermeister der Stadt Hettstedt, Landkreis Mansfeld-Südharz (rd. 14.000 EW)
+**Schwerpunkte:** Gesetzesänderungen · Fördermittel · Landespolitik mit Kommunalbezug
+**Redaktionsschluss:** 06.10.2026, vor Beginn der konstituierenden Sitzung
+**Berichtszeitraum:** seit dem 05.10.2026
+
+> **Quellenhinweis:** Direkte Seitenabrufe (WebFetch) bleiben durch die Egress-Policy gesperrt. Die Inhalte stammen aus Websuche-Treffern und deren Zusammenfassungen, soweit möglich zwischen mehreren Treffern abgeglichen. Einzelfundstellen sind mit ⚠️ markiert und vor einer Verwendung in Beschlussvorlagen an der Primärquelle zu verifizieren.
+
+---
+
+## 1. Lage des Tages: Heute konstituiert sich der Landtag — und die Ministerpräsidentenwahl ist auf Dezember terminiert
+
+**Heute, 11 Uhr, treten die 83 Abgeordneten erstmals zusammen. Zwei Dinge sind seit gestern neu und beide verändern die Zeitachse für den Haushalt 2027.**
+
+### Erstens: Für das Präsidentenamt gibt es eine Mehrheit
+
+- Die AfD-Fraktion hat als stärkste Fraktion ihren **Generalsekretär Tobias Rausch** (Staßfurt, 35 Jahre, Abgeordneter seit 2016, Parlamentarischer Geschäftsführer der Fraktion) für das Amt des **Landtagspräsidenten** nominiert.
+- Das **BSW hat angekündigt, dass alle fünf Abgeordneten** den AfD-Kandidaten unterstützen. Damit käme Rausch auf **44 Stimmen**; die absolute Mehrheit liegt bei **42**.
+- Es wäre das **erste Mal, dass ein AfD-Politiker an der Spitze eines deutschen Landesparlaments** steht. BSW-Gründerin Sahra Wagenknecht hat die Zustimmung damit begründet, die stärkste Fraktion eines Landtages solle auch den Präsidenten stellen.
+
+📐 **Eigene Einordnung, kein Beleg:** Damit bestätigt sich, was dieses Briefing am 30.09. korrigiert hatte — die Personalentscheidung ist der **unproblematische** Teil des heutigen Tages. Umstritten bleibt die **Geschäftsordnung** mit den Ausschussgrößen.
+
+### Zweitens: Die Ministerpräsidentenwahl ist auf Dezember datiert
+
+- AfD-Fraktionschef **Ulrich Siegmund** hat sich festgelegt: **„Ich stelle mich im Dezember zur Wahl."**
+- Er steht **ausschließlich für einen ersten Wahlgang** zur Verfügung; sollte er die erforderliche Mehrheit nicht erreichen, will er in einem weiteren Wahlgang **nicht erneut** antreten.
+- Die Rechnung: Die AfD hat **39 Sitze**, für die absolute Mehrheit sind **42** nötig. Es fehlen **drei Stimmen** von außerhalb der eigenen Fraktion.
+- Das **BSW will sich bei der Ministerpräsidentenwahl enthalten** — es unterstützt also den Präsidenten, nicht den Regierungschef. Gewählt wird **geheim**. ⚠️ Die Ankündigung der Enthaltung stammt aus Pressefundstellen, nicht aus einer Erklärung des Landtages.
+- Auf der Gegenspur verhandeln **SPD, Grüne, Linke und BSW** weiter, mit dem Fokus auf einem **parteilosen Ministerpräsidenten**. Ohne die CDU haben diese vier keine Mehrheit. Die Gespräche sollen **nach der heutigen Sitzung** fortgesetzt werden.
+
+### Was das für den Haushalt bedeutet
+
+**Die Regierungsbildung ist damit erstmals terminlich eingegrenzt — und zwar auf einen Monat, in dem ein Haushaltsgesetz 2027 kaum noch zu beschließen ist.**
+
+Die geschäftsführende Landesregierung (CDU, SPD, FDP) führt die Geschäfte bis zur Wahl eines neuen Ministerpräsidenten weiter; Sven Schulze (CDU) ist seit dem 28.01.2026 im Amt.
+
+👉 **Die entscheidende Frage für Ihre Planung ist nicht, wer regiert, sondern:** Hat die geschäftsführende Landesregierung einen **Haushaltsentwurf 2027 bereits in den Landtag eingebracht** — und ist darin eine FAG-Regelung enthalten? Das ist an den Drucksachen des Landtages ablesbar und sollte diese Woche geklärt werden. Ohne eingebrachten Entwurf ist ein Haushaltsgesetz bis zum 31.12.2026 praktisch ausgeschlossen, und es gilt ab dem 01.01.2027 der Haushaltsvorgriff nach **Art. 94 Verf LSA** (→ Ziffer 5).
+
+---
+
+## 2. Kommunale Spitzenverbände
+
+**Nichts Neues seit gestern.** Stand unverändert: zehn Kernforderungen des Landkreistages aus der **122. Landrätekonferenz vom 10./11.09.2026** — im Zentrum ein aufgabengerecht finanzierter Finanzausgleich, der die Preisdynamik in Sozial- und Jugendhilfe, steigende Personalkosten und wachsende Anforderungen an IT und digitale Leistungen abbildet, dazu ein **zweistufiger Verwaltungsaufbau** für Sachsen-Anhalt. Kassenkredite der Kommunen 1,7 Mrd. €.
+
+---
+
+## 3. Kommunalfinanzen: eine Zahl zum Landkreis, die hier bisher fehlte
+
+**Landesweit nichts Neues.** Stand unverändert: Finanzierungsdefizit der Kommunen im ersten Halbjahr 2026 **339 Mio. €**, davon **178 Mio. €** bei den kreisangehörigen Gemeinden, **76,5 %** im Defizit; Inflationsrate September **3,4 %**; für 2027 **keine FAG-Regelung und kein beschlossener Landeshaushalt**.
+
+### Neu ausgewiesen: Der Höchstbetrag der Liquiditätskredite des Landkreises liegt bei 250 Mio. €
+
+In der Genehmigung des Kreishaushalts 2026 hat das Landesverwaltungsamt den **festgesetzten Höchstbetrag der Liquiditätskredite in Höhe von 250 Mio. €** genehmigt — der Landkreis hatte dargelegt, dass dieser Rahmen zur **Sicherung der Zahlungsfähigkeit** notwendig ist. Daneben: Kreditaufnahme für Investitionen **7,8 Mio. €**, Verpflichtungsermächtigungen **18,28 Mio. €** vollständig genehmigt, Haushaltssperre angeordnet.
+
+✅ **Offenlegung:** Diese Zahl ist **nicht neu veröffentlicht**. Sie steht in derselben Mitteilung des Landesverwaltungsamtes, die dieses Briefing seit dem 21.09. als Quelle führt. Sie ist hier bisher **nicht ausgewiesen** worden — das war eine Lücke, und sie wird hier geschlossen, nicht als Neuigkeit verkauft.
+
+📐 **Eigene Überschlagsrechnung:** Der genehmigte Rahmen für **Liquiditätskredite** ist rund **32-mal so groß** wie die genehmigte **Investitionskreditaufnahme** (250 zu 7,8 Mio. €). Das ist die Signatur eines Haushalts, dessen Problem der **laufende Betrieb** ist, nicht die Investition.
+
+⚠️ **Wichtige Einschränkung:** Ein **Höchstbetrag ist keine Inanspruchnahme.** Wie viel davon tatsächlich in Anspruch genommen ist und welcher Zinsaufwand daraus im Ergebnishaushalt entsteht, geht aus der Mitteilung nicht hervor und ist beim Landkreis zu erfragen (→ Ziffer 7.3).
+
+---
+
+## 4. Fördermittel
+
+**Kein neuer Aufruf, keine neue Frist, keine geänderte Kondition auf Landesebene.** Zwei Befunde betreffen gleichwohl unmittelbar Hettstedt:
+
+1. **Der Quartierspark Hettstedt ist im Bau** — mit 2,55 Mio. € Förderung aus einem Bundesprogramm (→ Ziffer 7.1).
+2. **Der Ausgleichsstock hat für FAG-bedingte Einzahlungsverluste einen dokumentierten Präzedenzfall** — allerdings von 2024 (→ Ziffer 7.4).
+
+---
+
+## 5. Gesetzesänderungen und Rechtsprechung: Art. 94 Verf LSA — der Haushaltsvorgriff
+
+**Im Gesetz- und Verordnungsblatt nichts Neues.** Keine für Kommunen relevante Verkündung ist für Oktober 2026 belegbar; die bekannten offenen Punkte (Ausführungsgesetz zur Wärmeplanung, TVergG-LSA-Fassung, MBAG LSA) sind unverändert.
+
+**Neu ist nicht die Norm, sondern dass sie ab dem 01.01.2027 praktisch werden kann.** Dieses Briefing hat das Szenario „kein Haushaltsgesetz" bisher nur mit dem Schlagwort „vorläufige Haushaltsführung" benannt. Das genügt für eine Haushaltsberatung nicht. Hier ist der Inhalt der Norm.
+
+### Was Art. 94 Verf LSA erlaubt
+
+Ist bis zum Ende eines Haushaltsjahres der Haushaltsplan für das folgende Jahr nicht durch Gesetz festgestellt, ist die Landesregierung bis zur Verkündung ermächtigt, alle Ausgaben zu leisten und Verpflichtungen einzugehen, die nötig sind, um
+
+1. **gesetzlich bestehende Einrichtungen zu erhalten und gesetzlich beschlossene Maßnahmen durchzuführen**,
+2. **rechtlich begründete Verpflichtungen des Landes zu erfüllen**,
+3. **Bauten, Beschaffungen und sonstige Leistungen fortzusetzen oder Beihilfen für diese Zwecke weiter zu gewähren**, sofern **im Haushaltsplan eines Vorjahres bereits Beträge veranschlagt** waren.
+
+Zur Deckung darf die Landesregierung Kredite aufnehmen, soweit der Bedarf nicht aus Steuern, Abgaben und sonstigen Einnahmen gedeckt werden kann — **höchstens ein Viertel** der im Haushaltsplan des Vorjahres veranschlagten Einnahmen.
+
+⚠️ Der Normtext ist hier nach **einer** Fundstelle wiedergegeben (Normdatenbank). Vor einer Verwendung in einer Beschlussvorlage bitte am Verfassungstext des Landtages prüfen; die Fundstelle steht in Ziffer 10.
+
+### Wer den Entwurf einbringt
+
+Nach der verfassungsrechtlichen Analyse von **Simon Diethelm Meyer** (Verfassungsblog, 16.09.2026) bleibt die alte Landesregierung geschäftsführend im Amt, bis eine neue gebildet ist. Zieht sich die Regierungsbildung über den Jahreswechsel, ist die geschäftsführende Landesregierung **berechtigt und verpflichtet**, dem Landtag einen **Haushaltsentwurf vorzulegen** — der Entwurf muss dann allerdings eine parlamentarische Mehrheit finden. Beschließt der Landtag bis Ende 2026 kein Haushaltsgesetz für 2027, bleibt die vorläufige Haushaltsführung als **Notlösung** ab dem 01.01.2027.
+
+⚠️ Dies ist die Einschätzung eines Fachbeitrags, keine amtliche Auskunft und keine Entscheidung.
+
+---
+
+## 6. Aus der kommunalen Praxis: In einem unsicheren Landesjahr trägt das Bundesprogramm
+
+Der Quartierspark zeigt ein Muster, das für 2027 wichtig wird: **Ein Vorhaben, das aus einem Bundesprogramm finanziert ist, hängt nicht an der Verkündung eines Landeshaushalts.** Dasselbe gilt für die Kommunalarm-Mittel aus dem Sondervermögen Infrastruktur, die aus Bundesmitteln nach dem LuKIFG gespeist werden.
+
+👉 **Daraus folgt eine Priorisierungsregel für das Investitionsprogramm 2027:** Vorhaben, deren Finanzierung aus **Bundesmitteln oder aus einem Sondervermögen** kommt, sind terminlich belastbarer als Vorhaben, die auf einen **Landeshaushaltstitel** warten. Das ist kein Argument gegen Landesprogramme — aber ein Argument dafür, die Reihenfolge der Maßnahmen danach zu sortieren.
+
+⚠️ **Prüffrage, nicht geklärt:** Ob ein **Sondervermögen** von der vorläufigen Haushaltsführung des Landes überhaupt erfasst wird oder einem eigenen Wirtschaftsplan folgt, ist in den Quellen nicht beantwortet. Diese Frage gehört in das nächste Telefonat mit der Investitionsbank.
+
+---
+
+## 7. Konkret für Hettstedt
+
+### 7.1 Der Quartierspark ist im Bau — Baubeginn war der 30. September
+
+**Das erste konkrete Hettstedt-Ergebnis seit Tagen, und es ist ein gutes.**
+
+| Angabe | Wert |
+|---|---|
+| Offizieller Baubeginn | **30.09.2026** |
+| Fläche | **13.000 m²**, zwischen **Birkenhain und Kiefernweg** |
+| Förderung | **2,55 Mio. €** |
+| Gesamtvolumen | **rund 3 Mio. €** |
+| Programm | Bundesprogramm **„Anpassung urbaner und ländlicher Räume an den Klimawandel"** |
+| Ausstattung | barrierefrei, multifunktional; klimaresiliente Bäume und Sträucher, ökologische Regenwasserbewirtschaftung, Biodiversität |
+
+Daneben vermeldet die Stadt neue **Pflanzcontainer und eine Rutsche für die Kita „Weltentdecker"**.
+
+📐 **Eigene Überschlagsrechnung:** Aus Förderung 2,55 Mio. € und Gesamtvolumen rund 3 Mio. € folgt ein **Eigenanteil von grob 0,45 Mio. €**, also etwa **15 %**. Beide Ausgangszahlen sind gerundet überliefert; die exakte Aufteilung steht im Zuwendungsbescheid.
+
+**Drei Punkte, die jetzt in die Haushaltsplanung 2027 gehören:**
+
+1. **Folgekosten der Unterhaltung.** 13.000 m² Parkanlage mit Gehölzen, Wegen und Spielgeräten erzeugen ab Fertigstellung eine **dauerhafte Last im Ergebnishaushalt** — Pflege, Baumkontrolle, Spielplatzprüfung, Verkehrssicherung. Unter einer **Konsolidierungsauflage** ist jede neue dauerhafte Unterhaltungslast begründungsbedürftig. Die Zahl ist vom **Bauhof** je Quadratmeter zu rechnen; dieses Briefing schätzt sie nicht, weil eine erfundene Zahl in einer Vorlage schädlicher ist als keine.
+2. **Zweckbindungsfrist.** Bundesprogramme binden die geförderte Anlage für eine bestimmte Dauer an ihren Zweck. Die Frist steht im Zuwendungsbescheid und begrenzt künftige Umnutzungen oder Veräußerungen — sie ist in der Anlagenbuchhaltung und im Liegenschaftsverzeichnis zu vermerken.
+3. **Ist Landesgeld in der Finanzierung?** Falls die 2,55 Mio. € eine **Landes-Kofinanzierung** enthalten, trifft sie die Unsicherheit über den Landeshaushalt 2027 (→ Ziffer 5, Nr. 3: Fortsetzung ist gedeckt, **wenn** Beträge im Haushaltsplan eines Vorjahres veranschlagt waren). Bei einem reinen Bundesprogramm besteht dieses Risiko nicht. Die Antwort steht im Bescheid.
+
+### 7.2 Was Art. 94 Verf LSA für Ihren Haushaltsentwurf 2027 bedeutet
+
+**Dieses Briefing hat Ihnen bisher empfohlen, die Einnahmen 2027 „nach Rechtsgrundlage" zu sortieren. Mit dem Normtext lässt sich das Kriterium schärfen.**
+
+| Einnahmeart | Lage unter dem Haushaltsvorgriff | Folge für die Planung |
+|---|---|---|
+| **Schlüsselzuweisungen nach FAG** | fallen unter „rechtlich begründete Verpflichtungen des Landes" — **wenn** für 2027 eine FAG-Regelung mit festgesetzter Finanzausgleichsmasse existiert | ⚠️ Fehlt diese Regelung, ist genau hier die Lücke. Die Frage, ob und in welcher Höhe ohne FAG-2027-Regelung zu zahlen ist, ist **Rechtsfrage** — beim Ministerium der Finanzen erfragen, nicht annehmen |
+| **Laufende Zuwendungen für begonnene Bauten und Beschaffungen** | Fortsetzung ausdrücklich zulässig — **Voraussetzung:** Beträge waren im Haushaltsplan eines **Vorjahres** veranschlagt | belastbar planbar; Nachweis der Vorjahresveranschlagung im Bescheid oder beim Zuwendungsgeber sichern |
+| **Erstbewilligungen aus neuen Programmen** | von Nr. 3 **nicht gedeckt**, wenn keine Vorjahresveranschlagung vorliegt | Vorhaben, die auf einen neuen Landes-Förderaufruf 2027 warten, **nicht als gesicherte Einnahme veranschlagen** |
+| **Bundesmittel und Sondervermögen** (Kommunalarm, Bundesprogramme) | eigene Rechtsgrundlage, vom Landeshaushalt nicht abhängig ⚠️ Behandlung von Sondervermögen nicht abschließend geklärt | terminlich belastbarste Kategorie |
+| **Eigene Erträge** (Steuern, Gebühren, Beiträge) | unberührt | unverändert |
+
+👉 **Neues, schärferes Kriterium für die Sortierung:** Nicht nur „welche Rechtsgrundlage?", sondern **„war der Landeshaushaltstitel, aus dem diese Einnahme kommt, im Haushaltsplan eines Vorjahres veranschlagt?"** Nur dann greift die Fortsetzungsermächtigung des Art. 94 Nr. 3. **Stelle:** Kämmerei. **Frist:** vor Einbringung des Entwurfs 2027.
+
+### 7.3 Der Liquiditätskreditrahmen des Kreises — wie er in der Umlagediskussion zu lesen ist
+
+Der genehmigte Höchstbetrag von **250 Mio. €** (→ Ziffer 3) ist für die Umlagediskussion in zwei Richtungen bedeutsam, und beide Richtungen sollten Sie kennen, bevor Sie argumentieren:
+
+- **Er stützt die Bedarfsdarstellung des Kreises.** Ein Rahmen dieser Größe wird nicht genehmigt, wenn die Zahlungsfähigkeit gesichert wäre. Das Argument „der Kreis nimmt zu viel" wird dadurch **nicht** besser.
+- **Er zeigt, dass das Problem struktureller Natur ist.** Ein Landkreis, der seinen laufenden Betrieb über einen Liquiditätsrahmen im dreistelligen Millionenbereich absichert, saniert sich nicht über die Umlage der Gemeinden. Das ist ein Argument dafür, die **Landesebene** als Adressaten zu benennen — und deckt sich mit der eigenen Kommunalverfassungsbeschwerde des Kreises in Karlsruhe.
+
+👉 **Zwei Angaben erfragen, die in den Quellen fehlen:** die **tatsächliche Inanspruchnahme** der Liquiditätskredite und den daraus folgenden **Zinsaufwand im Ergebnishaushalt**. Der Zinsaufwand belastet das Ergebnis und damit mittelbar den Umlagebedarf — er ist die Brücke zwischen der Liquiditätslage und der Umlagehöhe. **Stelle:** Kämmerei des Landkreises; hilfsweise über den Bürgerinformationsdienst. **Frist:** vor dem Entwurf des Kreishaushalts 2027.
+
+### 7.4 Ausgleichsstock: der Präzedenzfall von 2024 für FAG-bedingte Verluste
+
+**Ausdrücklich ein Altvorgang, kein laufendes Programm.** Im Jahr 2024 gab es eine Regelung des Ministeriums der Finanzen, nach der **kreisangehörige Gemeinden**, die durch die Umsetzung des horizontalen Gutachtens im **FAG 2024** geringere Landeszuweisungen erhielten, **zusätzliche Bedarfszuweisungen** beantragen konnten — im vereinfachten Verfahren, Antragsfrist **30.09.2024**, Zahlung aus dem **Ausgleichsstock**, unter der Bezeichnung **„FAG-Ausgleichszahlung 2024"**.
+
+**Warum das heute zählt:** Es ist der **dokumentierte Präzedenzfall**, dass das Land **FAG-bedingte Einzahlungsverluste kreisangehöriger Gemeinden über den Ausgleichsstock ausgleicht**. Sollte eine FAG-Regelung 2027 zu Verlusten führen, ist das das Argumentationsmuster — mit Fundstelle, nicht als Wunsch.
+
+📐 **Eigene Überschlagsrechnung zur Einordnung Ihrer eigenen Lage:** Das Volumen des Ausgleichsstocks beträgt für das Haushaltsjahr 2026 **40,9 Mio. €** für Bedarfszuweisungen **und** zinslose rückzahlbare Liquiditätshilfen **aller** Kommunen des Landes. Die Bedarfszuweisung für Hettstedt beläuft sich auf **10.119.796,00 €**. Das sind grob **ein Viertel des Jahresvolumens** für eine Stadt mit rund 14.000 Einwohnern.
+
+👉 **Die Konsequenz ist unbequem, aber sie ist die richtige Planungsannahme:** Mit einer zweiten Bedarfszuweisung dieser Größenordnung ist nicht zu rechnen. Die Konsolidierungsauflagen sind zu erfüllen — sie sind der Preis dieser Zuweisung, und die Größenverhältnisse erklären, warum die Kommunalaufsicht darauf besteht.
+
+### 7.5 Übriger Stand
+
+**Nichts Neues** zu Anschlussbahn, REGENT, HIP, H2HET, Wärmeplanung, Bekanntmachungspraxis und Kreisbrandmeister. Die **Anfrage zum Kreishaushalt 2027** ist am **fünfzehnten Tag ohne Antwort** — die Beobachtung über den **Bürgerinformationsdienst** des Landkreises bleibt der praktikablere Weg.
+
+---
+
+## 8. Ihre Termine und Fristen
+
+| Frist | Gegenstand | Relevanz für Hettstedt |
+|---|---|---|
+| **Heute, 06.10.2026, 11 Uhr** | Konstituierende Sitzung; Wahl des Landtagspräsidenten (**Rausch, 44 Stimmen angekündigt**); Geschäftsordnung und Ausschussgrößen weiter offen | hoch |
+| **Dezember 2026** | **Ministerpräsidentenwahl, 1. Wahlgang — von Siegmund angekündigt**; AfD fehlen drei Stimmen, BSW will sich enthalten | höchste — das Signal |
+| **diese Woche** *(intern)* | **Prüfen: Liegt ein Haushaltsentwurf 2027 als Landtagsdrucksache vor, und enthält er eine FAG-Regelung?** | höchste |
+| **31.12.2026** | Letzter Termin für ein Haushaltsgesetz 2027 — danach **Haushaltsvorgriff nach Art. 94 Verf LSA** ab 01.01.2027 | höchste |
+| **31.12.2026** | Auslaufen KiFöG-Geschwisterregelung und Ausgleichszahlungen — Konnexitätsfall | hoch |
+| **31.10.2026** *(intern)* | Maßnahmenliste Städtebauförderung finalisieren | hoch |
+| **06.11.2026** | Ende Vollsperrung Arnstedter Weg | örtlich |
+| **30.11.2026** | Antragsfrist Städtebauförderung (StäBauFRL) ⏰ | hoch |
+| **Q4 2026** *(intern)* | Einnahmen 2027 nach **Vorjahresveranschlagung** sortieren; Folgekosten Quartierspark rechnen; Leistungsbeschreibung Wärmeplanung; Ausschussbesetzung prüfen | hoch |
+| **Herbst 2026** *(erwartet)* | Entwurf Kreishaushalt 2027 — über Bürgerinformationsdienst beobachten | hoch — fünfzehnter Tag ohne Antwort |
+| **offen** | Angekündigtes Verfahren vor dem Landesverfassungsgericht zur Ausschussgröße | mittelbar |
+| **31.03.2027** | Nächster Antragstermin Sachsen-Anhalt REGIO | hoch |
+| **offen** | GRW-Landesregelungen — Veröffentlichung abwarten | hoch |
+| **laufend** | REVIER 2038 (IB) — 90 %, Projektanmeldung vor Antrag | höchste |
+| **laufend** | Projektanzeige Kommunalarm (IB) | höchste |
+| **laufend** | Ausgleichsstock 2026, Volumen 40,9 Mio. € — keine belegte Frist | hoch |
+| **laufend** | Projektaufruf LAG Mansfeld-Südharz ⚠️ | hoch — Frist erfragen |
+| **31.08.2027** | Vereinssportstättenbau, Förderjahr 2028 | mittel |
+| **30.06.2028** | Kommunale Wärmeplanung (unter 100.000 EW) — Konnexitätsfall, Vergabe 2027 | hoch |
+| **offen** | FAG 2027 und Landeshaushalt 2027 — rund 4,3 Mrd. € Landeszahlungen ohne Grundlage | höchste |
+| **offen** | BVerfG-Verfahren MSH/Salzlandkreis | hoch — Kreisumlage |
+
+---
+
+## 9. Empfohlene Handlungen dieser Woche
+
+1. **Klären, ob ein Haushaltsentwurf 2027 im Landtag liegt — und ob er eine FAG-Regelung enthält.** *Ziffer 1. Das ist die wichtigste Einzelinformation für Ihre Planung; sie ist über die Drucksachen des Landtages oder eine Nachfrage beim Städte- und Gemeindebund zu bekommen.*
+2. **Einnahmen 2027 nach dem geschärften Kriterium sortieren:** War der Landeshaushaltstitel im Haushaltsplan eines Vorjahres veranschlagt? *Ziffer 7.2 — nur dann greift die Fortsetzungsermächtigung.*
+3. **Folgekosten des Quartierparks durch den Bauhof rechnen lassen** und in die Finanzplanung ab Fertigstellung einstellen; Zweckbindungsfrist aus dem Zuwendungsbescheid in die Anlagenbuchhaltung übernehmen; prüfen, ob Landes-Kofinanzierung enthalten ist. *Ziffer 7.1.*
+4. **Beim Landkreis die tatsächliche Inanspruchnahme der Liquiditätskredite und den Zinsaufwand erfragen.** *Ziffer 7.3 — die Brücke zwischen Liquiditätslage und Umlagehöhe.*
+5. **Investitionsbank anrufen:** Kommunalarm-Pauschalbudget, Eigenanteilsfrage REVIER 2038 — und neu die Frage, ob ein Sondervermögen von einer vorläufigen Haushaltsführung des Landes berührt wird. *Ziffer 6.*
+6. **Spiegelbildlichkeit der Ausschussbesetzung im Stadtrat prüfen** — Geschäftsordnung, tatsächliche Besetzung, Zuteilungsverfahren, Veränderungen seit 2024. *Ziffer 7.1 der Ausgabe vom 05.10.*
+7. **Vorbericht 2027:** drittes Szenario ergänzen und den Haushaltsvorgriff nach Art. 94 Verf LSA als Rechtsfolge ausdrücklich benennen — nicht nur als Schlagwort.
+8. **Übriges** unverändert: Genehmigungsbescheid Kreishaushalt 2026 samt Auflagen anfordern; Konnexitätsdifferenz dokumentieren (Wärmeplanung beim MWU oder über LENA, KiFöG zweistufig); OVG-Entscheidung 3 L 48/24 beschaffen; Sachstand Anschlussbahn und REGENT; Termin SEG-MSH zu HIP; H2HET und HIP zusammenführen; Nachbarkommunen zu GRW und Kreisumlage; Antrittstermin Kreisbrandmeister Kujas; Städtebauförderung finalisieren; Ausgleichsstock/Gerbstedt auswerten; Bekanntmachungspraxis; TVergG-Fassung; LAG-Frist.
+
+---
+
+## 10. Quellennachweis
+
+**Konstituierung, Präsidentenwahl und Ministerpräsidentenwahl**
+- webnachrichten.de, „Sachsen-Anhalt: AfD und BSW wollen Rausch zum Landtagspräsidenten wählen": https://www.webnachrichten.de/politik/sachsen-anhalt-afd-und-bsw-wollen-rausch-zum-landtagspraesidenten-waehlen-zr-94526451.html
+- ad-hoc-news.de, „Sachsen-Anhalt: AfD will mit BSW-Hilfe erstmals Landtagspräsidenten stellen": https://www.ad-hoc-news.de/politik/sachsen-anhalt-afd-will-mit-bsw-hilfe-erstmals-landtagspraesidenten-stellen/70238058
+- ZDFheute, „Sachsen-Anhalts konstituierende Sitzung: Dem Landtag stehen schwierige Zeiten bevor": https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-landtag-konstituierende-sitzung-afd-100.html
+- Berliner Zeitung, „AfD-Wahlsieger Siegmund legt sich fest: ‚Ich stelle mich im Dezember zur Wahl'": https://www.berliner-zeitung.de/article/sachsen-anhalt-siegmund-ministerpraesident-dezember-10442948
+- ZDFheute, „Siegmund will im Dezember Regierungschef werden": https://www.zdfheute.de/politik/deutschland/siegmund-will-ministerpraesident-magdeburg-100.html
+- Volksstimme, „Ulrich Siegmund: AfD-Kandidat setzt auf absolute Mehrheit im ersten Wahlgang": https://www.volksstimme.de/sachsen-anhalt/landespolitik/ulrich-siegmund-ministerpraesidentenwahl-afd-kandidat-4329460
+- t-online, „Konstituierung Landtag Sachsen-Anhalt: Werden es mehr als 44 Stimmen?": https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101466126/konstituierung-landtag-sachsen-anhalt-werden-es-mehr-als-44-stimmen-.html
+- Landtag Sachsen-Anhalt, „Konstituierung findet am 6. Oktober statt": https://www.landtag.sachsen-anhalt.de/artikel/konstituierung-findet-am-6-oktober-statt
+- it-boltwise.de, „Sachsen-Anhalt: Koalitionsgespräche für Regierungsbildung gehen weiter": https://www.it-boltwise.de/sachsen-anhalt-koalitionsgespraeche-fuer-regierungsbildung-gehen-weiter.html
+
+**Haushaltsvorgriff und Haushaltsführung nach der Wahl**
+- Verfassung Sachsen-Anhalt, Art. 94 Haushaltsvorgriff (Normwiedergabe) ⚠️: https://www.haufe.de/id/norm/verfassung-sachsen-anhalt-art-94-haushaltsvorgriff-HI8635922_p94.html
+- Landtag Sachsen-Anhalt, Verfassung des Landes Sachsen-Anhalt (PDF, Primärquelle für die Gegenprüfung): https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Verzeichnisse_Sitzordnung_Plenarsaal/Verfassung_des_Landes_Sachsen-Anhalt.pdf
+- Landtag Sachsen-Anhalt, Landesverfassung, Handbuch 8. WP, Stand 01.06.2026 (PDF): https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Rechtsgrundlagen/Gesetze_8.WP/20260601_Landesverfassung_LV1.pdf
+- Verfassungsblog, Simon Diethelm Meyer, „Alte Regierung, neuer Haushalt: Zur Haushaltsführung in Sachsen-Anhalt nach der Landtagswahl" (16.09.2026): https://verfassungsblog.de/haushalt-sachsen-anhalt/
+- Landesrecht Sachsen-Anhalt, Landeshaushaltsordnung (LHO): https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-HOSTrahmen
+
+**Quartierspark Hettstedt**
+- Stadt Hettstedt, News und Pressemitteilungen: https://www.hettstedt.de/neuigkeiten/news-pressemitteilungen/pressemitteilungen/
+- Radio Brocken, „Schöner neuer Park erfreut die Seele": https://www.radiobrocken.de/nachrichten/Gute-Nachricht-aus-Sachsen-Anhalt/Sch%C3%B6ner-neuer-Park-erfreut-die-Seele-id1731204.html
+- Stadt Hettstedt, Einstiegsberatung Kommunaler Klimaschutz (PDF): https://www.hettstedt.de/fileadmin/redaktion/Dokumente/Wohnen_Leben/Kommunaler_Klimaschutz.pdf
+- Stadt Hettstedt, Veranstaltungskalender: https://www.hettstedt.de/aktuelles/veranstaltungskalender
+
+**Ausgleichsstock, Bedarfszuweisungen und FAG**
+- Ministerium der Finanzen, „Bedarfszuweisungen aus dem Ausgleichsstock für kreisangehörige Gemeinden — Übergangsregelung zum Ausgleich von Einzahlungsverlusten infolge des neuen Finanzausgleichsgesetzes" (Altvorgang 2024): https://mf.sachsen-anhalt.de/ministerium-der-finanzen/news-detail/bedarfszuweisungen-aus-dem-ausgleichstock-fuer-kreisangehoerige-gemeinden-uebergangsregelung-zum-ausgleich-von-einzahlungsverlusten-infolge-des-neuen-finanzausgleichsgesetzes
+- Ministerium der Finanzen, Kommunaler Finanzausgleich: https://mf.sachsen-anhalt.de/finanzen/kommunaler-finanzausgleich
+- Ministerium der Finanzen, FAG 2025/2026 (PDF): https://mf.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MF/Dokumente/Finanzen/Kommunaler_Finanzausgleich/2025/FAG_2025-2026.pdf
+- Landesverfassungsgericht Sachsen-Anhalt, Leitsätze zum Urteil vom 21.01.2025, kommunaler Finanzausgleich (PDF; Aktenzeichen aus dem Dokument zu entnehmen) ⚠️: https://mf.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MF/Dokumente/Finanzen/Kommunaler_Finanzausgleich/2025/LVerfG-LSA_20250121_23-05_Urteil_ANONYM_u.pdf
+
+**Landkreis Mansfeld-Südharz**
+- Landesverwaltungsamt, „Landkreis Mansfeld-Südharz: Haushalt 2026 im zweiten Anlauf genehmigt — Auflagen sollen Haushaltslage stabilisieren": https://lvwa.sachsen-anhalt.de/das-lvwa/news-details/landkreis-mansfeld-suedharz-haushalt-2026-im-zweiten-anlauf-genehmigt-auflagen-sollen-haushaltslage-stabilisieren
+- Landkreis Mansfeld-Südharz, Meldungen: https://www.mansfeldsuedharz.de/aktuell/meldungen
+- Landkreis Mansfeld-Südharz, Kreistag und Bürgerinformationsdienst: https://www.mansfeldsuedharz.de/unser-service-ihr-ansprechpartner/kreistag
+
+**Spitzenverbände (Statusprüfung, nichts Neues)**
+- Landkreis Wittenberg, „Landkreise fordern bessere Finanzausstattung und umfassende Verwaltungsreformen": https://www.landkreis-wittenberg.de/landkreise-fordern-bessere-finanzausstattung-und-umfassende-verwaltungsreformen/
+- Kommunale Selbstverwaltung in Sachsen-Anhalt: https://www.kommunales-sachsen-anhalt.de/
+- Landkreistag Sachsen-Anhalt: https://lkt-st.de/
+
+**Fördermittel (Statusprüfung)**
+- IB Sachsen-Anhalt, Sondervermögen „Infrastruktur" — Kommunalarm: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/investieren-ausgleichen/sondervermoegen-infrastruktur/kommunalarm
+- IB Sachsen-Anhalt, Sachsen-Anhalt REVIER 2038: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/investieren-ausgleichen/revier-2038
+- IB Sachsen-Anhalt, Sachsen-Anhalt REGIO: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/zusammenleben/regio
+- Förderdatenbank des Bundes, Sachsen-Anhalt REVIER 2038: https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Sachsen-Anhalt/sachsen-anhalt-revier-2038.html
+
+---
+
+## Anlage: Stadtprofil Hettstedt — stehender Recherchekontext
+
+*Stand 06.10.2026. Diese Anlage gibt den Inhalt von `profil-hettstedt.md` wieder, damit die Ausgabe als Druckstück für sich steht. Das Profil wurde für diese Ausgabe um den Quartierspark, den Liquiditätskreditrahmen des Landkreises, den Inhalt des Art. 94 Verf LSA, den Dezember-Termin der Ministerpräsidentenwahl und drei neue Prüfaufträge erweitert. Maßgeblich und fortgeschrieben wird die Datei im Repository.*
 
 Dieses Profil ist der stehende Kontext für jede Ausgabe. Es beantwortet die Frage,
 welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht.
 
-## Eckdaten
+### Eckdaten
 
 | Merkmal | Wert |
 |---|---|
@@ -13,7 +278,7 @@ welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht
 | Gemeindetyp | Einheitsgemeinde, kreisangehörig |
 | Website | hettstedt.de |
 
-## Was sich daraus für die Einordnung von Landesvorgängen ergibt
+### Was sich daraus für die Einordnung von Landesvorgängen ergibt
 
 **Kreisangehörige Einheitsgemeinde** → Hettstedt ist beim **Sondervermögen Infrastruktur**
 unmittelbar eigener Empfänger eines Pauschalbudgets im Kommunalarm (Empfängerkreis:
@@ -49,7 +314,7 @@ seit 2002, Förderphase bis 2027. Ein ausgefülltes Projektdatenblatt ist Voraus
 die Entscheidung von Steuerungsgruppe und Mitgliederversammlung.
 Kontakt LEADER-Management: 03475 / 612 387 · lag-mansfeld-suedharz.de · lag-ms.de
 
-## Strukturwandel vor Ort: Hettstedt ist bereits Standort
+### Strukturwandel vor Ort: Hettstedt ist bereits Standort
 
 Wichtig für die Einordnung jeder Strukturwandelmeldung: In Hettstedt **läuft bereits ein
 gefördertes Vorhaben**. Die Frage lautet nicht mehr, ob die Stadt im Masterplan verankert ist,
@@ -134,7 +399,7 @@ vollständig sein.
 → **Der Hebel liegt im Wort „interkommunal":** 90 % gibt es nur gemeinsam mit Nachbarkommunen —
 denselben Gesprächspartnern, mit denen die Kreisumlage abzustimmen ist.
 
-## Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
+### Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
 
 Für die Einordnung jeder FAG-Meldung wichtig: **Rund die Hälfte der Landeszahlungen an die Kommunen
 läuft nicht über den Finanzausgleich.**
@@ -258,7 +523,7 @@ Kassenstatistik, die Inflationsrate (September 2026: **3,4 %**) und den Dieselpr
 gegenüber September 2025, unmittelbar relevant für Bauhof, Winterdienst und Feuerwehr). Eine
 Konsolidierungsauflage, die auf Ausgabendisziplin zielt, adressiert damit nicht die Ursache.
 
-## Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
+### Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
 
 Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
 
@@ -315,7 +580,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 06.10.2026)
+### Laufende lokale Vorgänge (Stand 06.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -334,7 +599,7 @@ Landkreis ist für Hettstedt berichtspflichtig.
 - **Kostenbeiträge Kindertagespflege** — Anpassung; Klarstellungen der Stadt zu Artikeln
   vom 19.02. und 14.03.2026.
 
-## Verwaltungsorganisation — belegte Zuständigkeiten
+### Verwaltungsorganisation — belegte Zuständigkeiten
 
 | Gegenstand | Stelle / Quelle |
 |---|---|
@@ -353,7 +618,7 @@ Geschwisterregelung Bezug? Läuft die landesrechtliche Grundlage aus, während d
 voraussetzt, entsteht zum 01.01.2027 ein **Satzungswiderspruch** mit unmittelbarer Wirkung auf die
 Beitragserhebung.
 
-## Bekanntmachungswesen
+### Bekanntmachungswesen
 
 Der Stadtrat hat am **09.07.2024** beschlossen, das **Amtsblatt in der bisherigen Form
 abzuschaffen**. Öffentliche Bekanntmachungen erfolgen seither **über die Website der Stadt**,
@@ -366,7 +631,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 06.10.2026)
+### Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 06.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -384,7 +649,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Ist die Besetzung der **Ausschüsse des Stadtrates spiegelbildlich** zu den Fraktionsstärken? | Streit um die Ausschussbesetzung im Landtag vor der Konstituierung am 06.10.2026 macht auf eine Pflicht aufmerksam, die in der laufenden Wahlperiode leicht aus dem Blick gerät. Drei Prüffragen: (1) entspricht die tatsächliche Besetzung den aktuellen Fraktionsstärken, (2) welches Zuteilungsverfahren schreibt die Geschäftsordnung des Stadtrates vor (d’Hondt, Sainte-Laguë/Schepers, Hare/Niemeyer) und wird es angewandt, (3) haben sich die Fraktionsstärken seit der Kommunalwahl 2024 durch Wechsel, Austritte oder Mandatsniederlegungen verändert, ohne dass die Ausschüsse neu besetzt wurden? Maßgeblich sind **KVG LSA und die Geschäftsordnung des Stadtrates**; die zur Spiegelbildlichkeit zitierte Rechtsprechung des OVG NRW betrifft anderes Landesrecht und ist nur Argumentationsmuster. **Es liegt kein Anhaltspunkt für einen Verstoß in Hettstedt vor** — der Prüfpunkt steht vorsorglich hier, weil eine fehlerhafte Besetzung im Kommunalverfassungsstreit angreifbar ist und vorberatene Beschlüsse in Frage stellen kann. |
 | **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
-## Wiederkehrende Antragsfristen
+### Wiederkehrende Antragsfristen
 
 | Frist | Programm | Hinweis |
 |---|---|---|
@@ -398,7 +663,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | unbelegt | Ausgleichsstock (Volumen 2026: **40,9 Mio. €** für Bedarfszuweisungen **und** zinslose rückzahlbare Liquiditätshilfen aller Kommunen des Landes) | feste Antragsfrist ließ sich nicht belegen — beim MF erfragen. **Präzedenz 2024:** „FAG-Ausgleichszahlung 2024“ — kreisangehörige Gemeinden mit Einzahlungsverlusten durch das neue FAG konnten im vereinfachten Verfahren bis **30.09.2024** zusätzliche Bedarfszuweisungen aus dem Ausgleichsstock beantragen (**Altvorgang, kein laufendes Programm**) — das Argumentationsmuster, falls der FAG 2027 Verluste bringt. 📐 *Eigene Überschlagsrechnung:* Die Bedarfszuweisung für Hettstedt (10.119.796,00 €) entspricht grob **einem Viertel** des Jahresvolumens — mit einer zweiten Zuweisung dieser Größenordnung ist nicht zu rechnen, die Konsolidierungsauflagen sind der Preis dieser einen. |
 | unbelegt | LEADER-Projektaufruf LAG MSH | Aufruf seit 01.07.2026 ⚠️; Einreichungsfrist beim LEADER-Management erfragen |
 
-## Feste Anlaufstellen
+### Feste Anlaufstellen
 
 | Anliegen | Stelle |
 |---|---|
