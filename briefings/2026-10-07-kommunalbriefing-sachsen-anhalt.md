@@ -1,9 +1,260 @@
-# Stadtprofil Hettstedt — Recherchekontext für das Kommunalbriefing
+# Kommunalbriefing Sachsen-Anhalt — Mittwoch, 7. Oktober 2026
+
+**Adressat:** Bürgermeister der Stadt Hettstedt, Landkreis Mansfeld-Südharz (rd. 14.000 EW)
+**Schwerpunkte:** Gesetzesänderungen · Fördermittel · Landespolitik mit Kommunalbezug
+**Redaktionsschluss:** 07.10.2026
+**Berichtszeitraum:** seit dem 06.10.2026
+
+> **Quellenhinweis:** Direkte Seitenabrufe (WebFetch) bleiben durch die Egress-Policy gesperrt. Die Inhalte stammen aus Websuche-Treffern und deren Zusammenfassungen, soweit möglich zwischen mehreren Treffern abgeglichen. Einzelfundstellen sind mit ⚠️ markiert und vor einer Verwendung in Beschlussvorlagen an der Primärquelle zu verifizieren.
+
+---
+
+## 1. Lage des Tages: Der Landtag ist konstituiert — die Ausschussgröße bleibt offen
+
+**Die 9. Wahlperiode hat begonnen. Von den 83 gewählten Abgeordneten waren 82 anwesend.**
+
+### Die Wahlergebnisse
+
+| Amt | Gewählt | Ergebnis |
+|---|---|---|
+| **Landtagspräsident** | **Tobias Rausch** (AfD) | **48 Ja**, 19 Nein, bei 82 teilnehmenden Abgeordneten; absolute Mehrheit 42 |
+| **Vizepräsident** | **Dr. Hans-Thomas Tillschneider** (AfD) | gewählt |
+| **Vizepräsident** | **Carsten Borchert** (CDU) | gewählt |
+| **Vizepräsident (3. Posten)** | — | **vorerst unbesetzt**: SPD-Kandidat **Armin Willingmann** erhielt **33 Ja** gegen **48 Nein** |
+
+Mit der Wahl mindestens eines Vizepräsidenten neben dem Präsidenten ist der Landtag der 9. Wahlperiode **wirksam konstituiert**; Präsident Rausch hat dies festgestellt und die erste Sitzung geschlossen. Es ist der **erste AfD-Landtagspräsident in der Geschichte der Bundesrepublik**.
+
+📐 **Eigene Überschlagsrechnung aus den Stimmzahlen:** 48 Ja und 19 Nein ergeben 67 abgegebene Wertungen bei 82 Teilnehmern — **rund 15 Enthaltungen oder ungültige Stimmen**. AfD und BSW verfügen zusammen über **44** Sitze; bei 48 Ja-Stimmen müssen **mindestens vier** Abgeordnete aus anderen Fraktionen zugestimmt haben. ⚠️ Mehrere Medien vermuten CDU-Stimmen; belegt ist das nicht, und bei geheimer Wahl ist es auch nicht belegbar. SPD-Bundesvorsitzender Klingbeil sieht Klärungsbedarf bei der CDU.
+
+### Die entscheidende Zahl fehlt: Wie groß werden die Ausschüsse?
+
+**Hier muss ich einen Widerspruch benennen statt ihn aufzulösen.**
+
+- Der Landtag hat nach eigener Mitteilung **eine neue Geschäftsordnung für die 9. Wahlperiode beschlossen** — **ohne dass in den mir vorliegenden Quellen die Ausschussgröße genannt wird**.
+- Ein Liveblog trägt im Titel, es habe „kurzzeitiges Chaos" gegeben und die **AfD wolle die Geschäftsordnung „nun doch nicht ändern"** ⚠️. Das spricht dafür, dass der Änderungsversuch zur Ausschussgröße **nicht** durchgesetzt wurde — **belegt ist das nicht**, und ein Liveblog-Titel ist keine Beschlusslage.
+
+**Was damit nicht geklärt ist:** ob die Ausschüsse **elf** Mitglieder haben (Empfehlung der Landtagsverwaltung, AfD fünf Sitze) oder **zwölf** (Forderung der AfD-Fraktion, AfD sechs Sitze und damit 6:6). Mehrere Fraktionen hatten für den Fall der Zwölfer-Lösung ein Verfahren vor dem **Landesverfassungsgericht** angekündigt.
+
+👉 **Nächster Schritt:** Der Beschlusstext der Geschäftsordnung und das Protokoll der konstituierenden Sitzung sind die Primärquellen. Beides wird über die Drucksachen und Protokolle des Landtages verfügbar; bis dahin bleibt die Ausschussgröße in diesem Briefing **offen**.
+
+---
+
+## 2. Kommunale Spitzenverbände
+
+**Nichts Neues.** Stand unverändert: zehn Kernforderungen des Landkreistages aus der 122. Landrätekonferenz vom 10./11.09.2026, im Zentrum ein aufgabengerecht finanzierter Finanzausgleich und ein zweistufiger Verwaltungsaufbau; Kassenkredite der Kommunen 1,7 Mrd. €.
+
+---
+
+## 3. Kommunalfinanzen: Die Haushaltslücke des Landes für 2027 liegt bei deutlich mehr als einer Milliarde Euro
+
+**Das ist der wichtigste neue Befund des Tages — und der Rahmen, in dem über die Finanzausgleichsmasse 2027 entschieden wird.**
+
+| Angabe | Wert |
+|---|---|
+| **Lücke im Landeshaushalt 2027** | **deutlich mehr als 1 Mrd. €**, nach den ersten Anmeldungen der Ressorts |
+| **Verfügbare Mittel der Ministerien 2027** | **21 % weniger als 2025**, nach Abzug der Personalkosten |
+| **Verfügbare Mittel der Ministerien 2028** | **25 % weniger** |
+| **Belastung durch den letzten Tarifabschluss** | **500 Mio. €** über **27 Monate** |
+| **Personal** | Finanzminister **Michael Richter** (CDU): Personal müsse weiter reduziert werden, „sonst ist die Haushaltslücke nicht einmal annähernd zu schließen" — Einstellungsstopp mit Ausnahmen für **Polizei und Schulen** |
+| **Wer den Entwurf einbringt** | Richter sieht die **geschäftsführende Landesregierung** in der Verantwortung, wenn bis Jahresende keine neue Regierung gebildet ist; es hänge davon ab, ob noch in diesem Jahr ein Ministerpräsident gewählt wird |
+
+⚠️ **Einschränkung zur Datierung:** Das genaue Datum dieser Äußerungen ließ sich nicht belegen. Die Zahlen stimmen zwischen **zwei unabhängigen Fundstellen** überein (Landesrundfunk-Meldung und regionale Nachrichtenseite); die Zuordnung zu einem Tag fehlt. Vor Verwendung in einer Beschlussvorlage ist die Primärquelle beim Ministerium der Finanzen zu beschaffen.
+
+✅ **Damit ist die wichtigste Empfehlung von gestern teilweise beantwortet:** Ein Haushaltsentwurf 2027 ist **nicht eingebracht**, und der Finanzminister selbst macht die Einbringung davon abhängig, ob noch 2026 ein Ministerpräsident gewählt wird. Nach der gestrigen Ankündigung Siegmunds für **Dezember** heißt das: Ein verkündetes Haushaltsgesetz 2027 vor dem 01.01.2027 ist nicht die Planungsannahme.
+
+---
+
+## 4. Fördermittel
+
+**Nichts Neues.** Kein neuer Aufruf, keine neue Frist, keine geänderte Kondition. Der Quartierspark (Baubeginn 30.09., 2,55 Mio. €) ist in der Ausgabe vom 06.10. behandelt; die dort benannten drei Prüfpunkte sind unverändert offen.
+
+---
+
+## 5. Gesetzesänderungen und Rechtsprechung: Die Parlamentsreform 2026 hält den Rechtsweg zum Landesverfassungsgericht offen
+
+**Im Gesetz- und Verordnungsblatt nichts Neues.** Keine für Kommunen relevante Verkündung ist für Oktober 2026 belegbar.
+
+**Neu für dieses Briefing ist dagegen ein Altvorgang, der heute praktisch wird.** Er gehört hierher, weil gestern Verfahren vor dem Landesverfassungsgericht angekündigt wurden und sich die Frage stellt, ob dieses Gericht überhaupt handlungsfähig bleibt.
+
+### Was die Parlamentsreform 2026 geändert hat
+
+Die Fraktionen **CDU, Die Linke, SPD, FDP und BÜNDNIS 90/DIE GRÜNEN** haben im **März 2026** einen gemeinsamen Gesetzentwurf eingebracht, der **im April 2026** nach namentlicher Abstimmung mit den Stimmen von **fünf der sechs Fraktionen** beschlossen wurde. Ziel: die Arbeitsfähigkeit der Verfassungsorgane auch bei zunehmender Fragmentierung und Polarisierung sichern.
+
+| Gegenstand | Änderung |
+|---|---|
+| **Wahl der Verfassungsrichter** | **Scheitert die Richterwahl im Landtag, darf künftig das Landesverfassungsgericht selbst Wahlvorschläge einreichen; für diese Kandidaten genügt die absolute Mehrheit** |
+| Landesverfassungsgericht | wird in seinem Bestand abgesichert |
+| Landeszentrale für politische Bildung | Existenz gesetzlich verankert |
+| Konstituierende Sitzung | gegen Vereinnahmung geschützt |
+| Vorschlagsrecht Landtagspräsident | **nicht mehr allein der stärksten Fraktion** vorbehalten |
+| Staatsverträge | Kündigung nur auf demselben Weg wie der Abschluss — durch Landtagsbeschluss |
+| Kreuzbeschäftigung | verboten |
+| Mitarbeiter je Abgeordneten | auf **fünf** begrenzt |
+| 8. Mai und 17. Juni | gesetzliche Gedenktage |
+
+⚠️ **Nicht zu verwechseln mit der Parlamentsreform 2020.** Dieses Briefing hat am 20. und 23.09. auf die Reform **2020** Bezug genommen — dort war die Pflicht entfallen, den ersten Wahlgang zur Ministerpräsidentenwahl binnen 14 Tagen nach der Konstituierung durchzuführen. Das sind zwei verschiedene Vorgänge; die Verwechslungsgefahr ist hoch, und beide Angaben bleiben wie berichtet gültig.
+
+### Warum das für Hettstedt zählt
+
+**Der Weg zum Landesverfassungsgericht ist der Rechtsweg der Gemeinden gegen einen Finanzausgleich** — die kommunale Verfassungsbeschwerde wegen Verletzung des Rechts auf Selbstverwaltung. Dass die Besetzung des Gerichts gegen eine Blockade im Landtag abgesichert ist, **hält diesen Weg offen, unabhängig davon, wie die Mehrheiten im Plenum liegen**.
+
+⚠️ Ausdrücklich: Dies ist **keine** Aussage darüber, dass eine Blockade der Richterwahl droht, und **keine** Empfehlung, diesen Weg zu gehen. Es ist die Feststellung, dass das Instrument verfügbar bleibt.
+
+---
+
+## 6. Aus der kommunalen Praxis: Die Berechnungsgrundlage im KiFöG
+
+Zur bekannten KiFöG-Lage (Geschwisterregelung und Ausgleichszahlungen von bis zu 10,7 Mio. €/Jahr befristet bis **31.12.2026**) tritt ein Detail, das für eine Gemeinde mit sinkender Kinderzahl bedeutsam ist:
+
+**Die Kinderzahl zum Stichtag 01.03.2024 dient als Berechnungsgrundlage der Landesförderung — nach der Fundstelle „bis 2027", womit eine konstante Landesförderung für drei Jahre garantiert sein soll.** ⚠️ Einzelfundstelle, und die Formulierung ist mehrdeutig: Ob 2027 noch von der eingefrorenen Grundlage erfasst ist oder das erste Jahr mit neuer Grundlage ist, geht aus der Quelle **nicht eindeutig** hervor.
+
+👉 **Warum das praktisch wird:** Ein Stichtag, der eingefroren ist, schützt eine Gemeinde mit **sinkender** Kinderzahl — die Förderung bleibt auf dem höheren alten Stand. Fällt der Schutz weg, sinkt die Förderung auf die tatsächliche Zahl. Für Hettstedt ist das in beiden Richtungen eine **rechenbare Größe** (→ Ziffer 7.2).
+
+---
+
+## 7. Konkret für Hettstedt
+
+### 7.1 Was die Milliardenlücke für Ihre Einnahmeseite 2027 bedeutet
+
+**Die Lücke des Landes ist keine abstrakte Landeszahl. Sie ist der Rahmen, in dem die Finanzausgleichsmasse festgesetzt wird — und sie trifft zwei verschiedene Arten kommunaler Einnahmen unterschiedlich.**
+
+Dieses Briefing hat am 28.09. die Struktur der Landeszahlungen ausgewiesen: **4.277,0 Mio. €** gesamt, davon **2.140,9 Mio. €** — rund die Hälfte — **außerhalb des FAG**, also in gewöhnlichen Haushaltstiteln der Ressorts.
+
+📐 **Eigene Überschlagsrechnung, ausdrücklich eine Größenordnung und keine Prognose:** Würde die genannte Ressortquote von **21 %** unverändert auf die kommunalen Titel **außerhalb des FAG** durchschlagen, entspräche das rund **450 Mio. €** — gut **10 %** aller Landeszahlungen an die Kommunen.
+
+⚠️ **Warum diese Rechnung bewusst vorsichtig zu lesen ist:** Die 21 % beziehen sich auf die **verfügbaren Mittel der Ministerien nach Abzug der Personalkosten**, nicht auf kommunale Zuweisungen. Zweckgebundene Bundes- und Strukturwandelmittel sind davon nicht erfasst, gesetzlich gebundene Leistungen ebenfalls nicht. Die Rechnung zeigt eine **Größenordnung des Risikos**, nicht einen erwarteten Betrag.
+
+👉 **Konsequenz für den Vorbericht 2027:** Bisher lautete die Empfehlung, Szenarien für den **FAG** auszuweisen. Das genügt nicht mehr. **Die Titel außerhalb des FAG brauchen ein eigenes Szenario** — sie sind nicht durch eine gesetzliche Verteilungsmasse geschützt, sondern unterliegen genau der Ressortkonsolidierung, über die der Finanzminister spricht. **Stelle:** Kämmerei. **Frist:** vor Einbringung des Entwurfs 2027.
+
+### 7.2 KiFöG: Die Differenz zur Stichtagszahl ausrechnen
+
+**Das ist eine Rechnung, die Ihr Eigenbetrieb an einem Vormittag erledigen kann, und sie beziffert ein Risiko, das sonst unbeziffert bleibt.**
+
+1. Kinderzahl der sieben Einrichtungen **zum 01.03.2024** feststellen — das ist die Zahl, auf der die Landesförderung beruht.
+2. Kinderzahl **heute** feststellen.
+3. Die **Differenz** ist das Volumen, das bei einem Wechsel der Berechnungsgrundlage entfällt oder hinzukommt.
+
+👉 **Stelle:** Eigenbetrieb der Kindertageseinrichtungen, Abstimmung mit der Kämmerei. **Frist:** zusammen mit den KiFöG-Szenarien für den Vorbericht, Q4 2026. **Zusätzlich beim Ministerium für Arbeit, Soziales und Integration klären:** Gilt die eingefrorene Grundlage für 2027 noch oder nicht? Die Quellenlage ist hier mehrdeutig.
+
+### 7.3 Der Rechtsweg zum Landesverfassungsgericht bleibt verfügbar
+
+Die kommunale Verfassungsbeschwerde beim **Landesverfassungsgericht Sachsen-Anhalt** ist ein **eigener Weg** — nicht zu verwechseln mit dem Verfahren des Landkreises MSH und des Salzlandkreises beim **Bundesverfassungsgericht** zur Mindestausstattung der Landkreise. Für eine Gemeinde gegen eine FAG-Regelung ist das Landesverfassungsgericht die zuständige Instanz.
+
+👉 **Was jetzt sinnvoll ist, und was nicht:** Ein Verfahren vorzubereiten wäre verfrüht — es gibt keine FAG-Regelung 2027, gegen die man sich wenden könnte. Sinnvoll ist, dass das **Rechtsamt Form und Fristen** einer kommunalen Verfassungsbeschwerde einmal zusammenstellt, damit die Stadt im Fall einer belastenden Regelung nicht erst mit der Grundlagenarbeit beginnt. **Ein Vermerk, keine Klage.**
+
+### 7.4 Solange die Ausschussgröße offen ist, gibt es keinen Adressaten im Landtag
+
+Dieses Briefing hat am 20.09. darauf hingewiesen, ab dem 6. Oktober existiere ein handlungsfähiges Parlament **mit Ausschüssen**, an die kommunale Anliegen adressiert werden können. **Das ist nach dem gestrigen Tag zu präzisieren:** Der Landtag ist konstituiert und hat ein Präsidium, aber **ob und mit welcher Größe die Ausschüsse eingesetzt sind, ist offen** (→ Ziffer 1).
+
+👉 **Praktische Folge:** Kommunale Anliegen an den Landtag — etwa zur FAG-Frage — laufen bis zur Klärung über die **kommunalen Spitzenverbände**, nicht über Ausschussvorsitzende. Der nähere Weg bleibt der **Städte- und Gemeindebund** (Präsident Dittmann), der die kreisangehörigen Städte und Gemeinden vertritt.
+
+### 7.5 Übriger Stand
+
+**Nichts Neues aus Hettstedt und vom Landkreis.** Keine Stadtratssitzung, keine Bekanntmachung, keine Kreistagsmeldung im Berichtszeitraum. Die **Anfrage zum Kreishaushalt 2027** ist am **sechzehnten Tag ohne Antwort**; die Beobachtung über den **Bürgerinformationsdienst** des Landkreises bleibt der praktikablere Weg.
+
+---
+
+## 8. Ihre Termine und Fristen
+
+| Frist | Gegenstand | Relevanz für Hettstedt |
+|---|---|---|
+| **sofort** *(intern)* | **Beschlusstext der neuen Geschäftsordnung und Protokoll der Konstituierung beschaffen** — die Ausschussgröße ist die offene Zahl | hoch |
+| **Dezember 2026** | Ministerpräsidentenwahl, 1. Wahlgang — von Siegmund angekündigt, nur erster Wahlgang; AfD fehlen drei Stimmen | höchste — das Signal |
+| **31.12.2026** | Letzter Termin für ein Haushaltsgesetz 2027 — danach Haushaltsvorgriff nach **Art. 94 Verf LSA**. **Lücke im Landeshaushalt: deutlich über 1 Mrd. €** | höchste |
+| **31.12.2026** | Auslaufen KiFöG-Geschwisterregelung und Ausgleichszahlungen — Konnexitätsfall | hoch |
+| **31.10.2026** *(intern)* | Maßnahmenliste Städtebauförderung finalisieren | hoch |
+| **06.11.2026** | Ende Vollsperrung Arnstedter Weg | örtlich |
+| **30.11.2026** | Antragsfrist Städtebauförderung (StäBauFRL) ⏰ | hoch |
+| **Q4 2026** *(intern)* | Eigenes Szenario für die Titel **außerhalb des FAG**; KiFöG-Stichtagsdifferenz rechnen; Folgekosten Quartierspark; Vermerk zur kommunalen Verfassungsbeschwerde; Leistungsbeschreibung Wärmeplanung; Ausschussbesetzung Stadtrat prüfen | hoch |
+| **Herbst 2026** *(erwartet)* | Entwurf Kreishaushalt 2027 — über Bürgerinformationsdienst beobachten | hoch — sechzehnter Tag ohne Antwort |
+| **offen** | Angekündigte Verfahren vor dem Landesverfassungsgericht zur Ausschussgröße | mittelbar |
+| **31.03.2027** | Nächster Antragstermin Sachsen-Anhalt REGIO | hoch |
+| **offen** | GRW-Landesregelungen — Veröffentlichung abwarten | hoch |
+| **laufend** | REVIER 2038 (IB) — 90 %, Projektanmeldung vor Antrag | höchste |
+| **laufend** | Projektanzeige Kommunalarm (IB) | höchste |
+| **laufend** | Ausgleichsstock 2026, Volumen 40,9 Mio. € — keine belegte Frist | hoch |
+| **laufend** | Projektaufruf LAG Mansfeld-Südharz ⚠️ | hoch — Frist erfragen |
+| **31.08.2027** | Vereinssportstättenbau, Förderjahr 2028 | mittel |
+| **30.06.2028** | Kommunale Wärmeplanung (unter 100.000 EW) — Konnexitätsfall, Vergabe 2027 | hoch |
+| **offen** | FAG 2027 und Landeshaushalt 2027 — rund 4,3 Mrd. € Landeszahlungen ohne Grundlage | höchste |
+| **offen** | BVerfG-Verfahren MSH/Salzlandkreis | hoch — Kreisumlage |
+
+---
+
+## 9. Empfohlene Handlungen dieser Woche
+
+1. **Eigenes Szenario für die Einnahmen außerhalb des FAG in den Vorbericht 2027.** *Ziffer 7.1 — die Hälfte der Landeszahlungen steht in Ressorttiteln, über die gerade 21 % Kürzung verhandelt werden. Ein FAG-Szenario allein deckt das nicht ab.*
+2. **KiFöG-Stichtagsdifferenz rechnen lassen** (Kinderzahl 01.03.2024 gegen heute) und beim Ministerium für Arbeit, Soziales und Integration klären, ob die eingefrorene Berechnungsgrundlage 2027 noch gilt. *Ziffer 7.2.*
+3. **Geschäftsordnung und Protokoll der Konstituierung beschaffen** — die Ausschussgröße ist die Zahl, an der hängt, ob die Ausschüsse arbeitsfähig sind. *Ziffer 1.*
+4. **Primärquelle zur Haushaltslücke beim Ministerium der Finanzen anfordern** — die Zahlen sind doppelt belegt, das Datum nicht. *Ziffer 3.*
+5. **Rechtsamt: Vermerk zu Form und Fristen der kommunalen Verfassungsbeschwerde.** *Ziffer 7.3 — ein Vermerk, keine Klage.*
+6. **Folgekosten des Quartierparks durch den Bauhof rechnen lassen**, Zweckbindungsfrist und etwaige Landes-Kofinanzierung aus dem Zuwendungsbescheid klären. *Ausgabe vom 06.10., Ziffer 7.1.*
+7. **Investitionsbank anrufen:** Kommunalarm-Pauschalbudget, Eigenanteil REVIER 2038, und ob ein Sondervermögen von einer vorläufigen Haushaltsführung des Landes berührt wird.
+8. **Beim Landkreis Inanspruchnahme und Zinsaufwand der Liquiditätskredite erfragen.** *Ausgabe vom 06.10., Ziffer 7.3.*
+9. **Übriges** unverändert: Spiegelbildlichkeit der Ausschussbesetzung im Stadtrat prüfen; Genehmigungsbescheid Kreishaushalt 2026 samt Auflagen anfordern; Konnexitätsdifferenz dokumentieren; OVG-Entscheidung 3 L 48/24 beschaffen; Sachstand Anschlussbahn und REGENT; Termin SEG-MSH zu HIP; H2HET und HIP zusammenführen; Nachbarkommunen zu GRW und Kreisumlage; Antrittstermin Kreisbrandmeister Kujas; Städtebauförderung finalisieren; Ausgleichsstock/Gerbstedt auswerten; Bekanntmachungspraxis; TVergG-Fassung; LAG-Frist.
+
+---
+
+## 10. Quellennachweis
+
+**Konstituierende Sitzung vom 06.10.2026**
+- Landtag Sachsen-Anhalt, „Landtag der 9. WP hat sich konstituiert": https://www.landtag.sachsen-anhalt.de/artikel/landtag-hat-sich-konstituiert
+- Landtag Sachsen-Anhalt, „Tagesordnung für die Konstituierung": https://www.landtag.sachsen-anhalt.de/artikel/tagesordnung
+- Landtag Sachsen-Anhalt, 1. Sitzungsperiode (Protokolle und Drucksachen): https://www.landtag.sachsen-anhalt.de/1-sitzungsperiode
+- t-online, „Sachsen-Anhalt: Rausch erhält 48 Stimmen — auch aus anderen Fraktionen": https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101468524/sachsen-anhalt-rausch-erhaelt-48-stimmen-auch-aus-anderen-fraktionen.html
+- ZDFheute, „Tobias Rausch: AfD stellt Landtagspräsidenten": https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-afd-landtag-praesident-tobias-rausch-100.html
+- Tagesspiegel, Liveblog, „Nur 33 Ja-Stimmen: SPD-Kandidat Willingmann fällt bei Wahl zum Vizepräsidenten durch" ⚠️ (auch Fundstelle für den Hinweis auf die Geschäftsordnung): https://www.tagesspiegel.de/politik/liveblog/nur-33-ja-stimmen-spd-kandidat-willingmann-fallt-bei-wahl-zum-vizeprasidenten-des-landtags-in-sachsen-anhalt-durch-16129963.html
+- junge Welt, 07.10.2026, „SPD-Kandidat Willingmann fällt bei Wahl zum Landtagsvizepräsidenten durch": https://www.jungewelt.de/artikel/531399.landespolitik-spd-kandidat-willingmann-f%C3%A4llt-bei-wahl-zum-landtagsvizepr%C3%A4sidenten-durch.html
+- ad-hoc-news.de, „Sachsen-Anhalt: SPD-Kandidat Willingmann scheitert mit 33 Stimmen": https://www.ad-hoc-news.de/politik/sachsen-anhalt-spd-kandidat-willingmann-scheitert-mit-33-stimmen/70244631
+- taz, Liveticker, „Erster AfD-Parlamentspräsident der Geschichte wird gewählt": https://taz.de/Liveticker-zu-Sachsen-Anhalt-Erster-AfD-Parlamentspraesident-der-Geschichte-wird-gewaehlt/!6219259/
+- web.de Magazin, „AfD-Landtagspräsident in Sachsen-Anhalt: Klingbeil sieht Klärungsbedarf bei CDU": https://web.de/magazine/politik/wahlen/landtagswahlen/sachsen-anhalt/afd-stellt-sachsen-anhalt-landtagsvizepraesident-42801940
+
+**Ausschussgröße**
+- beck-aktuell, „Nach AfD-Wahlsieg in Sachsen-Anhalt: Landtag streitet über Größe der Ausschüsse" (25.09.2026): https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/magdeburger-landtag-sachsen-anhalt-ausschussgroesse-afd-wahlsieg-2026-09-25
+- Verfassungsblog, „Verzerrtes Spiegelbild: Verfassungsrechtliche Grenzen für die Festlegung der Ausschussgröße": https://verfassungsblog.de/ausschuss-afd/
+- Handelsblatt, „Keine Einigung zu Landtagsausschüssen in Sachsen-Anhalt": https://www.handelsblatt.com/politik/deutschland/parlament-keine-einigung-zu-landtagsausschuessen-in-sachsen-anhalt/100257313.html
+
+**Landeshaushalt 2027**
+- radio SAW, „Sachsen-Anhalt: Haushalt unter Druck" ⚠️ (Datum nicht belegt): https://www.radiosaw.de/artikel/sachsen-anhalt-haushalt-unter-druck
+- Ostdeutsche Allgemeine, „Milliarden-Lücke droht: Sachsen-Anhalts Ministerien müssen mit bis zu 25 Prozent weniger Geld auskommen" ⚠️: https://ostdeutscheallgemeine.com/article/milliarden-luecke-droht-sachsen-anhalts-ministerien-muessen-mit-bis-zu-25-prozent-weniger-geld-auskommen-10030147
+- Ministerium der Finanzen, Haushalt: https://mf.sachsen-anhalt.de/finanzen/page/haushalt
+- Verfassungsblog, Simon Diethelm Meyer, „Alte Regierung, neuer Haushalt" (16.09.2026): https://verfassungsblog.de/haushalt-sachsen-anhalt/
+
+**Parlamentsreform 2026 und Landesverfassungsgericht**
+- Landtag Sachsen-Anhalt, „Novellierte Regeln für den Parlamentsbetrieb": https://www.landtag.sachsen-anhalt.de/artikel/novellierte-regeln-fuer-den-parlamentsbetrieb
+- Landtag Sachsen-Anhalt, „Parlamentsreform soll die Demokratie stärken": https://www.landtag.sachsen-anhalt.de/artikel/parlamentsreform-soll-die-demokratie-staerken
+- abgeordnetenwatch, „Parlamentsreform im Landtag von Sachsen-Anhalt" (namentliche Abstimmung): https://www.abgeordnetenwatch.de/sachsen-anhalt/8/abstimmungen/parlamentsreform-im-landtag-von-sachsen-anhalt
+- ZDFheute, „Parlamentsreform in Sachsen-Anhalt: Parteien schließen sich gegen Blockaden zusammen": https://www.zdfheute.de/politik/deutschland/parlamentsreform-sachsen-anhalt-landtagswahl-afd-100.html
+- Landesverfassungsgericht Sachsen-Anhalt, Entscheidungen: https://verfassungsgericht.sachsen-anhalt.de/entscheidungen
+
+**KiFöG**
+- Radio Brocken, „Land verlängert Geschwisterkind-Regelung" ⚠️: https://www.radiobrocken.de/nachrichten/Land-verl%C3%A4ngert-Geschwisterkind-Regelung-id1247262.html
+- radio SAW, „Sachsen-Anhalt: Geschwister-Kind-Regelung bleibt erstmal" ⚠️: https://www.radiosaw.de/artikel/sachsen-anhalt-geschwister-kind-regelung-bleibt-erstmal
+- Ministerium für Arbeit, Soziales und Integration, FAQ zum KiFöG (PDF): https://ms.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MS/MS/4_KifoeG/faq_kifoeg.pdf
+- Du bist Halle, „Landtag von Sachsen-Anhalt beschließt Kinderförderungsgesetz": https://dubisthalle.de/landtag-von-sachsen-anhalt-beschliesst-kinderfoerderungsgesetz-entlastung-von-familien-und-fachkraeften-in-kindertageseinrichtungen/
+
+**Hettstedt und Landkreis (Statusprüfung, nichts Neues)**
+- Stadt Hettstedt, News und Pressemitteilungen: https://www.hettstedt.de/neuigkeiten/news-pressemitteilungen/pressemitteilungen/
+- Ratsinformationssystem der Stadt Hettstedt: https://ratsinfo-online.net/hettstedt-bi/
+- Landkreis Mansfeld-Südharz, Meldungen: https://www.mansfeldsuedharz.de/aktuell/meldungen
+- Landkreis Mansfeld-Südharz, Kreistag und Bürgerinformationsdienst: https://www.mansfeldsuedharz.de/unser-service-ihr-ansprechpartner/kreistag
+
+**Spitzenverbände und Fördermittel (Statusprüfung, nichts Neues)**
+- Kommunale Selbstverwaltung in Sachsen-Anhalt: https://www.kommunales-sachsen-anhalt.de/
+- Landkreistag Sachsen-Anhalt: https://lkt-st.de/
+- IB Sachsen-Anhalt, Kommunalarm: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/investieren-ausgleichen/sondervermoegen-infrastruktur/kommunalarm
+- IB Sachsen-Anhalt, REVIER 2038: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/investieren-ausgleichen/revier-2038
+
+---
+
+## Anlage: Stadtprofil Hettstedt — stehender Recherchekontext
+
+*Stand 07.10.2026. Diese Anlage gibt den Inhalt von `profil-hettstedt.md` wieder, damit die Ausgabe als Druckstück für sich steht. Das Profil wurde für diese Ausgabe um das Ergebnis der Konstituierung, die Haushaltslücke des Landes, die Parlamentsreform 2026 mit der Richterwahlregelung und zwei neue Prüfaufträge erweitert. Maßgeblich und fortgeschrieben wird die Datei im Repository.*
 
 Dieses Profil ist der stehende Kontext für jede Ausgabe. Es beantwortet die Frage,
 welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht.
 
-## Eckdaten
+### Eckdaten
 
 | Merkmal | Wert |
 |---|---|
@@ -13,7 +264,7 @@ welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht
 | Gemeindetyp | Einheitsgemeinde, kreisangehörig |
 | Website | hettstedt.de |
 
-## Was sich daraus für die Einordnung von Landesvorgängen ergibt
+### Was sich daraus für die Einordnung von Landesvorgängen ergibt
 
 **Kreisangehörige Einheitsgemeinde** → Hettstedt ist beim **Sondervermögen Infrastruktur**
 unmittelbar eigener Empfänger eines Pauschalbudgets im Kommunalarm (Empfängerkreis:
@@ -49,7 +300,7 @@ seit 2002, Förderphase bis 2027. Ein ausgefülltes Projektdatenblatt ist Voraus
 die Entscheidung von Steuerungsgruppe und Mitgliederversammlung.
 Kontakt LEADER-Management: 03475 / 612 387 · lag-mansfeld-suedharz.de · lag-ms.de
 
-## Strukturwandel vor Ort: Hettstedt ist bereits Standort
+### Strukturwandel vor Ort: Hettstedt ist bereits Standort
 
 Wichtig für die Einordnung jeder Strukturwandelmeldung: In Hettstedt **läuft bereits ein
 gefördertes Vorhaben**. Die Frage lautet nicht mehr, ob die Stadt im Masterplan verankert ist,
@@ -134,7 +385,7 @@ vollständig sein.
 → **Der Hebel liegt im Wort „interkommunal":** 90 % gibt es nur gemeinsam mit Nachbarkommunen —
 denselben Gesprächspartnern, mit denen die Kreisumlage abzustimmen ist.
 
-## Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
+### Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
 
 Für die Einordnung jeder FAG-Meldung wichtig: **Rund die Hälfte der Landeszahlungen an die Kommunen
 läuft nicht über den Finanzausgleich.**
@@ -312,7 +563,7 @@ Kassenstatistik, die Inflationsrate (September 2026: **3,4 %**) und den Dieselpr
 gegenüber September 2025, unmittelbar relevant für Bauhof, Winterdienst und Feuerwehr). Eine
 Konsolidierungsauflage, die auf Ausgabendisziplin zielt, adressiert damit nicht die Ursache.
 
-## Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
+### Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
 
 Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
 
@@ -369,7 +620,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 07.10.2026)
+### Laufende lokale Vorgänge (Stand 07.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -388,7 +639,7 @@ Landkreis ist für Hettstedt berichtspflichtig.
 - **Kostenbeiträge Kindertagespflege** — Anpassung; Klarstellungen der Stadt zu Artikeln
   vom 19.02. und 14.03.2026.
 
-## Verwaltungsorganisation — belegte Zuständigkeiten
+### Verwaltungsorganisation — belegte Zuständigkeiten
 
 | Gegenstand | Stelle / Quelle |
 |---|---|
@@ -407,7 +658,7 @@ Geschwisterregelung Bezug? Läuft die landesrechtliche Grundlage aus, während d
 voraussetzt, entsteht zum 01.01.2027 ein **Satzungswiderspruch** mit unmittelbarer Wirkung auf die
 Beitragserhebung.
 
-## Bekanntmachungswesen
+### Bekanntmachungswesen
 
 Der Stadtrat hat am **09.07.2024** beschlossen, das **Amtsblatt in der bisherigen Form
 abzuschaffen**. Öffentliche Bekanntmachungen erfolgen seither **über die Website der Stadt**,
@@ -420,7 +671,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 07.10.2026)
+### Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 07.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -440,7 +691,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Ist die Besetzung der **Ausschüsse des Stadtrates spiegelbildlich** zu den Fraktionsstärken? | Streit um die Ausschussbesetzung im Landtag vor der Konstituierung am 06.10.2026 macht auf eine Pflicht aufmerksam, die in der laufenden Wahlperiode leicht aus dem Blick gerät. Drei Prüffragen: (1) entspricht die tatsächliche Besetzung den aktuellen Fraktionsstärken, (2) welches Zuteilungsverfahren schreibt die Geschäftsordnung des Stadtrates vor (d’Hondt, Sainte-Laguë/Schepers, Hare/Niemeyer) und wird es angewandt, (3) haben sich die Fraktionsstärken seit der Kommunalwahl 2024 durch Wechsel, Austritte oder Mandatsniederlegungen verändert, ohne dass die Ausschüsse neu besetzt wurden? Maßgeblich sind **KVG LSA und die Geschäftsordnung des Stadtrates**; die zur Spiegelbildlichkeit zitierte Rechtsprechung des OVG NRW betrifft anderes Landesrecht und ist nur Argumentationsmuster. **Es liegt kein Anhaltspunkt für einen Verstoß in Hettstedt vor** — der Prüfpunkt steht vorsorglich hier, weil eine fehlerhafte Besetzung im Kommunalverfassungsstreit angreifbar ist und vorberatene Beschlüsse in Frage stellen kann. |
 | **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
-## Wiederkehrende Antragsfristen
+### Wiederkehrende Antragsfristen
 
 | Frist | Programm | Hinweis |
 |---|---|---|
@@ -454,7 +705,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | unbelegt | Ausgleichsstock (Volumen 2026: **40,9 Mio. €** für Bedarfszuweisungen **und** zinslose rückzahlbare Liquiditätshilfen aller Kommunen des Landes) | feste Antragsfrist ließ sich nicht belegen — beim MF erfragen. **Präzedenz 2024:** „FAG-Ausgleichszahlung 2024“ — kreisangehörige Gemeinden mit Einzahlungsverlusten durch das neue FAG konnten im vereinfachten Verfahren bis **30.09.2024** zusätzliche Bedarfszuweisungen aus dem Ausgleichsstock beantragen (**Altvorgang, kein laufendes Programm**) — das Argumentationsmuster, falls der FAG 2027 Verluste bringt. 📐 *Eigene Überschlagsrechnung:* Die Bedarfszuweisung für Hettstedt (10.119.796,00 €) entspricht grob **einem Viertel** des Jahresvolumens — mit einer zweiten Zuweisung dieser Größenordnung ist nicht zu rechnen, die Konsolidierungsauflagen sind der Preis dieser einen. |
 | unbelegt | LEADER-Projektaufruf LAG MSH | Aufruf seit 01.07.2026 ⚠️; Einreichungsfrist beim LEADER-Management erfragen |
 
-## Feste Anlaufstellen
+### Feste Anlaufstellen
 
 | Anliegen | Stelle |
 |---|---|
