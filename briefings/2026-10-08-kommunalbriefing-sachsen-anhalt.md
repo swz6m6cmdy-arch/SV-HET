@@ -1,9 +1,260 @@
-# Stadtprofil Hettstedt — Recherchekontext für das Kommunalbriefing
+# Kommunalbriefing Sachsen-Anhalt — Donnerstag, 8. Oktober 2026
+
+**Adressat:** Bürgermeister der Stadt Hettstedt, Landkreis Mansfeld-Südharz (rd. 14.000 EW)
+**Schwerpunkte:** Gesetzesänderungen · Fördermittel · Landespolitik mit Kommunalbezug
+**Redaktionsschluss:** 08.10.2026
+**Berichtszeitraum:** seit dem 07.10.2026
+
+> **Quellenhinweis:** Direkte Seitenabrufe (WebFetch) bleiben durch die Egress-Policy gesperrt. Die Inhalte stammen aus Websuche-Treffern und deren Zusammenfassungen, soweit möglich zwischen mehreren Treffern abgeglichen. Einzelfundstellen sind mit ⚠️ markiert und vor einer Verwendung in Beschlussvorlagen an der Primärquelle zu verifizieren.
+
+---
+
+## 1. Lage des Tages: Das Land ist gesetzlich verpflichtet, die Finanzierung für die Jahre nach 2026 „rechtzeitig" zu regeln — § 2 Abs. 3 FAG
+
+**Dieses Briefing hat die offene FAG-Frage 2027 seit drei Wochen als politisches Problem behandelt. Sie ist auch ein rechtliches.**
+
+Nach **§ 2 Abs. 3 FAG** ist für die **Haushaltsjahre nach 2026** die aufgabengerechte kommunale Finanzierung **rechtzeitig zu ermitteln und anzupassen**. ⚠️ Die Vorschrift ist hier nach einer Fundstelle wiedergegeben; der Wortlaut ist am Gesetzestext zu prüfen (Fundstelle in Ziffer 10).
+
+👉 **Was das praktisch ändert:** Bisher lautete die Position gegenüber Land und Kommunalaufsicht, es sei politisch unbefriedigend, dass für 2027 keine Regelung existiert. Mit § 2 Abs. 3 FAG lautet sie anders: **Das Land erfüllt eine im eigenen Gesetz verankerte Pflicht nicht.** „Rechtzeitig" ist drei Monate vor dem Haushaltsjahr, ohne eingebrachten Entwurf, nicht mehr gegeben. Das ist ein Argument für den Vorbericht, für die Stellungnahme gegenüber der Kommunalaufsicht und für die Spitzenverbände — und es kostet nichts außer einem Satz in der Vorlage.
+
+### Landespolitisch nichts Neues
+
+**Zur Regierungsbildung und zur Ausschussgröße liegt seit der Ausgabe vom 07.10. nichts Neues vor — das ist geprüft, nicht übergangen.**
+
+- **Die Ausschussgröße bleibt unbelegt.** Zwei Tage nach der Konstituierung findet sich in den zugänglichen Quellen weiterhin **keine Angabe**, ob die Ausschüsse elf oder zwölf Mitglieder haben. Die Berichterstattung endet vor der Abstimmung. Maßgeblich bleiben die Seite „Ausschüsse & Gremien" des Landtages und der Beschlusstext der Geschäftsordnung.
+- **Regierungsbildung:** Die SPD schlägt einen **überparteilichen Ministerpräsidenten** vor; ein **Name ist in den Quellen nicht genannt**. Die vier Fraktionen SPD, Grüne, Linke und BSW haben **ohne die CDU keine Mehrheit**. Die AfD führt Gespräche mit dem BSW, das eine Koalition ausschließt. Siegmunds Kandidatur bleibt auf **Dezember** datiert.
+
+---
+
+## 2. Kommunale Spitzenverbände
+
+**Nichts Neues.** Ergänzung zum Personenstand: Neben Präsident **Andreas Dittmann** ist **Bernward Küper** als **Landesgeschäftsführer** des Städte- und Gemeindebundes Sachsen-Anhalt belegt — die fachliche Arbeitsebene für Rückfragen zum Finanzausgleich.
+
+⚠️ **Ausdrücklich keine neue Zahl:** Die in der Recherche aufgetauchte Defizitmeldung des Verbandes (−161 Mio. € für 2024, Verschlechterung um 342 Mio. €) stammt aus **April 2025** und ist durch die aktuellen Halbjahreszahlen 2026 überholt. Sie wird hier nicht als Befund geführt.
+
+---
+
+## 3. Kommunalfinanzen: Der Rechtsstand des FAG, genauer als bisher
+
+| Angabe | Wert |
+|---|---|
+| Änderungsvehikel | **Art. 3 des Haushaltsbegleitgesetzes vom 25.02.2025** |
+| Verkündung | **GVBl. LSA Nr. 3 vom 07.03.2025, S. 374** |
+| Geltung der Änderung | für die Jahre **2025 und 2026** |
+| Finanzausgleichsmasse 2025 | **+39,8 Mio. € auf 2.135,3 Mio. €** |
+| Finanzausgleichsmasse 2026 | **+40,6 Mio. € auf 2.136,1 Mio. €** |
+| FAG-Anteil an allen Landeszahlungen | 2025 rund **49 %**, 2026 rund **50 %** |
+| **Kreisumlagezuschlag** | **je 40 Mio. € pauschal für die Landkreise in 2025 und 2026**, überführt in die Schlüsselzuweisungsmasse der Landkreise ⚠️ |
+| Überprüfungsklausel | Die Beträge 2025/2026 erhöhen sich, wenn die Überprüfung einen höheren Bedarf ergibt, und sinken bei einem niedrigeren |
+
+⚠️ **Zwei Einschränkungen, die zu nennen sind.** Erstens stammen die Angaben zur Finanzausgleichsmasse und zum Kreisumlagezuschlag aus der **Stellungnahme des Städte- und Gemeindebundes zum Gesetzentwurf** — die beschlossene Fassung kann abweichen. Zweitens besteht ein **Widerspruch in der Quellenlage**: Eine Seite des Ministeriums der Finanzen nennt die geltende Fassung „gültig ab 01.01.2025 (GVBl. LSA S. 374)", ein dort hinterlegtes FAG-Dokument trägt dagegen „Neugefasst 20.03.2024, gültig ab 01.01.2024". Vermutlich ist das Zweite der Basistext und nicht die geltende Fassung — **belegt ist das nicht**. Für eine Beschlussvorlage ist die konsolidierte Fassung beim MF anzufordern.
+
+**Was daraus folgt:** Das **Änderungsvehikel war ein Haushaltsbegleitgesetz** — die FAG-Regelung hing also am Haushaltsgesetz. Für 2027 heißt das: **Ohne Haushaltsgesetz 2027 ist auch kein Haushaltsbegleitgesetz und damit keine FAG-Regelung 2027 zu erwarten.** Beides ist dieselbe Frage, nicht zwei.
+
+---
+
+## 4. Fördermittel: Im Sondervermögen gibt es zwei Fristen — eine davon ist verstrichen
+
+**Das ist der zweite wichtige Befund des Tages, und er ist unmittelbar handlungsrelevant.**
+
+### Kommunalarm — Verfahren und Fristen
+
+| Gegenstand | Regelung |
+|---|---|
+| **Mittelanmeldung für 2027** | nach **§ 10 Abs. 2 Infra-SVG** erstmals für das Haushaltsjahr 2027 erforderlich, einzureichen **bis 30.06.2026** — **diese Frist ist verstrichen**. Für 2026 war eine Anmeldung gesetzlich nicht vorgesehen |
+| **Jährliche Berichtspflicht** | nach **§ 10 Abs. 1 Infra-SVG**, erstmals zum **Stichtag 01.01.2027**, Einreichungsfrist **31.01.2027** ⚠️ |
+| Mindestinvestitionsvolumen | **50.000 €** |
+| Frühester Maßnahmenbeginn | **01.01.2025** |
+| Vorhabenanzeige möglich | über das IB-Portal **seit 02.01.2026**; eine **vollständige Anzeige gilt als bewilligt** — kein gesondertes Bewilligungsverfahren |
+| Änderungen | erst erfassbar, wenn die IB die Vollständigkeit der ursprünglichen Maßnahme bestätigt hat; bei grundsätzlicher Änderung (anderes Objekt, anderer Förderbereich) ist die Maßnahme **zurückzuziehen und neu anzumelden** |
+| Budgetgrenze | Änderungen müssen **innerhalb des pauschalen Kommunalbudgets** bleiben; die IB überwacht das Budget |
+| Endfristen | vollständige Anzeige bis **31.12.2036**, Abschluss aller Maßnahmen bis **31.12.2042** |
+
+⚠️ **Widerspruch in den Quellen, nicht aufgelöst:** Die FAQ der IB nennt an einer Stelle eine Mittelanmeldefrist **31.01.2026**, an anderer Stelle, es gebe für die Anmeldung von Maßnahmen **keine Frist außer dem 31.12.2036**. Hinzu kommt, dass die FAQ-Seite teils noch **Entwurfsstände aus 2025** wiedergibt, während das Gesetz seit **01.01.2026** in Kraft ist. Maßgeblich sind das beschlossene **Infra-SVG** und die aktuellen Hinweise der IB — telefonisch, nicht aus der FAQ.
+
+⚠️ **Verwechslungswarnung in eigener Sache:** Dieses Briefing führt eine Frist **30.06.2026** bereits an anderer Stelle — dort geht es um die **kommunale Wärmeplanung** der Großstädte (Magdeburg, Halle), während für Hettstedt der **30.06.2028** gilt. Die hier genannte Frist 30.06.2026 ist eine **andere**: die **Mittelanmeldung im Sondervermögen**. Zwei verschiedene Pflichten am gleichen Datum.
+
+### Landesarm — Beispiele für laufende Programme
+
+- **3 Mio. €** für den **An- und Einbau von Aufzugsanlagen** in Gebäuden **kommunaler Wohnungsgesellschaften**; Antragstellung über das Kundenportal der Investitionsbank.
+- **15,45 Mio. €** für **Jugendarbeit**; Details beim zuständigen Ministerium.
+- **Förderaufruf 2026 des Ministeriums für Bildung** für Bildungsinvestitionen aus dem Sondervermögen: **formlos**, **zweistufig** — zuerst Projektanmeldung und Prüfung, danach förmlicher Antrag für ausgewählte Projekte; Volumen für Bildungsinfrastruktur **83,9 Mio. €**.
+
+**Sonst nichts Neues:** kein neuer Aufruf mit Frist im Oktober 2026 belegbar.
+
+---
+
+## 5. Gesetzesänderungen und Rechtsprechung
+
+**Im Gesetz- und Verordnungsblatt nichts Neues.** Keine für Kommunen relevante Verkündung ist für Oktober 2026 belegbar.
+
+**Neu belegte Fundstellen** (keine neuen Gesetze, aber genauere Grundlagen für Vorlagen):
+
+- **§ 2 Abs. 3 FAG** — Pflicht zur rechtzeitigen Ermittlung und Anpassung für die Jahre nach 2026 (→ Ziffer 1).
+- **§ 10 Abs. 1 und Abs. 2 Infra-SVG** — Berichtspflicht und Mittelanmeldung (→ Ziffer 4).
+- **Art. 3 Haushaltsbegleitgesetz vom 25.02.2025, GVBl. LSA Nr. 3 vom 07.03.2025, S. 374** — letzte FAG-Änderung (→ Ziffer 3).
+
+---
+
+## 6. Aus der kommunalen Praxis: Braucht die Verwendung von Sondervermögensmitteln einen Stadtratsbeschluss?
+
+**Hier widersprechen sich die Quellen, und die Frage ist für Ihre Verfahrensgestaltung erheblich.**
+
+- Eine Fundstelle hält fest: **„Für die Verwendung der Mittel aus dem Sondervermögen ist ein Beschluss der kommunalen Vertretung (bspw. Stadtrat) erforderlich."** ⚠️
+- Eine zweite Recherche zu denselben Seiten ergab, dass die Quellen **keinen Beschluss als Voraussetzung** für Anmeldung oder Berichterstattung nennen und dies von Kommunalverfassung und Haushaltsrecht abhänge.
+
+👉 **Der Widerspruch bleibt hier offen und ist durch Rückfrage zu klären** — bei der Kommunalaufsicht des Landesverwaltungsamtes oder über den Städte- und Gemeindebund. **Praktisch** spricht ohnehin alles dafür, die Verwendung über einen **Stadtratsbeschluss** zu legitimieren: Ein Beschluss, der nicht nötig gewesen wäre, schadet nicht; ein fehlender Beschluss, der nötig war, trägt das Risiko in die Verwendungsnachweisprüfung.
+
+---
+
+## 7. Konkret für Hettstedt
+
+### 7.1 Nachtrag: Der Kunstrasenplatz hängt am Infrastruktur-Sondervermögen — und das ist in diesem Briefing bisher untergegangen
+
+✅ **Offenlegung zuerst.** Dieses Briefing führt den Kunstrasenplatz seit dem 20.09. als laufenden lokalen Vorgang, aber nur als „Klarstellung der Stadt zu einem Artikel der Mitteldeutschen Zeitung vom 20.03.2026". **Der eigentliche Punkt fehlte: Es ging um Mittel aus dem Infrastruktur-Sondervermögen.** Das wird hier nachgetragen, nicht als Neuigkeit ausgegeben — der Vorgang datiert auf **März 2026**.
+
+| Angabe | Wert |
+|---|---|
+| Gegenstand | Neubau **Kunstrasenplatz** des **FC Hettstedt**, Sportplatz am Kirschweg |
+| Entscheidung | Stadtratssitzung **24.03.2026**; nach Lokalmedium im **nichtöffentlichen Teil mehrheitlich beschlossen**, einschließlich Nutzungsvertrag und Umsetzungsregelungen ⚠️ |
+| Projektvolumen | rund **1,1 Mio. €** |
+| Förderquote | **50 %** (Fördermittel vom FC Hettstedt beantragt) |
+| Antrag der **CDU-BSH-Fraktion** | einen **Teil der Eigenmittel aus dem Infrastruktur-Sondervermögen** zu decken |
+| Richtigstellung der Stadt | Die Maßnahme ist im **Produkt Sportstätten als Zuwendung zu Investitionsfördermaßnahmen** eingeplant; die Bezugnahme auf die Produktbeschreibung „Erneuerung der Aschenbahn" sei falsch |
+
+⚠️ Der Text der städtischen Pressemitteilung ist in der Fundstelle durch Formatierungsfehler **lückenhaft**; einzelne Betragsangaben fehlen. 📐 **Eigene Überschlagsrechnung:** Bei 1,1 Mio. € und 50 % Förderquote verbleiben rund **550.000 € Eigenmittel** — welcher Anteil davon aus dem Sondervermögen gedeckt werden sollte, geht aus der Fundstelle **nicht** hervor.
+
+**Drei Fragen, die daraus folgen und heute beantwortbar sind:**
+
+1. **Ist die Maßnahme im Kommunalarm tatsächlich angezeigt?** Eine vollständige Anzeige gilt als bewilligt — eine unterbliebene Anzeige ist kein Formfehler, sondern bedeutet keine Mittel.
+2. **Ist sie in der Mittelanmeldung 2027 enthalten?** Deren Frist war der **30.06.2026** und ist verstrichen (→ Ziffer 4). Falls die Stadt nicht oder unvollständig angemeldet hat, ist das heute mit der IB zu klären, nicht im Januar.
+3. **Wie viel des pauschalen Kommunalbudgets ist durch diese Maßnahme gebunden?** Die IB überwacht das Budget; die Stadt sollte den Stand kennen, bevor der Quartierspark-Eigenanteil und weitere Vorhaben disponiert werden.
+
+### 7.2 Die Zahl aus der eigenen Ratsdebatte: rund 21 Mio. € Investitionsstau
+
+In der Debatte am 24.03.2026 hat Stadträtin **Dana Zimmer (FBM)** auf einen **Investitionsstau in der städtischen Infrastruktur von rund 21 Mio. €** verwiesen. ⚠️ Einzelfundstelle (Lokalmedium), Angabe einer Stadträtin, keine Verwaltungszahl — als solche zu behandeln.
+
+📐 **Eigene Überschlagsrechnung zur Einordnung:** 21 Mio. € bei rund 14.000 Einwohnern sind etwa **1.500 € je Einwohner**. Zum Vergleich die belegten Größen: Bedarfszuweisung **10,1 Mio. €**, Quartierspark **rund 3 Mio. €** Gesamtvolumen, Kunstrasenplatz **rund 1,1 Mio. €**.
+
+👉 **Warum das zusammengehört:** Ein Investitionsstau dieser Größe, ein Konsolidierungskonzept **bis 2034** und eine **neue dauerhafte Unterhaltungslast** aus dem Quartierspark sind ein und dieselbe Rechnung. Wenn die Verwaltung die Zahl bestätigt oder korrigiert, gehört sie in den Vorbericht 2027 — sie begründet, warum jede Folgekostenentscheidung dokumentiert werden muss.
+
+### 7.3 § 2 Abs. 3 FAG in einen Satz für die Vorlage
+
+**Formulierungsvorschlag, der die Rechtslage benennt, ohne über sie hinauszugehen:**
+
+> „Für das Haushaltsjahr 2027 liegt eine Regelung des kommunalen Finanzausgleichs nicht vor. Nach § 2 Abs. 3 FAG ist die aufgabengerechte kommunale Finanzierung für die Haushaltsjahre nach 2026 rechtzeitig zu ermitteln und anzupassen. Ein Gesetzentwurf ist zum Zeitpunkt der Beschlussfassung nicht eingebracht; die Einnahmeansätze beruhen daher auf Szenarien."
+
+👉 **Stelle:** Kämmerei, Vorbericht. **Frist:** vor Einbringung des Entwurfs 2027. ⚠️ Der Wortlaut von § 2 Abs. 3 FAG ist vor Verwendung am Gesetzestext zu prüfen.
+
+### 7.4 Der Kreisumlagezuschlag ist das zweite Umlagerisiko für 2027
+
+Der **Kreisumlagezuschlag von je 40 Mio. €** für die Landkreise war Teil der FAG-Änderung **für 2025 und 2026** ⚠️. Läuft er mit dieser Änderung aus, fehlt den Landkreisen ab 2027 Geld, das sie **über die Kreisumlage bei den Gemeinden** zu holen versuchen können.
+
+📐 **Eigene Überschlagsrechnung, grob und ausdrücklich ohne Verteilungsschlüssel:** 40 Mio. € auf die **elf Landkreise** des Landes wären im Durchschnitt rund **3,6 Mio. € je Landkreis**. Tatsächlich wird der Betrag über die **Schlüsselzuweisungsmasse** verteilt, also nach Bedarfs- und Steuerkraftmerkmalen — der Anteil von Mansfeld-Südharz kann deutlich darüber oder darunter liegen.
+
+👉 **Konsequenz für die Umlagediskussion:** Zur bekannten Lage des Kreises (Defizit 52,4 Mio. €, Auflage 9,6 Mio. €, Haushaltssperre, Liquiditätsrahmen 250 Mio. €) tritt ein möglicher **Wegfall einer Landesleistung**, die genau den Umlagedruck dämpfen sollte. **Das ist vor der Beratung des Kreishaushalts 2027 zu klären, nicht danach.** **Stelle:** Kämmerei des Landkreises; Sachfrage auch an den Städte- und Gemeindebund (Küper).
+
+### 7.5 Übriger Stand
+
+**Nichts Neues aus Hettstedt und vom Landkreis** im Berichtszeitraum: keine Stadtratssitzung, keine Bekanntmachung, keine Kreistagsmeldung. Die **Anfrage zum Kreishaushalt 2027** ist am **siebzehnten Tag ohne Antwort**.
+
+---
+
+## 8. Ihre Termine und Fristen
+
+| Frist | Gegenstand | Relevanz für Hettstedt |
+|---|---|---|
+| **heute** *(intern)* | **IB anrufen:** Ist die Mittelanmeldung 2027 im Kommunalarm erfolgt? Frist **30.06.2026 verstrichen** | **höchste** |
+| **31.01.2027** | **Erste jährliche Berichtspflicht** im Sondervermögen, Stichtag 01.01.2027 ⚠️ | hoch — Termin im Hauptamt setzen |
+| **Dezember 2026** | Ministerpräsidentenwahl, 1. Wahlgang — von Siegmund angekündigt, nur erster Wahlgang | höchste — das Signal |
+| **31.12.2026** | Letzter Termin für ein Haushaltsgesetz 2027; danach Haushaltsvorgriff nach Art. 94 Verf LSA. Lücke im Landeshaushalt über 1 Mrd. € | höchste |
+| **31.12.2026** | Auslaufen KiFöG-Geschwisterregelung und Ausgleichszahlungen; **Auslaufen der FAG-Änderung 2025/2026 samt Kreisumlagezuschlag** ⚠️ | hoch |
+| **31.10.2026** *(intern)* | Maßnahmenliste Städtebauförderung finalisieren | hoch |
+| **06.11.2026** | Ende Vollsperrung Arnstedter Weg | örtlich |
+| **30.11.2026** | Antragsfrist Städtebauförderung (StäBauFRL) ⏰ | hoch |
+| **Q4 2026** *(intern)* | Szenario für die Titel außerhalb des FAG; § 2-Abs.-3-Satz in den Vorbericht; Investitionsstau verifizieren; KiFöG-Stichtagsdifferenz; Folgekosten Quartierspark; Vermerk kommunale Verfassungsbeschwerde; Ausschussbesetzung Stadtrat prüfen | hoch |
+| **Herbst 2026** *(erwartet)* | Entwurf Kreishaushalt 2027 — über Bürgerinformationsdienst beobachten | hoch — siebzehnter Tag ohne Antwort |
+| **offen** | Ausschussgröße im Landtag — weiter unbelegt; angekündigte Verfahren vor dem Landesverfassungsgericht | mittelbar |
+| **31.03.2027** | Nächster Antragstermin Sachsen-Anhalt REGIO | hoch |
+| **offen** | GRW-Landesregelungen — Veröffentlichung abwarten | hoch |
+| **laufend** | REVIER 2038 (IB) — 90 %, Projektanmeldung vor Antrag | höchste |
+| **laufend** | Vorhabenanzeige Kommunalarm — Mindestvolumen 50.000 €, Anzeige bis 31.12.2036, Abschluss bis 31.12.2042 | höchste |
+| **laufend** | Ausgleichsstock 2026, Volumen 40,9 Mio. € — keine belegte Frist | hoch |
+| **laufend** | Projektaufruf LAG Mansfeld-Südharz ⚠️ | hoch — Frist erfragen |
+| **31.08.2027** | Vereinssportstättenbau, Förderjahr 2028 | mittel |
+| **30.06.2028** | Kommunale Wärmeplanung (unter 100.000 EW) — **nicht** mit der Sondervermögensfrist 30.06.2026 verwechseln | hoch |
+| **offen** | FAG 2027 und Landeshaushalt 2027 — rund 4,3 Mrd. € Landeszahlungen ohne Grundlage | höchste |
+| **offen** | BVerfG-Verfahren MSH/Salzlandkreis | hoch — Kreisumlage |
+
+---
+
+## 9. Empfohlene Handlungen dieser Woche
+
+1. **Heute bei der Investitionsbank anrufen und drei Dinge klären:** Ist die **Mittelanmeldung 2027** erfolgt (Frist 30.06.2026 verstrichen)? Welche Maßnahmen sind im Kommunalarm **angezeigt** — Kunstrasenplatz eingeschlossen? Wie viel des **pauschalen Kommunalbudgets** ist gebunden? *Ziffern 4 und 7.1 — das ist der dringlichste Punkt dieser Ausgabe.*
+2. **Termin 31.01.2027 für die erste Berichtspflicht im Hauptamt setzen.** *Ziffer 4.*
+3. **Den § 2-Abs.-3-Satz in den Vorbericht 2027 aufnehmen** — die offene FAG-Frage als Verstoß gegen eine gesetzliche Pflicht benennen, nicht nur als politisches Ärgernis. *Ziffer 7.3.*
+4. **Wegfall des Kreisumlagezuschlags prüfen** und beim Landkreis sowie beim Städte- und Gemeindebund ansprechen, bevor der Kreishaushalt 2027 beraten wird. *Ziffer 7.4.*
+5. **Investitionsstau von rund 21 Mio. € durch die Verwaltung bestätigen oder korrigieren** und in den Vorbericht übernehmen. *Ziffer 7.2.*
+6. **Beschlusserfordernis für die Verwendung von Sondervermögensmitteln klären** — und bis zur Klärung über einen Stadtratsbeschluss gehen. *Ziffer 6.*
+7. **Konsolidierte FAG-Fassung beim Ministerium der Finanzen anfordern** — die Quellenlage zur geltenden Fassung ist widersprüchlich. *Ziffer 3.*
+8. **Übriges** unverändert: eigenes Szenario für die Titel außerhalb des FAG; KiFöG-Stichtagsdifferenz rechnen; Folgekosten Quartierspark durch den Bauhof; Vermerk des Rechtsamts zur kommunalen Verfassungsbeschwerde; Spiegelbildlichkeit der Ausschussbesetzung im Stadtrat; Inanspruchnahme und Zinsaufwand der Kreis-Liquiditätskredite erfragen; Genehmigungsbescheid Kreishaushalt 2026; OVG-Entscheidung 3 L 48/24; Sachstand Anschlussbahn und REGENT; Termin SEG-MSH zu HIP; H2HET und HIP zusammenführen; Nachbarkommunen zu GRW und Kreisumlage; Antrittstermin Kreisbrandmeister Kujas; Städtebauförderung finalisieren; Ausgleichsstock/Gerbstedt; Bekanntmachungspraxis; TVergG-Fassung; LAG-Frist.
+
+---
+
+## 10. Quellennachweis
+
+**FAG, Finanzausgleichsmasse und Kreisumlagezuschlag**
+- Ministerium der Finanzen, Kommunaler Finanzausgleich: https://mf.sachsen-anhalt.de/finanzen/kommunaler-finanzausgleich
+- Ministerium der Finanzen, Kommunaler Finanzausgleich (Unterseite): https://mf.sachsen-anhalt.de/finanzen/page/kommunaler-finanzausgleich
+- Ministerium der Finanzen, FAG 2025/2026 (PDF): https://mf.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MF/Dokumente/Finanzen/Kommunaler_Finanzausgleich/2025/FAG_2025-2026.pdf
+- Städte- und Gemeindebund Sachsen-Anhalt, Stellungnahme zum Entwurf (PDF) ⚠️: https://www.kommunales-sachsen-anhalt.de/media/custom/2348_27130_1.PDF?1729230573=
+- Finanzausgleichsgesetz Sachsen-Anhalt, Normwiedergabe ⚠️: https://www.haufe.de/id/norm/finanzausgleichsgesetz-sachsen-anhalt-HI3546357.html
+- Umwelt-online, Haushaltsbegleitgesetz 2025 (GVBl. LSA S. 374): https://www.umwelt-online.de/regelwerk/cgi-bin/suchausgabe.cgi?pfad=%2Fallgemei%2Flaender%2Flsa%2Fz25_0374.htm&such=Sachsen
+- Landtag Sachsen-Anhalt, „Sachsen-Anhalt hat neuen Doppelhaushalt": https://www.landtag.sachsen-anhalt.de/haushalt-25-26
+- Du bist Halle, „Städte- und Gemeindebund fordert Nachbesserungen beim Kommunalen Finanzausgleich" (April 2025, als Altvorgang): https://dubisthalle.de/staedte-und-gemeindebund-sachsen-anhalt-fordert-aufgrund-des-rekorddefizits-der-kommunen-in-2024-nachbesserungen-beim-kommunalen-finanzausgleich/
+
+**Sondervermögen Infrastruktur und Kommunalarm**
+- IB Sachsen-Anhalt, Kommunalarm: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/investieren-ausgleichen/sondervermoegen-infrastruktur/kommunalarm
+- IB Sachsen-Anhalt, FAQs Sondervermögen „Infrastruktur" ⚠️ (teils Entwurfsstände 2025): https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/investieren-ausgleichen/sondervermoegen-infrastruktur/faqs-sondervermoegen-infrastruktur
+- IB Sachsen-Anhalt, Sondervermögen „Infrastruktur" — Landesarm: https://www.ib-sachsen-anhalt.de/de/oeffentliche-einrichtungen/investieren-ausgleichen/sondervermoegen-infrastruktur/landesarm
+- IB Sachsen-Anhalt, Download-Center: https://www.ib-sachsen-anhalt.de/de/download-center
+- IB Sachsen-Anhalt, „Startschuss für das Sondervermögen Infrastruktur": https://www.ib-sachsen-anhalt.de/de/die-investitionsbank/presse/pressemeldungen/startschuss-fuer-das-sondervermoegen-infrastruktur
+- Ministerium der Finanzen, Sondervermögen Infrastruktur: https://mf.sachsen-anhalt.de/finanzen/haushalt/sondervermoegen-infrastruktur
+- Ministerium für Bildung, Förderaufruf 2026 Sondervermögen Infrastruktur (PDF): https://mb.sachsen-anhalt.de/fileadmin/Bibliothek/Landesjournal/Bildung_und_Wissenschaft/MBLSAURL-Dokumente/Foerderaufruf_Sondervermoegen_Infrastruktur.pdf
+- Ministerium für Bildung, Fördergrundsätze Sondervermögen Infrastruktur (PDF): https://mb.sachsen-anhalt.de/fileadmin/Bibliothek/Landesjournal/Bildung_und_Wissenschaft/MBLSAURL-Dokumente/Foerdergrundsaetze_Sondervermoegen_Infrastruktur.pdf
+- Bundesfinanzministerium, Länderbericht Sachsen-Anhalt zur Berichtspflicht (PDF): https://www.bundesfinanzministerium.de/Content/DE/Downloads/Oeffentliche-Finanzen/SVIK/Laenderberichte/sachsen-anhalt.pdf
+
+**Kunstrasenplatz und Investitionsstau Hettstedt (Vorgang März 2026)**
+- Stadt Hettstedt, „Projekt Kunstrasenplatz des FC Hettstedt; Richtigstellung des MZ-Artikels vom 20.03.2026": https://www.hettstedt.de/aktuelles/news-pressemitteilungen/detail/aktuelles/news-pressemitteilungen/projekt-kunstrasenplatz-des-fc-hettstedt-auf-dem-sportplatz-am-kirschweg-richtigstellung-des-mz-artikels-vom-20032026
+- hettstedt-live.de, „Stadtrat aktuell: Grünes Licht für Kunstrasen-Projekt nach emotionaler Debatte" ⚠️: https://www.hettstedt-live.de/2026/stadtrat-aktuell-gruenes-licht-fuer-kunstrasen-projekt-nach-emotionaler-debatte/
+- hettstedt-live.de, „Stadtratssitzung am 24. März: Haushalt, Kunstrasen und Kita-Gebühren im Fokus" ⚠️: https://www.hettstedt-live.de/2026/stadtratssitzung-am-24-maerz-haushalt-kunstrasen-und-kita-gebuehren-im-fokus/
+- Stadt Hettstedt, Beschlussprotokoll Haupt-, Wirtschafts- und Vergabeausschuss vom 28.01.2026 (PDF): https://www.hettstedt.de/fileadmin/user_upload/2026-01-28_HWV.pdf
+- Ratsinformationssystem der Stadt Hettstedt: https://ratsinfo-online.net/hettstedt-bi/
+
+**Landtag und Regierungsbildung (Statusprüfung)**
+- Landtag Sachsen-Anhalt, Ausschüsse & Gremien: https://www.landtag.sachsen-anhalt.de/landtag/ausschuesse-gremien
+- Landtag Sachsen-Anhalt, Geschäftsordnung (Fassung 2020, PDF): https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Rechtsgrundlagen/2020_Geschaeftsordnung_GO-LT.pdf
+- Landtag Sachsen-Anhalt, „Landtag der 9. WP hat sich konstituiert": https://www.landtag.sachsen-anhalt.de/artikel/landtag-hat-sich-konstituiert
+- it-boltwise.de, „Sachsen-Anhalt: Koalitionsgespräche für Regierungsbildung gehen weiter": https://www.it-boltwise.de/sachsen-anhalt-koalitionsgespraeche-fuer-regierungsbildung-gehen-weiter.html
+- ZDFheute, „Siegmund will im Dezember Regierungschef werden": https://www.zdfheute.de/politik/deutschland/siegmund-will-ministerpraesident-magdeburg-100.html
+
+**Landkreis und Spitzenverbände (Statusprüfung, nichts Neues)**
+- Landkreis Mansfeld-Südharz, Meldungen: https://www.mansfeldsuedharz.de/aktuell/meldungen
+- Landesverwaltungsamt, „Landkreis Mansfeld-Südharz: Haushalt 2026 im zweiten Anlauf genehmigt": https://lvwa.sachsen-anhalt.de/das-lvwa/news-details/landkreis-mansfeld-suedharz-haushalt-2026-im-zweiten-anlauf-genehmigt-auflagen-sollen-haushaltslage-stabilisieren
+- Kommunale Selbstverwaltung in Sachsen-Anhalt: https://www.kommunales-sachsen-anhalt.de/
+- Städte- und Gemeindebund Sachsen-Anhalt, Positionspapiere: https://www.kommunales-sachsen-anhalt.de/St%C3%A4dte-und-Gemeindebund/Verbandsinformationen/Positionspapiere/index.php?NavID=39.69&object=tx%7C2348.1056.1&La=1
+- Landkreistag Sachsen-Anhalt: https://lkt-st.de/
+
+---
+
+## Anlage: Stadtprofil Hettstedt — stehender Recherchekontext
+
+*Stand 08.10.2026. Diese Anlage gibt den Inhalt von `profil-hettstedt.md` wieder, damit die Ausgabe als Druckstück für sich steht. Das Profil wurde für diese Ausgabe um § 2 Abs. 3 FAG, den Kreisumlagezuschlag, die Verfahrensfristen des Kommunalarms, den Infra-SVG-Bezug des Kunstrasenplatzes, den Investitionsstau und zwei neue Prüfaufträge erweitert. Maßgeblich und fortgeschrieben wird die Datei im Repository.*
 
 Dieses Profil ist der stehende Kontext für jede Ausgabe. Es beantwortet die Frage,
 welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht.
 
-## Eckdaten
+### Eckdaten
 
 | Merkmal | Wert |
 |---|---|
@@ -13,7 +264,7 @@ welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht
 | Gemeindetyp | Einheitsgemeinde, kreisangehörig |
 | Website | hettstedt.de |
 
-## Was sich daraus für die Einordnung von Landesvorgängen ergibt
+### Was sich daraus für die Einordnung von Landesvorgängen ergibt
 
 **Kreisangehörige Einheitsgemeinde** → Hettstedt ist beim **Sondervermögen Infrastruktur**
 unmittelbar eigener Empfänger eines Pauschalbudgets im Kommunalarm (Empfängerkreis:
@@ -49,7 +300,7 @@ seit 2002, Förderphase bis 2027. Ein ausgefülltes Projektdatenblatt ist Voraus
 die Entscheidung von Steuerungsgruppe und Mitgliederversammlung.
 Kontakt LEADER-Management: 03475 / 612 387 · lag-mansfeld-suedharz.de · lag-ms.de
 
-## Strukturwandel vor Ort: Hettstedt ist bereits Standort
+### Strukturwandel vor Ort: Hettstedt ist bereits Standort
 
 Wichtig für die Einordnung jeder Strukturwandelmeldung: In Hettstedt **läuft bereits ein
 gefördertes Vorhaben**. Die Frage lautet nicht mehr, ob die Stadt im Masterplan verankert ist,
@@ -134,7 +385,7 @@ vollständig sein.
 → **Der Hebel liegt im Wort „interkommunal":** 90 % gibt es nur gemeinsam mit Nachbarkommunen —
 denselben Gesprächspartnern, mit denen die Kreisumlage abzustimmen ist.
 
-## Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
+### Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
 
 Für die Einordnung jeder FAG-Meldung wichtig: **Rund die Hälfte der Landeszahlungen an die Kommunen
 läuft nicht über den Finanzausgleich.**
@@ -344,7 +595,7 @@ Kassenstatistik, die Inflationsrate (September 2026: **3,4 %**) und den Dieselpr
 gegenüber September 2025, unmittelbar relevant für Bauhof, Winterdienst und Feuerwehr). Eine
 Konsolidierungsauflage, die auf Ausgabendisziplin zielt, adressiert damit nicht die Ursache.
 
-## Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
+### Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
 
 Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
 
@@ -401,7 +652,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 08.10.2026)
+### Laufende lokale Vorgänge (Stand 08.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -421,7 +672,7 @@ Landkreis ist für Hettstedt berichtspflichtig.
 - **Kostenbeiträge Kindertagespflege** — Anpassung; Klarstellungen der Stadt zu Artikeln
   vom 19.02. und 14.03.2026.
 
-## Verwaltungsorganisation — belegte Zuständigkeiten
+### Verwaltungsorganisation — belegte Zuständigkeiten
 
 | Gegenstand | Stelle / Quelle |
 |---|---|
@@ -441,7 +692,7 @@ Geschwisterregelung Bezug? Läuft die landesrechtliche Grundlage aus, während d
 voraussetzt, entsteht zum 01.01.2027 ein **Satzungswiderspruch** mit unmittelbarer Wirkung auf die
 Beitragserhebung.
 
-## Bekanntmachungswesen
+### Bekanntmachungswesen
 
 Der Stadtrat hat am **09.07.2024** beschlossen, das **Amtsblatt in der bisherigen Form
 abzuschaffen**. Öffentliche Bekanntmachungen erfolgen seither **über die Website der Stadt**,
@@ -454,7 +705,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 08.10.2026)
+### Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 08.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -476,7 +727,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Ist die Besetzung der **Ausschüsse des Stadtrates spiegelbildlich** zu den Fraktionsstärken? | Streit um die Ausschussbesetzung im Landtag vor der Konstituierung am 06.10.2026 macht auf eine Pflicht aufmerksam, die in der laufenden Wahlperiode leicht aus dem Blick gerät. Drei Prüffragen: (1) entspricht die tatsächliche Besetzung den aktuellen Fraktionsstärken, (2) welches Zuteilungsverfahren schreibt die Geschäftsordnung des Stadtrates vor (d’Hondt, Sainte-Laguë/Schepers, Hare/Niemeyer) und wird es angewandt, (3) haben sich die Fraktionsstärken seit der Kommunalwahl 2024 durch Wechsel, Austritte oder Mandatsniederlegungen verändert, ohne dass die Ausschüsse neu besetzt wurden? Maßgeblich sind **KVG LSA und die Geschäftsordnung des Stadtrates**; die zur Spiegelbildlichkeit zitierte Rechtsprechung des OVG NRW betrifft anderes Landesrecht und ist nur Argumentationsmuster. **Es liegt kein Anhaltspunkt für einen Verstoß in Hettstedt vor** — der Prüfpunkt steht vorsorglich hier, weil eine fehlerhafte Besetzung im Kommunalverfassungsstreit angreifbar ist und vorberatene Beschlüsse in Frage stellen kann. |
 | **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
-## Wiederkehrende Antragsfristen
+### Wiederkehrende Antragsfristen
 
 | Frist | Programm | Hinweis |
 |---|---|---|
@@ -492,7 +743,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | unbelegt | Ausgleichsstock (Volumen 2026: **40,9 Mio. €** für Bedarfszuweisungen **und** zinslose rückzahlbare Liquiditätshilfen aller Kommunen des Landes) | feste Antragsfrist ließ sich nicht belegen — beim MF erfragen. **Präzedenz 2024:** „FAG-Ausgleichszahlung 2024“ — kreisangehörige Gemeinden mit Einzahlungsverlusten durch das neue FAG konnten im vereinfachten Verfahren bis **30.09.2024** zusätzliche Bedarfszuweisungen aus dem Ausgleichsstock beantragen (**Altvorgang, kein laufendes Programm**) — das Argumentationsmuster, falls der FAG 2027 Verluste bringt. 📐 *Eigene Überschlagsrechnung:* Die Bedarfszuweisung für Hettstedt (10.119.796,00 €) entspricht grob **einem Viertel** des Jahresvolumens — mit einer zweiten Zuweisung dieser Größenordnung ist nicht zu rechnen, die Konsolidierungsauflagen sind der Preis dieser einen. |
 | unbelegt | LEADER-Projektaufruf LAG MSH | Aufruf seit 01.07.2026 ⚠️; Einreichungsfrist beim LEADER-Management erfragen |
 
-## Feste Anlaufstellen
+### Feste Anlaufstellen
 
 | Anliegen | Stelle |
 |---|---|
