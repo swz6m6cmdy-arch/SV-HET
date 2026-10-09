@@ -1,9 +1,228 @@
-# Stadtprofil Hettstedt — Recherchekontext für das Kommunalbriefing
+# Kommunalbriefing Sachsen-Anhalt — Freitag, 9. Oktober 2026
+
+**Adressat:** Bürgermeister der Stadt Hettstedt, Landkreis Mansfeld-Südharz (rd. 14.000 EW)
+**Schwerpunkte:** Gesetzesänderungen · Fördermittel · Landespolitik mit Kommunalbezug
+**Redaktionsschluss:** 09.10.2026
+**Berichtszeitraum:** seit dem 08.10.2026
+
+> **Quellenhinweis:** Direkte Seitenabrufe (WebFetch) bleiben durch die Egress-Policy gesperrt. Die Inhalte stammen aus Websuche-Treffern und deren Zusammenfassungen, soweit möglich zwischen mehreren Treffern abgeglichen. Einzelfundstellen sind mit ⚠️ markiert und vor einer Verwendung in Beschlussvorlagen an der Primärquelle zu verifizieren.
+
+---
+
+## 1. Lage des Tages: Die Kita-Kostenbeitragssatzung stammt von 2017 — damit ist das KiFöG-Risiko präzise prüfbar
+
+**Dieses Briefing führt seit dem 24.09. den Prüfauftrag, ob die Kostenbeitragssatzung auf die KiFöG-Geschwisterregelung Bezug nimmt. Heute sind die Fundstellen da.**
+
+| Angabe | Beleg |
+|---|---|
+| Geltende Satzung | **Kostenbeitragssatzung für die Benutzung der Kindertageseinrichtungen und die Inanspruchnahme von Tagespflege** |
+| Beschlussfassung | Stadtratssitzung **19.12.2017**, **Beschluss-Nr. SRT-1150/2017** |
+| Inkrafttreten | **01.01.2018** |
+| Fundstelle | **Amtliches Mitteilungsblatt der Stadt Hettstedt, Ausgabe Januar 2018** |
+| Geplante Änderung | Die Stadt **beabsichtigt eine Neufassung** der Satzung für die **Kindertagespflege** („Tagesmütter") — Mitteilung der Stadt vom **19.03.2026**, verbunden mit einer Richtigstellung zu Artikeln der Mitteldeutschen Zeitung vom **19.02.** und **14.03.2026** |
+| Beschluss zur Neufassung | **nicht belegt** — die Mitteilung spricht von einer Absicht |
+
+### Warum das die Risikofrage schärft
+
+Die Geschwisterregelung des Landes ist **erheblich jünger als 2017**. Daraus folgen **zwei mögliche Lagen**, und sie führen zu verschiedenen Konsequenzen:
+
+| Lage | Befund in der Satzung | Konsequenz zum 01.01.2027 |
+|---|---|---|
+| **A** | Die Satzung ist seit 2017 **geändert** worden und nimmt auf die Geschwisterregelung Bezug | Läuft die Landesregelung aus, entsteht ein **Satzungswiderspruch** — die Satzung setzt eine Rechtsgrundlage voraus, die es nicht mehr gibt. Änderungsbedarf **vor** dem 01.01.2027 |
+| **B** | Die Satzung nimmt **keinen** Bezug; die Geschwisterermäßigung wurde unmittelbar nach Landesrecht gewährt | Mit dem Auslaufen der Landesregelung gelten **automatisch wieder die vollen Beiträge** der Satzung. Kein Satzungsproblem, aber ein **Kommunikations- und Erstattungsthema** gegenüber den Eltern — und eine Veränderung der Beitragserträge im Wirtschaftsplan des Eigenbetriebs |
+
+👉 **Der Prüfauftrag ist damit auf eine Viertelstunde Arbeit reduziert:** Satzung in der geltenden Fassung heraussuchen (Beschluss-Nr. SRT-1150/2017 nebst etwaigen Änderungssatzungen), prüfen, ob die Geschwisterregelung erwähnt ist, und die zutreffende Lage A oder B feststellen. **Stelle:** Hauptamt gemeinsam mit dem Eigenbetrieb. **Frist:** vor der Beratung des Haushalts 2027.
+
+⚠️ **Zur Einordnung der beabsichtigten Neufassung:** Nach dem Recherchegrundsatz dieses Briefings vom 02.10. ist eine Meldung ohne belegbares Datum kein Tagesbefund. Hier ist das Datum belegt — **19.03.2026** —, der Vorgang ist also **ein halbes Jahr alt** und wird nicht als Neuigkeit ausgegeben. Neu ist, dass er **einen offenen Prüfpunkt beantwortbar macht**. Ob die Neufassung inzwischen beschlossen wurde, ist **nicht belegt** und im Ratsinformationssystem zu prüfen.
+
+### Landespolitisch nichts Neues
+
+- **Die Ausschussgröße im Landtag bleibt unbelegt** — dritter Tag nach der Konstituierung, weiterhin keine Angabe in den zugänglichen Quellen. 📐 *Zur Einordnung, belegt für die 8. Wahlperiode:* Dort gab es **elf ständige Ausschüsse mit je 13 Mitgliedern** — das ist die Ausgangsgröße, über die gestritten wird.
+- **CDU:** **Sven Schulze** (CDU) hat eine Unterstützung Siegmunds sowie eine Zusammenarbeit mit AfD und BSW ausgeschlossen; Berichte beschreiben Unruhe in der Fraktion und weisen darauf hin, dass bei **geheimer Wahl** einzelne Abgeordnete sich enthalten oder anders stimmen können. ⚠️ Die Fundstelle bezeichnet Schulze als „CDU-Fraktionsvorsitzenden"; er ist zugleich geschäftsführender Ministerpräsident — die Rollenangabe ist **nicht geprüft**.
+- Siegmunds Kandidatur bleibt auf **Dezember** datiert; es fehlen ihm **drei Stimmen**.
+
+---
+
+## 2. Kommunale Spitzenverbände
+
+**Nichts Neues.** Stand unverändert: zehn Kernforderungen des Landkreistages vom 10./11.09.2026; Ansprechpartner Präsident **Dittmann** und Landesgeschäftsführer **Küper** beim Städte- und Gemeindebund.
+
+---
+
+## 3. Kommunalfinanzen
+
+**Nichts Neues.** Stand unverändert: Haushaltslücke des Landes 2027 **deutlich über 1 Mrd. €**, Ressortmittel 2027 **−21 %** gegenüber 2025; Finanzierungsdefizit der Kommunen im ersten Halbjahr 2026 **339 Mio. €**; Kassenkredite 1,7 Mrd. €; **für 2027 keine FAG-Regelung** — und nach **§ 2 Abs. 3 FAG** wäre sie rechtzeitig zu ermitteln (Ausgabe vom 08.10., Ziffer 1).
+
+Zum Landkreis liegt **keine neue Meldung** vor: kein Kreistagstermin, kein Entwurf des Kreishaushalts 2027, keine Mitteilung zur Kreisumlage.
+
+---
+
+## 4. Fördermittel: Ein präziserer Betrag — und eine Fundstelle, die täuscht
+
+### Wärmeplanung: 12,66 Mio. € landesweit
+
+Für die kommunalen Wärmeplanungen in Sachsen-Anhalt sind **12,66 Mio. €** vorgesehen ⚠️ — bisher führte dieses Briefing „rund 12 Mio. €". Die **Landesenergieagentur LENA** unterstützt die Kommunen bei Förderanträgen.
+
+📐 **Eigene Überschlagsrechnung, fortgeschrieben:** Bei 12,66 Mio. € landesweit und einem Ausgleich nach Einwohnerzahl ergibt sich für Hettstedt eine Größenordnung von **grob 80.000 €** (bisher 77.000 €). **Keine Zusage, kein Anspruch** — der tatsächliche Betrag ist beim MWU oder über LENA zu erfragen.
+
+### ⚠️ Warnung vor einer Fundstelle, die aktuell aussieht und es nicht ist
+
+In der Recherche erscheint ein Artikel des Umweltministeriums mit dem Titel **„Nur bis zum Jahresende — 100 Prozent-Förderung für kommunale Wärmepläne möglich"**. **Dieses Angebot ist nicht aktuell.** Die 90-Prozent-Förderung des Bundes und die 100-Prozent-Förderung für finanzschwache Kommunen und Antragsteller aus Braunkohlegebieten galten **nur bis Ende 2023**.
+
+👉 **Warum das hier steht:** Die Überschrift wäre für Hettstedt — finanzschwache Kommune **und** Braunkohleregion — genau die Meldung, auf die man wartet. Sie ist drei Jahre alt. Wer sie in eine Vorlage übernimmt, baut eine Finanzierung auf ein ausgelaufenes Programm.
+
+**Sonst nichts Neues:** kein neuer Aufruf, keine neue Frist, keine geänderte Kondition.
+
+---
+
+## 5. Gesetzesänderungen und Rechtsprechung: Korrektur am eigenen Profileintrag zur Wärmeplanung
+
+**Im Gesetz- und Verordnungsblatt nichts Neues.** Zu Bauordnung und Brandschutzgesetz ist für Oktober 2026 keine Änderung belegbar.
+
+### Was ich korrigieren muss
+
+Das Stadtprofil dieses Briefings führt bisher: *„Das Ausführungsgesetz zum Wärmeplanungsgesetz des Bundes **ist vom Landtag beschlossen**"* — mit dem Zusatz, Datum und Fundstelle im GVBl. LSA seien unbelegt. **Diese Formulierung war zu bestimmt.** Die heutige Recherche belegt nur:
+
+- Das **Kabinett** hat das Landesgesetz zur kommunalen Wärmeplanung **beschlossen** und es dem **Landtag zur weiteren Beratung zugeleitet**.
+- Nach dem Entwurf sollen die **Gemeinden als planungsverantwortliche Stellen** bestimmt werden.
+- Eine Quelle ging von einem Inkrafttreten **im Jahr 2025** aus — ob es dazu kam, **geht aus den Quellen nicht hervor**.
+
+👉 **Die Konsequenz ist nicht akademisch.** Dieses Briefing hatte aus dem angenommenen Landtagsbeschluss gefolgert, die Pflicht unterliege **nicht der Diskontinuität** der abgelaufenen Wahlperiode. **Diese Folgerung ist nicht mehr gesichert.** Wurde das Gesetz bis zum Ende der 8. Wahlperiode nicht beschlossen, verfällt der Entwurf und muss **neu eingebracht** werden — in einem Landtag, dessen Ausschüsse noch nicht arbeiten.
+
+**Was gilt unabhängig davon:** Die Frist **30.06.2028** folgt aus dem **Bundesgesetz** (Wärmeplanungsgesetz, in Kraft seit 01.01.2024), das die **Länder** verpflichtet. Was der Landesgesetzgeber regelt, ist, **wer** im Land planungsverantwortlich ist — also ob die Pflicht die Stadt selbst trifft.
+
+---
+
+## 6. Aus der kommunalen Praxis: Die Bekanntmachungspraxis ist jetzt besser belegt
+
+✅ **Bestätigung eines bisher mit ⚠️ geführten Punktes.** Die Angabe, dass die Stadt amtliche Mitteilungen **nicht mehr im Amtsblatt**, sondern **online** veröffentlicht, ist durch eine zweite Fundstelle bestätigt — mit einem Detail, das rechtlich zählt: Die Bekanntmachung erfolgt **online, mit Hinweisen in Schaukästen**, auf Grundlage eines **Stadtratsbeschlusses von 2024**.
+
+👉 **Warum der Schaukasten wichtig ist:** Bei elektronischer Bekanntmachung verlangt das Satzungsrecht typischerweise eine **Hinweisbekanntmachung** — einen Verweis in einem herkömmlichen Medium darauf, wo der Volltext elektronisch zu finden ist. Dass es Hinweise in Schaukästen gibt, spricht dafür, dass die Stadt genau das umsetzt. **Offen bleibt**, ob die Umsetzung der eigenen Bekanntmachungssatzung in allen Punkten entspricht (Dauerhaftigkeit der Verfügbarkeit, Nachweis des Bekanntmachungszeitpunkts). Der Prüfauftrag bleibt, aber er ist jetzt kleiner: **Es geht um die Details der Umsetzung, nicht mehr um die Frage, ob überhaupt ein Verfahren existiert.**
+
+---
+
+## 7. Konkret für Hettstedt
+
+### 7.1 Die Satzungsprüfung in drei Schritten
+
+Zur Lage aus Ziffer 1, als Arbeitsanweisung:
+
+1. **Geltende Fassung beschaffen:** Kostenbeitragssatzung, Beschluss-Nr. **SRT-1150/2017** vom **19.12.2017**, in Kraft **01.01.2018** — zuzüglich aller Änderungssatzungen seither. Quelle: Satzungsverzeichnis der Stadt und Ratsinformationssystem.
+2. **Nach der Geschwisterregelung suchen.** Ergebnis **A** (Bezug vorhanden) oder **B** (kein Bezug) entscheidet über den Handlungsbedarf.
+3. **Stand der beabsichtigten Neufassung klären** (Mitteilung vom 19.03.2026): Liegt ein Beschluss vor, liegt eine Vorlage im Ausschuss, oder ruht der Vorgang? Falls er ruht: Die Neufassung ist die **Gelegenheit**, die KiFöG-Folgen zum 01.01.2027 gleich mitzuregeln, statt zwei Satzungsverfahren zu führen.
+
+📐 **Eigene Einordnung, keine Zahl aus einer Quelle:** Die Satzung betrifft zwei Gegenstände — **Kindertageseinrichtungen** (sieben Einrichtungen im Eigenbetrieb) und **Kindertagespflege**. Die Mitteilung vom 19.03.2026 betrifft nach ihrem Wortlaut die **Tagespflege**. Ob die Neufassung auch den Einrichtungsteil erfasst, ist **nicht belegt** — und genau das ist für die KiFöG-Frage der größere Posten.
+
+### 7.2 Wärmeplanung: vorbereiten ja, binden nein
+
+Aus dem unklaren Gesetzesstand (→ Ziffer 5) folgt eine klare Empfehlung für die Reihenfolge:
+
+- **Nicht vergeben**, solange nicht belegt ist, dass die Stadt landesrechtlich planungsverantwortliche Stelle ist und welcher Ausgleich dafür vorgesehen ist. Eine Vergabe auf einen Entwurfsstand hin bindet Haushaltsmittel ohne gesicherte Gegenfinanzierung — unter einer Konsolidierungsauflage ein vermeidbares Risiko.
+- **Vorbereiten ja:** Leistungsbeschreibung entwerfen, Datenlage ordnen (Gebäudebestand, Netzdaten, Gasanteil), Ressourcenfrage im Bauverwaltungsamt klären. Die Frist **30.06.2028** verschiebt sich durch die unklare Landesrechtslage **nicht**, und sie folgt aus Bundesrecht.
+- **Zwei Fragen an MWU und LENA in einem Anruf:** Ist das Landesgesetz in Kraft, und mit welcher Fundstelle? Welcher Ausgleichsbetrag entfällt auf eine Stadt dieser Größe?
+
+### 7.3 Eigene Frist im Dezember: Grundstück Kirschberg 1a
+
+Die Ausschreibungsseite der Stadt weist den **Verkauf eines Grundstücks am Kirschberg 1a** mit einer **Frist zum 20.12.2026** aus ⚠️. Die Liste enthält auch ältere Vergaben, der Eintrag ist also am eigenen Bestand zu verifizieren.
+
+👉 **Warum das in dieses Briefing gehört:** Ein Grundstücksverkauf ist ein **Einzahlungsvorgang im Finanzhaushalt 2026 oder 2027** — je nach Zufluss. Unter einer Konsolidierungsauflage ist die Zuordnung zum richtigen Haushaltsjahr nicht nebensächlich, und Veräußerungserlöse sind gegenüber der Kommunalaufsicht erklärungsbedürftig (Vermögensverzehr versus Konsolidierungsbeitrag). **Stelle:** Kämmerei und Liegenschaften.
+
+### 7.4 Übriger Stand
+
+**Nichts Neues** zu Quartierspark, Kunstrasenplatz, Anschlussbahn, REGENT, HIP, H2HET und Kreisbrandmeister. Die **Anfrage zum Kreishaushalt 2027** ist am **achtzehnten Tag ohne Antwort**.
+
+---
+
+## 8. Ihre Termine und Fristen
+
+| Frist | Gegenstand | Relevanz für Hettstedt |
+|---|---|---|
+| **sofort** *(intern)* | **IB anrufen:** Mittelanmeldung 2027 Kommunalarm (Frist 30.06.2026 verstrichen), angezeigte Maßnahmen, gebundenes Pauschalbudget | **höchste** |
+| **vor dem 01.01.2027** *(intern)* | **Kostenbeitragssatzung prüfen** — Lage A oder B (→ Ziffer 7.1) | hoch |
+| **20.12.2026** | Frist Grundstücksverkauf **Kirschberg 1a** ⚠️ — Zuordnung des Erlöses zum Haushaltsjahr | mittel |
+| **Dezember 2026** | Ministerpräsidentenwahl, 1. Wahlgang — angekündigt, nur erster Wahlgang; drei Stimmen fehlen | höchste — das Signal |
+| **31.12.2026** | Letzter Termin Haushaltsgesetz 2027; danach Haushaltsvorgriff nach Art. 94 Verf LSA | höchste |
+| **31.12.2026** | Auslaufen KiFöG-Geschwisterregelung; Auslaufen der FAG-Änderung 2025/2026 samt **Kreisumlagezuschlag** ⚠️ | hoch |
+| **31.01.2027** | Erste jährliche Berichtspflicht Sondervermögen, Stichtag 01.01.2027 ⚠️ | hoch |
+| **31.10.2026** *(intern)* | Maßnahmenliste Städtebauförderung finalisieren | hoch |
+| **06.11.2026** | Ende Vollsperrung Arnstedter Weg | örtlich |
+| **30.11.2026** | Antragsfrist Städtebauförderung (StäBauFRL) ⏰ | hoch |
+| **Q4 2026** *(intern)* | Szenario für die Titel außerhalb des FAG; § 2-Abs.-3-Satz in den Vorbericht; Investitionsstau verifizieren; Folgekosten Quartierspark; Vermerk kommunale Verfassungsbeschwerde; Ausschussbesetzung Stadtrat; **Leistungsbeschreibung Wärmeplanung vorbereiten, nicht vergeben** | hoch |
+| **Herbst 2026** *(erwartet)* | Entwurf Kreishaushalt 2027 — über Bürgerinformationsdienst beobachten | hoch — achtzehnter Tag ohne Antwort |
+| **offen** | Ausschussgröße im Landtag — weiter unbelegt; angekündigte Verfahren vor dem Landesverfassungsgericht | mittelbar |
+| **offen** | **Landesgesetz kommunale Wärmeplanung** — Inkrafttreten unbelegt, Diskontinuität möglich | hoch |
+| **31.03.2027** | Nächster Antragstermin Sachsen-Anhalt REGIO | hoch |
+| **offen** | GRW-Landesregelungen — Veröffentlichung abwarten | hoch |
+| **laufend** | REVIER 2038 (IB) — 90 %, Projektanmeldung vor Antrag | höchste |
+| **laufend** | Vorhabenanzeige Kommunalarm — Mindestvolumen 50.000 €, Anzeige bis 31.12.2036, Abschluss bis 31.12.2042 | höchste |
+| **laufend** | Ausgleichsstock 2026, Volumen 40,9 Mio. € — keine belegte Frist | hoch |
+| **laufend** | Projektaufruf LAG Mansfeld-Südharz ⚠️ | hoch — Frist erfragen |
+| **31.08.2027** | Vereinssportstättenbau, Förderjahr 2028 | mittel |
+| **30.06.2028** | Kommunale Wärmeplanung (unter 100.000 EW) — Frist aus **Bundesrecht**; nicht mit der Sondervermögensfrist 30.06.2026 verwechseln | hoch |
+| **offen** | FAG 2027 und Landeshaushalt 2027 | höchste |
+| **offen** | BVerfG-Verfahren MSH/Salzlandkreis | hoch — Kreisumlage |
+
+---
+
+## 9. Empfohlene Handlungen dieser Woche
+
+1. **Kostenbeitragssatzung SRT-1150/2017 heraussuchen und auf die Geschwisterregelung prüfen** — Lage A oder B feststellen, und den Stand der beabsichtigten Neufassung vom 19.03.2026 klären. *Ziffern 1 und 7.1 — der Prüfauftrag ist jetzt in einer Viertelstunde erledigt.*
+2. **Unverändert dringlichster Punkt: die Investitionsbank anrufen** — Mittelanmeldung 2027, angezeigte Maßnahmen, gebundenes Pauschalbudget. *Ausgabe vom 08.10., Ziffer 4.*
+3. **Keine Vergabe der Wärmeplanung, solange die Landesrechtslage unbelegt ist** — Vorbereitung ja; MWU und LENA nach Inkrafttreten und Ausgleichsbetrag fragen. *Ziffern 5 und 7.2.*
+4. **Die 100-Prozent-Förderungsmeldung nicht verwenden** — sie ist von 2023. *Ziffer 4.*
+5. **Grundstück Kirschberg 1a:** Frist und Zuordnung des Erlöses zum Haushaltsjahr klären. *Ziffer 7.3.*
+6. **§ 2-Abs.-3-Satz in den Vorbericht 2027** und eigenes Szenario für die Titel außerhalb des FAG. *Ausgabe vom 08.10.*
+7. **Wegfall des Kreisumlagezuschlags** beim Landkreis und beim Städte- und Gemeindebund ansprechen, bevor der Kreishaushalt 2027 beraten wird.
+8. **Übriges** unverändert: Investitionsstau 21 Mio. € verifizieren; Folgekosten Quartierspark durch den Bauhof; Beschlusserfordernis für Sondervermögensmittel klären; Vermerk des Rechtsamts zur kommunalen Verfassungsbeschwerde; Spiegelbildlichkeit der Ausschussbesetzung; Inanspruchnahme und Zinsaufwand der Kreis-Liquiditätskredite; Genehmigungsbescheid Kreishaushalt 2026; konsolidierte FAG-Fassung anfordern; OVG-Entscheidung 3 L 48/24; Sachstand Anschlussbahn und REGENT; Termin SEG-MSH zu HIP; H2HET und HIP zusammenführen; Nachbarkommunen zu GRW und Kreisumlage; Antrittstermin Kreisbrandmeister Kujas; Städtebauförderung finalisieren; Ausgleichsstock/Gerbstedt; TVergG-Fassung; LAG-Frist.
+
+---
+
+## 10. Quellennachweis
+
+**Kostenbeitragssatzung und Kindertagespflege Hettstedt**
+- Stadt Hettstedt, Amtliches Mitteilungsblatt Januar 2018 (PDF; Beschluss SRT-1150/2017 vom 19.12.2017): https://www.hettstedt.de/fileadmin/redaktion/Amtsblatt/2018_01_Januar.pdf
+- Stadt Hettstedt, News und Pressemitteilungen (Mitteilung vom 19.03.2026 zur beabsichtigten Neufassung): https://www.hettstedt.de/aktuelles/news-pressemitteilungen/
+- Stadt Hettstedt, Satzungen: https://www.hettstedt.de/buergerservice/satzungen/
+- Mitteldeutsche Zeitung, „Stadtrat Hettstedt: Fragen zum Finanzplan des Eigenbetriebs Kindertagesstätten" ⚠️: https://www.mz-web.de/hettstedt/verwirrende-zahlen-kita-beitraege-sorgen-in-hettstedt-fuer-diskussionsbedarf-36864970
+- Ratsinformationssystem der Stadt Hettstedt: https://ratsinfo-online.net/hettstedt-bi/
+
+**Bekanntmachungswesen und Ausschreibungen Hettstedt**
+- Stadt Hettstedt, Bekanntmachungen: https://www.hettstedt.de/neuigkeiten/bekanntmachungen/
+- Stadt Hettstedt, Amtsblatt-Seite: https://www.hettstedt.de/neuigkeiten/amtsblatt/
+- Stadt Hettstedt, Ausschreibungen (u. a. Grundstück Kirschberg 1a, Frist 20.12.2026) ⚠️: https://www.hettstedt.de/aktuelles/ausschreibungen
+- Stadt Hettstedt, Geschäftsordnung für den Stadtrat und seine Ausschüsse: https://www.hettstedt.de/buergerservice/satzungen/geschaeftsordnung-fuer-den-stadtrat-der-stadt-hettstedt-und-seine-ausschuesse/
+
+**Kommunale Wärmeplanung**
+- Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt, Kommunale Wärmeplanung: https://mwu.sachsen-anhalt.de/energie/kommunale-waermeplanung
+- MWU, „Kabinett beschließt Landesgesetz zur kommunalen Wärmeplanung": https://mwu.sachsen-anhalt.de/artikel-detail/kabinett-beschliesst-landesgesetz-zur-kommunalen-waermeplanung
+- MWU, „Nur bis zum Jahresende — 100 Prozent-Förderung für kommunale Wärmepläne möglich" ⚠️ **veraltet, betrifft 2023**: https://mwu.sachsen-anhalt.de/artikel-detail/nur-bis-zum-jahresende-100-prozent-foerderung-fuer-kommunale-waermeplaene-moeglich-1
+- LENA, „Gestaltung der Wärmewende hat hohe Priorität im Land": https://lena.sachsen-anhalt.de/news-details/gestaltung-der-waermewende-hat-hohe-prioritaet-im-land
+- Du bist Halle, „Landesgesetz zur kommunalen Wärmeplanung Thema der Landesregierung": https://dubisthalle.de/landesgesetz-zur-kommunalen-waermeplanung-thema-der-landesregierung-von-sachsen-anhalt-mehr-als-die-haelfte-der-wohnungen-wird-mit-gas-beheizt/
+
+**Landtag, Ausschüsse und Regierungsbildung**
+- Landtag Sachsen-Anhalt, Ausschüsse & Gremien: https://www.landtag.sachsen-anhalt.de/landtag/ausschuesse-gremien
+- Landtag Sachsen-Anhalt, Ausschuss für Wirtschaft und Tourismus (Größenangabe 13 Mitglieder, 8. WP): https://www.landtag.sachsen-anhalt.de/landtag/ausschuesse-gremien/ausschuesse-detailseite/ausschuss/ausschuss-fuer-wirtschaft-und-tourismus
+- Landtag Sachsen-Anhalt, „Landtag der 9. WP hat sich konstituiert": https://www.landtag.sachsen-anhalt.de/artikel/landtag-hat-sich-konstituiert
+- t-online, „Regierungsbildung Sachsen-Anhalt: Siegmund sitzt in der Falle" ⚠️: https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101439138/regierungsbildung-sachsen-anhalt-siegmund-sitzt-in-der-falle.html
+- web.de Magazin, „Machen CDU-Abgeordnete Siegmund zum Ministerpräsidenten?" ⚠️: https://web.de/magazine/politik/inland/cdu-abgeordnete-siegmund-ministerpraesidenten-42800440
+
+**Landkreis und Kommunalfinanzen (Statusprüfung, nichts Neues)**
+- Landesportal Sachsen-Anhalt, Pressemitteilung zur Beanstandung des Kreishaushalts (Datierung der Seite unklar ⚠️): https://www.sachsen-anhalt.de/bs/pressemitteilungen
+- Landesverwaltungsamt, „Landkreis Mansfeld-Südharz: Haushalt 2026 im zweiten Anlauf genehmigt": https://lvwa.sachsen-anhalt.de/das-lvwa/news-details/landkreis-mansfeld-suedharz-haushalt-2026-im-zweiten-anlauf-genehmigt-auflagen-sollen-haushaltslage-stabilisieren
+- Landkreis Mansfeld-Südharz, Kreistag und Bürgerinformationsdienst: https://www.mansfeldsuedharz.de/unser-service-ihr-ansprechpartner/kreistag
+- Ministerium der Finanzen, Kommunaler Finanzausgleich: https://mf.sachsen-anhalt.de/finanzen/kommunaler-finanzausgleich
+- Kommunale Selbstverwaltung in Sachsen-Anhalt: https://www.kommunales-sachsen-anhalt.de/
+
+---
+
+## Anlage: Stadtprofil Hettstedt — stehender Recherchekontext
+
+*Stand 09.10.2026. Diese Anlage gibt den Inhalt von `profil-hettstedt.md` wieder, damit die Ausgabe als Druckstück für sich steht. Das Profil wurde für diese Ausgabe um die Fundstellen der Kostenbeitragssatzung erweitert, beim Wärmeplanungs-Ausführungsgesetz **korrigiert**, beim Bekanntmachungswesen bestätigt und um zwei Einträge ergänzt. Maßgeblich und fortgeschrieben wird die Datei im Repository.*
 
 Dieses Profil ist der stehende Kontext für jede Ausgabe. Es beantwortet die Frage,
 welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht.
 
-## Eckdaten
+### Eckdaten
 
 | Merkmal | Wert |
 |---|---|
@@ -13,7 +232,7 @@ welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht
 | Gemeindetyp | Einheitsgemeinde, kreisangehörig |
 | Website | hettstedt.de |
 
-## Was sich daraus für die Einordnung von Landesvorgängen ergibt
+### Was sich daraus für die Einordnung von Landesvorgängen ergibt
 
 **Kreisangehörige Einheitsgemeinde** → Hettstedt ist beim **Sondervermögen Infrastruktur**
 unmittelbar eigener Empfänger eines Pauschalbudgets im Kommunalarm (Empfängerkreis:
@@ -60,7 +279,7 @@ seit 2002, Förderphase bis 2027. Ein ausgefülltes Projektdatenblatt ist Voraus
 die Entscheidung von Steuerungsgruppe und Mitgliederversammlung.
 Kontakt LEADER-Management: 03475 / 612 387 · lag-mansfeld-suedharz.de · lag-ms.de
 
-## Strukturwandel vor Ort: Hettstedt ist bereits Standort
+### Strukturwandel vor Ort: Hettstedt ist bereits Standort
 
 Wichtig für die Einordnung jeder Strukturwandelmeldung: In Hettstedt **läuft bereits ein
 gefördertes Vorhaben**. Die Frage lautet nicht mehr, ob die Stadt im Masterplan verankert ist,
@@ -145,7 +364,7 @@ vollständig sein.
 → **Der Hebel liegt im Wort „interkommunal":** 90 % gibt es nur gemeinsam mit Nachbarkommunen —
 denselben Gesprächspartnern, mit denen die Kreisumlage abzustimmen ist.
 
-## Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
+### Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
 
 Für die Einordnung jeder FAG-Meldung wichtig: **Rund die Hälfte der Landeszahlungen an die Kommunen
 läuft nicht über den Finanzausgleich.**
@@ -355,7 +574,7 @@ Kassenstatistik, die Inflationsrate (September 2026: **3,4 %**) und den Dieselpr
 gegenüber September 2025, unmittelbar relevant für Bauhof, Winterdienst und Feuerwehr). Eine
 Konsolidierungsauflage, die auf Ausgabendisziplin zielt, adressiert damit nicht die Ursache.
 
-## Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
+### Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
 
 Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
 
@@ -412,7 +631,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 09.10.2026)
+### Laufende lokale Vorgänge (Stand 09.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -433,7 +652,7 @@ Landkreis ist für Hettstedt berichtspflichtig.
 - **Kostenbeiträge Kindertagespflege** — Anpassung; Klarstellungen der Stadt zu Artikeln
   vom 19.02. und 14.03.2026.
 
-## Verwaltungsorganisation — belegte Zuständigkeiten
+### Verwaltungsorganisation — belegte Zuständigkeiten
 
 | Gegenstand | Stelle / Quelle |
 |---|---|
@@ -453,7 +672,7 @@ Geschwisterregelung Bezug? Läuft die landesrechtliche Grundlage aus, während d
 voraussetzt, entsteht zum 01.01.2027 ein **Satzungswiderspruch** mit unmittelbarer Wirkung auf die
 Beitragserhebung.
 
-## Bekanntmachungswesen
+### Bekanntmachungswesen
 
 Der Stadtrat hat am **09.07.2024** beschlossen, das **Amtsblatt in der bisherigen Form
 abzuschaffen**. ✅ **Bestätigt am 09.10.2026 durch eine zweite Fundstelle**, mit einem
@@ -471,7 +690,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 09.10.2026)
+### Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 09.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -493,7 +712,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Ist die Besetzung der **Ausschüsse des Stadtrates spiegelbildlich** zu den Fraktionsstärken? | Streit um die Ausschussbesetzung im Landtag vor der Konstituierung am 06.10.2026 macht auf eine Pflicht aufmerksam, die in der laufenden Wahlperiode leicht aus dem Blick gerät. Drei Prüffragen: (1) entspricht die tatsächliche Besetzung den aktuellen Fraktionsstärken, (2) welches Zuteilungsverfahren schreibt die Geschäftsordnung des Stadtrates vor (d’Hondt, Sainte-Laguë/Schepers, Hare/Niemeyer) und wird es angewandt, (3) haben sich die Fraktionsstärken seit der Kommunalwahl 2024 durch Wechsel, Austritte oder Mandatsniederlegungen verändert, ohne dass die Ausschüsse neu besetzt wurden? Maßgeblich sind **KVG LSA und die Geschäftsordnung des Stadtrates**; die zur Spiegelbildlichkeit zitierte Rechtsprechung des OVG NRW betrifft anderes Landesrecht und ist nur Argumentationsmuster. **Es liegt kein Anhaltspunkt für einen Verstoß in Hettstedt vor** — der Prüfpunkt steht vorsorglich hier, weil eine fehlerhafte Besetzung im Kommunalverfassungsstreit angreifbar ist und vorberatene Beschlüsse in Frage stellen kann. |
 | **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
-## Wiederkehrende Antragsfristen
+### Wiederkehrende Antragsfristen
 
 | Frist | Programm | Hinweis |
 |---|---|---|
@@ -509,7 +728,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | unbelegt | Ausgleichsstock (Volumen 2026: **40,9 Mio. €** für Bedarfszuweisungen **und** zinslose rückzahlbare Liquiditätshilfen aller Kommunen des Landes) | feste Antragsfrist ließ sich nicht belegen — beim MF erfragen. **Präzedenz 2024:** „FAG-Ausgleichszahlung 2024“ — kreisangehörige Gemeinden mit Einzahlungsverlusten durch das neue FAG konnten im vereinfachten Verfahren bis **30.09.2024** zusätzliche Bedarfszuweisungen aus dem Ausgleichsstock beantragen (**Altvorgang, kein laufendes Programm**) — das Argumentationsmuster, falls der FAG 2027 Verluste bringt. 📐 *Eigene Überschlagsrechnung:* Die Bedarfszuweisung für Hettstedt (10.119.796,00 €) entspricht grob **einem Viertel** des Jahresvolumens — mit einer zweiten Zuweisung dieser Größenordnung ist nicht zu rechnen, die Konsolidierungsauflagen sind der Preis dieser einen. |
 | unbelegt | LEADER-Projektaufruf LAG MSH | Aufruf seit 01.07.2026 ⚠️; Einreichungsfrist beim LEADER-Management erfragen |
 
-## Feste Anlaufstellen
+### Feste Anlaufstellen
 
 | Anliegen | Stelle |
 |---|---|
