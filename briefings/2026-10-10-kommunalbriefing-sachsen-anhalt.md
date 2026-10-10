@@ -1,9 +1,241 @@
-# Stadtprofil Hettstedt — Recherchekontext für das Kommunalbriefing
+# Kommunalbriefing Sachsen-Anhalt — Samstag, 10. Oktober 2026
+
+**Adressat:** Bürgermeister der Stadt Hettstedt, Landkreis Mansfeld-Südharz (rd. 14.000 EW)
+**Schwerpunkte:** Gesetzesänderungen · Fördermittel · Landespolitik mit Kommunalbezug
+**Redaktionsschluss:** 10.10.2026
+**Berichtszeitraum:** seit dem 09.10.2026
+
+> **Quellenhinweis:** Direkte Seitenabrufe (WebFetch) bleiben durch die Egress-Policy gesperrt. Die Inhalte stammen aus Websuche-Treffern und deren Zusammenfassungen, soweit möglich zwischen mehreren Treffern abgeglichen. Einzelfundstellen sind mit ⚠️ markiert und vor einer Verwendung in Beschlussvorlagen an der Primärquelle zu verifizieren.
+
+---
+
+## 1. Lage des Tages: Eine Gemeinde hat ihre FAG-Klage an der Jahresfrist verloren — und das betrifft Ihre Vorsorge für 2027 unmittelbar
+
+**Dieses Briefing hat am 07.10. empfohlen, das Rechtsamt möge Form und Fristen einer kommunalen Verfassungsbeschwerde zusammenstellen. Heute gibt es dazu eine Entscheidung, die zeigt, warum das keine Formalie ist.**
+
+### Der Fall
+
+| Angabe | Inhalt |
+|---|---|
+| Entscheidung | **BVerfG, Beschluss vom 16.07.2026, Az. 2 BvR 118/26** |
+| Beschwerdeführerin | eine **kreisangehörige Gemeinde im Salzlandkreis** (Sachsen-Anhalt) |
+| Gegenstand | Bestimmungen des **Gesetzes zur Änderung des Finanzausgleichsgesetzes Sachsen-Anhalt** |
+| Normlage | rückwirkend in Kraft zum **01.01.2022**, **verkündet am 11.04.2022** |
+| Vorverfahren | **LVerfG Sachsen-Anhalt, Urteil vom 21.01.2025** — Beschwerde zurückgewiesen, kein Verstoß gegen das landesverfassungsrechtliche Selbstverwaltungsrecht |
+| Gang zum BVerfG | erst am **16.01.2026** |
+| Ergebnis | **unzulässig — Jahresfrist versäumt** (§ 93 Abs. 3 BVerfGG) |
+| Fristbeginn | bei rückwirkenden Normen ab dem Tag der **Verkündung**, hier **11.04.2022** |
+
+👉 **Die Lehre in einem Satz: Der Weg über das Landesverfassungsgericht verlängert die Jahresfrist zum Bundesverfassungsgericht nicht.** Wer beides will, muss beides innerhalb eines Jahres nach Verkündung auf den Weg bringen.
+
+⚠️ **Eine Unschärfe, die ich benennen muss:** Nach einer Entscheidung von 2017 (**2 BvR 2177/16**) beginnt die Jahresfrist bei einer Kommunalverfassungsbeschwerde erst mit Abschluss des fachgerichtlichen Verfahrens, **wenn dessen Durchführung nach § 90 Abs. 2 BVerfGG vorgeschrieben ist**. Im vorliegenden Fall hat das Gericht die Frist dennoch als versäumt angesehen. Die Begründung dieser Abgrenzung konnte ich **nur aus der Berichterstattung** entnehmen, nicht am Volltext prüfen. Für eine Beschlussvorlage ist der Volltext zu lesen.
+
+### Der Maßstab des Landesverfassungsgerichts — und was er für die Erfolgsaussichten bedeutet
+
+Mit demselben Urteil ist nun auch belegt, womit dieses Briefing bisher nur eine undatierte Fundstelle führte:
+
+- **LVerfG Sachsen-Anhalt, Urteil vom 21.01.2025**, Aktenzeichen **LVG 5/23** (eine Stadt) und **LVG 6/23** (ein Landkreis) — beide zum FAG, zum Finanzausgleich und zum Selbstverwaltungsrecht. ✅ Damit ist das in diesem Briefing offene Aktenzeichen geklärt.
+- **Der Prüfungsmaßstab ist weit zugunsten des Gesetzgebers:** Dem Gesetzgeber steht bei der Bemessung des kommunalen Finanzbedarfs ein **weiter Spielraum** zu. Die Kontrolle beschränkt sich darauf, ob die Methode **offensichtlich fehlerhaft oder im Ansatz bzw. in der Methode klar widerlegbar** ist oder verfassungsrechtlichen Wertungen widerspricht.
+- **Ergebnis damals:** kein Verstoß. Soweit der Gesetzgeber während des Verfahrens nachgebessert hatte, entschied das Gericht nur über die verbliebenen Vorschriften.
+
+👉 **Nüchterne Einordnung, die ich der Ausgabe vom 07.10. nachtragen muss:** Dort stand, der Rechtsweg zum Landesverfassungsgericht bleibe „verfügbar". Das ist richtig — aber **er ist schmal**. Bei diesem Prüfungsmaßstab ist eine Klage gegen einen Finanzausgleich die Ausnahme, nicht das Instrument der Wahl. **Der wirksame Hebel bleibt das Gesetzgebungsverfahren** — Stellungnahmen über die Spitzenverbände, dokumentierte Konnexitätsfälle, § 2 Abs. 3 FAG — und nicht der Gang nach Dessau oder Karlsruhe.
+
+### Zwei Verfahren, die nicht verwechselt werden dürfen
+
+| Verfahren | Beteiligte | Gegenstand | Stand |
+|---|---|---|---|
+| **2 BvR 118/26** | eine **kreisangehörige Gemeinde** im Salzlandkreis | Änderung des FAG LSA | **unzulässig** wegen Fristversäumnis, 16.07.2026 |
+| Verfahren der **Landkreise** | **Mansfeld-Südharz und Salzlandkreis**, unterstützt vom Landkreis Harz | Anspruch der **Landkreise** auf finanzielle **Mindestausstattung** nach Art. 28 Abs. 2 GG | ⚠️ nach derzeitigem Kenntnisstand **anhängig**; eine Entscheidung ist nicht belegt |
+
+**Das sind verschiedene Sachen.** Dass die Gemeindebeschwerde gescheitert ist, sagt über das Verfahren der Landkreise **nichts** aus.
+
+---
+
+## 2. Kommunale Spitzenverbände
+
+**Nichts Neues.** Stand unverändert: zehn Kernforderungen des Landkreistages vom 10./11.09.2026; Ansprechpartner Präsident **Dittmann**, Landesgeschäftsführer **Küper**.
+
+---
+
+## 3. Kommunalfinanzen: Zwei Teilmassen des FAG, die in Ihrem Haushalt eine Zeile sind
+
+Zur bekannten Lage (Haushaltslücke des Landes 2027 **über 1 Mrd. €**, Ressortmittel **−21 %**, für 2027 **keine FAG-Regelung**) kommen heute zwei belegte Teilbeträge:
+
+| Teilmasse | Betrag |
+|---|---|
+| **Schlüsselzuweisungen nach § 12 FAG** | **1.071.760.000 €** (2025) ⚠️ |
+| **Investitionspauschale** | **je 160 Mio. €** (2025 und 2026) ⚠️ |
+| Finanzierungssaldo des Landeshaushalts | **−1.097.338.600 €** (2025) ⚠️ |
+
+⚠️ Alle drei Angaben stammen von Seiten des Ministeriums der Finanzen bzw. aus dem Haushaltsplan 2025/2026 und sind **möglicherweise nicht der neueste Stand**; die Seite weist selbst darauf hin.
+
+📐 **Eigene Überschlagsrechnung zur Investitionspauschale, ausdrücklich eine Größenordnung:** Bei einer Verteilung nach Einwohnerzahl und rund 2,16 Mio. Einwohnern im Land entspräche die Pauschale etwa **74 € je Einwohner**, für Hettstedt also grob **1,0 Mio. €**. ⚠️ Die Einwohnerzahl des Landes ist hier eine **Annahme**, und der **Verteilungsschlüssel der Investitionspauschale ist nicht belegt**. Der tatsächliche Betrag steht in Ihrem eigenen Haushalt — und genau das ist der Punkt (→ Ziffer 7.3).
+
+---
+
+## 4. Fördermittel
+
+**Nichts Neues.** Kein neuer Aufruf, keine neue Frist, keine geänderte Kondition. Unverändert dringlich bleibt die Klärung mit der Investitionsbank zur **Mittelanmeldung 2027** im Kommunalarm (Frist 30.06.2026 verstrichen).
+
+---
+
+## 5. Gesetzesänderungen und Rechtsprechung
+
+**Im Gesetz- und Verordnungsblatt nichts Neues.** Die Rechtsprechungsbefunde des Tages stehen in Ziffer 1. Unverändert offen: Inkrafttreten des Landesgesetzes zur kommunalen Wärmeplanung (mögliche Diskontinuität), TVergG-LSA-Fassung, MBAG LSA (Az. 3 L 48/24).
+
+---
+
+## 6. Aus der kommunalen Praxis: REGENT Hettstedt — die Zahlen und der Termin, der 2027 zählt
+
+**Nachtrag mit Datum, kein Tagesbefund.** Zum Gesundheits- und Notfallzentrum REGENT in Hettstedt sind jetzt Eckdaten belegt:
+
+| Angabe | Wert |
+|---|---|
+| Spatenstich Hettstedt | **10.03.2026** |
+| Spatenstich Sangerhausen | **25.03.2026**, mit Landrat **André Schröder**, Ministerpräsident **Sven Schulze** und Ministerin **Petra Grimm-Benne** |
+| Gesamtinvestition Hettstedt | **9,8 Mio. €** (Angabe des Landkreises) |
+| Förderung Hettstedt | **9,3 Mio. €** aus dem **Strukturstärkungsgesetz** |
+| Förderung beide Standorte | zusammen rund **22,55 Mio. €** |
+| **Geplante Fertigstellung** | **Mitte 2027** |
+| Betrieb | **Betriebsteil des Eigenbetriebs Rettungsdienst** des Landkreises, gemeinsam mit den **Helios Kliniken Mansfeld-Südharz** |
+
+📐 **Eigene Überschlagsrechnung:** 9,8 Mio. € Investition bei 9,3 Mio. € Förderung bedeuten einen Eigenanteil von grob **0,5 Mio. €**, also eine Förderquote von etwa **95 %**. Das ist eine hohe Quote — und erklärt, warum das Projekt trotz der Haushaltslage des Kreises läuft.
+
+---
+
+## 7. Konkret für Hettstedt
+
+### 7.1 Was aus dem BVerfG-Beschluss für Ihre Vorsorge folgt — drei konkrete Schritte
+
+**Der Vermerk, den dieses Briefing am 07.10. empfohlen hat, bekommt damit einen präzisen Inhalt.**
+
+1. **Das Verkündungsdatum wird zur Akte.** Sobald eine FAG-Regelung für 2027 im **GVBl. LSA verkündet** wird, ist das Datum zu notieren — mit dem Vermerk, dass von diesem Tag an die **Jahresfrist des § 93 Abs. 3 BVerfGG** läuft, auch bei rückwirkendem Inkrafttreten. **Stelle:** Rechtsamt, Wiedervorlage im Hauptamt.
+2. **Kein Verlass auf den Landesweg.** Ein Verfahren vor dem Landesverfassungsgericht **hält die Bundesfrist nicht auf**. Wer beide Wege offenhalten will, muss das innerhalb des ersten Jahres nach Verkündung entscheiden — nicht nach dem Landesurteil.
+3. **Erwartungen dämpfen.** Beim weiten Spielraum des Gesetzgebers (→ Ziffer 1) ist der Aufwand einer Klage in keinem guten Verhältnis zur Erfolgsaussicht, solange die Methode des Gesetzgebers nicht offensichtlich fehlerhaft ist. **Der Vermerk sollte das ausdrücklich festhalten**, damit im Stadtrat keine Erwartung entsteht, die der Rechtsweg nicht trägt.
+
+👉 **Zusammengefasst:** Fristenkontrolle ja, Klagevorbereitung nein. Die Arbeit gehört in die **Stellungnahme zum Gesetzentwurf**, nicht in die Klageschrift.
+
+### 7.2 REGENT: Fertigstellung Mitte 2027 heißt Betriebskosten im Kreishaushalt ab 2027
+
+**Das ist die Verbindung zur Kreisumlage, und sie ist jetzt terminiert.**
+
+Dieses Briefing warnt seit dem 25.09. davor, in der Umlagediskussion mit „der Kreis baut, also hat er Geld" zu argumentieren — das scheitert an der belegten Defizitlage und an der Tatsache, dass REGENT zu etwa 95 % aus Strukturwandelmitteln finanziert ist. **Die belastbare Frage sind die Folgekosten.** Mit der Fertigstellung **Mitte 2027** ist sie jetzt datierbar:
+
+- Ab Mitte 2027 entstehen **Betriebs-, Personal- und Unterhaltungskosten** für zwei Zentren (Hettstedt und Sangerhausen) im **Eigenbetrieb Rettungsdienst** des Landkreises.
+- Diese Kosten belasten den **Ergebnishaushalt des Kreises** — und damit mittelbar den **Umlagebedarf**, der von den Gemeinden getragen wird.
+- Die Betreiberkonstellation mit den **Helios Kliniken** ist dabei die entscheidende Variable: Je nach Vertragsgestaltung trägt der Kreis mehr oder weniger.
+
+👉 **Die Frage für die Beratung des Kreishaushalts 2027, sachlich und ohne Vorwurf:** *Sind die Betriebskosten der beiden REGENT-Standorte ab Mitte 2027 in der mittelfristigen Finanzplanung des Landkreises veranschlagt, und mit welchem Anteil des Kreises nach der Vereinbarung mit den Helios Kliniken?* **Stelle:** Kämmerei des Landkreises und Eigenbetrieb Rettungsdienst; hilfsweise über den Bürgerinformationsdienst. **Frist:** vor der Beratung des Kreishaushalts 2027.
+
+⚠️ Ausdrücklich: Dies ist **keine Behauptung**, die Folgekosten seien nicht veranschlagt. Es ist die Frage, deren Antwort man kennen muss, bevor man über eine Umlage von 40 % diskutiert.
+
+### 7.3 Die Investitionspauschale ist eine eigene Zeile — und sie hängt am FAG 2026
+
+Die **Investitionspauschale von je 160 Mio. €** war Teil der FAG-Regelung **für 2025 und 2026** ⚠️. Sie ist damit die **dritte** Position, die mit dem Jahreswechsel ohne Rechtsgrundlage dasteht — neben den Schlüsselzuweisungen und dem Kreisumlagezuschlag.
+
+👉 **Konkret für den Finanzhaushalt 2027:** Die Investitionspauschale finanziert typischerweise den **Eigenanteil** bei Förderprojekten. Fällt sie weg oder kommt sie später, trifft das genau die Projekte, deren Eigenanteil ohnehin knapp ist — **Quartierspark, Kunstrasenplatz, Städtebauförderung**. **Schritt:** Die Position im eigenen Haushalt 2026 heraussuchen, den Betrag feststellen, und für 2027 **nicht als gesichert veranschlagen** (→ Ausgabe vom 06.10., Ziffer 7.2: Kriterium der Vorjahresveranschlagung). **Stelle:** Kämmerei.
+
+### 7.4 Örtlich und übriger Stand
+
+- **Sperrung im Bereich Lutherstraße am 12.10.2026** wegen des **Kupferfestes** ⚠️ (Mitteilung der Stadt).
+- **Nichts Neues** zu Quartierspark, Kunstrasenplatz, Anschlussbahn, HIP, H2HET, Wärmeplanung und Kreisbrandmeister. Vom Landkreis liegt **keine neue Meldung** vor.
+- Die **Anfrage zum Kreishaushalt 2027** ist am **neunzehnten Tag ohne Antwort**.
+- **Landespolitisch nichts Neues:** Die **Ausschussgröße im Landtag bleibt unbelegt** — vierter Tag nach der Konstituierung. 📐 **Eigene Rechnung mit einem belegten Hinweis:** Das Lexikon des Landtages nennt für die Sitzverteilung in Ausschüssen das **Rangmaßzahlverfahren** (Hare/Niemeyer-Typ), die Presse hatte **Sainte-Laguë/Schepers** genannt — ein **Widerspruch in den Quellen**. Rechnet man beide Verfahren mit den Fraktionsstärken (AfD 39, CDU 15, SPD 8, Grüne 8, Linke 8, BSW 5 von 83) durch, ergibt sich **dasselbe Ergebnis**: bei **12** Sitzen **6 für die AfD**, bei **11** Sitzen **5**. **Der Streit hängt also nicht am Verfahren, sondern allein an der Größe.** Das stützt die Angaben der Ausgabe vom 05.10. unabhängig davon, welches Verfahren gilt.
+
+---
+
+## 8. Ihre Termine und Fristen
+
+| Frist | Gegenstand | Relevanz für Hettstedt |
+|---|---|---|
+| **sofort** *(intern)* | **IB anrufen:** Mittelanmeldung 2027 Kommunalarm (Frist 30.06.2026 verstrichen), angezeigte Maßnahmen, gebundenes Pauschalbudget | **höchste** |
+| **12.10.2026** | Sperrung Bereich Lutherstraße, Kupferfest ⚠️ | örtlich |
+| **ab Verkündung einer FAG-Regelung 2027** | **Jahresfrist § 93 Abs. 3 BVerfGG** — Verkündungsdatum zur Akte, Wiedervorlage | hoch — Fristenkontrolle |
+| **vor dem 01.01.2027** *(intern)* | Kostenbeitragssatzung SRT-1150/2017 prüfen — Lage A oder B | hoch |
+| **20.12.2026** | Frist Grundstücksverkauf Kirschberg 1a ⚠️ | mittel |
+| **Dezember 2026** | Ministerpräsidentenwahl, 1. Wahlgang — angekündigt, nur erster Wahlgang | höchste — das Signal |
+| **31.12.2026** | Letzter Termin Haushaltsgesetz 2027; danach Haushaltsvorgriff nach Art. 94 Verf LSA | höchste |
+| **31.12.2026** | Auslaufen KiFöG-Geschwisterregelung; Auslaufen der FAG-Änderung 2025/2026 samt **Kreisumlagezuschlag und Investitionspauschale** ⚠️ | hoch |
+| **31.01.2027** | Erste jährliche Berichtspflicht Sondervermögen, Stichtag 01.01.2027 ⚠️ | hoch |
+| **31.10.2026** *(intern)* | Maßnahmenliste Städtebauförderung finalisieren | hoch |
+| **06.11.2026** | Ende Vollsperrung Arnstedter Weg | örtlich |
+| **30.11.2026** | Antragsfrist Städtebauförderung (StäBauFRL) ⏰ | hoch |
+| **Q4 2026** *(intern)* | Szenario für die Titel außerhalb des FAG; Investitionspauschale nicht als gesichert veranschlagen; § 2-Abs.-3-Satz in den Vorbericht; Investitionsstau verifizieren; Folgekosten Quartierspark; Vermerk Fristenkontrolle statt Klagevorbereitung; Ausschussbesetzung Stadtrat | hoch |
+| **Mitte 2027** | **Fertigstellung REGENT** — Betriebskosten im Kreishaushalt, Umlagefrage | hoch |
+| **Herbst 2026** *(erwartet)* | Entwurf Kreishaushalt 2027 — über Bürgerinformationsdienst beobachten | hoch — neunzehnter Tag ohne Antwort |
+| **offen** | Ausschussgröße im Landtag — weiter unbelegt | mittelbar |
+| **offen** | Landesgesetz kommunale Wärmeplanung — Inkrafttreten unbelegt, Diskontinuität möglich | hoch |
+| **31.03.2027** | Nächster Antragstermin Sachsen-Anhalt REGIO | hoch |
+| **offen** | GRW-Landesregelungen — Veröffentlichung abwarten | hoch |
+| **laufend** | REVIER 2038 (IB) — 90 %, Projektanmeldung vor Antrag | höchste |
+| **laufend** | Vorhabenanzeige Kommunalarm — Mindestvolumen 50.000 € | höchste |
+| **laufend** | Ausgleichsstock 2026, Volumen 40,9 Mio. € — keine belegte Frist | hoch |
+| **laufend** | Projektaufruf LAG Mansfeld-Südharz ⚠️ | hoch — Frist erfragen |
+| **31.08.2027** | Vereinssportstättenbau, Förderjahr 2028 | mittel |
+| **30.06.2028** | Kommunale Wärmeplanung (unter 100.000 EW), Frist aus Bundesrecht | hoch |
+| **offen** | FAG 2027 und Landeshaushalt 2027 | höchste |
+| **offen** | BVerfG-Verfahren der **Landkreise** MSH/Salzlandkreis zur Mindestausstattung ⚠️ anhängig | hoch — Kreisumlage |
+
+---
+
+## 9. Empfohlene Handlungen dieser Woche
+
+1. **Unverändert dringlichster Punkt: Investitionsbank anrufen** — Mittelanmeldung 2027, angezeigte Maßnahmen, gebundenes Pauschalbudget. *Ausgabe vom 08.10.*
+2. **Den Vermerk des Rechtsamts umwidmen:** von „Klagevorbereitung" zu **Fristenkontrolle** — Verkündungsdatum einer FAG-Regelung 2027 zur Akte, Jahresfrist § 93 Abs. 3 BVerfGG, ausdrücklicher Hinweis auf den weiten Spielraum des Gesetzgebers. *Ziffer 7.1.*
+3. **Investitionspauschale im eigenen Haushalt 2026 heraussuchen** und für 2027 nicht als gesicherte Einnahme veranschlagen. *Ziffer 7.3.*
+4. **Folgekostenfrage zu REGENT an Kreis und Eigenbetrieb Rettungsdienst stellen** — sachlich, vor der Beratung des Kreishaushalts 2027. *Ziffer 7.2.*
+5. **Kostenbeitragssatzung SRT-1150/2017 prüfen** — Lage A oder B. *Ausgabe vom 09.10.*
+6. **Keine Vergabe der Wärmeplanung**, solange die Landesrechtslage unbelegt ist; MWU und LENA nach Inkrafttreten und Ausgleichsbetrag fragen.
+7. **Wegfall des Kreisumlagezuschlags** beim Landkreis und beim Städte- und Gemeindebund ansprechen.
+8. **Übriges** unverändert: § 2-Abs.-3-Satz in den Vorbericht; eigenes Szenario für die Titel außerhalb des FAG; Investitionsstau 21 Mio. € verifizieren; Folgekosten Quartierspark durch den Bauhof; Beschlusserfordernis für Sondervermögensmittel klären; Spiegelbildlichkeit der Ausschussbesetzung; Inanspruchnahme und Zinsaufwand der Kreis-Liquiditätskredite; Genehmigungsbescheid Kreishaushalt 2026; konsolidierte FAG-Fassung anfordern; OVG-Entscheidung 3 L 48/24; Sachstand Anschlussbahn; Termin SEG-MSH zu HIP; H2HET und HIP zusammenführen; Nachbarkommunen zu GRW und Kreisumlage; Antrittstermin Kreisbrandmeister Kujas; Städtebauförderung finalisieren; Ausgleichsstock/Gerbstedt; TVergG-Fassung; LAG-Frist; Grundstück Kirschberg 1a.
+
+---
+
+## 10. Quellennachweis
+
+**Rechtsprechung zum Finanzausgleich**
+- Bundesverfassungsgericht, Beschluss vom 16.07.2026, Az. 2 BvR 118/26: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/rk20260716_2bvr011826.html
+- beck-aktuell, „Klage gegen Finanzausgleichsgesetz: Gemeinde scheitert an Jahresfrist": https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/bverfg-2bvr11826-fristablauf-kommunalverfassungsbeschwerde-nach-landesverfassungsgsericht-2026-09-10
+- ad-hoc-news.de, „Finanzausgleich Sachsen-Anhalt: Verfassungsbeschwerde wegen Fristversäumnis abgelehnt": https://www.ad-hoc-news.de/wirtschaft/finanzausgleich-sachsen-anhalt-verfassungsbeschwerde-wegen/70090650
+- Landesverfassungsgericht Sachsen-Anhalt, Leitsätze zum Urteil vom 21.01.2025 (PDF; LVG 5/23 und LVG 6/23): https://mf.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MF/Dokumente/Finanzen/Kommunaler_Finanzausgleich/2025/LVerfG-LSA_20250121_23-05_Urteil_ANONYM_u.pdf
+- Landesverfassungsgericht Sachsen-Anhalt, Entscheidungen: https://verfassungsgericht.sachsen-anhalt.de/entscheidungen/
+- Landesverfassungsgericht, Pressemitteilungen: https://justizpressestelle.sachsen-anhalt.de/landesverfassungsgericht
+- LTO, „Kreise klagen wegen schlechter Finanzausstattung" (Verfahren der Landkreise) ⚠️: https://www.lto.de/recht/hintergruende/h/bverfg-2bvr185019-kommunalverfassungsbeschwerde-laender-kommunen-kreise-finanzierung
+- BVerfG, Urteil vom 21.11.2017, 2 BvR 2177/16 (Fristbeginn bei vorgeschriebenem fachgerichtlichem Verfahren): https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/11/rs20171121_2bvr217716.html
+
+**FAG-Teilmassen und Landeshaushalt**
+- Ministerium der Finanzen, Kommunaler Finanzausgleich: https://mf.sachsen-anhalt.de/finanzen/kommunaler-finanzausgleich
+- Ministerium der Finanzen, Kommunaler Finanzausgleich (Unterseite mit Teilmassen) ⚠️: https://mf.sachsen-anhalt.de/finanzen/page/kommunaler-finanzausgleich
+- Land Sachsen-Anhalt, Haushaltsplan 2025/2026 (PDF) ⚠️: https://mf.sachsen-anhalt.de/api/media/Haushaltsplan%202025%202026.pdf?collection=document
+- Ministerium der Finanzen, „250 Millionen Euro mehr für die Kommunen ab 2024" (Altvorgang): https://mf.sachsen-anhalt.de/ministerium-der-finanzen/news-detail/250-millionen-euro-mehr-fuer-die-kommunen-ab-2024
+
+**REGENT Hettstedt und Sangerhausen**
+- Eigenbetrieb Rettungsdienst Landkreis Mansfeld-Südharz, REGENT Hettstedt: https://www.rettungsdienst-msh.de/regent/regent-hettstedt/
+- Strukturwandel Sachsen-Anhalt, „Erster Spatenstich für Gesundheits- und Notfallzentren in Mansfeld-Südharz": https://strukturwandel.sachsen-anhalt.de/zukunft-mitgestalten/news-detail/erster-spatenstich-fuer-gesundheits-und-notfallzentren-in-mansfeld-suedharz
+- Strukturwandel Sachsen-Anhalt, „Spatenstich für Strukturwandelprojekt REGENT in Sangerhausen": https://strukturwandel.sachsen-anhalt.de/zukunft-mitgestalten/news-detail/spatenstich-fuer-strukturwandelprojekt-regent-in-sangerhausen
+- Landkreis Mansfeld-Südharz, Pressemitteilung „Strukturwandel-Projekt REGENT wird konkret" (PDF, 2024): https://www.mansfeldsuedharz.de/fileadmin/mediamanager/SampleFiles/Dokumente/Presse/Pressemitteilungen_2024/PM_REGENT_Hettstedt_121124.pdf
+
+**Hettstedt und Landkreis (Statusprüfung)**
+- Stadt Hettstedt, Startseite und Aktuelles: https://www.hettstedt.de/
+- Stadt Hettstedt, Veranstaltungskalender: https://www.hettstedt.de/aktuelles/veranstaltungskalender
+- hettstedt-live.de, „Aktuelle Straßenbau-Meldungen des Landkreises Mansfeld-Südharz" ⚠️: https://www.hettstedt-live.de/2026/aktuelle-strassenbau-meldungen-des-landkreises-mansfeld-suedharz/
+- Landkreis Mansfeld-Südharz, Meldungen: https://www.mansfeldsuedharz.de/aktuell/meldungen
+
+**Landtag (Statusprüfung, nichts Neues)**
+- Landtag Sachsen-Anhalt, Lexikon (Rangmaßzahlverfahren, ständige Ausschüsse): https://www.landtag.sachsen-anhalt.de/service/lexikon
+- Landtag Sachsen-Anhalt, Ausschüsse & Gremien: https://www.landtag.sachsen-anhalt.de/landtag/ausschuesse-gremien
+- Liste der Mitglieder des Landtages von Sachsen-Anhalt (9. Wahlperiode) — Wikipedia ⚠️: https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtages_von_Sachsen-Anhalt_(9._Wahlperiode)
+
+---
+
+## Anlage: Stadtprofil Hettstedt — stehender Recherchekontext
+
+*Stand 10.10.2026. Diese Anlage gibt den Inhalt von `profil-hettstedt.md` wieder, damit die Ausgabe als Druckstück für sich steht. Das Profil wurde für diese Ausgabe um den BVerfG-Beschluss zur Jahresfrist, die Aktenzeichen des Landesverfassungsgerichtsurteils, den Prüfungsmaßstab, die REGENT-Eckdaten, die FAG-Teilmassen und einen neuen Prüfauftrag erweitert. Maßgeblich und fortgeschrieben wird die Datei im Repository.*
 
 Dieses Profil ist der stehende Kontext für jede Ausgabe. Es beantwortet die Frage,
 welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht.
 
-## Eckdaten
+### Eckdaten
 
 | Merkmal | Wert |
 |---|---|
@@ -13,7 +245,7 @@ welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht
 | Gemeindetyp | Einheitsgemeinde, kreisangehörig |
 | Website | hettstedt.de |
 
-## Was sich daraus für die Einordnung von Landesvorgängen ergibt
+### Was sich daraus für die Einordnung von Landesvorgängen ergibt
 
 **Kreisangehörige Einheitsgemeinde** → Hettstedt ist beim **Sondervermögen Infrastruktur**
 unmittelbar eigener Empfänger eines Pauschalbudgets im Kommunalarm (Empfängerkreis:
@@ -60,7 +292,7 @@ seit 2002, Förderphase bis 2027. Ein ausgefülltes Projektdatenblatt ist Voraus
 die Entscheidung von Steuerungsgruppe und Mitgliederversammlung.
 Kontakt LEADER-Management: 03475 / 612 387 · lag-mansfeld-suedharz.de · lag-ms.de
 
-## Strukturwandel vor Ort: Hettstedt ist bereits Standort
+### Strukturwandel vor Ort: Hettstedt ist bereits Standort
 
 Wichtig für die Einordnung jeder Strukturwandelmeldung: In Hettstedt **läuft bereits ein
 gefördertes Vorhaben**. Die Frage lautet nicht mehr, ob die Stadt im Masterplan verankert ist,
@@ -157,7 +389,7 @@ vollständig sein.
 → **Der Hebel liegt im Wort „interkommunal":** 90 % gibt es nur gemeinsam mit Nachbarkommunen —
 denselben Gesprächspartnern, mit denen die Kreisumlage abzustimmen ist.
 
-## Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
+### Struktur der Landeszahlungen — warum der FAG nur die halbe Rechnung ist
 
 Für die Einordnung jeder FAG-Meldung wichtig: **Rund die Hälfte der Landeszahlungen an die Kommunen
 läuft nicht über den Finanzausgleich.**
@@ -386,7 +618,7 @@ Kassenstatistik, die Inflationsrate (September 2026: **3,4 %**) und den Dieselpr
 gegenüber September 2025, unmittelbar relevant für Bauhof, Winterdienst und Feuerwehr). Eine
 Konsolidierungsauflage, die auf Ausgabendisziplin zielt, adressiert damit nicht die Ursache.
 
-## Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
+### Dauerbeobachtung: Kreisumlage Mansfeld-Südharz
 
 Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
 
@@ -469,7 +701,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 10.10.2026)
+### Laufende lokale Vorgänge (Stand 10.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -490,7 +722,7 @@ Landkreis ist für Hettstedt berichtspflichtig.
 - **Kostenbeiträge Kindertagespflege** — Anpassung; Klarstellungen der Stadt zu Artikeln
   vom 19.02. und 14.03.2026.
 
-## Verwaltungsorganisation — belegte Zuständigkeiten
+### Verwaltungsorganisation — belegte Zuständigkeiten
 
 | Gegenstand | Stelle / Quelle |
 |---|---|
@@ -510,7 +742,7 @@ Geschwisterregelung Bezug? Läuft die landesrechtliche Grundlage aus, während d
 voraussetzt, entsteht zum 01.01.2027 ein **Satzungswiderspruch** mit unmittelbarer Wirkung auf die
 Beitragserhebung.
 
-## Bekanntmachungswesen
+### Bekanntmachungswesen
 
 Der Stadtrat hat am **09.07.2024** beschlossen, das **Amtsblatt in der bisherigen Form
 abzuschaffen**. ✅ **Bestätigt am 09.10.2026 durch eine zweite Fundstelle**, mit einem
@@ -528,7 +760,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 10.10.2026)
+### Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 10.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -551,7 +783,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Ist die Besetzung der **Ausschüsse des Stadtrates spiegelbildlich** zu den Fraktionsstärken? | Streit um die Ausschussbesetzung im Landtag vor der Konstituierung am 06.10.2026 macht auf eine Pflicht aufmerksam, die in der laufenden Wahlperiode leicht aus dem Blick gerät. Drei Prüffragen: (1) entspricht die tatsächliche Besetzung den aktuellen Fraktionsstärken, (2) welches Zuteilungsverfahren schreibt die Geschäftsordnung des Stadtrates vor (d’Hondt, Sainte-Laguë/Schepers, Hare/Niemeyer) und wird es angewandt, (3) haben sich die Fraktionsstärken seit der Kommunalwahl 2024 durch Wechsel, Austritte oder Mandatsniederlegungen verändert, ohne dass die Ausschüsse neu besetzt wurden? Maßgeblich sind **KVG LSA und die Geschäftsordnung des Stadtrates**; die zur Spiegelbildlichkeit zitierte Rechtsprechung des OVG NRW betrifft anderes Landesrecht und ist nur Argumentationsmuster. **Es liegt kein Anhaltspunkt für einen Verstoß in Hettstedt vor** — der Prüfpunkt steht vorsorglich hier, weil eine fehlerhafte Besetzung im Kommunalverfassungsstreit angreifbar ist und vorberatene Beschlüsse in Frage stellen kann. |
 | **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
-## Wiederkehrende Antragsfristen
+### Wiederkehrende Antragsfristen
 
 | Frist | Programm | Hinweis |
 |---|---|---|
@@ -567,7 +799,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | unbelegt | Ausgleichsstock (Volumen 2026: **40,9 Mio. €** für Bedarfszuweisungen **und** zinslose rückzahlbare Liquiditätshilfen aller Kommunen des Landes) | feste Antragsfrist ließ sich nicht belegen — beim MF erfragen. **Präzedenz 2024:** „FAG-Ausgleichszahlung 2024“ — kreisangehörige Gemeinden mit Einzahlungsverlusten durch das neue FAG konnten im vereinfachten Verfahren bis **30.09.2024** zusätzliche Bedarfszuweisungen aus dem Ausgleichsstock beantragen (**Altvorgang, kein laufendes Programm**) — das Argumentationsmuster, falls der FAG 2027 Verluste bringt. 📐 *Eigene Überschlagsrechnung:* Die Bedarfszuweisung für Hettstedt (10.119.796,00 €) entspricht grob **einem Viertel** des Jahresvolumens — mit einer zweiten Zuweisung dieser Größenordnung ist nicht zu rechnen, die Konsolidierungsauflagen sind der Preis dieser einen. |
 | unbelegt | LEADER-Projektaufruf LAG MSH | Aufruf seit 01.07.2026 ⚠️; Einreichungsfrist beim LEADER-Management erfragen |
 
-## Feste Anlaufstellen
+### Feste Anlaufstellen
 
 | Anliegen | Stelle |
 |---|---|
