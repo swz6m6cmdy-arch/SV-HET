@@ -18,7 +18,7 @@ welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht
 **Kreisangehörige Einheitsgemeinde** → Hettstedt ist beim **Sondervermögen Infrastruktur**
 unmittelbar eigener Empfänger eines Pauschalbudgets im Kommunalarm (Empfängerkreis:
 kreisfreie Städte, Landkreise, Einheits- und Verbandsgemeinden). Kein Umweg über den Landkreis.
-Rechtsgrundlage: **Infra-SVG vom 17.12.2025**, **GVBl. LSA 2025 S. 835**, in Kraft seit 01.01.2026. FAG-Änderung für 2025/2026: **Art. 3 Haushaltsbegleitgesetz vom 25.02.2025**, **GVBl. LSA S. 374**. Kommunalarm-Volumen: **1.568.340.000 €**. Verfahrensfristen: vollständige Projektanzeige bis
+Rechtsgrundlage: **Infra-SVG vom 17.12.2025**, **GVBl. LSA 2025 S. 835**, in Kraft seit 01.01.2026. FAG-Änderung für 2025/2026: **Art. 3 Haushaltsbegleitgesetz vom 25.02.2025**, **GVBl. LSA S. 374**. Gesamtvolumen des Sondervermögens für Sachsen-Anhalt **2.613.900.000 €**, davon Kommunalarm **1.568.340.000 €**. Verfahrensfristen: vollständige Projektanzeige bis
 **31.12.2036**, Abschluss der Maßnahmen bis **31.12.2042**. Über **§ 4a LuKIFG** (parlamentarisches
 Verfahren abgeschlossen am 10.07.2026) sind die Mittel **neben anderen Bundesmitteln** einsetzbar —
 für eine Kommune unter Konsolidierungsauflage der Hebel, um Eigenanteile darzustellen.
@@ -274,12 +274,25 @@ Sie finanziert typischerweise den **Eigenanteil** bei Förderprojekten — betri
 Quartierspark, Kunstrasenplatz und Städtebauförderung unmittelbar. **Für 2027 nicht als
 gesicherte Einnahme veranschlagen.**
 
-→ **§ 2 Abs. 3 FAG: das Land ist verpflichtet.** Für die **Haushaltsjahre nach 2026** ist die
-aufgabengerechte kommunale Finanzierung **rechtzeitig zu ermitteln und anzupassen** ⚠️
-(Wortlaut am Gesetzestext prüfen). Damit ist die offene FAG-Frage 2027 nicht nur politisch
-unbefriedigend, sondern die **Nichterfüllung einer gesetzlichen Pflicht** — ein Argument für
-Vorbericht, Kommunalaufsicht und Spitzenverbände. Formulierungsvorschlag für den Vorbericht in
-der Ausgabe vom 08.10.2026, Ziffer 7.3.
+→ **§ 2 Abs. 3 FAG: das Land ist verpflichtet — präzisiert am 11.10.2026.** Für die
+**Haushaltsjahre nach 2026** ist die aufgabengerechte kommunale Finanzierung **rechtzeitig zu
+ermitteln und anzupassen** ⚠️ (Wortlaut am Gesetzestext prüfen). Die Norm verlangt **zwei**
+Dinge, und sie stehen unterschiedlich da: **Ermitteln ist offenbar erfüllt** — auf den Seiten
+des MF liegt ein **Gutachten „Novellierung des kommunalen Finanzausgleichs in Sachsen-Anhalt“**,
+Fassung **V5.2 vom 10.09.2026**, also vier Tage nach der Landtagswahl. **Anpassen ist nicht
+erfüllt** — kein eingebrachter Entwurf, keine Regelung für 2027. ⚠️ Vom Gutachten sind nur
+**Titel, Datum und Fundstelle** belegt; der **Inhalt ist nicht bekannt** (PDF-Abruf durch die
+Egress-Policy gesperrt). **Die frühere Formulierung dieses Profils — das Land habe die
+Pflicht nicht erfüllt — war zu grob.**
+→ **Das präzisere und stärkere Argument:** nicht „das Land hat nichts getan“, sondern
+**„die fachliche Grundlage liegt seit dem 10.09.2026 vor; es fehlt allein der
+gesetzgeberische Akt“**. Formulierungsvorschlag für den Vorbericht in der Ausgabe vom
+08.10.2026, Ziffer 7.3 — um diesen Satz zu ergänzen.
+→ **Auswerten, bevor der Entwurf kommt:** Das Gutachten ist die inhaltliche Vorlage einer
+FAG-Novelle und damit die früheste belastbare Information über die Einnahmeseite 2027. Drei
+Fragen: Bedarfsindikatoren für kreisangehörige Gemeinden; Behandlung des
+**Kreisumlagezuschlags**; vorgesehene **Übergangsregelungen** (Präzedenz
+„FAG-Ausgleichszahlung 2024“ über den Ausgleichsstock).
 
 → **Das Änderungsvehikel war ein Haushaltsbegleitgesetz.** Die FAG-Regelung hing also am
 Haushaltsgesetz. Für 2027 folgt daraus: **Ohne Haushaltsgesetz kein Haushaltsbegleitgesetz und
@@ -355,7 +368,7 @@ Fachbeitrag, keine amtliche Auskunft.
 
 **Zeitachse der Regierungsbildung (Stand 07.10.2026).** Der Landtag der 9. WP hat sich am
 **06.10.2026** konstituiert; 82 der 83 Abgeordneten waren anwesend. **Tobias Rausch** (AfD)
-wurde mit **48 Ja** gegen 19 Nein zum **Landtagspräsidenten** gewählt — der erste
+wurde mit **48 Ja** gegen **29 Nein** bei **5 Enthaltungen** zum **Landtagspräsidenten** gewählt (**korrigiert am 11.10.2026**; früher stand hier „19 Nein“ und eine geschätzte Zahl von rund 15 Enthaltungen — beides falsch. 📐 *Gegenprobe:* 48 + 29 + 5 = 82 = Zahl der Anwesenden; 48 − 44 = 4 Ja von außerhalb von AfD und BSW, 29 + 5 + 4 = 38 = anwesende Abgeordnete der übrigen Fraktionen. Die Folgerung „mindestens vier Stimmen von außerhalb“ bleibt damit richtig; falsch war die Zahl der Enthaltungen. **Nur fünf Abgeordnete enthielten sich, obwohl der CDU-Fraktionsvorsitzende genau das empfohlen hatte.**) — der erste
 AfD-Landtagspräsident in der Bundesrepublik. Vizepräsidenten: **Hans-Thomas Tillschneider**
 (AfD) und **Carsten Borchert** (CDU); der **dritte Vizeposten bleibt unbesetzt**, nachdem
 **Armin Willingmann** (SPD) mit **33 Ja gegen 48 Nein** scheiterte. 📐 *Eigene
@@ -377,7 +390,12 @@ Spitzenverbände.** **Ministerpräsidentenwahl von Ulrich
 Siegmund für Dezember 2026 angekündigt**, ausschließlich für den **ersten Wahlgang**; AfD
 **39** Sitze, erforderlich **42**, BSW will sich enthalten ⚠️, Wahl ist geheim. SPD, Grüne,
 Linke und BSW verhandeln parallel über einen parteilosen Ministerpräsidenten, ohne CDU ohne
-Mehrheit. → **Ein Haushaltsgesetz 2027 bis zum 31.12.2026 ist damit unwahrscheinlich; der
+Mehrheit. **Die CDU-Fraktion ist zerstritten (Stand 11.10.2026).** **Sven Schulze** ist **Fraktionsvorsitzender** — gewählt mit **8:7** gegen **Guido Heuer** — und zugleich geschäftsführender Ministerpräsident (✅ damit ist die am 09.10. mit ⚠️ markierte Rollenangabe bestätigt). **Mehrere Abgeordnete erwägen den Austritt** und die Bildung einer eigenen Fraktion; **Marco Tullner** hat das gegenüber dem MDR bestätigt. Am **05.12.2026** wählt die CDU auf einem Landesparteitag einen **neuen Landesvorstand**. ⚠️ Berichte vom 8./9.10.2026, Motive unterschiedlich dargestellt; **ein Austritt ist nicht erfolgt**.
+→ **Warum das für die Stadt zählt:** Siegmund fehlen drei Stimmen. Der CDU-Parteitag liegt **vor** der für Dezember angekündigten Ministerpräsidentenwahl — die Frage, ob die drei Stimmen zusammenkommen, kann innerhalb der CDU entschieden werden, bevor abgestimmt wird.
+
+**Sondersitzungen (Stand 11.10.2026).** **Ein Viertel der Abgeordneten** kann eine Sondersitzung verlangen, die **binnen zwei Wochen** einzuberufen ist. Erste Sondersitzung: **14.10.2026** ⚠️, gemeinsamer Antrag von AfD und BSW zur Russland- und Ukraine-Politik (Unterzeichner Kirchner, Siegmund, Thomas Schulze/BSW). 📐 *Eigene Rechnung:* Ein Viertel von 83 sind **21** — die AfD hat **39** Sitze und kann Sondersitzungen **allein** erzwingen. **Folge: Der Sitzungskalender des Landtages ist in dieser Wahlperiode nicht verlässlich vorhersehbar.** Bei jeder Sondersitzung ist die **Tagesordnung** darauf zu prüfen, ob Geschäftsordnung und Ausschusseinsetzung aufgerufen werden.
+
+→ **Ein Haushaltsgesetz 2027 bis zum 31.12.2026 ist damit unwahrscheinlich; der
 Haushaltsvorgriff ist das zu planende Szenario, nicht das unwahrscheinliche.**
 
 → **Argumentationslinie für Vorbericht und Kommunalaufsicht:** Die Verschlechterung der kommunalen
@@ -469,7 +487,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 10.10.2026)
+## Laufende lokale Vorgänge (Stand 11.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -486,6 +504,7 @@ Landkreis ist für Hettstedt berichtspflichtig.
 - **Kunstrasenplatz FC Hettstedt**, Sportplatz Kirschweg — **Vorgang am Infrastruktur-Sondervermögen**. Stadtratssitzung **24.03.2026**; nach Lokalmedium im **nichtöffentlichen Teil mehrheitlich beschlossen**, einschließlich Nutzungsvertrag und Umsetzungsregelungen ⚠️. Projektvolumen **rund 1,1 Mio. €**, **Förderquote 50 %** (Fördermittel vom FC beantragt); ein Antrag der **CDU-BSH-Fraktion** sah vor, einen **Teil der Eigenmittel aus dem Infrastruktur-Sondervermögen** zu decken. Richtigstellung der Stadt zum MZ-Artikel vom 20.03.2026: Die Maßnahme ist im **Produkt Sportstätten als Zuwendung zu Investitionsfördermaßnahmen** eingeplant, die Bezugnahme auf „Erneuerung der Aschenbahn“ sei falsch. ⚠️ Der Text der städtischen Pressemitteilung ist in der Fundstelle lückenhaft. 📐 *Eigene Überschlagsrechnung:* bei 1,1 Mio. € und 50 % bleiben rund **550.000 € Eigenmittel**; welcher Anteil davon aus dem Sondervermögen kommen sollte, ist nicht belegt. **Offen:** Ist die Maßnahme im Kommunalarm angezeigt, ist sie in der Mittelanmeldung 2027 enthalten, und wie viel Pauschalbudget bindet sie?
 - **Investitionsstau** der städtischen Infrastruktur: **rund 21 Mio. €** — Angabe der Stadträtin **Dana Zimmer (FBM)** in der Ratsdebatte am 24.03.2026 ⚠️ Einzelfundstelle (Lokalmedium), keine Verwaltungszahl. 📐 *Eigene Überschlagsrechnung:* bei rund 14.000 Einwohnern etwa **1.500 € je Einwohner**. Durch die Verwaltung zu bestätigen oder zu korrigieren; gehört dann in den Vorbericht 2027, weil er die Folgekostenfrage jedes neuen Vorhabens trägt.
 - **Haupt-, Wirtschafts- und Vergabeausschuss (HWV)** — als Ausschuss des Stadtrates belegt; Beschlussprotokolle veröffentlicht die Stadt als PDF (Beispiel: 28.01.2026, Spenden und Befreiungen von Bebauungsplänen). Relevant für die Prüfung der Spiegelbildlichkeit der Ausschussbesetzung.
+- **Sperrungen Oktober 2026 (Stand 11.10.2026).** Festsperrungen zu **Oktoberfest 16.10.** und **Kupferfest 17.–18.10.** ⚠️: **Lutherstraße/Lutherparkplatz 12.10. 06:00 – 20.10. 12:00**; **Kleiner Markt 14.10. 06:00 – 19.10. 18:00**; **Großer Markt 16.10. 06:00 – 19.10. 12:00** (Vollsperrung). Unabhängig davon: **Untere Bahnhofstraße, Hausnr. 26 bis Apollo-Kreuzung, Vollsperrung** — **Stadt: 29.09.–18.12.2026**, **Landkreis: ab 21.09.2026, Ende voraussichtlich Dezember** ⚠️ **Widerspruch zweier amtlicher Quellen beim Startdatum**; mit dem Baustellenservice des Landkreises abgleichen, weil die Stadt die Bürgerfragen beantwortet. 📐 *Eigene Einordnung:* Vom **16. bis 19.10.** sind Großer Markt, Kleiner Markt und Lutherparkplatz **gleichzeitig** gesperrt, während die Untere Bahnhofstraße ohnehin bis Dezember voll gesperrt ist — die Umleitungsführung ist gegen die laufende Baustelle zu prüfen, nicht gegen den Normalzustand.
 - **Grundstücksverkauf Kirschberg 1a** — Ausschreibung der Stadt mit **Frist 20.12.2026** ⚠️ (Ausschreibungsseite der Stadt; die Liste enthält auch ältere Vergaben, Eintrag am eigenen Bestand verifizieren). **Haushaltsrelevanz:** Zuordnung des Erlöses zum richtigen Haushaltsjahr; Veräußerungserlöse sind gegenüber der Kommunalaufsicht erklärungsbedürftig (Vermögensverzehr versus Konsolidierungsbeitrag).
 - **Kostenbeiträge Kindertagespflege** — Anpassung; Klarstellungen der Stadt zu Artikeln
   vom 19.02. und 14.03.2026.
@@ -495,6 +514,7 @@ Landkreis ist für Hettstedt berichtspflichtig.
 | Gegenstand | Stelle / Quelle |
 |---|---|
 | **Kommunale Wärmeplanung** | **Bauverwaltungsamt** der Stadt ⚠️ (Leistungsverzeichnis der Stadt). Dass die Aufgabe zugeordnet ist, heißt **nicht**, dass die Planung begonnen hat. Dasselbe Amt bearbeitet Erschließungs- und Straßenbaubeiträge — die Ressourcenfrage ist **vor** der Leistungsbeschreibung zu klären. |
+| **Sperrmeldungen** | `hettstedt.de/neuigkeiten/sperrmeldungen/` — eigener Kanal der Stadt für Verkehrssperrungen; daneben der **Baustellenservice des Landkreises** (`mansfeldsuedharz.de/baustellenservice`). Beide Quellen können **abweichende Zeiträume** nennen (Fall Untere Bahnhofstraße, Oktober 2026). |
 | **Ratsinformationssystem** | `ratsinfo-online.net/hettstedt-bi/` — maßgeblich für die Gegenprüfung von Beschlusslagen, die bisher nur als Einzelfundstelle aus Lokalmedien vorliegen |
 | **Verwechslungsgefahr zwei Fristen 30.06.2026** | Die Frist **30.06.2026** der **Wärmeplanung** betrifft nur Magdeburg und Halle (Hettstedt: 30.06.2028). Die Frist **30.06.2026** der **Mittelanmeldung im Sondervermögen** betrifft Hettstedt und ist verstrichen. Zwei verschiedene Pflichten am gleichen Datum — in Vorlagen immer mit Rechtsgrundlage zitieren. |
 | **Recherchegrundsatz (ab 02.10.2026)** | Treffer zu Hettstedt und zum Landkreis **ohne belegbares Datum** werden nicht in die Tagesausgabe aufgenommen — auch nicht mit Warnzeichen. Anlass: Ein Altvorgang aus 2024 war am 01.10.2026 als möglicher Tagesbefund dargestellt worden. |
@@ -528,7 +548,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 10.10.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 11.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -557,6 +577,8 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 |---|---|---|
 | **31.03. und 30.09.** | **Sachsen-Anhalt REGIO (IB)** | zwei Antragstermine je Jahr, **vorbehaltlich verfügbarer Haushaltsmittel** ⚠️; Planungsmaßnahmen bis **80 %**, max. **100.000 €**; Regionalbudget bis **300.000 €/Jahr** über max. 3 Jahre, setzt Regionalmanagement und/oder IREK voraus. Antrag **schriftlich** an IB, Domplatz 12, 39104 Magdeburg |
 | **30.11.** | Städtebauförderung (StäBauFRL) | Antrag vor Maßnahmenbeginn; Zuschuss i. d. R. bis 2/3. ⚠️ Zuständigkeit klären: Richtlinie vom Ministerium, Servicebereich beim Landesverwaltungsamt |
+| **offen** | **Schulbauförderung (Landesverwaltungsamt)** | **116,4 Mio. €** auf **113 Kommunen**, Bund bis **90 %**, kommunaler Anteil **10 %** ⚠️. Die Stadt ist Trägerin der Grundschulen und damit grundsätzlich adressiert. 📐 *Eigene Überschlagsrechnung:* im Schnitt rund **1,0 Mio. € je Kommune** — grob, Verteilungsschlüssel nicht belegt. **Zwei Fragen an das LVwA:** Berücksichtigung und Betrag, und bis wann Mittel zu binden sind. Der Eigenanteil von 10 % ist eine der günstigsten Quoten im kommunalen Förderrecht |
+| **im Jahr 2026** | **KInvFG-Abrechnung** | Umsetzung und Abnahme mussten nach Verlängerung bis **31.12.2025** erfolgen, die **Abrechnung bei der Bewilligungsbehörde bis 2026** ⚠️. **Eine versäumte Abrechnungsfrist gefährdet bereits erhaltene Mittel.** Stelle: Kämmerei, Rückfrage beim Landesverwaltungsamt. **Dringlich, nicht im Dezember erledigen** |
 | **31.08.** | Vereinssportstättenbau (IB) | jeweils für das **Folgejahr**; die Frist für das Förderjahr 2027 ist am 31.08.2026 abgelaufen |
 | **30.06. (Vorjahr)** | **Mittelanmeldung Kommunalarm** nach **§ 10 Abs. 2 Infra-SVG** | erstmals für das Haushaltsjahr **2027**, Frist war **30.06.2026** — **verstrichen**; für 2026 war keine Anmeldung vorgesehen. Stand bei der IB klären |
 | **31.01.** | **Jährliche Berichtspflicht** nach **§ 10 Abs. 1 Infra-SVG** | erstmals zum **Stichtag 01.01.2027**, Einreichung **31.01.2027** ⚠️ |
