@@ -91,3 +91,4 @@ die von den installierten Schriften nicht gedeckt sind.
 - [09.10.2026](briefings/2026-10-09-kommunalbriefing-sachsen-anhalt.md)
 - [10.10.2026](briefings/2026-10-10-kommunalbriefing-sachsen-anhalt.md)
 - [11.10.2026](briefings/2026-10-11-kommunalbriefing-sachsen-anhalt.md)
+- [12.10.2026](briefings/2026-10-12-kommunalbriefing-sachsen-anhalt.md)
