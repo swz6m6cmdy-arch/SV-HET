@@ -438,10 +438,36 @@ Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
   ⚠️ **Ein Höchstbetrag ist keine Inanspruchnahme.** Tatsächliche Inanspruchnahme und
   daraus folgender Zinsaufwand im Ergebnishaushalt sind beim Landkreis zu erfragen; der
   Zinsaufwand ist die Brücke zwischen Liquiditätslage und Umlagehöhe.
-- **Vorgeschichte:** Ein Gericht hatte zugunsten der Kommunen entschieden; der Landkreis
-  musste die Kreisumlage rückwirkend senken. Im April 2024 wurde beschlossen, durch
-  rückwirkende Senkung der Umlagesätze für **2017–2023 rund 39 Mio. €** an die Städte und
-  Gemeinden zurückzuzahlen.
+- **Vorgeschichte — belegte Rechtsprechungskette, Hettstedt als Klägerin (Stand 13.10.2026):**
+  **Kreisumlage 2017:** Hettstedt und Sangerhausen haben vor dem **Verwaltungsgericht Halle**
+  erfolgreich auf **Rückzahlung samt Zinsen** geklagt — der Kreis hatte die **Finanzkraft der
+  Städte bei der Festsetzung nicht hinreichend abgewogen**. Ein **OVG-Beschluss vom 26.05.**
+  ⚠️ (Jahr nicht eindeutig belegt) wies die Berufung zurück; die Urteile sind **rechtskräftig**.
+  Rückzahlung **rund 16 Mio. € plus Zinsen** ⚠️, eine zweite Fundstelle nennt **16,8 Mio. €**
+  — **Widerspruch offen**, maßgeblich ist der eigene Zahlungseingang. Der Kreis hatte sich im
+  April als **faktisch zahlungsunfähig** bezeichnet; gezahlt wurde erst **mit Hilfe eines
+  Landeshilfspakets** ⚠️.
+  **Kreisumlagen 2018 und 2020:** Pressemitteilung des **VG Halle vom 28.06.2023** —
+  **Lutherstadt Eisleben, Sangerhausen, Hettstedt und Wallhausen** klagten erfolgreich, die
+  Sätze waren **zu ihren Lasten zu hoch** festgesetzt.
+  Im **April 2024** wurde beschlossen, durch rückwirkende Senkung der Umlagesätze für
+  **2017–2023 rund 39 Mio. €** an die Städte und Gemeinden zurückzuzahlen.
+  → **Damit ist die Argumentationslinie dieses Briefings belegt:** Angriffspunkt ist die
+  **Abwägung der Finanzkraft**, nicht die Höhe an sich. **Aber die Lage 2027 ist nicht die von
+  2017:** Der Kreis hat heute eine belegte Defizitlage (52,4 Mio. €, keine Rücklagen,
+  Liquiditätsrahmen 250 Mio. €), und das Landesverwaltungsamt hat Haushalt und
+  Umlagefestsetzung 2026 geprüft und im zweiten Anlauf genehmigt. Entscheidend ist die
+  **Dokumentation der Abwägung** zur Festsetzung 2027 — die man anfordern kann, bevor man
+  über ein Rechtsmittel nachdenkt.
+  → **Zwei Rechtswege nicht verwechseln:** **Verwaltungsgerichtsweg gegen den
+  Umlagebescheid** (hier hat Hettstedt zweimal gewonnen; **kurze Rechtsmittelfrist ab
+  Bekanntgabe**, Rechtsbehelfsbelehrung lesen) gegenüber **Kommunalverfassungsbeschwerde
+  gegen ein FAG** (enger Maßstab nach LVG 5/23 und 6/23, **Jahresfrist** nach § 93 Abs. 3
+  BVerfGG ab Verkündung). Verschiedene Instrumente, verschiedene Erfolgsaussichten.
+  → **Lehre zur Liquidität:** Ein gewonnener Prozess ist keine Kasse. Zwischen Titel und
+  Zahlungseingang lag damals eine Finanzierungsfrage des Kreises. **Forderungen gegen den
+  Landkreis nicht als planbare Liquidität veranschlagen** — auch nicht bei der
+  Überbrückung des ersten Quartals 2027.
 
 **Der Rechtsweg gegen einen Finanzausgleich — Fristen und Maßstab (Stand 10.10.2026).**
 
@@ -494,7 +520,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 12.10.2026)
+## Laufende lokale Vorgänge (Stand 13.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -555,7 +581,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 12.10.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 13.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -567,6 +593,8 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Nimmt die **Kostenbeitragssatzung Kita** auf die KiFöG-Geschwisterregelung Bezug? | **Fundstellen jetzt belegt (09.10.2026):** geltende **Kostenbeitragssatzung für die Benutzung der Kindertageseinrichtungen und die Inanspruchnahme von Tagespflege**, beschlossen am **19.12.2017**, **Beschluss-Nr. SRT-1150/2017**, in Kraft **01.01.2018** (Amtliches Mitteilungsblatt Januar 2018). Die Stadt **beabsichtigt eine Neufassung** für die **Kindertagespflege** — Mitteilung vom **19.03.2026** mit Richtigstellung zu MZ-Artikeln vom 19.02. und 14.03.2026; ein **Beschluss ist nicht belegt**. Zwei mögliche Lagen: **A** Satzung nimmt Bezug → **Satzungswiderspruch** zum 01.01.2027, Änderung vorher nötig; **B** kein Bezug, Ermäßigung unmittelbar nach Landesrecht gewährt → ab 01.01.2027 gelten **automatisch die vollen Satzungsbeiträge**, Kommunikations- und Ertragsthema im Wirtschaftsplan des Eigenbetriebs. Die Neufassung betrifft nach ihrem Wortlaut die **Tagespflege**; ob sie den **Einrichtungsteil** mit erfasst, ist nicht belegt — das ist der größere Posten. Szenarien zweistufig (Eigenbetrieb und Haushalt) rechnen |
 | Entspricht die **elektronische Bekanntmachung** seit dem 09.07.2024 der Bekanntmachungssatzung? | Risiko unwirksamer Satzungen |
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
+| **Abwägungsunterlagen zur Kreisumlage 2027 anfordern** | Drei Fragen an die Kämmerei des Landkreises: (1) Welche Unterlagen zur **Abwägung der Finanzkraft** der umlagepflichtigen Gemeinden liegen der Festsetzung 2027 zugrunde? (2) Wie ist der **eigene Bedarf** hergeleitet — insbesondere Folgekosten der beiden REGENT-Standorte ab Mitte 2027 und Zinsaufwand der Liquiditätskredite? (3) Wie wirkt ein **Wegfall des Kreisumlagezuschlags** auf die Festsetzung? Grundlage: Die Festsetzungen 2017, 2018 und 2020 sind gerichtlich **an der Abwägung** gescheitert. Haltung: Mitwirkungsrecht, nicht Klagevorbereitung. |
+| **Rechtsmittelfrist gegen den Umlagebescheid 2027** | Bei Eingang des Bescheids die **Rechtsbehelfsbelehrung** lesen und das **Fristende sofort notieren**, unabhängig von der Entscheidung über ein Rechtsmittel. ⚠️ Dauer und statthafter Rechtsbehelf (Widerspruch oder Klage) bestimmt das Rechtsamt am Bescheid. **Nicht zu verwechseln mit der Jahresfrist gegen ein FAG.** |
 | **Liquidität im ersten Quartal 2027:** Wie überbrückt die Stadt die Monate bis zur Verkündung eines Haushaltsgesetzes 2027? | Nach dem Sitzungsplan des Landtages ist der **Haushaltsvorgriff ab 01.01.2027 die wahrscheinliche Ausgangslage** (letzte Plenarsitzung 15.–17.12.2026, kein Entwurf eingebracht). Zu klären: Zahlungseingänge aus Schlüsselzuweisungen in den ersten Monaten, Kassenkreditrahmen der eigenen Haushaltssatzung, Zahlungstermine der Kreisumlage. Stelle: Kämmerei. |
 | Tagt der **Stadtrat am 04.11.2026**? | Der Veranstaltungskalender der Stadt nennt für Mittwoch, **04.11.2026, 16:00 Uhr** einen Termin; **die Art ist nicht belegt** ⚠️. Maßgeblich ist der **Sitzungskalender im Ratsinformationssystem**. Falls Stadtratssitzung: letzte Gelegenheit vor der Dezember-Plenarsitzung des Landtages, die Szenarien für 2027 im Rat zu behandeln. |
 | **Fristenkontrolle statt Klagevorbereitung:** Verkündungsdatum einer FAG-Regelung 2027 im GVBl. LSA zur Akte nehmen, Wiedervorlage setzen | Die **Jahresfrist des § 93 Abs. 3 BVerfGG** läuft ab **Verkündung**, auch bei rückwirkendem Inkrafttreten, und ein Verfahren vor dem Landesverfassungsgericht **verlängert sie nicht** (BVerfG, 16.07.2026, 2 BvR 118/26). Der Vermerk soll zugleich festhalten, dass der Prüfungsmaßstab dem Gesetzgeber einen weiten Spielraum lässt — damit im Stadtrat keine Erwartung entsteht, die der Rechtsweg nicht trägt. Stelle: Rechtsamt, Wiedervorlage im Hauptamt. |
@@ -586,6 +614,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 |---|---|---|
 | **22.05.** (Regelfrist) | **Richtlinie „Sachsen-Anhalt Digital“** | Programm aktiv, aber **„Antragstellung derzeit nicht möglich“ — Mittel ausgeschöpft** (Stand 04/2026) ⚠️. **Nicht als Finanzierungsquelle für 2027 veranschlagen**; nächstes realistisches Fenster 22.05.2027 und nur bei neuem Mittelansatz |
 | offen | **Digitalisierungsprojekte aus dem Sondervermögen (MID)** | Fördergrundsätze in der Fassung vom **16.01.2026**, **Mindestprojektvolumen 50.000 €**, Antragsfenster nicht bestätigt ⚠️. **Der verbleibende Weg für Digitalisierungsvorhaben.** 📐 Dasselbe Mindestvolumen gilt im Kommunalarm — prüfen, wo ein Vorhaben besser angezeigt wird |
+| **01.10. (Vorjahr)** | **Einrichtungen der Jugendarbeit aus dem Sondervermögen** | Volumen **15,45 Mio. €**; die Anmeldung von Vorhaben für **2027** war bis **01.10.2026** möglich — **abgelaufen** ⚠️. 📐 **Muster:** Zwei von zwei geprüften Sondervermögensprogrammen haben **Anmeldefristen im Vorjahr** (Kommunalarm 30.06., Jugendarbeit 01.10.). **Die Anmeldefristen für 2028 jetzt bei IB und Ministerien erfragen und in den Verwaltungskalender setzen** — eine versäumte Anmeldefrist kostet ein ganzes Haushaltsjahr |
 | laufend | **Gigabit-Richtlinie Breitband** | ersetzt seit **28.10.2025** die frühere Förderung, **Anträge laufend** ⚠️ — Zugang ohne Jahresfrist für unterversorgte Adressen |
 | abgelaufen bzw. offen | **Feuerwehrinfrastruktur** | Die gefundenen Landesaufrufe betreffen **2023 und 2025** und sind abgelaufen ⚠️. Ein **LEADER-gefördertes** Programm (Förderprogramm 8702) nennt keine Frist — **beim LEADER-Management der LAG MSH (03475/612387) doppelt fragen: Einreichungsfrist und Förderfähigkeit von Feuerwehrinfrastruktur** |
 | **31.03. und 30.09.** | **Sachsen-Anhalt REGIO (IB)** | zwei Antragstermine je Jahr, **vorbehaltlich verfügbarer Haushaltsmittel** ⚠️; Planungsmaßnahmen bis **80 %**, max. **100.000 €**; Regionalbudget bis **300.000 €/Jahr** über max. 3 Jahre, setzt Regionalmanagement und/oder IREK voraus. Antrag **schriftlich** an IB, Domplatz 12, 39104 Magdeburg |
