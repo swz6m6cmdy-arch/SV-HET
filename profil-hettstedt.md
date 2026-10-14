@@ -109,6 +109,27 @@ Brückenersatzneubauten sind ein erheblicher Eingriff, und die Stadt ist Straße
 kreuzende und begleitende Gemeindestraßen.
 → **Als Beleg:** Das Vorhaben zeigt, dass REVIER 2038 in Hettstedt praktisch funktioniert.
 
+**Immobilienkonsolidierung des Landkreises (Stand 14.10.2026).** Das **Veterinäramt** zieht aus
+gemieteten Räumen in **Lutherstadt Eisleben** in ein **kreiseigenes Gebäude in Sangerhausen**
+(Otto-Grotewohl-Straße 20); Einreichungen dort **ab 29.06.2026**, Post an die zentrale Adresse
+**ab 15.06.2026**, die Räume **Klosterplatz 24** in Eisleben werden aufgegeben. Das
+**Kreisarchiv** ist zentralisiert. **Kreisimmobilien in Hettstedt sind verkauft** ⚠️ — welche
+Objekte, an wen und wann, ist **nicht belegt**. Die **Planung eines
+Bevölkerungsschutzzentrums** hat begonnen; **Standort, Budget und Zeitplan sind nicht
+benannt**. Begründung des Kreises: unrentable Immobilien verkaufen oder Mieten beenden,
+Kosten senken durch Zentralisierung und energetische Sanierung.
+→ **Einordnung:** Das ist die Ausgabenseite der Auflage, das Finanzplanungsergebnis um
+**9,6 Mio. €** zu verbessern — in der Umlagediskussion ein Argument **für** den Kreis.
+→ **Zwei Punkte für die Stadt:** (1) **Welche Kreisimmobilien im Stadtgebiet wurden
+veräußert, an wen, und welche Nachnutzung ist beabsichtigt** — Folgen für Bauleitplanung und
+eigenen Flächenbedarf bei 21 Mio. € Investitionsstau. (2) **Standort des
+Bevölkerungsschutzzentrums ist offen.** 📐 *Eigene Einschätzung, keine Quelle und kein Hinweis
+auf eine laufende Standortsuche:* Hettstedt hätte Argumente — **REGENT-Rettungswache** im Bau
+(Fertigstellung Mitte 2027), **172.000 m² freie HIP-Fläche**, **Anschlussbahn** (>23,5 Mio. €),
+und Sangerhausen bindet bereits Veterinäramt, Kreisarchiv und einen REGENT-Standort.
+**Naheliegender Schritt: fragen, ob eine Standortsuche läuft und nach welchen Kriterien** —
+in der Frühphase ist ein Standortargument noch wirksam.
+
 **Rettungswachenprogramm des Landkreises.** Die REGENT-Rettungswache in Hettstedt ist Teil eines
 Kreisprogramms: **rund 20 Mio. €** in den kommenden Jahren für neue Rettungswachen in **Helbra,
 Mansfeld, Schwenda** sowie an den **REGENT-Standorten Sangerhausen und Hettstedt**. ⚠️
@@ -520,7 +541,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 13.10.2026)
+## Laufende lokale Vorgänge (Stand 14.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -581,7 +602,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 13.10.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 14.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -593,6 +614,8 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Nimmt die **Kostenbeitragssatzung Kita** auf die KiFöG-Geschwisterregelung Bezug? | **Fundstellen jetzt belegt (09.10.2026):** geltende **Kostenbeitragssatzung für die Benutzung der Kindertageseinrichtungen und die Inanspruchnahme von Tagespflege**, beschlossen am **19.12.2017**, **Beschluss-Nr. SRT-1150/2017**, in Kraft **01.01.2018** (Amtliches Mitteilungsblatt Januar 2018). Die Stadt **beabsichtigt eine Neufassung** für die **Kindertagespflege** — Mitteilung vom **19.03.2026** mit Richtigstellung zu MZ-Artikeln vom 19.02. und 14.03.2026; ein **Beschluss ist nicht belegt**. Zwei mögliche Lagen: **A** Satzung nimmt Bezug → **Satzungswiderspruch** zum 01.01.2027, Änderung vorher nötig; **B** kein Bezug, Ermäßigung unmittelbar nach Landesrecht gewährt → ab 01.01.2027 gelten **automatisch die vollen Satzungsbeiträge**, Kommunikations- und Ertragsthema im Wirtschaftsplan des Eigenbetriebs. Die Neufassung betrifft nach ihrem Wortlaut die **Tagespflege**; ob sie den **Einrichtungsteil** mit erfasst, ist nicht belegt — das ist der größere Posten. Szenarien zweistufig (Eigenbetrieb und Haushalt) rechnen |
 | Entspricht die **elektronische Bekanntmachung** seit dem 09.07.2024 der Bekanntmachungssatzung? | Risiko unwirksamer Satzungen |
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
+| **Brandschutzförderung:** Wurde bis **31.03.2026** ein Antrag für das Förderjahr **2027** beim Landkreis eingereicht — und gibt es eine **pauschale Förderung für Einheitsgemeinden**? | Stehendes Verfahren nach Zuwr-BS mit Frist **31.03.** für das Folgejahr (über den Landkreis). **Interne Frist 28.02.2027** für den Antrag zum Förderjahr 2028 setzen, Bedarfsliste der Wehr in diesem Quartal erstellen. Der Dieselpreisanstieg von **43,3 %** trägt die Bedarfsbegründung. Pauschalen-Frage: Quellenlage widersprüchlich. Stellen: Hauptamt mit Wehrleitung, Landkreis, LVwA. |
+| **Kreisimmobilien in Hettstedt und Standort Bevölkerungsschutzzentrum** | Welche Objekte wurden veräußert, an wen, mit welcher Nachnutzung, und war die Stadt beteiligt? Läuft eine **Standortsuche** für das Bevölkerungsschutzzentrum und nach welchen Kriterien? Stellen: Bauverwaltungsamt und Liegenschaften; Gespräch mit der Kreisverwaltung. |
 | **Abwägungsunterlagen zur Kreisumlage 2027 anfordern** | Drei Fragen an die Kämmerei des Landkreises: (1) Welche Unterlagen zur **Abwägung der Finanzkraft** der umlagepflichtigen Gemeinden liegen der Festsetzung 2027 zugrunde? (2) Wie ist der **eigene Bedarf** hergeleitet — insbesondere Folgekosten der beiden REGENT-Standorte ab Mitte 2027 und Zinsaufwand der Liquiditätskredite? (3) Wie wirkt ein **Wegfall des Kreisumlagezuschlags** auf die Festsetzung? Grundlage: Die Festsetzungen 2017, 2018 und 2020 sind gerichtlich **an der Abwägung** gescheitert. Haltung: Mitwirkungsrecht, nicht Klagevorbereitung. |
 | **Rechtsmittelfrist gegen den Umlagebescheid 2027** | Bei Eingang des Bescheids die **Rechtsbehelfsbelehrung** lesen und das **Fristende sofort notieren**, unabhängig von der Entscheidung über ein Rechtsmittel. ⚠️ Dauer und statthafter Rechtsbehelf (Widerspruch oder Klage) bestimmt das Rechtsamt am Bescheid. **Nicht zu verwechseln mit der Jahresfrist gegen ein FAG.** |
 | **Liquidität im ersten Quartal 2027:** Wie überbrückt die Stadt die Monate bis zur Verkündung eines Haushaltsgesetzes 2027? | Nach dem Sitzungsplan des Landtages ist der **Haushaltsvorgriff ab 01.01.2027 die wahrscheinliche Ausgangslage** (letzte Plenarsitzung 15.–17.12.2026, kein Entwurf eingebracht). Zu klären: Zahlungseingänge aus Schlüsselzuweisungen in den ersten Monaten, Kassenkreditrahmen der eigenen Haushaltssatzung, Zahlungstermine der Kreisumlage. Stelle: Kämmerei. |
@@ -616,7 +639,8 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | offen | **Digitalisierungsprojekte aus dem Sondervermögen (MID)** | Fördergrundsätze in der Fassung vom **16.01.2026**, **Mindestprojektvolumen 50.000 €**, Antragsfenster nicht bestätigt ⚠️. **Der verbleibende Weg für Digitalisierungsvorhaben.** 📐 Dasselbe Mindestvolumen gilt im Kommunalarm — prüfen, wo ein Vorhaben besser angezeigt wird |
 | **01.10. (Vorjahr)** | **Einrichtungen der Jugendarbeit aus dem Sondervermögen** | Volumen **15,45 Mio. €**; die Anmeldung von Vorhaben für **2027** war bis **01.10.2026** möglich — **abgelaufen** ⚠️. 📐 **Muster:** Zwei von zwei geprüften Sondervermögensprogrammen haben **Anmeldefristen im Vorjahr** (Kommunalarm 30.06., Jugendarbeit 01.10.). **Die Anmeldefristen für 2028 jetzt bei IB und Ministerien erfragen und in den Verwaltungskalender setzen** — eine versäumte Anmeldefrist kostet ein ganzes Haushaltsjahr |
 | laufend | **Gigabit-Richtlinie Breitband** | ersetzt seit **28.10.2025** die frühere Förderung, **Anträge laufend** ⚠️ — Zugang ohne Jahresfrist für unterversorgte Adressen |
-| abgelaufen bzw. offen | **Feuerwehrinfrastruktur** | Die gefundenen Landesaufrufe betreffen **2023 und 2025** und sind abgelaufen ⚠️. Ein **LEADER-gefördertes** Programm (Förderprogramm 8702) nennt keine Frist — **beim LEADER-Management der LAG MSH (03475/612387) doppelt fragen: Einreichungsfrist und Förderfähigkeit von Feuerwehrinfrastruktur** |
+| **31.03.** (Vorjahr) | **Brandschutzförderung (Zuwendungsrichtlinie Brandschutz, Dezember 2017 — Zuwr-BS)** | **Stehendes Verfahren mit Jahresfrist — ergänzt am 14.10.2026, nachdem die Darstellung vom 12.10. unvollständig war.** Antrag für das **Folgejahr** bis **31. März** des laufenden Jahres; kreisangehörige Gemeinden reichen **beim Landkreis** ein, der bis **30. April** an das **Landesverwaltungsamt** weiterleitet (Landkreise und kreisfreie Städte direkt). Das LVwA ist **Bewilligungsbehörde**, erstellt eine **Prioritätenliste** und legt sie dem Innenministerium vor. **Kein Rechtsanspruch**, Ermessen im Rahmen verfügbarer Mittel; Bescheide in der Regel im **zweiten Halbjahr für das Folgejahr**. Antragsformular = **Anlage 3** der Richtlinie, Downloadbereich **IBK Heyrothsberge**. Volumen 2026 ⚠️: **über 25 Mio. €** Brandschutz, zusätzlich **rund 5 Mio. €** aus dem Sondervermögen, **rund 10 Mio. €** zentrale Beschaffung (LF20-KatS je 200.000 €), **200.000 €/Jahr** Führerscheine, **300.000 €/Jahr** Kinder- und Jugendfeuerwehren. ⚠️ **Widerspruch, nicht aufgelöst:** Eine Fundstelle nennt eine „einmalige Pauschale von 50.000 € für Einheits- und Verbandsgemeinden“; die Gegenprüfung ergab **zwei Einzelbescheide über je 50.000 € für Löschwasserentnahmestellen in Osterwieck** — also keine belegte Pauschale. Beim Landkreis und LVwA klären |
+| offen | **Feuerwehrinfrastruktur über LEADER** | Die gefundenen Landesaufrufe betreffen **2023 und 2025** und sind abgelaufen ⚠️. Ein **LEADER-gefördertes** Programm (Förderprogramm 8702) nennt keine Frist — **beim LEADER-Management der LAG MSH (03475/612387) doppelt fragen: Einreichungsfrist und Förderfähigkeit von Feuerwehrinfrastruktur** |
 | **31.03. und 30.09.** | **Sachsen-Anhalt REGIO (IB)** | zwei Antragstermine je Jahr, **vorbehaltlich verfügbarer Haushaltsmittel** ⚠️; Planungsmaßnahmen bis **80 %**, max. **100.000 €**; Regionalbudget bis **300.000 €/Jahr** über max. 3 Jahre, setzt Regionalmanagement und/oder IREK voraus. Antrag **schriftlich** an IB, Domplatz 12, 39104 Magdeburg |
 | **30.11.** | Städtebauförderung (StäBauFRL) | Antrag vor Maßnahmenbeginn; Zuschuss i. d. R. bis 2/3. ⚠️ Zuständigkeit klären: Richtlinie vom Ministerium, Servicebereich beim Landesverwaltungsamt |
 | **offen** | **Schulbauförderung (Landesverwaltungsamt)** | **116,4 Mio. €** auf **113 Kommunen**, Bund bis **90 %**, kommunaler Anteil **10 %** ⚠️. Die Stadt ist Trägerin der Grundschulen und damit grundsätzlich adressiert. 📐 *Eigene Überschlagsrechnung:* im Schnitt rund **1,0 Mio. € je Kommune** — grob, Verteilungsschlüssel nicht belegt. **Zwei Fragen an das LVwA:** Berücksichtigung und Betrag, und bis wann Mittel zu binden sind. Der Eigenanteil von 10 % ist eine der günstigsten Quoten im kommunalen Förderrecht |
