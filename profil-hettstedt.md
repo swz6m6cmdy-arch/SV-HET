@@ -285,6 +285,18 @@ abweichen. ⚠️ Widerspruch in der Quellenlage: Eine MF-Seite nennt die gelten
 Haushaltsplan 2025/2026, möglicherweise nicht der neueste Stand: **Schlüsselzuweisungen nach
 § 12 FAG 1.071.760.000 €** (2025); **Investitionspauschale je 160 Mio. €** (2025 und 2026);
 Finanzierungssaldo des Landeshaushalts **− 1.097.338.600 €** (2025).
+**Auftragskostenpauschale 2026: 645.828.200 €** ⚠️ — neu belegt am 15.10.2026. 📐 *Eigene
+Überschlagsrechnung:* Schlüsselzuweisungen (1.071,8 Mio. €), Auftragskostenpauschale
+(645,8 Mio. €) und Investitionspauschale (160 Mio. €) ergeben rund **1.878 Mio. €**, also etwa
+**88 %** der Finanzausgleichsmasse 2026; die **Auftragskostenpauschale allein rund 30 %**.
+→ **Das ist die Konnexitätsposition:** Mit ihr finanziert das Land die **übertragenen
+Aufgaben** — also genau die Kategorie der Fälle Wärmeplanung und KiFöG. ⚠️ **Keine
+Pro-Kopf-Rechnung:** Die Verteilung folgt aufgabenbezogenen Schlüsseln, ein erheblicher Teil
+liegt bei den Landkreisen. **Der eigene Ansatz steht im städtischen Haushalt und ist
+herauszusuchen**, zusammen mit dem Aufwand für die übertragenen Aufgaben — die Differenz ist
+die Konnexitätslücke der **bestehenden** Aufgaben und das Fundament jeder Argumentation zu
+**neuen** Pflichten.
+
 📐 *Eigene Überschlagsrechnung zur Investitionspauschale:* bei Verteilung nach Einwohnerzahl und
 rund 2,16 Mio. Einwohnern im Land etwa **74 € je Einwohner**, für Hettstedt grob **1,0 Mio. €**.
 ⚠️ Die Einwohnerzahl ist eine **Annahme**, der **Verteilungsschlüssel ist nicht belegt** — der
@@ -421,6 +433,40 @@ Mehrheit. **Die CDU-Fraktion ist zerstritten (Stand 11.10.2026).** **Sven Schulz
 
 **Sondersitzungen.** Rechtsgrundlage **Art. 45 Abs. 2 Verf LSA i. V. m. § 55 Abs. 4 GO-LT**; der Präsident beruft unverzüglich ein, die Sitzung findet **spätestens zwei Wochen** nach Eingang des Verlangens statt. **Erforderlich sind nach Angabe des Landtages 24 Abgeordnete** — ✅ **korrigiert am 12.10.2026**: Früher stand hier die eigene Rechnung „21 = ein Viertel von 83“; die Bezugsgröße der Viertelschwelle ist offenbar eine andere und ⚠️ **nicht belegt** — Art. 45 Abs. 2 Verf LSA im Wortlaut lesen. **Die Folgerung bleibt:** Die AfD hat **39** Sitze und liegt auch über 24, kann Sondersitzungen also **allein** erzwingen. **Der Sitzungskalender ist nicht verlässlich vorhersehbar — in beide Richtungen:** Zusätzliche Termine können ein Haushaltsgesetz doch noch ermöglichen. Erste Sondersitzung **14.10.2026**: Antrag **Drs. 9/31** (AfD und BSW) zur Russland- und Ukraine-Politik, Verlangen **Drs. 9/32**. Bei jeder Sitzung die **Tagesordnung** prüfen, ob Geschäftsordnung und Ausschusseinsetzung aufgerufen werden.
 
+**Erster Sachbeschluss des neuen Landtages (14.10.2026).** Der Antrag **Drs. 9/31** von AfD und
+BSW „Friedensgespräche statt Ausweitung des Krieges in der Ukraine“ wurde **mehrheitlich
+angenommen**; CDU, SPD, Grüne und Linke stimmten dagegen. Rechtswirkung überwiegend
+**symbolisch** (keine Landeszuständigkeit für Außenpolitik). ⚠️ Zu den Alternativanträgen
+widersprüchliche Angaben: angekündigt waren je einer von CDU und Linke sowie ein gemeinsamer
+von SPD und Grünen; eine Fundstelle sagt, sie seien **nicht mehr zur Abstimmung gekommen**.
+Zum Verlauf: **mehrere Fraktionen beantragten eine Unterbrechung, der Ältestenrat kam erst
+daraufhin zusammen — er war vorher nicht einberufen worden** ⚠️; die Grünen kritisierten
+Präsident Rausch wegen möglicher Verstöße gegen die Unparteilichkeit ⚠️.
+→ **Folge für die Recherche:** Tagesordnungen **am Sitzungstag** prüfen, nicht vorab — ohne
+vorbereitenden Ältestenrat ist die Tagesordnung bis zum Sitzungsbeginn offen.
+
+📐 **Die Arithmetik, die für den Haushalt 2027 zählt:** AfD **39** + BSW **5** = **44** von 83;
+absolute Mehrheit **42**, für ein einfaches Gesetz genügt die Mehrheit der abgegebenen Stimmen.
+→ **Präzisierung der Planungsannahme vom 12.10.:** Nicht „es gibt keine Mehrheit“, sondern
+**eine Mehrheit existiert und hat am 14.10. erstmals funktioniert**; unwahrscheinlich ist, dass
+sie einem Entwurf der geschäftsführenden Regierung zustimmt. **Zwei Risiken, getrennt zu
+behandeln:** (1) **kein** Haushaltsgesetz 2027 → Haushaltsvorgriff; (2) **ein** Haushaltsgesetz
+mit **anderen Inhalten** → Finanzausgleichsmasse, Kreisumlagezuschlag und Investitionspauschale
+sind auch **inhaltlich** offen. ✅ Damit ist das **dritte Szenario vom 03.10.2026** bestätigt:
+unsicher ist nicht nur der Zeitpunkt, sondern der **Inhalt**.
+
+✅ **Präzisierung zur Sondersitzungsschwelle (15.10.2026).** Der Landtag schreibt: „**24
+Abgeordnete und damit ein Viertel der Mitglieder** des Landtages haben … die Einberufung
+verlangt.“ Das liest sich als **Zahl der Unterzeichner**, nicht als Rechtsschwelle — die
+Schwelle bleibt „ein Viertel“, bei 83 Sitzen also **21**. ⚠️ Der Satz lässt beide Lesarten
+zu. Unberührt bleibt: Die AfD überschreitet mit 39 Sitzen beide Werte und kann
+Sondersitzungen allein erzwingen.
+
+**Ausschussberatung.** Die Sondersitzung hat die **Ausschusseinsetzung nicht behandelt**;
+nächste reguläre Gelegenheit ist der **18./19.11.2026**. ⚠️ Ob die Geschäftsordnung eine
+Gesetzesberatung **ohne** Ausschussbefassung zulässt, ist nicht geprüft — bei einem *Antrag*
+ging es am 14.10. ohne Ausschüsse, bei einem *Gesetz* ist das eine andere Frage.
+
 **Einbringungsmonopol und Mehrheitserfordernis.** Die geschäftsführende Landesregierung allein kann den Haushaltsentwurf einbringen, braucht aber eine **Mehrheit im Landtag**; der Landtag kann den Entwurf ändern. → **Die Finanzausgleichsmasse ist keine reine Regierungsentscheidung, sondern eine Zahl, für die im Plenum eine Mehrheit zusammenkommen muss — in einem Landtag ohne Regierungsmehrheit. Deshalb hat die Stellungnahme über die Spitzenverbände dieses Jahr mehr Gewicht als sonst.**
 
 → **Ein Haushaltsgesetz 2027 bis zum 31.12.2026 ist damit unwahrscheinlich; der
@@ -541,7 +587,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 14.10.2026)
+## Laufende lokale Vorgänge (Stand 15.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -602,7 +648,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 14.10.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 15.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -614,6 +660,8 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Nimmt die **Kostenbeitragssatzung Kita** auf die KiFöG-Geschwisterregelung Bezug? | **Fundstellen jetzt belegt (09.10.2026):** geltende **Kostenbeitragssatzung für die Benutzung der Kindertageseinrichtungen und die Inanspruchnahme von Tagespflege**, beschlossen am **19.12.2017**, **Beschluss-Nr. SRT-1150/2017**, in Kraft **01.01.2018** (Amtliches Mitteilungsblatt Januar 2018). Die Stadt **beabsichtigt eine Neufassung** für die **Kindertagespflege** — Mitteilung vom **19.03.2026** mit Richtigstellung zu MZ-Artikeln vom 19.02. und 14.03.2026; ein **Beschluss ist nicht belegt**. Zwei mögliche Lagen: **A** Satzung nimmt Bezug → **Satzungswiderspruch** zum 01.01.2027, Änderung vorher nötig; **B** kein Bezug, Ermäßigung unmittelbar nach Landesrecht gewährt → ab 01.01.2027 gelten **automatisch die vollen Satzungsbeiträge**, Kommunikations- und Ertragsthema im Wirtschaftsplan des Eigenbetriebs. Die Neufassung betrifft nach ihrem Wortlaut die **Tagespflege**; ob sie den **Einrichtungsteil** mit erfasst, ist nicht belegt — das ist der größere Posten. Szenarien zweistufig (Eigenbetrieb und Haushalt) rechnen |
 | Entspricht die **elektronische Bekanntmachung** seit dem 09.07.2024 der Bekanntmachungssatzung? | Risiko unwirksamer Satzungen |
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
+| **Auftragskostenpauschale im eigenen Haushalt feststellen** und den Aufwand für übertragene Aufgaben daneben stellen | Landesweit **645,8 Mio. €** (2026), rund **30 %** der Finanzausgleichsmasse ⚠️. Die Differenz zwischen Pauschale und tatsächlichem Aufwand (Standesamt, Meldewesen, Bauordnungsrecht, Wahlen) ist die **Konnexitätslücke der bestehenden Aufgaben** — Fundament für die Argumentation zu Wärmeplanung und KiFöG. Stelle: Kämmerei. Frist: vor Einbringung des Entwurfs 2027. |
+| **Erstattungsleistungen Straßenausbaubeiträge** | Mit der Abschaffung der Straßenausbaubeiträge konnten Kommunen beim **Landesverwaltungsamt** Erstattungen beantragen; eine Antragsfrist **31.12.2025** ist belegt ⚠️ und abgelaufen. Drei Fragen: beantragt und erhalten? **Laufendes** Erstattungsverfahren mit jährlichen Zahlungen? Im Haushalt 2027 veranschlagt, mit welcher Rechtsgrundlage? Gehört in die Sortierung der Einnahmen nach Rechtsgrundlage. |
 | **Brandschutzförderung:** Wurde bis **31.03.2026** ein Antrag für das Förderjahr **2027** beim Landkreis eingereicht — und gibt es eine **pauschale Förderung für Einheitsgemeinden**? | Stehendes Verfahren nach Zuwr-BS mit Frist **31.03.** für das Folgejahr (über den Landkreis). **Interne Frist 28.02.2027** für den Antrag zum Förderjahr 2028 setzen, Bedarfsliste der Wehr in diesem Quartal erstellen. Der Dieselpreisanstieg von **43,3 %** trägt die Bedarfsbegründung. Pauschalen-Frage: Quellenlage widersprüchlich. Stellen: Hauptamt mit Wehrleitung, Landkreis, LVwA. |
 | **Kreisimmobilien in Hettstedt und Standort Bevölkerungsschutzzentrum** | Welche Objekte wurden veräußert, an wen, mit welcher Nachnutzung, und war die Stadt beteiligt? Läuft eine **Standortsuche** für das Bevölkerungsschutzzentrum und nach welchen Kriterien? Stellen: Bauverwaltungsamt und Liegenschaften; Gespräch mit der Kreisverwaltung. |
 | **Abwägungsunterlagen zur Kreisumlage 2027 anfordern** | Drei Fragen an die Kämmerei des Landkreises: (1) Welche Unterlagen zur **Abwägung der Finanzkraft** der umlagepflichtigen Gemeinden liegen der Festsetzung 2027 zugrunde? (2) Wie ist der **eigene Bedarf** hergeleitet — insbesondere Folgekosten der beiden REGENT-Standorte ab Mitte 2027 und Zinsaufwand der Liquiditätskredite? (3) Wie wirkt ein **Wegfall des Kreisumlagezuschlags** auf die Festsetzung? Grundlage: Die Festsetzungen 2017, 2018 und 2020 sind gerichtlich **an der Abwägung** gescheitert. Haltung: Mitwirkungsrecht, nicht Klagevorbereitung. |
@@ -645,6 +693,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | **30.11.** | Städtebauförderung (StäBauFRL) | Antrag vor Maßnahmenbeginn; Zuschuss i. d. R. bis 2/3. ⚠️ Zuständigkeit klären: Richtlinie vom Ministerium, Servicebereich beim Landesverwaltungsamt |
 | **offen** | **Schulbauförderung (Landesverwaltungsamt)** | **116,4 Mio. €** auf **113 Kommunen**, Bund bis **90 %**, kommunaler Anteil **10 %** ⚠️. Die Stadt ist Trägerin der Grundschulen und damit grundsätzlich adressiert. 📐 *Eigene Überschlagsrechnung:* im Schnitt rund **1,0 Mio. € je Kommune** — grob, Verteilungsschlüssel nicht belegt. **Zwei Fragen an das LVwA:** Berücksichtigung und Betrag, und bis wann Mittel zu binden sind. Der Eigenanteil von 10 % ist eine der günstigsten Quoten im kommunalen Förderrecht |
 | **im Jahr 2026** | **KInvFG-Abrechnung** | Umsetzung und Abnahme mussten nach Verlängerung bis **31.12.2025** erfolgen, die **Abrechnung bei der Bewilligungsbehörde bis 2026** ⚠️. **Eine versäumte Abrechnungsfrist gefährdet bereits erhaltene Mittel.** Stelle: Kämmerei, Rückfrage beim Landesverwaltungsamt. **Dringlich, nicht im Dezember erledigen** |
+| **31.08.** (Vorjahr) | **Sportstättenbau — kommunale Schiene** | 2026 stellt das Land **fast 14 Mio. €** bereit; damit werden **13 kommunale Sportstättenprojekte** und **über 80 Vereinsmaßnahmen** umgesetzt ⚠️. Zuständig: Ministerium für Inneres und Sport, Antragsweg über die IB. **Offene Fragen:** Ist Hettstedt unter den 13 kommunalen Projekten — und ist für künftige Vorhaben die **kommunale** oder die **Vereinsschiene** günstiger? Beim Kunstrasenplatz lief die Förderung über den Verein mit **50 %** Quote |
 | **31.08.** | Vereinssportstättenbau (IB) | jeweils für das **Folgejahr**; die Frist für das Förderjahr 2027 ist am 31.08.2026 abgelaufen |
 | **30.06. (Vorjahr)** | **Mittelanmeldung Kommunalarm** nach **§ 10 Abs. 2 Infra-SVG** | erstmals für das Haushaltsjahr **2027**, Frist war **30.06.2026** — **verstrichen**; für 2026 war keine Anmeldung vorgesehen. Stand bei der IB klären |
 | **31.01.** | **Jährliche Berichtspflicht** nach **§ 10 Abs. 1 Infra-SVG** | erstmals zum **Stichtag 01.01.2027**, Einreichung **31.01.2027** ⚠️ |
