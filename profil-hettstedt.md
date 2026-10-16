@@ -321,6 +321,50 @@ Pflicht nicht erfüllt — war zu grob.**
 **„die fachliche Grundlage liegt seit dem 10.09.2026 vor; es fehlt allein der
 gesetzgeberische Akt“**. Formulierungsvorschlag für den Vorbericht in der Ausgabe vom
 08.10.2026, Ziffer 7.3 — um diesen Satz zu ergänzen.
+→ **Inhalte des Gutachtens, belegt am 16.10.2026** ⚠️ (aus Zusammenfassungen, nicht aus dem
+Volltext): Verfasser **Hesse, Starke, Lenk**; eine Fundstelle datiert auf **August 2026**, der
+Dateiname auf den **10.09.2026** — kleiner Datumswiderspruch. **Verfahrensempfehlung:** den
+Finanzbedarf regelmäßig nach einem **Symmetrieverfahren mit Mehrjahresdurchschnitten**
+prüfen, etwa **alle 3 bis 5 Jahre**. **Zugewinne für Landkreise mit hohen SGB-II-Quoten —
+namentlich Salzlandkreis, Stendal und Mansfeld-Südharz**; bei den kreisfreien Städten
+Zugewinne für Magdeburg, Rückgänge für Dessau-Roßlau. **Zu den kreisangehörigen Gemeinden
+steht in den zugänglichen Angaben nichts.**
+
+**Das Vorgängergutachten (Lenk/Starke/Hesse, Mai 2023)** prüfte **Hauptansatzstaffel**,
+**Nebenansätze** und die **Finanzkraftumlage** (Abschöpfung starker Gemeinden,
+**Mindestausstattung** für schwache) und empfahl u. a. einen **Nebenansatz für Kinder unter
+sechs Jahren** und einen **Soziallastenansatz nach SGB-II-Bedarfsgemeinschaften** ⚠️.
+Begleitet wurde es von **MF, Städte- und Gemeindebund, Landkreistag und Landesrechnungshof**
+— die Verbände sind an diesen Verfahren **institutionell beteiligt**, eine Rückfrage dort ist
+der kürzere Weg. Daneben existiert ein Gutachten von **Ende 2024** (vertikal und horizontal).
+
+✅ **Die Kette, die sich damit schließt:** Gutachten 2023 → Umsetzung des „horizontalen
+Gutachtens“ im **FAG 2024** → **Einzahlungsverluste kreisangehöriger Gemeinden** →
+**„FAG-Ausgleichszahlung 2024“** aus dem Ausgleichsstock (Antragsfrist 30.09.2024).
+**Mit dem Gutachten 2026 steht dieselbe Mechanik erneut an.**
+📐 *Eigene Schlussfolgerung, keine Quelle:* Zugewinne für eine Ebene müssen aus derselben
+Verteilungsmasse kommen — entweder wächst sie, oder die Zugewinne der einen sind die Verluste
+der anderen. ⚠️ **Es ist nicht belegt, dass die kreisangehörigen Gemeinden verlieren**; belegt
+ist nur, dass dazu nichts vorliegt.
+
+→ **Vier Fragen an das Gutachten (statt der drei vom 11.10.):** (1) **Was sieht das Modell für
+die kreisangehörigen Gemeinden vor?** (2) **Woher kommt die Gegenfinanzierung der Zugewinne?**
+(3) **Wie wird die Finanzkraftumlage und damit die Mindestausstattung behandelt?** (4) **Sieht
+es Übergangsregelungen vor** — mit welcher Antragsfrist?
+
+→ **Sozialdaten als Währung des Modells:** Zahl der **SGB-II-Bedarfsgemeinschaften** im
+Stadtgebiet und die **SGB-II-Quote** bereitlegen (Jobcenter, Statistik der Bundesagentur).
+Für eine Stadt mit schwieriger Sozialstruktur ist ein Soziallastenansatz grundsätzlich eine
+**Chance** — vorausgesetzt, er greift auf der eigenen Ebene; nach dem Gutachten 2023 setzte er
+auf der **Kreisebene** an.
+
+→ **„Der Kreis gewinnt“ heißt nicht „die Umlage sinkt“.** 📐 *Eigene Einordnung:* Bei
+52,4 Mio. € Defizit, fehlenden Rücklagen und der 9,6-Mio.-Auflage würden Zugewinne zunächst
+dort wirken; zugleich entfällt möglicherweise der Kreisumlagezuschlag und ab Mitte 2027 kommen
+die REGENT-Betriebskosten hinzu. **Tragfähig ist nicht „mehr Geld, also weniger Umlage“,
+sondern: Zugewinne verschieben die Begründungslast** — genau dort, wo die Festsetzungen 2017,
+2018 und 2020 gerichtlich an der Abwägung gescheitert sind.
+
 → **Auswerten, bevor der Entwurf kommt:** Das Gutachten ist die inhaltliche Vorlage einer
 FAG-Novelle und damit die früheste belastbare Information über die Einnahmeseite 2027. Drei
 Fragen: Bedarfsindikatoren für kreisangehörige Gemeinden; Behandlung des
@@ -467,6 +511,13 @@ nächste reguläre Gelegenheit ist der **18./19.11.2026**. ⚠️ Ob die Geschä
 Gesetzesberatung **ohne** Ausschussbefassung zulässt, ist nicht geprüft — bei einem *Antrag*
 ging es am 14.10. ohne Ausschüsse, bei einem *Gesetz* ist das eine andere Frage.
 
+📐 **Wie schmal die Basis der geschäftsführenden Regierung ist (Stand 16.10.2026, eigene
+Rechnung):** Sie stützte sich auf **CDU, SPD und FDP**. Im neuen Landtag halten **CDU 15** und
+**SPD 8** Sitze, zusammen **23 von 83**; die **FDP ist nicht mehr vertreten**. Für die absolute
+Mehrheit von 42 fehlen **19 Stimmen**. → **Das Einbringungsrecht und die Mehrheitsfähigkeit
+liegen in verschiedenen Händen** — die Regierung darf den Haushaltsentwurf allein einbringen,
+verfügt im Plenum aber nur über rund ein Viertel der Stimmen.
+
 **Einbringungsmonopol und Mehrheitserfordernis.** Die geschäftsführende Landesregierung allein kann den Haushaltsentwurf einbringen, braucht aber eine **Mehrheit im Landtag**; der Landtag kann den Entwurf ändern. → **Die Finanzausgleichsmasse ist keine reine Regierungsentscheidung, sondern eine Zahl, für die im Plenum eine Mehrheit zusammenkommen muss — in einem Landtag ohne Regierungsmehrheit. Deshalb hat die Stellungnahme über die Spitzenverbände dieses Jahr mehr Gewicht als sonst.**
 
 → **Ein Haushaltsgesetz 2027 bis zum 31.12.2026 ist damit unwahrscheinlich; der
@@ -587,7 +638,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 15.10.2026)
+## Laufende lokale Vorgänge (Stand 16.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -648,7 +699,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 15.10.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 16.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -660,6 +711,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Nimmt die **Kostenbeitragssatzung Kita** auf die KiFöG-Geschwisterregelung Bezug? | **Fundstellen jetzt belegt (09.10.2026):** geltende **Kostenbeitragssatzung für die Benutzung der Kindertageseinrichtungen und die Inanspruchnahme von Tagespflege**, beschlossen am **19.12.2017**, **Beschluss-Nr. SRT-1150/2017**, in Kraft **01.01.2018** (Amtliches Mitteilungsblatt Januar 2018). Die Stadt **beabsichtigt eine Neufassung** für die **Kindertagespflege** — Mitteilung vom **19.03.2026** mit Richtigstellung zu MZ-Artikeln vom 19.02. und 14.03.2026; ein **Beschluss ist nicht belegt**. Zwei mögliche Lagen: **A** Satzung nimmt Bezug → **Satzungswiderspruch** zum 01.01.2027, Änderung vorher nötig; **B** kein Bezug, Ermäßigung unmittelbar nach Landesrecht gewährt → ab 01.01.2027 gelten **automatisch die vollen Satzungsbeiträge**, Kommunikations- und Ertragsthema im Wirtschaftsplan des Eigenbetriebs. Die Neufassung betrifft nach ihrem Wortlaut die **Tagespflege**; ob sie den **Einrichtungsteil** mit erfasst, ist nicht belegt — das ist der größere Posten. Szenarien zweistufig (Eigenbetrieb und Haushalt) rechnen |
 | Entspricht die **elektronische Bekanntmachung** seit dem 09.07.2024 der Bekanntmachungssatzung? | Risiko unwirksamer Satzungen |
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
+| **SGB-II-Bedarfsgemeinschaften und -Quote** für das Stadtgebiet bereitlegen | Das Gutachten 2023 empfahl einen **Soziallastenansatz nach SGB-II-Bedarfsgemeinschaften**, das Gutachten 2026 weist Zugewinne **Landkreisen mit hohen SGB-II-Quoten** zu ⚠️. Wenn Soziallasten das Verteilungsmerkmal sind, entscheidet die eigene Datenlage. Quellen: Jobcenter, Statistik der Bundesagentur für Arbeit. ⚠️ Ob Soziallasten auf **Gemeindeebene** berücksichtigt werden, ist offen. |
 | **Auftragskostenpauschale im eigenen Haushalt feststellen** und den Aufwand für übertragene Aufgaben daneben stellen | Landesweit **645,8 Mio. €** (2026), rund **30 %** der Finanzausgleichsmasse ⚠️. Die Differenz zwischen Pauschale und tatsächlichem Aufwand (Standesamt, Meldewesen, Bauordnungsrecht, Wahlen) ist die **Konnexitätslücke der bestehenden Aufgaben** — Fundament für die Argumentation zu Wärmeplanung und KiFöG. Stelle: Kämmerei. Frist: vor Einbringung des Entwurfs 2027. |
 | **Erstattungsleistungen Straßenausbaubeiträge** | Mit der Abschaffung der Straßenausbaubeiträge konnten Kommunen beim **Landesverwaltungsamt** Erstattungen beantragen; eine Antragsfrist **31.12.2025** ist belegt ⚠️ und abgelaufen. Drei Fragen: beantragt und erhalten? **Laufendes** Erstattungsverfahren mit jährlichen Zahlungen? Im Haushalt 2027 veranschlagt, mit welcher Rechtsgrundlage? Gehört in die Sortierung der Einnahmen nach Rechtsgrundlage. |
 | **Brandschutzförderung:** Wurde bis **31.03.2026** ein Antrag für das Förderjahr **2027** beim Landkreis eingereicht — und gibt es eine **pauschale Förderung für Einheitsgemeinden**? | Stehendes Verfahren nach Zuwr-BS mit Frist **31.03.** für das Folgejahr (über den Landkreis). **Interne Frist 28.02.2027** für den Antrag zum Förderjahr 2028 setzen, Bedarfsliste der Wehr in diesem Quartal erstellen. Der Dieselpreisanstieg von **43,3 %** trägt die Bedarfsbegründung. Pauschalen-Frage: Quellenlage widersprüchlich. Stellen: Hauptamt mit Wehrleitung, Landkreis, LVwA. |
