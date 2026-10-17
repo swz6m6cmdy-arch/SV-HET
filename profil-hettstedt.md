@@ -489,6 +489,34 @@ Präsident Rausch wegen möglicher Verstöße gegen die Unparteilichkeit ⚠️.
 → **Folge für die Recherche:** Tagesordnungen **am Sitzungstag** prüfen, nicht vorab — ohne
 vorbereitenden Ältestenrat ist die Tagesordnung bis zum Sitzungsbeginn offen.
 
+**Die Fristenkaskade des Art. 65 Verf LSA, vollständig belegt (Stand 17.10.2026).**
+**1. Wahlgang:** Mehrheit der **Mitglieder** (mind. **42** von 83), **ohne Aussprache**,
+**geheim**; **keine Frist**, wann er stattzufinden hat. **2. Wahlgang:** binnen **sieben
+Tagen**, wieder 42. **Danach:** binnen **14 Tagen** Entscheidung über die vorzeitige
+Beendigung der Wahlperiode, ebenfalls Mehrheit aller Mitglieder — Folge **Neuwahlen**.
+**3. Wahlgang:** wird die Auflösung abgelehnt, ist gewählt, wer die **Mehrheit der
+abgegebenen Stimmen** erhält. ⚠️ **Streitig in den Quellen:** was nach einem gescheiterten
+dritten Wahlgang gilt — eine Fundstelle sagt, bei Stimmengleichheit oder Ablehnung stehe
+**kein** Ministerpräsident, eine andere, die Verfassung regle den Fall **nicht ausdrücklich**.
+Am Verfassungstext zu prüfen.
+📐 *Patt-Arithmetik:* AfD **39** gegen CDU, SPD, Grüne und Linke zusammen **39** — bei
+Enthaltung des BSW (**5**) ist im dritten Wahlgang **Stimmengleichheit** möglich, dann ist
+niemand gewählt. ⚠️ Das BSW zog mit **3.526 Stimmen über der 5-%-Hürde** ein.
+
+📐 **Zeitachse, auf den Sitzungsplan gerechnet — eigene Ableitung, keine Prognose:**
+1. Wahlgang **15.–17.12.2026** → 2. Wahlgang **bis etwa 24.12.2026** → Entscheidung über
+Selbstauflösung **bis etwa Anfang Januar 2027** → danach gegebenenfalls 3. Wahlgang.
+**Die Frage „Neuwahl oder nicht“ fällt damit voraussichtlich Anfang Januar 2027 — mitten im
+Haushaltsvorgriff.**
+
+**Drei Pfade mit Folgen für den Haushalt 2027:** (1) **Wahl gelingt im Dezember** → FAG im
+ersten Halbjahr 2027 möglich, Haushaltsvorgriff bis dahin. (2) **Dritter Wahlgang bringt
+einen Ministerpräsidenten** → wechselnde Mehrheiten, FAG **inhaltlich** offen.
+(3) **Neuwahl** → 📐 *eigene Einschätzung:* FAG 2027 realistisch **nicht vor dem zweiten
+Halbjahr 2027**, möglicherweise gar nicht; **Haushaltsvorgriff über das ganze Jahr** wäre die
+Planungsannahme. **Der dritte Pfad fehlt in den meisten Vorberichten und hat die größten
+Folgen.**
+
 📐 **Die Arithmetik, die für den Haushalt 2027 zählt:** AfD **39** + BSW **5** = **44** von 83;
 absolute Mehrheit **42**, für ein einfaches Gesetz genügt die Mehrheit der abgegebenen Stimmen.
 → **Präzisierung der Planungsannahme vom 12.10.:** Nicht „es gibt keine Mehrheit“, sondern
@@ -547,6 +575,13 @@ Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
   sah rechtlichen Anpassungsbedarf. Genehmigung im zweiten Anlauf mit der **Auflage, das
   Finanzplanungsergebnis um 9,6 Mio. € zu verbessern**, und mit **angeordneter Haushaltssperre**
   (nur notwendige Ausgaben, bis die Verbesserung erreicht ist).
+- **Berichte zur Haushaltssperre (Stand 17.10.2026).** Die Kommunalaufsicht **begleitet den
+  Umsetzungsstand eng und erwartet regelmäßige Berichte zur Haushaltssperre** ⚠️. **Diese
+  Berichte existieren** und dokumentieren, wie weit der Kreis mit der Konsolidierung gekommen
+  ist — die sachlichste Grundlage für die Abwägungsfrage zur Umlage 2027. **Zwei Wege:** beim
+  **Landkreis** anfragen (als umlagepflichtige Gemeinde) oder beim **Landesverwaltungsamt**,
+  wo die Berichte auflaufen und das zugleich die Festsetzung genehmigt. Zusammen mit den
+  Abwägungsunterlagen ergibt das die vollständige Aktenlage.
 - **Liquiditätskredite: genehmigter Höchstbetrag 250 Mio. €.** Das Landesverwaltungsamt hat
   den in der Haushaltssatzung festgesetzten Höchstbetrag der Liquiditätskredite von
   **250 Mio. €** genehmigt; der Landkreis hatte dargelegt, dass dieser Rahmen zur **Sicherung
@@ -638,7 +673,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 16.10.2026)
+## Laufende lokale Vorgänge (Stand 17.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -699,7 +734,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 16.10.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 17.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -711,6 +746,8 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Nimmt die **Kostenbeitragssatzung Kita** auf die KiFöG-Geschwisterregelung Bezug? | **Fundstellen jetzt belegt (09.10.2026):** geltende **Kostenbeitragssatzung für die Benutzung der Kindertageseinrichtungen und die Inanspruchnahme von Tagespflege**, beschlossen am **19.12.2017**, **Beschluss-Nr. SRT-1150/2017**, in Kraft **01.01.2018** (Amtliches Mitteilungsblatt Januar 2018). Die Stadt **beabsichtigt eine Neufassung** für die **Kindertagespflege** — Mitteilung vom **19.03.2026** mit Richtigstellung zu MZ-Artikeln vom 19.02. und 14.03.2026; ein **Beschluss ist nicht belegt**. Zwei mögliche Lagen: **A** Satzung nimmt Bezug → **Satzungswiderspruch** zum 01.01.2027, Änderung vorher nötig; **B** kein Bezug, Ermäßigung unmittelbar nach Landesrecht gewährt → ab 01.01.2027 gelten **automatisch die vollen Satzungsbeiträge**, Kommunikations- und Ertragsthema im Wirtschaftsplan des Eigenbetriebs. Die Neufassung betrifft nach ihrem Wortlaut die **Tagespflege**; ob sie den **Einrichtungsteil** mit erfasst, ist nicht belegt — das ist der größere Posten. Szenarien zweistufig (Eigenbetrieb und Haushalt) rechnen |
 | Entspricht die **elektronische Bekanntmachung** seit dem 09.07.2024 der Bekanntmachungssatzung? | Risiko unwirksamer Satzungen |
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
+| **Haushaltsvorbehalt in mehrjährige Zusagen der Stadt aufnehmen** | Der Landkreis sichert der **Kreisvolkshochschule** für **2027 bis 2030 je 250.000 €** zu — ausdrücklich unter dem Vorbehalt **bestätigter Haushalte durch Landtag und Kreistag** ⚠️. 📐 *Eigene Einordnung:* Als **Umlageargument taugt das nicht** — 250.000 € sind gegen 52,4 Mio. € Defizit rund **0,5 %**, das scheitert an der Größenordnung (wie beim Rettungswachenprogramm, 25.09.). **Brauchbar ist die Mechanik:** Alle mehrjährigen Zusagen der Stadt für 2027 ff. (Vereinsförderung, Zuschüsse, Nutzungsverträge) sollten den **Vorbehalt eines bestätigten Haushalts** ausdrücklich enthalten — bei einem Haushaltsvorgriff ab 01.01.2027 die saubere Grundlage. Stellen: Kämmerei mit Rechtsamt; Musterformulierungen in Zuwendungsbescheiden und Verträgen prüfen. |
+| **Berichte zur Haushaltssperre des Landkreises anfordern** | Die Kommunalaufsicht erwartet regelmäßige Berichte zum Umsetzungsstand ⚠️. Sie zeigen, ob der Kreis seine eigenen Konsolidierungsmöglichkeiten ausgeschöpft hat, **bevor** er die Umlage ausschöpft — genau der Punkt, an dem die Festsetzungen 2017, 2018 und 2020 gerichtlich gescheitert sind. Wege: Landkreis oder Landesverwaltungsamt. Frist: vor der Beschlussfassung über den Kreishaushalt 2027. |
 | **SGB-II-Bedarfsgemeinschaften und -Quote** für das Stadtgebiet bereitlegen | Das Gutachten 2023 empfahl einen **Soziallastenansatz nach SGB-II-Bedarfsgemeinschaften**, das Gutachten 2026 weist Zugewinne **Landkreisen mit hohen SGB-II-Quoten** zu ⚠️. Wenn Soziallasten das Verteilungsmerkmal sind, entscheidet die eigene Datenlage. Quellen: Jobcenter, Statistik der Bundesagentur für Arbeit. ⚠️ Ob Soziallasten auf **Gemeindeebene** berücksichtigt werden, ist offen. |
 | **Auftragskostenpauschale im eigenen Haushalt feststellen** und den Aufwand für übertragene Aufgaben daneben stellen | Landesweit **645,8 Mio. €** (2026), rund **30 %** der Finanzausgleichsmasse ⚠️. Die Differenz zwischen Pauschale und tatsächlichem Aufwand (Standesamt, Meldewesen, Bauordnungsrecht, Wahlen) ist die **Konnexitätslücke der bestehenden Aufgaben** — Fundament für die Argumentation zu Wärmeplanung und KiFöG. Stelle: Kämmerei. Frist: vor Einbringung des Entwurfs 2027. |
 | **Erstattungsleistungen Straßenausbaubeiträge** | Mit der Abschaffung der Straßenausbaubeiträge konnten Kommunen beim **Landesverwaltungsamt** Erstattungen beantragen; eine Antragsfrist **31.12.2025** ist belegt ⚠️ und abgelaufen. Drei Fragen: beantragt und erhalten? **Laufendes** Erstattungsverfahren mit jährlichen Zahlungen? Im Haushalt 2027 veranschlagt, mit welcher Rechtsgrundlage? Gehört in die Sortierung der Einnahmen nach Rechtsgrundlage. |
