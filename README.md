@@ -97,3 +97,4 @@ die von den installierten Schriften nicht gedeckt sind.
 - [15.10.2026](briefings/2026-10-15-kommunalbriefing-sachsen-anhalt.md)
 - [16.10.2026](briefings/2026-10-16-kommunalbriefing-sachsen-anhalt.md)
 - [17.10.2026](briefings/2026-10-17-kommunalbriefing-sachsen-anhalt.md)
+- [18.10.2026](briefings/2026-10-18-kommunalbriefing-sachsen-anhalt.md) — enthält eine Korrektur der Einwohnerzahl

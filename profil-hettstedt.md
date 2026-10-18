@@ -9,7 +9,7 @@ welche Landesvorgänge für **diese** Kommune einschlägig sind und welche nicht
 |---|---|
 | Kommune | Stadt Hettstedt („Kupferstadt") |
 | Landkreis | Mansfeld-Südharz (MSH) |
-| Einwohner | rund 14.000 |
+| Einwohner | **12.626** (31.12.2025, Statistisches Landesamt) bzw. **12.783** (31.03.2026, Statistikportal des Bundes) — ✅ **korrigiert am 18.10.2026**; früher stand hier „rund 14.000“ aus der Aufgabenbeschreibung, ungeprüft übernommen. ⚠️ Abweichung der beiden Werte wegen verschiedener Stichtage und Fortschreibungen. Zeitreihe: 1990 **22.171**, 2001 18.516, 2011 15.196, Zensus 2022 13.111, 2025 **12.626**. 📐 *Eigene Überschlagsrechnung:* seit 1990 rund **−43 %**, seit 2011 rund **−17 %**, seit 2022 rund **−3,7 % in drei Jahren**, also grob **160 Einwohner pro Jahr**. **In Vorlagen immer mit Stichtag angeben** |
 | Gemeindetyp | Einheitsgemeinde, kreisangehörig |
 | Website | hettstedt.de |
 
@@ -254,7 +254,7 @@ Für Hettstedt sind **zwei saubere Konnexitätsfälle** dokumentierbar:
 
 | Fall | Auftrag des Landes | Ausgleich |
 |---|---|---|
-| **Kommunale Wärmeplanung** | Pflicht bis **30.06.2028** (Bundesrecht) | finanzieller Ausgleich u. a. nach Einwohnerzahl; **12,66 Mio. €** landesweit vorgesehen ⚠️ (präziser als die früher geführten „rund 12 Mio. €“). 📐 *Eigene Überschlagsrechnung:* für Hettstedt grob **80.000 €** — Größenordnung, keine Zusage; Betrag beim MWU oder über LENA erfragen. Unterstützung bei Anträgen durch **LENA** |
+| **Kommunale Wärmeplanung** | Pflicht bis **30.06.2028** (Bundesrecht) | finanzieller Ausgleich u. a. nach Einwohnerzahl; **12,66 Mio. €** landesweit vorgesehen ⚠️ (präziser als die früher geführten „rund 12 Mio. €“). 📐 *Eigene Überschlagsrechnung:* für Hettstedt grob **74.000 €** (korrigiert am 18.10.2026) — Größenordnung, keine Zusage; Betrag beim MWU oder über LENA erfragen. Unterstützung bei Anträgen durch **LENA** |
 | **KiFöG** | Betreuungs- und Beitragssystematik | Geschwisterregelung und Ausgleichszahlungen (bis **10,7 Mio. €/Jahr** an die Gemeinden) laufen zum **31.12.2026** aus |
 
 → **Arbeitsauftrag:** Bei beiden Vorgängen die **Differenz zwischen aufgetragener Aufgabe und
@@ -298,7 +298,7 @@ die Konnexitätslücke der **bestehenden** Aufgaben und das Fundament jeder Argu
 **neuen** Pflichten.
 
 📐 *Eigene Überschlagsrechnung zur Investitionspauschale:* bei Verteilung nach Einwohnerzahl und
-rund 2,16 Mio. Einwohnern im Land etwa **74 € je Einwohner**, für Hettstedt grob **1,0 Mio. €**.
+rund 2,16 Mio. Einwohnern im Land etwa **74 € je Einwohner**, für Hettstedt grob **0,94 Mio. €** (korrigiert am 18.10.2026).
 ⚠️ Die Einwohnerzahl ist eine **Annahme**, der **Verteilungsschlüssel ist nicht belegt** — der
 tatsächliche Betrag steht im eigenen Haushalt.
 → **Dritte Position ohne Grundlage für 2027:** Neben Schlüsselzuweisungen und
@@ -346,6 +346,21 @@ Gutachtens“ im **FAG 2024** → **Einzahlungsverluste kreisangehöriger Gemein
 Verteilungsmasse kommen — entweder wächst sie, oder die Zugewinne der einen sind die Verluste
 der anderen. ⚠️ **Es ist nicht belegt, dass die kreisangehörigen Gemeinden verlieren**; belegt
 ist nur, dass dazu nichts vorliegt.
+
+→ **Fünfte Frage, ergänzt am 18.10.2026 — die Hauptansatzstaffel.** Der FAG verteilt
+Schlüsselzuweisungen über eine nach **Einwohnergrößenklassen gestaffelte Hauptansatzstaffel**
+(2023 vom Gutachten geprüft). Staffeln arbeiten mit **Schwellenwerten**: Wer eine Schwelle
+nach unten durchschreitet, verliert **sprunghaft**, nicht proportional. 📐 *Eigene Rechnung:*
+Bei grob **160 Einwohnern Rückgang pro Jahr** wäre eine Schwelle bei 12.500 nur noch **ein bis
+zwei Jahre** entfernt. ⚠️ **Ob die Staffel dort eine Schwelle hat, ist nicht belegt** — die
+Staffel steht im FAG und ist in einer Viertelstunde nachzulesen. **Zwei Fragen:** Wo liegen
+die Schwellen, und sieht das Gutachten 2026 eine Änderung der Staffel vor?
+
+→ **Zusammenhang mit dem KiFöG-Stichtag:** Eine Stadt, die seit 2022 rund 3,7 % ihrer
+Einwohner verloren hat, hat mit hoher Wahrscheinlichkeit auch **weniger Kinder als am
+01.03.2024**. Der eingefrorene Stichtag ist damit **ein Vorteil, den die Stadt verliert, wenn
+er fällt** — das verstärkt die Empfehlung, die Beitragserträge ab 01.01.2027 **ohne**
+Landesausgleich als Hauptszenario zu rechnen.
 
 → **Vier Fragen an das Gutachten (statt der drei vom 11.10.):** (1) **Was sieht das Modell für
 die kreisangehörigen Gemeinden vor?** (2) **Woher kommt die Gegenfinanzierung der Zugewinne?**
@@ -673,7 +688,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 17.10.2026)
+## Laufende lokale Vorgänge (Stand 18.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -688,7 +703,7 @@ Landkreis ist für Hettstedt berichtspflichtig.
   Ergebnishaushalt ab Fertigstellung, Zweckbindungsfrist des Bundesprogramms, Frage einer
   enthaltenen Landes-Kofinanzierung.
 - **Kunstrasenplatz FC Hettstedt**, Sportplatz Kirschweg — **Vorgang am Infrastruktur-Sondervermögen**. Stadtratssitzung **24.03.2026**; nach Lokalmedium im **nichtöffentlichen Teil mehrheitlich beschlossen**, einschließlich Nutzungsvertrag und Umsetzungsregelungen ⚠️. Projektvolumen **rund 1,1 Mio. €**, **Förderquote 50 %** (Fördermittel vom FC beantragt); ein Antrag der **CDU-BSH-Fraktion** sah vor, einen **Teil der Eigenmittel aus dem Infrastruktur-Sondervermögen** zu decken. Richtigstellung der Stadt zum MZ-Artikel vom 20.03.2026: Die Maßnahme ist im **Produkt Sportstätten als Zuwendung zu Investitionsfördermaßnahmen** eingeplant, die Bezugnahme auf „Erneuerung der Aschenbahn“ sei falsch. ⚠️ Der Text der städtischen Pressemitteilung ist in der Fundstelle lückenhaft. 📐 *Eigene Überschlagsrechnung:* bei 1,1 Mio. € und 50 % bleiben rund **550.000 € Eigenmittel**; welcher Anteil davon aus dem Sondervermögen kommen sollte, ist nicht belegt. **Offen:** Ist die Maßnahme im Kommunalarm angezeigt, ist sie in der Mittelanmeldung 2027 enthalten, und wie viel Pauschalbudget bindet sie?
-- **Investitionsstau** der städtischen Infrastruktur: **rund 21 Mio. €** — Angabe der Stadträtin **Dana Zimmer (FBM)** in der Ratsdebatte am 24.03.2026 ⚠️ Einzelfundstelle (Lokalmedium), keine Verwaltungszahl. 📐 *Eigene Überschlagsrechnung:* bei rund 14.000 Einwohnern etwa **1.500 € je Einwohner**. Durch die Verwaltung zu bestätigen oder zu korrigieren; gehört dann in den Vorbericht 2027, weil er die Folgekostenfrage jedes neuen Vorhabens trägt.
+- **Investitionsstau** der städtischen Infrastruktur: **rund 21 Mio. €** — Angabe der Stadträtin **Dana Zimmer (FBM)** in der Ratsdebatte am 24.03.2026 ⚠️ Einzelfundstelle (Lokalmedium), keine Verwaltungszahl. 📐 *Eigene Überschlagsrechnung, korrigiert am 18.10.2026:* bei rund **12.700** Einwohnern etwa **1.650 € je Einwohner** (früher 1.500 € bei angenommenen 14.000). Durch die Verwaltung zu bestätigen oder zu korrigieren; gehört dann in den Vorbericht 2027, weil er die Folgekostenfrage jedes neuen Vorhabens trägt.
 - **Haupt-, Wirtschafts- und Vergabeausschuss (HWV)** — als Ausschuss des Stadtrates belegt; Beschlussprotokolle veröffentlicht die Stadt als PDF (Beispiel: 28.01.2026, Spenden und Befreiungen von Bebauungsplänen). Relevant für die Prüfung der Spiegelbildlichkeit der Ausschussbesetzung.
 - **Sperrungen Oktober 2026 (Stand 11.10.2026).** Festsperrungen zu **Oktoberfest 16.10.** und **Kupferfest 17.–18.10.** ⚠️: **Lutherstraße/Lutherparkplatz 12.10. 06:00 – 20.10. 12:00**; **Kleiner Markt 14.10. 06:00 – 19.10. 18:00**; **Großer Markt 16.10. 06:00 – 19.10. 12:00** (Vollsperrung). Unabhängig davon: **Untere Bahnhofstraße, Hausnr. 26 bis Apollo-Kreuzung, Vollsperrung** — **Stadt: 29.09.–18.12.2026**, **Landkreis: ab 21.09.2026, Ende voraussichtlich Dezember** ⚠️ **Widerspruch zweier amtlicher Quellen beim Startdatum**; mit dem Baustellenservice des Landkreises abgleichen, weil die Stadt die Bürgerfragen beantwortet. 📐 *Eigene Einordnung:* Vom **16. bis 19.10.** sind Großer Markt, Kleiner Markt und Lutherparkplatz **gleichzeitig** gesperrt, während die Untere Bahnhofstraße ohnehin bis Dezember voll gesperrt ist — die Umleitungsführung ist gegen die laufende Baustelle zu prüfen, nicht gegen den Normalzustand.
 - **Grundstücksverkauf Kirschberg 1a** — Ausschreibung der Stadt mit **Frist 20.12.2026** ⚠️ (Ausschreibungsseite der Stadt; die Liste enthält auch ältere Vergaben, Eintrag am eigenen Bestand verifizieren). **Haushaltsrelevanz:** Zuordnung des Erlöses zum richtigen Haushaltsjahr; Veräußerungserlöse sind gegenüber der Kommunalaufsicht erklärungsbedürftig (Vermögensverzehr versus Konsolidierungsbeitrag).
@@ -734,7 +749,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 17.10.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 18.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -746,6 +761,8 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Nimmt die **Kostenbeitragssatzung Kita** auf die KiFöG-Geschwisterregelung Bezug? | **Fundstellen jetzt belegt (09.10.2026):** geltende **Kostenbeitragssatzung für die Benutzung der Kindertageseinrichtungen und die Inanspruchnahme von Tagespflege**, beschlossen am **19.12.2017**, **Beschluss-Nr. SRT-1150/2017**, in Kraft **01.01.2018** (Amtliches Mitteilungsblatt Januar 2018). Die Stadt **beabsichtigt eine Neufassung** für die **Kindertagespflege** — Mitteilung vom **19.03.2026** mit Richtigstellung zu MZ-Artikeln vom 19.02. und 14.03.2026; ein **Beschluss ist nicht belegt**. Zwei mögliche Lagen: **A** Satzung nimmt Bezug → **Satzungswiderspruch** zum 01.01.2027, Änderung vorher nötig; **B** kein Bezug, Ermäßigung unmittelbar nach Landesrecht gewährt → ab 01.01.2027 gelten **automatisch die vollen Satzungsbeiträge**, Kommunikations- und Ertragsthema im Wirtschaftsplan des Eigenbetriebs. Die Neufassung betrifft nach ihrem Wortlaut die **Tagespflege**; ob sie den **Einrichtungsteil** mit erfasst, ist nicht belegt — das ist der größere Posten. Szenarien zweistufig (Eigenbetrieb und Haushalt) rechnen |
 | Entspricht die **elektronische Bekanntmachung** seit dem 09.07.2024 der Bekanntmachungssatzung? | Risiko unwirksamer Satzungen |
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
+| **Einwohnerzahl in laufenden Vorlagen und Anträgen prüfen** | Amtlicher Stand **12.626** (31.12.2025) bzw. **12.783** (31.03.2026) — nicht 14.000. Drei Stellen mit Folgen: **Förderanträge** mit einwohnerbezogenen Angaben (insbesondere Städtebauförderung, Frist 30.11.), **Vorbericht 2027**, **Haushaltskonsolidierungskonzept bis 2034** — eine um 10 % zu hohe Einwohnerzahl unterschätzt die Pro-Kopf-Lasten. Grundlage: Tabellen zum Bevölkerungsstand des StaLa, **immer mit Stichtag**. |
+| **Hauptansatzstaffel des FAG: Wo liegt die nächste Einwohnerschwelle?** | Staffeln verlieren **sprunghaft**, nicht proportional. 📐 Bei grob 160 Einwohnern Rückgang pro Jahr ist eine Schwelle bei 12.500 ein bis zwei Jahre entfernt ⚠️ (Existenz nicht belegt). Nachzulesen im FAG; zweite Teilfrage an das Gutachten 2026. Stelle: Kämmerei. |
 | **Haushaltsvorbehalt in mehrjährige Zusagen der Stadt aufnehmen** | Der Landkreis sichert der **Kreisvolkshochschule** für **2027 bis 2030 je 250.000 €** zu — ausdrücklich unter dem Vorbehalt **bestätigter Haushalte durch Landtag und Kreistag** ⚠️. 📐 *Eigene Einordnung:* Als **Umlageargument taugt das nicht** — 250.000 € sind gegen 52,4 Mio. € Defizit rund **0,5 %**, das scheitert an der Größenordnung (wie beim Rettungswachenprogramm, 25.09.). **Brauchbar ist die Mechanik:** Alle mehrjährigen Zusagen der Stadt für 2027 ff. (Vereinsförderung, Zuschüsse, Nutzungsverträge) sollten den **Vorbehalt eines bestätigten Haushalts** ausdrücklich enthalten — bei einem Haushaltsvorgriff ab 01.01.2027 die saubere Grundlage. Stellen: Kämmerei mit Rechtsamt; Musterformulierungen in Zuwendungsbescheiden und Verträgen prüfen. |
 | **Berichte zur Haushaltssperre des Landkreises anfordern** | Die Kommunalaufsicht erwartet regelmäßige Berichte zum Umsetzungsstand ⚠️. Sie zeigen, ob der Kreis seine eigenen Konsolidierungsmöglichkeiten ausgeschöpft hat, **bevor** er die Umlage ausschöpft — genau der Punkt, an dem die Festsetzungen 2017, 2018 und 2020 gerichtlich gescheitert sind. Wege: Landkreis oder Landesverwaltungsamt. Frist: vor der Beschlussfassung über den Kreishaushalt 2027. |
 | **SGB-II-Bedarfsgemeinschaften und -Quote** für das Stadtgebiet bereitlegen | Das Gutachten 2023 empfahl einen **Soziallastenansatz nach SGB-II-Bedarfsgemeinschaften**, das Gutachten 2026 weist Zugewinne **Landkreisen mit hohen SGB-II-Quoten** zu ⚠️. Wenn Soziallasten das Verteilungsmerkmal sind, entscheidet die eigene Datenlage. Quellen: Jobcenter, Statistik der Bundesagentur für Arbeit. ⚠️ Ob Soziallasten auf **Gemeindeebene** berücksichtigt werden, ist offen. |
@@ -791,6 +808,10 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | offen | **GRW-Infrastrukturförderung (IB)** | Landesregelungen in Überarbeitung; Veröffentlichung abwarten, Vorhaben vorher abstimmen |
 | **10.03.–14.04.** | REVIERPIONIER (Richtwert nach 2026) | nicht die Stadt, sondern Vereine, Schulen, Kitas; Ansprache im Februar |
 | unbelegt | Ausgleichsstock (Volumen 2026: **40,9 Mio. €** für Bedarfszuweisungen **und** zinslose rückzahlbare Liquiditätshilfen aller Kommunen des Landes) | feste Antragsfrist ließ sich nicht belegen — beim MF erfragen. **Präzedenz 2024:** „FAG-Ausgleichszahlung 2024“ — kreisangehörige Gemeinden mit Einzahlungsverlusten durch das neue FAG konnten im vereinfachten Verfahren bis **30.09.2024** zusätzliche Bedarfszuweisungen aus dem Ausgleichsstock beantragen (**Altvorgang, kein laufendes Programm**) — das Argumentationsmuster, falls der FAG 2027 Verluste bringt. 📐 *Eigene Überschlagsrechnung:* Die Bedarfszuweisung für Hettstedt (10.119.796,00 €) entspricht grob **einem Viertel** des Jahresvolumens — mit einer zweiten Zuweisung dieser Größenordnung ist nicht zu rechnen, die Konsolidierungsauflagen sind der Preis dieser einen. |
+| **keine Landesfrist** | **LEADER 2023–2027** | ✅ **Teilantwort am 18.10.2026:** Für die Einreichung bei der **Bewilligungsbehörde** gibt es **keine festen Termine**; **die lokalen Aktionsgruppen setzen ihre Termine selbst** ⚠️. **Folge: Ohne Kontakt zur LAG Mansfeld-Südharz (03475/612387) ist die Frist nicht ermittelbar** — der Anruf ist Pflicht, nicht Bequemlichkeit. Drei Fragen: Ende des laufenden Aufrufs, Förderfähigkeit von Feuerwehrinfrastruktur, nächster Aufruf |
+| **01.10.** (Vorjahr) | **Kulturförderrichtlinie Sachsen-Anhalt** | Anträge für das kommende Haushaltsjahr **bis 1. Oktober** bei der IB; europäischer und internationaler Kulturaustausch **laufend** ⚠️. Für 2027 **abgelaufen**; für 2028: **01.10.2027** |
+| **30.06.2027** | **Sachsen-Anhalt ENERGIE (MWU)** | Anträge **bis 30.06.2027** möglich ⚠️ — **eine offene Frist mit Laufzeit**. Für eine Stadt mit Konsolidierungsauflage ist Energieeinsparung die Investitionsart, die sich im Ergebnishaushalt selbst rechtfertigt. 📐 Die Datenerhebung (Gebäude mit höchstem Verbrauch) **deckt sich mit der Vorarbeit zur Wärmeplanung** |
+| **19.04.** (Vorjahr) ⚠️ | **Bildungsinfrastruktur aus dem Sondervermögen** | Projektanmeldung der **ersten Stufe** war **19.04.2026**, zweistufiges Verfahren — abgelaufen; Anmeldefrist der nächsten Runde erfragen |
 | unbelegt | LEADER-Projektaufruf LAG MSH | Aufruf seit 01.07.2026 ⚠️; Einreichungsfrist beim LEADER-Management erfragen |
 
 ## Feste Anlaufstellen
