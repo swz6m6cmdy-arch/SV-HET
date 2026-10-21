@@ -156,7 +156,7 @@ Branchen dafür in Frage kommen. Standortvorteile: Nähe zum KME-Werk, Anschluss
 Versorgungskonzept, H2HET untersucht genau eine solche lokale Quelle. Ob der Zusammenhang bereits
 hergestellt wurde, ist aus den Quellen nicht ersichtlich.
 
-**Sachsen-Anhalt REVIER 2038 (IB)** — die Förderschiene für die Gebietskulisse. **Fördersatz 90 %**,
+**Sachsen-Anhalt REVIER 2038 (IB)** — die Förderschiene für die Gebietskulisse. ⚠️ **Fördersatz seit 21.10.2026 streitig — 90 % belegt für 2020/2021, für 2022–2026 nennt die IB die Übernahme der Hälfte des kommunalen Eigenanteils; die Richtlinie tritt zum 31.12.2026 außer Kraft.** Bisherige Angabe **90 %**,
 **Kommunen primär antragsberechtigt** (auch kreisangehörige Städte). **Projektanmeldung bei der IB
 muss der Antragstellung vorausgehen.** ⚠️ Angabe zur hälftigen Übernahme des kommunalen
 Eigenanteils durch das Land bezieht sich auf 2022; aktuellen Stand erfragen. Ob Kommunalarm-Mittel
@@ -581,6 +581,8 @@ Konsolidierungsauflage, die auf Ausgabendisziplin zielt, adressiert damit nicht 
 
 Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
 
+- ⚠️ **Historische Umlagesätze, gefunden am 21.10.2026, nicht zuordenbar:** Eine Kleine Anfrage der **6. Wahlperiode** nennt für Mansfeld-Südharz **48,410 v. H.** und **42,850 v. H.** — **die Jahreszuordnung ist aus der Fundstelle nicht erkennbar.** **Es wird daraus bewusst keine Entwicklungslinie gerechnet**; mit dem heutigen Satz von 40 % ließe sich leicht eine fallende Reihe konstruieren, die nicht belegt wäre. **Belastbar wäre eine Zeitreihe der Umlagesätze seit 2010 aus den Haushaltssatzungen des Kreises** — anfordern und in die Argumentation zur Festsetzung 2027 aufnehmen.
+
 - **Kreisumlage 2026: 40 %.** Der Landkreis schöpft den rechtlich möglichen Spielraum
   stärker aus, um seine Einnahmesituation zu stabilisieren.
 - Der **Kreishaushalt 2026 wurde erst im zweiten Anlauf** vom Landesverwaltungsamt
@@ -624,7 +626,7 @@ Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
   **Lutherstadt Eisleben, Sangerhausen, Hettstedt und Wallhausen** klagten erfolgreich, die
   Sätze waren **zu ihren Lasten zu hoch** festgesetzt.
   Im **April 2024** wurde beschlossen, durch rückwirkende Senkung der Umlagesätze für
-  **2017–2023 rund 39 Mio. €** an die Städte und Gemeinden zurückzuzahlen. ⚠️ **Eine Fundstelle nennt „rund 40 Mio. €“ — mutmaßlich dieselbe Größe, nicht bewiesen.** ⚠️ **Unbelegt und nicht zu zitieren** ist das in derselben Fundstelle genannte Kriterium, der Kreis müsse die Umlage so weit senken, dass „höchstens ein Viertel der Gemeinden dauerhaft unterfinanziert“ sei; es kommt in keiner Verfahrensquelle vor. **Ob ein solcher Maßstab in den Urteilsgründen des VG Halle steht, ist aus den eigenen Akten zu klären** — träfe er zu, wäre er für die Abwägung 2027 von erheblichem Gewicht.
+  **2017–2023 rund 39 Mio. €** an die Städte und Gemeinden zurückzuzahlen. ⚠️ **Eine Fundstelle nennt „rund 40 Mio. €“ — mutmaßlich dieselbe Größe, nicht bewiesen.** ⚠️ **Mehrfach berichtet, weiterhin ohne Nachweis, und nicht zu zitieren** ist das Kriterium, der Kreis müsse die Umlage so weit senken, dass „höchstens ein Viertel der kreisangehörigen Gemeinden **durch die Zahlung** dauerhaft unterfinanziert“ sei: Am 21.10.2026 ist es in einer **zweiten, unabhängigen** Recherche erneut aufgetaucht — beide Fundstellen **ohne Datum und ohne Primärquelle**, in Verfahrensquellen kommt es nicht vor. 📐 *Eigene Einschätzung:* Zwei unabhängige Quellen mit demselben sehr spezifischen Maßstab sprechen dafür, dass er **irgendwo tatsächlich steht** — in den Urteilsgründen, in einer OVG-Entscheidung **oder in der Beschwerdeschrift der Landkreise nach Karlsruhe**. **Welche der drei es ist, entscheidet über die Verwendbarkeit:** Ein Maßstab aus einer Beschwerdeschrift ist das Gegenteil eines Maßstabs aus einem Urteil. **Ob ein solcher Maßstab in den Urteilsgründen des VG Halle steht, ist aus den eigenen Akten zu klären** — träfe er zu, wäre er für die Abwägung 2027 von erheblichem Gewicht.
   ⚠️ **Landesweite Größenordnung, ältere Angabe des Landkreistages:** **46 Verfahren** von Städten und Gemeinden gegen Kreisumlagen, **Streitwert 114 Mio. €**. 📐 *Eigene Einordnung:* Das erklärt die Verfassungsbeschwerde in Karlsruhe besser als jede Pressemitteilung — **der Streit ist ein Systemkonflikt, nicht der Konflikt eines Kreises mit seinen Städten.**
   ⚠️ **OVG Magdeburg, Dezember 2023:** Nach einer späteren Meldung hat das OVG entschieden, dass der Kreis **über Jahre** zu viel erhoben hat; **Datum und Aktenzeichen unbelegt**, Verhältnis zum hier geführten OVG-Beschluss vom 26.05. **offen**.
   → **Damit ist die Argumentationslinie dieses Briefings belegt:** Angriffspunkt ist die
@@ -695,7 +697,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 20.10.2026)
+## Laufende lokale Vorgänge (Stand 21.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -716,6 +718,16 @@ Landkreis ist für Hettstedt berichtspflichtig.
 - **Grundstücksverkauf Kirschberg 1a** — Ausschreibung der Stadt mit **Frist 20.12.2026** ⚠️ (Ausschreibungsseite der Stadt; die Liste enthält auch ältere Vergaben, Eintrag am eigenen Bestand verifizieren). **Haushaltsrelevanz:** Zuordnung des Erlöses zum richtigen Haushaltsjahr; Veräußerungserlöse sind gegenüber der Kommunalaufsicht erklärungsbedürftig (Vermögensverzehr versus Konsolidierungsbeitrag).
 - **Kostenbeiträge Kindertagespflege** — Anpassung; Klarstellungen der Stadt zu Artikeln
   vom 19.02. und 14.03.2026.
+
+## Stadtwerke Hettstedt und Trinkwasserversorgung (neu aufgenommen am 21.10.2026)
+
+**Bis heute fehlte in diesem Recherchekontext ein kommunales Unternehmen mit Tarifhoheit — das war eine Lücke, nicht eine Entscheidung.**
+
+✅ **Belegt (Preisblatt der Stadtwerke Hettstedt):** Arbeitspreis Trinkwasser **2,31 €/m³ netto, 2,47 €/m³ brutto, gültig ab 01.08.2026**, zusätzlich **monatlicher Grundpreis** für den Hausanschluss; ein früheres Preisblatt galt **bis 31.07.2026**. **Es hat also zum 01.08.2026 eine Preisanpassung gegeben.** Eigene Preisblätter bestehen für Privat- und Gewerbekunden.
+
+⚠️ **Nicht belegt:** Eine Pressemeldung vom **19.08.2026** soll berichten, Hettstedt habe „plötzlich das teuerste Trinkwasser der Region“, das Thema sei im Stadtrat zu behandeln. **Die Gegenprüfung trägt den Vergleich nicht:** Ein Preisvergleich über 22 Städte nennt eine Spanne von **1,29 bis 2,88 €/m³**; der Hettstedter Bruttoarbeitspreis liegt darin, und **ohne Einbeziehung der Grundpreise ist kein Rang ermittelbar**.
+
+→ **Drei stehende Prüfpunkte:** (1) **Vergleichsrechnung für einen Referenzhaushalt** (z. B. 80 m³/Jahr) **einschließlich Grundpreis** gegen drei bis fünf Nachbarversorger — der einzige Vergleich, der in einer Sitzung trägt. (2) **Prüfungszuständigkeit:** § 137 KVG LSA erfasst **Zweckverbände**; die Versorgung läuft hier über ein **kommunales Unternehmen**, für das andere Regeln gelten — zu klären. (3) **Beteiligungssteuerung:** Gewinnabführung, Querverbund, Konzessionsabgabe und Investitionsbedarf berühren den städtischen Haushalt unmittelbar und gehören in den Beteiligungsbericht.
 
 ## Verwaltungsorganisation — belegte Zuständigkeiten
 
@@ -759,7 +771,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 20.10.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 21.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -798,6 +810,8 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
+| **Außerkrafttretensdaten aller tragenden Förderrichtlinien aus dem Normtext prüfen** | Der Befund zu REVIER 2038 (Außerkrafttreten **31.12.2026**, belegt erst aus dem Schlusssatz der Richtlinie) zeigt: **„laufend“ ist in einer Fristenübersicht keine Angabe, sondern das Fehlen einer Angabe.** Zu prüfen sind mindestens **Kommunalarm, Gigabit-Richtlinie, LEADER und Ausgleichsstock** — je Programm das Datum des Außerkrafttretens und die Verlängerungsfrage, beides aus dem Normtext, nicht aus einer Übersicht |
+| **Welcher Fördersatz gilt bei REVIER 2038 heute?** | ⚠️ Widerspruch: **bis zu 90 %** (Förderverzeichnis, Eigenanteilsübernahme ausdrücklich für **2020/2021**) gegen **Übernahme der Hälfte des kommunalen Eigenanteils** (IB, Laufzeit **2022–2026**). Die Differenz verändert jede Eigenanteilsrechnung der Stadt. **Schriftliche Auskunft der IB oder des Landesverwaltungsamtes einholen und zu den Akten nehmen** |
 | **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
 ## Wiederkehrende Antragsfristen
@@ -819,7 +833,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | **30.06. (Vorjahr)** | **Mittelanmeldung Kommunalarm** nach **§ 10 Abs. 2 Infra-SVG** | erstmals für das Haushaltsjahr **2027**, Frist war **30.06.2026** — **verstrichen**; für 2026 war keine Anmeldung vorgesehen. Stand bei der IB klären |
 | **31.01.** | **Jährliche Berichtspflicht** nach **§ 10 Abs. 1 Infra-SVG** | erstmals zum **Stichtag 01.01.2027**, Einreichung **31.01.2027** ⚠️ |
 | keine | Kommunalarm Sondervermögen Infrastruktur — Vorhabenanzeige | laufende Projektanzeige, keine Jahresfrist. **Mindestinvestitionsvolumen 50.000 €**, frühester Maßnahmenbeginn **01.01.2025**, Anzeige über das IB-Portal seit **02.01.2026**; eine **vollständige Anzeige gilt als bewilligt**. Änderungen erst nach Vollständigkeitsbestätigung erfassbar; bei grundlegender Änderung (anderes Objekt, anderer Förderbereich) **zurückziehen und neu anmelden**; Änderungen müssen **im pauschalen Kommunalbudget** bleiben, das die IB überwacht. ⚠️ Die IB-FAQ nennt widersprüchlich eine Anmeldefrist 31.01.2026 und „keine Frist außer 31.12.2036“ und gibt teils Entwurfsstände 2025 wieder — maßgeblich sind das beschlossene Infra-SVG und telefonische Auskünfte der IB |
-| laufend, ⚠️ **möglicherweise nur bis Ende 2026** | **REVIER 2038 (IB)** | 90 % Fördersatz; **Projektanmeldung vor Antragstellung**; kein Maßnahmenbeginn vor Bewilligung. ⚠️ **Neu am 20.10.2026, Aggregatorquelle mit Stand Mai 2026:** Programm „offen“, **„Förderung läuft bis Ende 2026“**, Budget bis **1,68 Mrd. €**, Gebietskörperschaften im Mitteldeutschen Revier **einschließlich Mansfeld-Südharz**; das IB-Merkblatt hat Stand **16.01.2024**. **Dringend bei der IB klären:** (1) bis wann Projektanmeldung und Antrag möglich sind, (2) ob ein Stichtag 31.12.2026 gilt und wofür genau — Anmeldung, Antrag oder Bewilligung, (3) ob es eine Nachfolgeregelung gibt. **90 % ist der höchste Fördersatz, der der Stadt offensteht** |
+| ✅ **Außerkrafttreten 31.12.2026** | **REVIER 2038 (IB)** | ✅ **Belegt am 21.10.2026 aus dem Normtext** (nichtamtliche Fassung MBl. LSA Nr. 1/2022 vom 10.01.2022): „Dieser RdErl. tritt mit Wirkung vom 1. Januar 2022 in Kraft und **mit Ablauf des 31. Dezember 2026 außer Kraft**.“ Die IB nennt dieselbe Befristung als **Richtlinienlaufzeit 2022–2026**. ⚠️ **Ob verlängert oder neu gefasst wurde, ist nicht belegt — die entscheidende Frage.** Weiter belegt: Vorhaben bis **31.12.2038 abgeschlossen**, grundsätzlich bis **31.12.2040 abgerechnet** (Nr. 6.2); Mittel **1,544 Mrd. €** längstens bis 2038; **neue Bewilligungen nur, soweit im jeweiligen Regionalbudget noch Mittel vorhanden sind**; antragsberechtigt Gemeinden, Verbandsgemeinden und Landkreise der Revierkulisse; **Mindestfördersumme 25.000 €** (niedriger als Kommunalarm und Sondervermögen Digitalisierung mit je 50.000 €). **Präzedenz:** Es gab einen **Antragsstopp vom 24.12.2022**, aufgehoben erst mit der überarbeiteten Richtlinie **ab 25.07.2023** — ein Stopp kommt ohne Vorwarnung. ⚠️ **Fördersatz widersprüchlich und damit korrigiert:** Ein Förderverzeichnis nennt **bis zu 90 %** mit dem Zusatz, das Land übernehme **2020 und 2021** den Eigenanteil; die IB nennt für die Laufzeit **2022–2026** die Übernahme der **Hälfte des kommunalen Eigenanteils**. **Die bisher hier geführten „90 %“ sind für die laufende Laufzeit nicht gesichert; vor jeder Vorlage den geltenden Fördersatz schriftlich erfragen** |
 | offen | **GRW-Infrastrukturförderung (IB)** | Landesregelungen in Überarbeitung; Veröffentlichung abwarten, Vorhaben vorher abstimmen |
 | **10.03.–14.04.** | REVIERPIONIER (Richtwert nach 2026) | nicht die Stadt, sondern Vereine, Schulen, Kitas; Ansprache im Februar |
 | unbelegt | Ausgleichsstock (Volumen 2026: **40,9 Mio. €** für Bedarfszuweisungen **und** zinslose rückzahlbare Liquiditätshilfen aller Kommunen des Landes) | feste Antragsfrist ließ sich nicht belegen — beim MF erfragen. **Präzedenz 2024:** „FAG-Ausgleichszahlung 2024“ — kreisangehörige Gemeinden mit Einzahlungsverlusten durch das neue FAG konnten im vereinfachten Verfahren bis **30.09.2024** zusätzliche Bedarfszuweisungen aus dem Ausgleichsstock beantragen (**Altvorgang, kein laufendes Programm**) — das Argumentationsmuster, falls der FAG 2027 Verluste bringt. 📐 *Eigene Überschlagsrechnung:* Die Bedarfszuweisung für Hettstedt (10.119.796,00 €) entspricht grob **einem Viertel** des Jahresvolumens — mit einer zweiten Zuweisung dieser Größenordnung ist nicht zu rechnen, die Konsolidierungsauflagen sind der Preis dieser einen. |
