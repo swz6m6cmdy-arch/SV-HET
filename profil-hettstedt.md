@@ -255,7 +255,7 @@ Für Hettstedt sind **zwei saubere Konnexitätsfälle** dokumentierbar:
 | Fall | Auftrag des Landes | Ausgleich |
 |---|---|---|
 | **Kommunale Wärmeplanung** | Pflicht bis **30.06.2028** (Bundesrecht) | finanzieller Ausgleich u. a. nach Einwohnerzahl; **12,66 Mio. €** landesweit vorgesehen ⚠️ (präziser als die früher geführten „rund 12 Mio. €“). 📐 *Eigene Überschlagsrechnung:* für Hettstedt grob **74.000 €** (korrigiert am 18.10.2026) — Größenordnung, keine Zusage; Betrag beim MWU oder über LENA erfragen. Unterstützung bei Anträgen durch **LENA** |
-| **KiFöG** | Betreuungs- und Beitragssystematik | Geschwisterregelung und Ausgleichszahlungen (bis **10,7 Mio. €/Jahr** an die Gemeinden) laufen zum **31.12.2026** aus |
+| **KiFöG** | Betreuungs- und Beitragssystematik | ✅ **Rechtsgrundlage belegt am 24.10.2026: § 13 Abs. 4 Satz 2 KiFöG**, befristet bis **31.12.2026**. Geschwisterregelung und Ausgleichszahlungen (bis **10,7 Mio. €/Jahr** an die Gemeinden) laufen damit aus. ✅ **Korrektur: Es liegen Gesetzentwürfe vor** — die Aussage dieses Kontextes „kein Entwurf auffindbar“ (21.–23.10.) war falsch; siehe eigener Abschnitt unten |
 
 → **Arbeitsauftrag:** Bei beiden Vorgängen die **Differenz zwischen aufgetragener Aufgabe und
 gewährtem Ausgleich** dokumentieren — bei der Wärmeplanung nach der Vergabe, beim KiFöG in den
@@ -535,7 +535,7 @@ Halbjahr 2027**, möglicherweise gar nicht; **Haushaltsvorgriff über das ganze 
 Planungsannahme. **Der dritte Pfad fehlt in den meisten Vorberichten und hat die größten
 Folgen.**
 
-⚠️ **Beobachtungspunkt, aufgenommen am 23.10.2026 — Newsletter-Anriss der Volksstimme vom 20.10.2026, Volltext nicht zugänglich:** Das **BSW** befinde sich „zwischen Gesprächen mit der AfD und Abgrenzung“; außerdem greife **Marco Tullner** Ministerpräsident **Sven Schulze** an. **Gesprächsgegenstand, Teilnehmer und Verbindlichkeit sind unbekannt**, der belegte Stand bleibt **Enthaltung des BSW**. → **Warum es trotzdem hier steht:** Es ist die einzige Angabe, die die Arithmetik dieses Kontextes aushängen würde. 📐 *Eigene Rechnung:* **AfD 39 + BSW 5 = 44 ≥ 42** — bei einem Wechsel des BSW von der Enthaltung zur Zustimmung wäre Siegmund **im ersten Wahlgang** gewählt, und der Auszugsbeschluss der CDU-Fraktion wäre arithmetisch bedeutungslos, weil die Schwelle in den Wahlgängen eins und zwei anwesenheitsunabhängig ist. **Für den Vorbericht 2027 ist deshalb nicht das Abstimmungsverhalten der CDU der Beobachtungspunkt, sondern das des BSW.**
+✅ **Am 24.10.2026 weitgehend entwarnt.** Eine **dpa-Meldung vom 16.10.2026** (mehrfach übernommen) belegt: Die **BSW-Spitze** hat in einem **Leitantrag für den Bundesparteitag Ende November in Dresden** festgehalten, **weder einen Ministerpräsidenten der CDU noch Ulrich Siegmund (AfD)** zu unterstützen; **ein Parteisprecher hat ausdrücklich bestätigt, dass es bei der Enthaltung bleibt**. ⚠️ **Sorgfältig bleibt:** Die stärkere Quelle ist die **ältere** — eine Meldung vom 16.10. schließt Gespräche danach nicht aus. **Der Punkt bleibt Beobachtung, nicht Warnung.** ⚠️ **Zwei Parteitage entscheiden über die Arithmetik, bevor gewählt wird:** **BSW-Bundesparteitag Ende November in Dresden** (⚠️ Datum unbelegt, eine Fundstelle nennt stattdessen **Dezember** mit Abstimmung über einen neuen Parteinamen) und **CDU-Landesparteitag am 05.12.2026**. ⚠️ Mehrere Fundstellen weisen darauf hin, dass eine **Enthaltung im dritten Wahlgang wie eine Unterstützung wirkt**, weil dort die Mehrheit der abgegebenen Stimmen genügt — das deckt sich mit der eigenen Rechnung vom 19.10. — **Vorgeschichte:** Ein Newsletter-Anriss der Volksstimme vom 20.10.2026, Volltext nicht zugänglich, hatte das **BSW** „zwischen Gesprächen mit der AfD und Abgrenzung“ verortet; außerdem greife **Marco Tullner** Ministerpräsident **Sven Schulze** an. **Gesprächsgegenstand, Teilnehmer und Verbindlichkeit sind unbekannt**, der belegte Stand bleibt **Enthaltung des BSW**. → **Warum es trotzdem hier steht:** Es ist die einzige Angabe, die die Arithmetik dieses Kontextes aushängen würde. 📐 *Eigene Rechnung:* **AfD 39 + BSW 5 = 44 ≥ 42** — bei einem Wechsel des BSW von der Enthaltung zur Zustimmung wäre Siegmund **im ersten Wahlgang** gewählt, und der Auszugsbeschluss der CDU-Fraktion wäre arithmetisch bedeutungslos, weil die Schwelle in den Wahlgängen eins und zwei anwesenheitsunabhängig ist. **Für den Vorbericht 2027 ist deshalb nicht das Abstimmungsverhalten der CDU der Beobachtungspunkt, sondern das des BSW.**
 
 📐 **Die Arithmetik, die für den Haushalt 2027 zählt:** AfD **39** + BSW **5** = **44** von 83;
 absolute Mehrheit **42**, für ein einfaches Gesetz genügt die Mehrheit der abgegebenen Stimmen.
@@ -701,7 +701,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 23.10.2026)
+## Laufende lokale Vorgänge (Stand 24.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -722,6 +722,25 @@ Landkreis ist für Hettstedt berichtspflichtig.
 - **Grundstücksverkauf Kirschberg 1a** — Ausschreibung der Stadt mit **Frist 20.12.2026** ⚠️ (Ausschreibungsseite der Stadt; die Liste enthält auch ältere Vergaben, Eintrag am eigenen Bestand verifizieren). **Haushaltsrelevanz:** Zuordnung des Erlöses zum richtigen Haushaltsjahr; Veräußerungserlöse sind gegenüber der Kommunalaufsicht erklärungsbedürftig (Vermögensverzehr versus Konsolidierungsbeitrag).
 - **Kostenbeiträge Kindertagespflege** — Anpassung; Klarstellungen der Stadt zu Artikeln
   vom 19.02. und 14.03.2026.
+
+## KiFöG-Nachfolge: Gesetzgebungslage (neu aufgenommen am 24.10.2026)
+
+✅ **Korrektur einer eigenen Aussage.** Dieser Kontext und die Ausgaben vom 21. bis 23.10. haben behauptet, zur Nachfolge der auslaufenden Regelung sei „kein Gesetzentwurf, kein Referentenentwurf und keine Anhörung auffindbar“. **Das war falsch.** Ursache war die Begriffswahl: Gesucht wurde nach „KiFöG-Novelle“ und „Gesetzentwurf KiFöG 2027“; gefunden wurde erst über **„Geschwisterkindregelung“** und **„Geschwisterbonus“**. **Methodenregel: bei kommunalpolitischen Themen zusätzlich mit dem umgangssprachlichen Begriff suchen, nicht nur mit dem systematischen.**
+
+**Belegter Stand (Pressequellen vom 15./16.10.2026, Drucksachennummern nicht ermittelt ⚠️):**
+
+| Fraktion | Position |
+|---|---|
+| **Die Linke** | Verlängerung **bis Ende 2031**; zusätzlich **Absicherung der Landeszahlungen an die Kommunen** und **jährliche Anpassung an die Personalkostenentwicklung** |
+| **SPD** | Verlängerung um **ein Jahr bis Ende 2027** |
+| **CDU** | unterstützt ⚠️ ebenfalls **ein Jahr** |
+| **AfD** | **eigene Initiative für das Novemberplenum** angekündigt |
+
+**SPD und Linke haben eingebracht** ⚠️; das Thema steht **im Novemberplenum** auf der Tagesordnung. Ohne Änderung zahlen Familien **ab Januar wieder für jedes betreute Kind**; ⚠️ **bis zu 60.000 Kinder** haben seit **2019** profitiert (kumulierte Angabe, **keine Pro-Kopf-Rechnung darauf**).
+
+📐 **Eigene Rechnung, keine Prognose:** Vier Fraktionen wollen verlängern — **AfD 39 + CDU 15 + SPD 8 + Linke 8 = 70 von 83**. **Eine Mehrheit für *irgendeine* Verlängerung ist arithmetisch leicht erreichbar; der Streit ist die Dauer, nicht das Ob.** ⚠️ **Trotzdem keine Umstellung der Planungsannahme:** Es gibt keinen Beschluss, die Mehrheitsbildung in diesem Landtag ist unerprobt — und 📐 **ein Gesetzentwurf wird im Regelfall im Ausschuss beraten, die Ausschüsse sind aber nicht eingesetzt.** Werden sie erst am **18./19.11.** eingesetzt, bleibt für einen Beschluss realistisch nur die Sitzung **15.–17.12.** — zwei Wochen vor dem Auslaufen, in derselben Sitzung wie Ministerpräsidentenwahl und Haushaltsgesetz 2027.
+→ **Die Risikoart hat sich damit geändert:** nicht mehr vorrangig **ob** die Regelung ausläuft, sondern **wann** die Nachfolge kommt — möglicherweise zu spät für Satzung, Bescheide und Elternkommunikation.
+→ **Der für den städtischen Haushalt wichtigste Satz der ganzen Debatte** ist nicht die Dauer der Geschwisterregelung, sondern die Forderung der Linken, **die Landeszahlungen an die Kommunen abzusichern und zu dynamisieren**. **Über die Spitzenverbände unterstützen, unabhängig von der Herkunft des Antrags.**
 
 ## Amtsinhaber und Bürgermeisterwahl (neu aufgenommen am 22.10.2026)
 
@@ -793,7 +812,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 23.10.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 24.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -801,7 +820,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Werden **Stellplatzablösebeträge** vereinnahmt und zweckgerecht gebucht? | Bauordnungsnovelle, in Kraft seit 24.01.2026: Zweckbindung für öffentliche Parkflächen und Fahrradabstellanlagen |
 | Stand der offenen **rückzahlbaren Liquiditätshilfen** | Präzedenz Gerbstedt: Bedarfszuweisung zur Ablösung einer früheren Liquiditätshilfe |
 | Welche **TVergG-LSA-Fassung** liegt Vergabevermerken zugrunde? | Widersprüchliche Angaben zum Inkrafttreten der geänderten Fassung (01.11.2025 vs. 01.11.2026); Wertgrenzen sollen entfallen, Vereinfachungen bis Ende 2028 |
-| Szenarien **KiFöG ab 01.01.2027** | Geschwisterregelung und Ausgleichszahlungen von bis zu 10,7 Mio. €/Jahr an die Gemeinden sind bis 31.12.2026 befristet |
+| Szenarien **KiFöG ab 01.01.2027** | Rechtsgrundlage **§ 13 Abs. 4 Satz 2 KiFöG**, befristet bis **31.12.2026**. **Jetzt in zwei Varianten vorbereiten** — mit und ohne Verlängerung; 📐 kommt das Gesetz erst am 17.12., reichen zwei Wochen nur für eine **vorbereitete** Satzungsänderung. Außerdem: **eigene Betroffenenzahl** (Kinder unter der Geschwisterregelung in den städtischen Einrichtungen) und **Beitragsausfall ab Januar** beziffern — nicht mit der Presseangabe „bis zu 60.000 Kinder“ rechnen, die die **seit 2019** Begünstigten bezeichnet |
 | Nimmt die **Kostenbeitragssatzung Kita** auf die KiFöG-Geschwisterregelung Bezug? | **Fundstellen jetzt belegt (09.10.2026):** geltende **Kostenbeitragssatzung für die Benutzung der Kindertageseinrichtungen und die Inanspruchnahme von Tagespflege**, beschlossen am **19.12.2017**, **Beschluss-Nr. SRT-1150/2017**, in Kraft **01.01.2018** (Amtliches Mitteilungsblatt Januar 2018). Die Stadt **beabsichtigt eine Neufassung** für die **Kindertagespflege** — Mitteilung vom **19.03.2026** mit Richtigstellung zu MZ-Artikeln vom 19.02. und 14.03.2026; ein **Beschluss ist nicht belegt**. Zwei mögliche Lagen: **A** Satzung nimmt Bezug → **Satzungswiderspruch** zum 01.01.2027, Änderung vorher nötig; **B** kein Bezug, Ermäßigung unmittelbar nach Landesrecht gewährt → ab 01.01.2027 gelten **automatisch die vollen Satzungsbeiträge**, Kommunikations- und Ertragsthema im Wirtschaftsplan des Eigenbetriebs. Die Neufassung betrifft nach ihrem Wortlaut die **Tagespflege**; ob sie den **Einrichtungsteil** mit erfasst, ist nicht belegt — das ist der größere Posten. Szenarien zweistufig (Eigenbetrieb und Haushalt) rechnen |
 | Entspricht die **elektronische Bekanntmachung** seit dem 09.07.2024 der Bekanntmachungssatzung? | Risiko unwirksamer Satzungen |
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
@@ -838,6 +857,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | **Welche Artikel der Landesverfassung hat das Parlamentsreformgesetz vom 04.05.2026 geändert?** | ⚠️ Einzelfundstelle: betroffen sein soll u. a. die Festlegung des **Neuwahltermins**. Die Fristenkaskade des Art. 65 Verf LSA und die daraus abgeleitete Zeitachse bis Anfang Januar 2027 müssen **am geltenden Wortlaut** bestätigt werden. Aufwand etwa eine Stunde; betrifft die Planungsachse des Vorberichts 2027 |
 | **Amtsbeginn und Ende der Amtszeit des Bürgermeisters** | Stichwahl **09.11.2025**; Amtsbeginn daraus **nicht** ableitbar, Amtszeitdauer nach KVG LSA hier **nicht belegt** und daher nicht genannt. Aus Bekanntmachung und Gesetzestext belegen — relevant, weil mehrjährige Förder- und Zweckbindungen (REVIER 2038 bis 2038/2040) Amtszeiten überdauern |
 | **Amtsantrittsdatum des Bürgermeisters belegen und Bindungsdauern in Vorlagen ausweisen** | Amtszeit ✅ **sieben Jahre** (§ 96 KVG LSA), Amtsantritt ⚠️ unbelegt. 📐 Voraussichtliches Amtszeitende **etwa Ende 2032/Anfang 2033**. Die Zweckbindung bei REVIER 2038 reicht bis **2038/2040** und damit 📐 etwa **sechs bis acht Jahre** darüber hinaus. → **In jeder Vorlage mit Bindung über 2032 hinaus die Bindungsdauer ausdrücklich ausweisen** — ein Stadtrat, der eine Bindung bis 2040 beschließt, entscheidet über drei Amtszeiten hinaus |
+| **Elternkommunikation zur auslaufenden Geschwisterregelung** | 📐 *Eigene Einschätzung:* Familien erfahren von einer solchen Änderung normalerweise durch den Beitragsbescheid. Ist die Rechtslage erst am 17.12. geklärt, treffen Bescheide im **Januar** ein, ohne vorherige Information. → **Jetzt ein kurzer, sachlicher Hinweis: Landesregelung befristet, Landtag berät über Verlängerung, Stadt informiert bei Klarheit — ohne Zahlen, ohne Versprechen.** Verhindert den Eindruck, die Stadt habe eine Erhöhung beschlossen, die in Wahrheit eine auslaufende Landesregelung ist |
 | **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
 ## Wiederkehrende Antragsfristen
