@@ -292,6 +292,13 @@ abweichen. ⚠️ Widerspruch in der Quellenlage: Eine MF-Seite nennt die gelten
 „gültig ab 01.01.2025 (GVBl. LSA S. 374)“, ein dort hinterlegtes FAG-Dokument
 „neugefasst 20.03.2024, gültig ab 01.01.2024“ — konsolidierte Fassung beim MF anfordern.
 
+✅ **Die Grundkonstruktion, belegt am 28.10.2026: Das geltende FAG ist ein Festbetrags-FAG — und es war von Anfang an bis 2026 befristet.** ⚠️ Nach einer Stellungnahme des Städte- und Gemeindebundes sah der **Koalitionsvertrag** ein Festbetrags-FAG vor, „**das bis zum Jahre 2026 gilt**“; das **Fünfte** und **Sechste Änderungsgesetz** betrafen die Jahre **2024 bis 2026** ⚠️. Das **Gutachten** stammt von **Hesse, Starke und Lenk** im Auftrag des Ministeriums der Finanzen, Endfassung **Leipzig, August 2026**, Datei vom **10.09.2026**, und behandelt das **Modell der Schlüsselzuweisungen** sowie die **Investitionspauschale**. ⚠️ **Ein Gesetzentwurf für 2027 ist nicht auffindbar.**
+→ **Die Folgerung ist unangenehm präzise:** Dass ab 2027 eine Nachfolgeregelung gebraucht wird, war **seit Beginn der Wahlperiode terminiert**, und die fachliche Grundlage liegt seit August/September 2026 vor. **Es fehlt allein der gesetzgeberische Akt.**
+📐 **Eigene Einordnung, keine Prognose:** Ein Festbetragsmodell, dessen Festbeträge auslaufen, hinterlässt **keinen Auffangzustand** — anders als eine Verordnung, die fortgilt, bis sie geändert wird. **Nach welchen Beträgen die Zuweisungen 2027 bemessen werden, ist damit offen; das ist das größere Risiko als die Frage, ob die Investitionspauschale weiterläuft.**
+✅ **Konsistenzprüfung (28.10.2026):** Die hier geführten Beträge sind aus den Seiten des Ministeriums der Finanzen bestätigt — **Schlüsselzuweisungen rund 1,07 Mrd. €** für 2025 und 2026 (hier: 1.071.760.000 €) und **Investitionspauschale 160 Mio. €/Jahr** ⚠️ Seitenabzug, kann veralten.
+→ **Verbandsweg präzisiert:** Der **Städte- und Gemeindebund Sachsen-Anhalt** hat **veröffentlichte Stellungnahmen** zum kommunalen Finanzausgleich (kommunales-sachsen-anhalt.de) ⚠️. **Also nicht „über die Spitzenverbände einwirken“, sondern erst lesen, was der Verband geschrieben hat, und dann gezielt ergänzen, was für Hettstedt fehlt** — 📐 eine Stadt mit 12.626 Einwohnern wird mit einer eigenen Stellungnahme kaum gehört, mit einem präzisen Beitrag zur **Hauptansatzstaffel** dagegen schon.
+⚠️ **Ausgangsgröße für 2027:** Das Ministerium der Finanzen hat dem **Finanzausschuss am 22.04.2026** über den **endgültigen Jahresabschluss 2025** berichtet; ein Interessenverband nennt ihn „katastrophal“ ⚠️ — **Bewertung nicht übernommen, nur Datum und Vorgang.** Zusammen mit der Etat-Lücke 2027 (Warnung des Finanzministers vom 01.10.) folgt daraus die **Planungsannahme „nicht besser als 2026“, nicht „wie 2026“** — ausdrücklich eine Annahme.
+
 **Belegte Teilmassen des FAG (Stand 10.10.2026)** ⚠️ Angaben von MF-Seiten bzw. aus dem
 Haushaltsplan 2025/2026, möglicherweise nicht der neueste Stand: **Schlüsselzuweisungen nach
 § 12 FAG 1.071.760.000 €** (2025); **Investitionspauschale je 160 Mio. €** (2025 und 2026);
@@ -720,7 +727,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 27.10.2026)
+## Laufende lokale Vorgänge (Stand 28.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -846,7 +853,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 27.10.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 28.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -898,6 +905,8 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | **Zweistufige Satzungsvorlage nach dem Muster Salzwedel vorbereiten** | Eine Beschlussvorlage, die die Beitragsstruktur ab 01.01.2027 **für beide Rechtslagen** regelt und ein Wirksamwerden zu einem späteren, klar benannten Datum vorsieht — **entkoppelt den Ratsbeschluss von der Landesgesetzgebung**. 📐 *Eigene Einschätzung, keine Rechtsauskunft:* Ob eine Satzung unter dem Vorbehalt einer künftigen Landesregelung beschlossen werden kann, prüft das Rechtsamt; falls nicht, bleiben **zwei fertig ausgearbeitete Vorlagen**, von denen eine im Dezember aufgerufen wird |
 | **Finanzbericht „Wegweiser Kommune“ für Hettstedt abrufen und ergänzen** | Enthält **Verschuldung im Kernhaushalt** und **Steuereinnahmen je Einwohner**, Indikatoren **2023**, **nur Kernhaushalt**. → Abrufen **und** eine eigene Seite beilegen, die **Stadtwerke und sonstige ausgegliederte Einheiten** mit Verbindlichkeiten und Ergebnisbeiträgen ausweist. 📐 Ohne diese Ergänzung fällt der Vergleich für Hettstedt systematisch zu günstig aus |
 | **Die drei Weichen für Dezember in den Vorbericht aufnehmen — als Fragen, nicht als Prognose** | (1) Hält der **Auszugsbeschluss der CDU-Fraktion** bis Dezember (Parteitag **05.12.**)? (2) Bleibt das **BSW** bei der Enthaltung (**Bundesparteitag Ende November** ⚠️ Datum unbelegt)? (3) Werden die **Ausschüsse** am **18./19.11.** eingesetzt? **Drei Fragen, drei Termine, keine Spekulation.** Nicht beobachtungswürdig ist die Schwelle — sie steht fest bei **42** |
+| **Übersicht „auslaufende Landesleistungen“ anlegen und mit dem Haushalt fortschreiben** | Fünf Spalten: **Leistung, Rechtsgrundlage mit Paragraf, Befristungsdatum, Betrag für Hettstedt, Stand der Nachfolgeregelung.** Feststehende Zeilen: **FAG-Festbeträge**, **Investitionspauschale**, **Kreisumlagezuschlag**, **KiFöG-Geschwisterregelung** (§ 13 Abs. 4 Satz 2), **KiFöG-Ausgleichszahlungen**, ⚠️ **Fachkräfte- und Fachberatungsförderung**, **REVIER 2038**. 📐 *Einordnung:* **Drei Finanzierungsgrundlagen enden am 31.12.2026, und alle drei Befristungen waren von Anfang an bekannt** — keine ist überraschend ausgelaufen. Die Tabelle gehört **vor** die erste Lesung des Haushalts 2027, nicht danach, und in die Akte der Kämmerei, nicht in ein Briefing |
+| **Veröffentlichte FAG-Stellungnahmen des Städte- und Gemeindebundes durchsehen** | Zwei Dokumente sind über kommunales-sachsen-anhalt.de abrufbar ⚠️. **Prüffrage: Kommen die Hauptansatzstaffel und die Lage schrumpfender kleiner Städte darin vor?** Wenn nicht, ist das der Beitrag, den Hettstedt liefern kann — mit der eigenen Zeitreihe (1990: 22.171, 2025: 12.626) als Belegmaterial |
 | **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
 ## Wiederkehrende Antragsfristen
