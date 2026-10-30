@@ -100,7 +100,7 @@ Erhebung lokaler Wärmequellen und sollte vor der Ausschreibung gesichert werden
 **Hettstedter Anschlussbahn.** Am Industriestandort **Hettstedt/Großörner** wird die
 schienengebundene wirtschaftsnahe Infrastruktur ausgebaut: **Ersatzneubau der Brücken BW 1, BW 7,
 BW 8, BW 10 und BW 11** sowie Ausbau der **Hauptanschlussbahn Hettstedt**. Volumen **über
-23,5 Mio. €** von Bund und Land über die Richtlinie **REVIER 2038** (Investitionsgesetz
+23,5 Mio. €** von Bund und Land über die Richtlinie **REVIER 2038** — ✅ **bestätigt am 30.10.2026 aus dem Fließtext der Pressemitteilung des Landes vom 08.01.2026**; ⚠️ **deren Überschrift nennt dagegen „mehr als 235 Millionen Euro“ — ein Faktor zehn, in derselben amtlichen Quelle. Die 235 Mio. € sind nicht zu zitieren; wer sie aufgreift, zitiert einen Tippfehler.** Projektbezeichnung: „Ausbau und Anbindung der schienengebundenen wirtschaftsnahen Infrastruktur des Industriestandortes **Hettstedt/Großörner**“; Bestandteil ist der **Ersatzneubau mehrerer Brücken**; mehrere Unternehmen im Industriegebiet nutzen die Anschlussbahn; Ausschreibungsunterlagen von 2023 (Investitionsgesetz
 Kohleregionen). Ziel: Aufhebung der Langsamfahrstellen (derzeit 30 km/h und 10 km/h), Verlagerung
 von Transportvolumen auf die Schiene, Anbindung bestehender Unternehmen **und Ermöglichung von
 Neuansiedlungen**. Grundlage: **Masterplan Strukturwandel MSH** (Kreistagsbeschluss).
@@ -727,7 +727,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 29.10.2026)
+## Laufende lokale Vorgänge (Stand 30.10.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -799,6 +799,17 @@ Landkreis ist für Hettstedt berichtspflichtig.
 ✅ **Amtszeit belegt am 23.10.2026: sieben Jahre.** Nach dem **Kommunalverfassungsgesetz (§ 96 KVG LSA in der geltenden Zählung)** wird der Bürgermeister nach dem Kommunalwahlgesetz gewählt, **die Amtszeit beträgt sieben Jahre**; sie **beginnt mit dem Amtsantritt**, bei **Wiederwahl** schließt die neue Amtszeit unmittelbar an das Ende der vorangegangenen an. ⚠️ **Paragraphenzählung uneinheitlich:** Fassung 2014 **§ 61**, eine Broschüre nennt **§ 58** (offenbar Satzfehler; § 58 betrifft die Niederschrift). **In Vorlagen die konsolidierte geltende Fassung zitieren, keine Broschüre.**
 → **Verbleibender Prüfpunkt:** **Amtsbeginn** (aus der Stichwahl vom 09.11.2025 nicht ableitbar) aus Bekanntmachung oder Niederschrift der Amtseinführung belegen. 📐 *Eigene Rechnung mit unbelegtem Anfangsdatum:* Liegt der Amtsantritt Ende 2025 oder Anfang 2026, endet die laufende Amtszeit **etwa Ende 2032 bis Anfang 2033** — **keine Angabe, eine Rechnung.** **Relevanz:** Mehrjährige Bindungen überdauern Amtszeiten — REVIER 2038 verlangt Abschluss bis 31.12.2038 und Abrechnung bis 31.12.2040. **In Vorlagen ist das zu benennen, und der Haushaltsvorbehalt ist die Standardklausel.**
 
+## Wärmeplanung der Stadt: beschlossen (Korrektur am 30.10.2026)
+
+✅ **Die kommunale Wärmeplanung der Stadt Hettstedt ist bereits Ende 2025 vom Stadtrat beschlossen** — so eine Meldung des Ministeriums für Wissenschaft, Energie, Klimaschutz und Umwelt. ⚠️ Dazu passend eine Vergabeunterlage: Der Auftrag „**KSI: Erstellung einer kommunalen Wärmeplanung für die Stadt Hettstedt**“ wurde im **Dezember 2024** erteilt. Auftrag Ende 2024, Beschluss Ende 2025.
+
+❌ **Damit ist die Empfehlung dieses Kontextes „keine Vergabe der Wärmeplanung vor geklärter Landesrechtslage“ gegenstandslos — und war es von Anfang an.** Sie ist seit dem 09.10.2026 dreiundzwanzig Mal gedruckt worden. 📐 *Ursache, dieselbe wie beim Amtsinhaber am 22.10.:* Die **Landesebene** wurde gründlich verfolgt, der **Stand der eigenen Stadt** nicht ermittelt. **Vor jeder Empfehlung, etwas zu unterlassen, ist zu prüfen, ob es schon getan ist** — eine Warnung vor einer längst gefallenen Entscheidung suggeriert Handlungsspielraum, wo keiner besteht.
+
+→ **Die geltenden vier Fragen:** (1) Was steht in der beschlossenen Planung — Zielszenario, Eignungsgebiete, Zeitplan, Kostenschätzung? (2) Welche **Folgekosten und Umsetzungspflichten** ergeben sich für 2027 ff.? (3) Wie verhält sich die beschlossene Planung zur **ungeklärten Landesrechtslage**? 📐 *Einschätzung:* Eine bereits beschlossene Planung ist gegen eine späte Landesregelung **besser** aufgestellt als eine offene — die Bundesfrist **30.06.2028** ist damit voraussichtlich erfüllt; **offen bleibt Nachbesserungsbedarf nach Landesrecht**. (4) Wie ist das **Fernwärmevorhaben der Stadtwerke** abgesichert?
+
+⚠️ **Anschlussvorhaben:** Die **Stadtwerke** bauen **grüne Fernwärme** aus, nach einer Fundstelle mit **rund 4,5 Mio. € Fördermitteln des Landes**; sie führen einen **Zuwendungsbescheid für eine effiziente Wärmeversorgung**. Der **Energieminister** hat das Vorhaben als **„Leuchtturmprojekt für nachhaltige Wärmeversorgung“** besucht. Für die Wärmeplanung in Sachsen-Anhalt stehen ⚠️ **12 Mio. € Bundesmittel** bereit.
+→ **Folge für Beteiligungsbericht und Vorbericht 2027:** Wärmeplanung (Stadt) — Fernwärmeausbau (Stadtwerke) — Trinkwassertarife (Stadtwerke) — Verbindlichkeiten und Ergebnisbeiträge **zusammenhängend** darstellen. 📐 **Das ist der größte zusammenhängende Posten der Stadt außerhalb des Kernhaushalts — und in fremden Vergleichszahlen unsichtbar.**
+
 ## Stadtwerke Hettstedt und Trinkwasserversorgung (neu aufgenommen am 21.10.2026)
 
 **Bis heute fehlte in diesem Recherchekontext ein kommunales Unternehmen mit Tarifhoheit — das war eine Lücke, nicht eine Entscheidung.**
@@ -853,7 +864,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 29.10.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 30.10.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -909,6 +920,9 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | **Veröffentlichte FAG-Stellungnahmen des Städte- und Gemeindebundes durchsehen** | Zwei Dokumente sind über kommunales-sachsen-anhalt.de abrufbar ⚠️. **Prüffrage: Kommen die Hauptansatzstaffel und die Lage schrumpfender kleiner Städte darin vor?** Wenn nicht, ist das der Beitrag, den Hettstedt liefern kann — mit der eigenen Zeitreihe (1990: 22.171, 2025: 12.626) als Belegmaterial |
 | **Ist die Stadt Hettstedt Mitglied der LAG Mansfeld-Südharz e. V. — und wer vertritt sie?** | Über LEADER entscheidet die **Mitgliederversammlung** über die Prioritätenliste, erst danach das ALFF Halle. **Fünf Fragen an die LAG (03475/612387):** (1) Mitgliedschaft, sonst Beitrag und Aufnahmeverfahren; (2) **Projektaufruf 2027 vom 31.08.2026** — Einreichungsfrist, Fördersätze, Mindest- und Höchstsummen; (3) Termin und Bewertungsmaßstab des Prioritätenlistenbeschlusses 2027; (4) ob **Feuerwehrinfrastruktur** und **Quartiersvorhaben** in den Handlungsfeldern der laufenden LES abgedeckt sind; (5) welcher der **zwei Webauftritte** aktuell ist und wo die geltenden Formulare liegen |
 | **Masterplan Strukturwandel und IHK-Regionaldaten für den Vorbericht sichten** | Der Landkreis hat einen **Masterplan Strukturwandel Mansfeld-Südharz** veröffentlicht ⚠️, die **IHK** eine Datensammlung **„Region in Zahlen — Mansfeld-Südharz“** ⚠️. Beide frei zugänglich; ersetzen allgemeine Strukturaussagen im Vorbericht durch regionale Zahlen. **Vor Verwendung Stand und Urheber prüfen** |
+| **Beschlossene Wärmeplanung auswerten statt über ihre Vergabe nachzudenken** | ✅ Die Planung ist **Ende 2025 vom Stadtrat beschlossen**. Vier Fragen: Inhalt (Zielszenario, Eignungsgebiete, Zeitplan, Kostenschätzung); **Folgekosten und Umsetzungspflichten für 2027 ff.**; Verhältnis zur ungeklärten Landesrechtslage (Nachbesserungsbedarf?); Absicherung des Fernwärmevorhabens der Stadtwerke (Eigenanteil, Zweckbindung, Betriebskostenrisiko) |
+| **Sportforum: Eigentum, Betrieb, Folgekosten — und welcher Vorgang gilt?** | PM vom **19.06.2026**: Der **FC Hettstedt** erhält einen Zuwendungsbescheid; der Verein beabsichtigt, den **Hartplatz im Sportforum zu einem Kunstrasenplatz** umzubauen sowie **LED-Flutlicht** und eine **Zaunanlage** zu errichten. ⚠️ **Der genannte Betrag (rund 121.300 €) ist zweifelhaft** — eine PM vom **05.11.2024** nennt **121.346,25 €**; Betragsgleichheit spricht für eine Vermischung. **Vor Verwendung die Originalmeldung prüfen.** Fragen: Wem gehört das Sportforum, wer betreibt es, welche **Folgekosten** treffen die Stadt, und ist das **dasselbe Vorhaben** wie der bisher als Altvorgang geführte Kunstrasenplatz oder ein weiteres? ✅ Nebenbefund: **Hettstedt nutzt zum zweiten Mal die Vereinsschiene**, nicht die kommunale; Programmrahmen 2026 präzisiert auf **13,928 Mio. €**, 13 kommunale Projekte, über 80 Vereinsmaßnahmen |
+| **Liste der laufenden städtischen Vorhaben mit Stand, alle zwei Monate aktualisiert** | 📐 Der Wärmeplanungsfall zeigt die Lücke: Dieses Briefing kann die **Landesebene** abdecken, den **Stand der eigenen Vorgänge** muss die Verwaltung beisteuern — die Suche erreicht Bekanntmachungen und Ratsinformationssystem nicht zuverlässig (Recherchegrenze vom 23.10.). **Eine kurze Vorhabenliste verhindert genau diesen Fehler** |
 | **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
 ## Vorauswahl vor der Bewilligung — wer wirklich zuerst entscheidet (neu am 29.10.2026)
