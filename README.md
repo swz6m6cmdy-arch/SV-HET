@@ -111,3 +111,4 @@ die von den installierten Schriften nicht gedeckt sind.
 - [29.10.2026](briefings/2026-10-29-kommunalbriefing-sachsen-anhalt.md)
 - [30.10.2026](briefings/2026-10-30-kommunalbriefing-sachsen-anhalt.md)
 - [31.10.2026](briefings/2026-10-31-kommunalbriefing-sachsen-anhalt.md) — enthält eine Monatsbilanz
+- [01.11.2026](briefings/2026-11-01-kommunalbriefing-sachsen-anhalt.md)
