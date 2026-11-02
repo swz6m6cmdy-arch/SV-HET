@@ -610,6 +610,8 @@ Konsolidierungsauflage, die auf Ausgabendisziplin zielt, adressiert damit nicht 
 
 Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
 
+- ✅ **Der Kreistag wurde am 09.06.2024 gewählt** (02.11.2026 ergänzt). 📐 *Folgerung:* **Es ist derselbe Kreistag, der die Umlage 2027 beschließt** — die Mehrheitsverhältnisse, unter denen die Rechtsprechung zur Abwägung der Finanzkraft beachtet oder ignoriert wird, sind dieselben wie 2024/2025. Ende der Wahlperiode 📐 voraussichtlich **2029**.
+
 - ⚠️ **Historische Umlagesätze, gefunden am 21.10.2026, nicht zuordenbar:** Eine Kleine Anfrage der **6. Wahlperiode** nennt für Mansfeld-Südharz **48,410 v. H.** und **42,850 v. H.** — **die Jahreszuordnung ist aus der Fundstelle nicht erkennbar.** **Es wird daraus bewusst keine Entwicklungslinie gerechnet**; mit dem heutigen Satz von 40 % ließe sich leicht eine fallende Reihe konstruieren, die nicht belegt wäre. **Belastbar wäre eine Zeitreihe der Umlagesätze seit 2010 aus den Haushaltssatzungen des Kreises** — anfordern und in die Argumentation zur Festsetzung 2027 aufnehmen.
 
 - **Kreisumlage 2026: 40 %.** Der Landkreis schöpft den rechtlich möglichen Spielraum
@@ -730,7 +732,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 01.11.2026)
+## Laufende lokale Vorgänge (Stand 02.11.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -801,6 +803,19 @@ Landkreis ist für Hettstedt berichtspflichtig.
 
 ✅ **Amtszeit belegt am 23.10.2026: sieben Jahre.** Nach dem **Kommunalverfassungsgesetz (§ 96 KVG LSA in der geltenden Zählung)** wird der Bürgermeister nach dem Kommunalwahlgesetz gewählt, **die Amtszeit beträgt sieben Jahre**; sie **beginnt mit dem Amtsantritt**, bei **Wiederwahl** schließt die neue Amtszeit unmittelbar an das Ende der vorangegangenen an. ⚠️ **Paragraphenzählung uneinheitlich:** Fassung 2014 **§ 61**, eine Broschüre nennt **§ 58** (offenbar Satzfehler; § 58 betrifft die Niederschrift). **In Vorlagen die konsolidierte geltende Fassung zitieren, keine Broschüre.**
 → **Verbleibender Prüfpunkt:** **Amtsbeginn** (aus der Stichwahl vom 09.11.2025 nicht ableitbar) aus Bekanntmachung oder Niederschrift der Amtseinführung belegen. 📐 *Eigene Rechnung mit unbelegtem Anfangsdatum:* Liegt der Amtsantritt Ende 2025 oder Anfang 2026, endet die laufende Amtszeit **etwa Ende 2032 bis Anfang 2033** — **keine Angabe, eine Rechnung.** **Relevanz:** Mehrjährige Bindungen überdauern Amtszeiten — REVIER 2038 verlangt Abschluss bis 31.12.2038 und Abrechnung bis 31.12.2040. **In Vorlagen ist das zu benennen, und der Haushaltsvorbehalt ist die Standardklausel.**
+
+## Aus den eigenen Beschlusslisten (neu aufgenommen am 02.11.2026)
+
+**Zwei Dauersachverhalte, beide aus der Beschlussliste des Stadtrates vom 16.09.2025, beide älter als dieses Briefing und bisher nicht darin geführt.**
+
+✅ **Stiftung Sparkasse Mansfeld-Südharz — eine dritte Finanzierungsschiene.** Der Stadtrat hat eine **Spende von 6.000 €** der Stiftung **für einen Spielplatz** angenommen. **Damit ist eine Präzedenz belegt**: Die Stiftung fördert in Hettstedt. ⚠️ **Förderleitlinien, Antragsformular, Förderbereiche und Fristen sind nicht auffindbar**; Sitz der Sparkasse ist **Eisleben** — dort zu erfragen. Vergleichsmuster ostdeutscher Sparkassenstiftungen ⚠️ (fremde Stiftungen): **Eigenmittelnachweis**; **öffentliche Zuwendungen sollen vorher ausgeschöpft sein**; **kein Rechtsanspruch**; ausschließlich **eigenes Antragsformular**; teils **jährliche Einreichungsfristen** (bei einer Vergleichsstiftung der 15. Oktober). ⚠️ Ergänzend genannt, nicht geprüft: die **Ostdeutsche Sparkassenstiftung**.
+📐 **Zwei Folgerungen:** (1) **Die Reihenfolge ist festgelegt, nicht wählbar** — soll öffentliches Geld vorher ausgeschöpft sein, kommt die Stiftung **nach** den Landesprogrammen, nicht an ihrer Stelle; für Vorhaben, die am **Eigenanteil** scheitern, ist das die richtige Reihenfolge. (2) **Eine Spende ist haushaltsrechtlich keine Zuwendung** — die Annahme bedurfte eines **Ratsbeschlusses**, also ist **Vorlauf einzuplanen**: Eine Zusage der Stiftung ist erst nach dem Ratsbeschluss verwendbar.
+→ **In die Förderübersicht der Verwaltung gehört damit eine dritte Zeile:** Landes- und Bundesprogramme (Behörden, teils mit Vorauswahl) — EU-Mittel über Vorauswahl (LAG, dann ALFF Halle) — **Stiftungen und Spenden (Stiftungsorgane; Annahme durch Ratsbeschluss)**. Geeignet für genau die **Begleitmaßnahmen**, die bei großen Investitionen ungedeckt bleiben.
+
+✅ **Offener Ratsauftrag zum Freibad.** Die Verwaltung wurde beauftragt, **die Lage des Freibads regelmäßig zu evaluieren**. ⚠️ **Der heutige Stand des Auftrags ist nicht auffindbar.**
+📐 *Einordnung:* Ein Freibad ist für eine Stadt unter Konsolidierungsauflage ein typischer **Dauerdefizitbetrieb**, und ein Auftrag zur *regelmäßigen* Evaluierung kennzeichnet eine Frage, die **offen gehalten** wurde, statt entschieden zu werden. → **Drei Fragen für den Vorbericht 2027:** jährlicher **Zuschussbedarf**; **letzte Evaluierung und Ergebnis**; Behandlung im **Konsolidierungskonzept**. **Bei auslaufenden Landesleistungen zum 31.12.2026 ist ein offener Dauerdefizitposten der Punkt, an dem die Kommunalaufsicht zuerst nachfragt — besser, die Stadt hat die Zahl vorher.**
+
+📐 **Und eine Beobachtung zur Quellenlage, mit praktischer Folge:** Beide Befunde stammen aus **PDF-Beschlusslisten des eigenen Stadtrates**, nicht aus der Presse. Beschlusslisten liefern **Vollständigkeit statt Auswahl** (auch die 6.000-€-Spende und den Evaluierungsauftrag, über die niemand berichtet) und machen **offene Aufträge ohne Enddatum** sichtbar. **Aber:** Die jüngste über die Suche erreichbare Liste stammt aus **September 2025** — alles seither Beschlossene ist für dieses Briefing unsichtbar, **einschließlich der Ende 2025 beschlossenen Wärmeplanung**. → **Die Bitte vom 30.10. wird damit konkreter: nicht eine neue Liste anlegen, sondern die vorhandenen Beschlusslisten weiterführen und zugänglich machen — plus eine Aufstellung der offenen Aufträge an die Verwaltung ohne Enddatum.** Diese zweite Liste ist für die Haushaltsplanung oft wertvoller als die Beschlüsse selbst, weil in ihr die unerledigten Folgekostenfragen stehen.
 
 ## Wärmeplanung der Stadt: beschlossen (Korrektur am 30.10.2026)
 
@@ -881,7 +896,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 01.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 02.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -944,6 +959,9 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | **Zweckbindungen und Betriebspflichten aus den Förderbescheiden der Stadtwerke zusammenstellen** | Bekannt sind: **Stufe 2 rund 1,7 Mio. €** (13.08.2026), **H2HET 193.500 €** (Januar 2024), **BAFA 110.086,62 €** (September 2024) ⚠️, dazu die Mittel für **Stufe 1** aus REVIER 2038. Je Bescheid: **Zweckbindungsdauer, Betriebspflicht, Rückforderungsrisiko** — und was davon den städtischen Haushalt mittelbar erreicht |
 | **Den 18./19.11.2026 als Schlüsseltermin im Vorbericht ausweisen** | ⚠️ Nach einem Fachbeitrag richtet der Landtag **regelmäßig Ausschüsse ein, bevor er einen Ministerpräsidenten wählt** — gerade weil die Wahl **an keine Frist** gebunden ist. 📐 **Folgerung: Werden die Ausschüsse am 18./19.11. eingesetzt, sind KiFöG- und FAG-Nachfolge im Dezember möglich; werden sie es nicht, ist beides für 2027 praktisch ausgeschlossen.** Das ist die präziseste Weiche, die sich derzeit formulieren lässt |
 | **Vier Beobachtungspunkte zum 18./19.11.2026 in den Vorbericht aufnehmen** | (1) Werden die **Ausschüsse eingesetzt**? (2) Mit welcher **Größe** — 11, 12 oder 13? (3) **Wie stimmt das BSW?** (4) Wird **Klage beim Landesverfassungsgericht** erhoben? 📐 **Aus den Antworten lässt sich am 20.11. mit erheblich größerer Sicherheit sagen, ob mit einer KiFöG- und FAG-Nachfolgeregelung für 2027 zu rechnen ist. Bis dahin bleibt die Annahme „nicht besser als 2026“ und der Haushaltsvorgriff ab 01.01.2027.** Ein Vorbericht, der **Weichen mit Terminen** benennt, ist der Verwaltung dienlicher als einer, der Wahrscheinlichkeiten behauptet |
+| **Freibad: jährlicher Zuschussbedarf, Evaluierungsstand, Behandlung im Konsolidierungskonzept** | ✅ Ratsauftrag vom **16.09.2025**: Die Verwaltung soll **die Lage des Freibads regelmäßig evaluieren**; ⚠️ heutiger Stand nicht auffindbar. 📐 Ein offener Dauerdefizitposten ist bei auslaufenden Landesleistungen der Punkt, an dem die Kommunalaufsicht zuerst nachfragt — **vor** der ersten Lesung des Haushalts 2027 beziffern |
+| **Stiftung Sparkasse Mansfeld-Südharz: Leitlinien, Formular, Fristen erfragen** | Präzedenz belegt (**6.000 €** für einen Spielplatz, Ratsbeschluss 16.09.2025); ⚠️ Leitlinien und Fristen unauffindbar. **Fünf Fragen an die Sparkasse (Sitz Eisleben):** Förderbereiche; Antragsformular; **Einreichungsfristen**; **Eigenmittelanforderung**; und ob die Stiftung **nach** öffentlichen Zuwendungen fördert oder parallel. Dazu: Ist die **Ostdeutsche Sparkassenstiftung** für Mansfeld-Südharz zuständig? 📐 Keine dringende, aber eine billige Aufgabe — ein Telefonat erschließt eine dauerhafte Schiene für kleine Vorhaben |
+| **Offene Aufträge aus Ratsbeschlüssen ohne Enddatum zusammenstellen** | 📐 Beschlüsse vom Typ „die Verwaltung wird beauftragt, regelmäßig zu …“ verschwinden aus dem Blick, wenn sie nicht gelistet werden — und genau dort stehen die **unerledigten Folgekostenfragen**. Die Liste ist für die Haushaltsplanung oft wertvoller als die Beschlüsse selbst |
 | **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
 ## Vorauswahl vor der Bewilligung — wer wirklich zuerst entscheidet (neu am 29.10.2026)
