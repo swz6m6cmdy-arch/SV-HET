@@ -548,6 +548,8 @@ Selbstauflösung **bis etwa Anfang Januar 2027** → danach gegebenenfalls 3. Wa
 **Die Frage „Neuwahl oder nicht“ fällt damit voraussichtlich Anfang Januar 2027 — mitten im
 Haushaltsvorgriff.**
 
+⚠️ **Viertes Szenario, aufgenommen am 03.11.2026 und ausdrücklich nicht übernommen:** Eine Fundstelle geht davon aus, die Ministerpräsidentenwahl sei **„wegen verfassungsrechtlicher Schritte“ frühestens im April 2027** möglich. **Welche Schritte gemeint sind, ist nicht erläutert** — in Betracht kommen die erwogene **Klage zur Ausschussgröße** (01.11.), ein **Wahlprüfungsverfahren** oder etwas Drittes; **ohne diese Angabe ist die Aussage nicht bewertbar**. 📐 *Einordnung:* Für die Stadt ändert das die **Richtung** der Vorsicht nicht — **ein späterer Wahltermin verlängert den Haushaltsvorgriff, er verkürzt ihn nicht.** Die Annahme „Haushaltsvorgriff ab 01.01.2027, Landeshaushalt im ersten Halbjahr“ bleibt die richtige untere Kante; **nur der dritte Pfad würde wahrscheinlicher.** ⚠️ **Ebenfalls neu:** Siegmund will **„keine klassische Minderheitsregierung“** anführen — 📐 wer das sagt, stellt **Bedingungen an die eigene Kandidatur**; vereinbar mit der Suche nach Stimmen einzelner Abgeordneter (29.09.) und ein weiterer Grund, am 18./19.11. auf das BSW zu schauen.
+
 **Drei Pfade mit Folgen für den Haushalt 2027:** (1) **Wahl gelingt im Dezember** → FAG im
 ersten Halbjahr 2027 möglich, Haushaltsvorgriff bis dahin. (2) **Dritter Wahlgang bringt
 einen Ministerpräsidenten** → wechselnde Mehrheiten, FAG **inhaltlich** offen.
@@ -732,7 +734,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 02.11.2026)
+## Laufende lokale Vorgänge (Stand 03.11.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -804,6 +806,25 @@ Landkreis ist für Hettstedt berichtspflichtig.
 ✅ **Amtszeit belegt am 23.10.2026: sieben Jahre.** Nach dem **Kommunalverfassungsgesetz (§ 96 KVG LSA in der geltenden Zählung)** wird der Bürgermeister nach dem Kommunalwahlgesetz gewählt, **die Amtszeit beträgt sieben Jahre**; sie **beginnt mit dem Amtsantritt**, bei **Wiederwahl** schließt die neue Amtszeit unmittelbar an das Ende der vorangegangenen an. ⚠️ **Paragraphenzählung uneinheitlich:** Fassung 2014 **§ 61**, eine Broschüre nennt **§ 58** (offenbar Satzfehler; § 58 betrifft die Niederschrift). **In Vorlagen die konsolidierte geltende Fassung zitieren, keine Broschüre.**
 → **Verbleibender Prüfpunkt:** **Amtsbeginn** (aus der Stichwahl vom 09.11.2025 nicht ableitbar) aus Bekanntmachung oder Niederschrift der Amtseinführung belegen. 📐 *Eigene Rechnung mit unbelegtem Anfangsdatum:* Liegt der Amtsantritt Ende 2025 oder Anfang 2026, endet die laufende Amtszeit **etwa Ende 2032 bis Anfang 2033** — **keine Angabe, eine Rechnung.** **Relevanz:** Mehrjährige Bindungen überdauern Amtszeiten — REVIER 2038 verlangt Abschluss bis 31.12.2038 und Abrechnung bis 31.12.2040. **In Vorlagen ist das zu benennen, und der Haushaltsvorbehalt ist die Standardklausel.**
 
+## Altvorgänge mit Geldwert: STARK-Programme und Walbeck-Rückforderung (neu am 03.11.2026)
+
+✅ **STARK V, März 2017: 868.520,24 € für die Sanierung des Rathauses** — und zwar als **Vollfinanzierung: die über STARK V geförderten Projekte wurden vollständig aus dem Programm finanziert, ohne kommunalen Eigenanteil.**
+
+**Die beiden STARK-Programme sind auseinanderzuhalten:**
+
+| Programm | Gegenstand | Kernbedingung |
+|---|---|---|
+| **STARK II** | **Teilentschuldung** — Umschuldung älterer Kommunalkredite, Land übernimmt **30 %** | **Verpflichtung zu Konsolidierungsmaßnahmen** |
+| **STARK V** | **Investitionsprogramm** — Bundesmittel, **Land übernimmt den kommunalen Eigenanteil** (Bundesanteil 111 Mio. €, insgesamt rund 123 Mio. €) | kein Eigenanteil |
+
+⚠️ **Offen und wichtiger: War Hettstedt bei STARK II dabei?** 📐 Dieser Kontext führt eine **Konsolidierungsauflage** und eine **Bedarfszuweisung von 10.119.796,00 €**. Bestehen daneben STARK-II-Verpflichtungen, wären es **zwei übereinanderliegende Konsolidierungsbindungen** mit eigenen Laufzeiten und Berichtspflichten. **Eine Frage an die Kämmerei, möglicherweise in einem Satz beantwortbar.**
+
+⚠️ **Rückforderungen nach der Eingemeindung Walbecks.** Eine Fundstelle berichtet von einem **Streit der Stadt mit der Investitionsbank über Rückforderungen aus früheren Fördermitteln, die mit der Eingemeindung Walbecks auf die Stadt übergegangen sind** („Hettstedt soll Millionenschuld begleichen“). **Datum und heutiger Stand nicht erkennbar.** ⚠️ Ritterode und Walbeck wurden im **September 2010** eingemeindet.
+📐 *Warum das trotz unklaren Datums hier steht:* Es ist genau das Risiko, das am 31.10. für die vier Förderbescheide der Stadtwerke benannt wurde — **Zweckbindung, Betriebspflicht, Rückforderung** — und es gibt dafür in Hettstedt einen **Präzedenzfall mit Millionenbetrag**. → **Drei Fragen:** Ist der Streit **abgeschlossen**, mit welchem Ergebnis? Bestehen **Rückstellungen**? Gibt es **weitere übernommene Förderbindungen** aus den Eingemeindungen 2010?
+
+📐 **Drei verallgemeinerbare Lehren:** (1) **Eine abgeschlossene Baumaßnahme ist kein abgeschlossener Fördervorgang** — zwischen Verwendungsnachweis, Zweckbindungsfrist und Rückforderung liegen oft **zehn Jahre und mehr**, und eine Rückforderung kann **mit einer Eingemeindung übergehen**. (2) **Förderbedingungen prägen Erfahrungswerte, die veralten:** STARK V **ohne** Eigenanteil (2017) gegen heute **50 %** Eigenanteilsübernahme bei REVIER 2038 und **10 %** Mindesteigenanteil bei Städtebau- und Schulbauförderung — **wer nach Erinnerung kalkuliert, rechnet zu günstig.** (3) **Konsolidierungsbindungen können sich überlagern.**
+→ **Daraus eine zweite Tabelle neben „auslaufende Landesleistungen“ (28.10.): „laufende Bindungen aus früheren Zuwendungen“** — je Vorgang Programm, Jahr, Betrag, **Zweckbindungsfrist**, Berichtspflicht, Rückforderungsrisiko. Feststehende Zeilen: STARK V (868.520,24 €, 2017); ⚠️ STARK II falls Teilnahme; Bedarfszuweisung 10.119.796,00 €; KInvFG-Vorhaben; die vier Stadtwerke-Bescheide; REVIER-2038-Mittel für Stufe 1; ⚠️ Walbeck-Rückforderung. **Die erste Tabelle sagt, was 2027 wegfällt; die zweite, was aus der Vergangenheit noch bindet — und die ist für eine Stadt unter Konsolidierungsauflage die unangenehmere und wichtigere.**
+
 ## Aus den eigenen Beschlusslisten (neu aufgenommen am 02.11.2026)
 
 **Zwei Dauersachverhalte, beide aus der Beschlussliste des Stadtrates vom 16.09.2025, beide älter als dieses Briefing und bisher nicht darin geführt.**
@@ -812,7 +833,8 @@ Landkreis ist für Hettstedt berichtspflichtig.
 📐 **Zwei Folgerungen:** (1) **Die Reihenfolge ist festgelegt, nicht wählbar** — soll öffentliches Geld vorher ausgeschöpft sein, kommt die Stiftung **nach** den Landesprogrammen, nicht an ihrer Stelle; für Vorhaben, die am **Eigenanteil** scheitern, ist das die richtige Reihenfolge. (2) **Eine Spende ist haushaltsrechtlich keine Zuwendung** — die Annahme bedurfte eines **Ratsbeschlusses**, also ist **Vorlauf einzuplanen**: Eine Zusage der Stiftung ist erst nach dem Ratsbeschluss verwendbar.
 → **In die Förderübersicht der Verwaltung gehört damit eine dritte Zeile:** Landes- und Bundesprogramme (Behörden, teils mit Vorauswahl) — EU-Mittel über Vorauswahl (LAG, dann ALFF Halle) — **Stiftungen und Spenden (Stiftungsorgane; Annahme durch Ratsbeschluss)**. Geeignet für genau die **Begleitmaßnahmen**, die bei großen Investitionen ungedeckt bleiben.
 
-✅ **Offener Ratsauftrag zum Freibad.** Die Verwaltung wurde beauftragt, **die Lage des Freibads regelmäßig zu evaluieren**. ⚠️ **Der heutige Stand des Auftrags ist nicht auffindbar.**
+✅ **Offener Ratsauftrag zum Freibad, präzisiert am 03.11.2026.** Der Beschluss vom 16.09.2025 billigt den **Fortbestand des Betriebsführungsvertrags** für das Freibad; Betreiber ist nach der Beschlussliste die **DLRG Ortsgruppe Wernigerode** ⚠️. Die Verwaltung soll die Situation **regelmäßig evaluieren** und dem Stadtrat **nach Aufforderung** Bericht erstatten. ⚠️ **Der heutige Stand des Auftrags ist nicht auffindbar.**
+📐 **Zwei Beobachtungen:** (1) **Der Bericht erfolgt nur auf Aufforderung** — eine regelmäßige Evaluierung ohne Berichtspflicht von sich aus ist ein Mechanismus, bei dem die Information **systematisch nicht ankommt**. → **Soll der Zuschussbedarf in den Haushalt 2027, muss der Rat den Bericht anfordern.** (2) ⚠️ **Wernigerode liegt im Landkreis Harz, rund 60 km entfernt** — eine DLRG-Ortsgruppe von dort als Betreiber ist ungewöhnlich; **möglicherweise ein Schreibfehler in der Beschlussliste. Nicht aufgelöst** — im Haus zu prüfen, weil der Vertragspartner für **Haftung und Betriebspflichten** maßgeblich ist.
 📐 *Einordnung:* Ein Freibad ist für eine Stadt unter Konsolidierungsauflage ein typischer **Dauerdefizitbetrieb**, und ein Auftrag zur *regelmäßigen* Evaluierung kennzeichnet eine Frage, die **offen gehalten** wurde, statt entschieden zu werden. → **Drei Fragen für den Vorbericht 2027:** jährlicher **Zuschussbedarf**; **letzte Evaluierung und Ergebnis**; Behandlung im **Konsolidierungskonzept**. **Bei auslaufenden Landesleistungen zum 31.12.2026 ist ein offener Dauerdefizitposten der Punkt, an dem die Kommunalaufsicht zuerst nachfragt — besser, die Stadt hat die Zahl vorher.**
 
 📐 **Und eine Beobachtung zur Quellenlage, mit praktischer Folge:** Beide Befunde stammen aus **PDF-Beschlusslisten des eigenen Stadtrates**, nicht aus der Presse. Beschlusslisten liefern **Vollständigkeit statt Auswahl** (auch die 6.000-€-Spende und den Evaluierungsauftrag, über die niemand berichtet) und machen **offene Aufträge ohne Enddatum** sichtbar. **Aber:** Die jüngste über die Suche erreichbare Liste stammt aus **September 2025** — alles seither Beschlossene ist für dieses Briefing unsichtbar, **einschließlich der Ende 2025 beschlossenen Wärmeplanung**. → **Die Bitte vom 30.10. wird damit konkreter: nicht eine neue Liste anlegen, sondern die vorhandenen Beschlusslisten weiterführen und zugänglich machen — plus eine Aufstellung der offenen Aufträge an die Verwaltung ohne Enddatum.** Diese zweite Liste ist für die Haushaltsplanung oft wertvoller als die Beschlüsse selbst, weil in ihr die unerledigten Folgekostenfragen stehen.
@@ -896,7 +918,7 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 02.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 03.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -962,6 +984,9 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | **Freibad: jährlicher Zuschussbedarf, Evaluierungsstand, Behandlung im Konsolidierungskonzept** | ✅ Ratsauftrag vom **16.09.2025**: Die Verwaltung soll **die Lage des Freibads regelmäßig evaluieren**; ⚠️ heutiger Stand nicht auffindbar. 📐 Ein offener Dauerdefizitposten ist bei auslaufenden Landesleistungen der Punkt, an dem die Kommunalaufsicht zuerst nachfragt — **vor** der ersten Lesung des Haushalts 2027 beziffern |
 | **Stiftung Sparkasse Mansfeld-Südharz: Leitlinien, Formular, Fristen erfragen** | Präzedenz belegt (**6.000 €** für einen Spielplatz, Ratsbeschluss 16.09.2025); ⚠️ Leitlinien und Fristen unauffindbar. **Fünf Fragen an die Sparkasse (Sitz Eisleben):** Förderbereiche; Antragsformular; **Einreichungsfristen**; **Eigenmittelanforderung**; und ob die Stiftung **nach** öffentlichen Zuwendungen fördert oder parallel. Dazu: Ist die **Ostdeutsche Sparkassenstiftung** für Mansfeld-Südharz zuständig? 📐 Keine dringende, aber eine billige Aufgabe — ein Telefonat erschließt eine dauerhafte Schiene für kleine Vorhaben |
 | **Offene Aufträge aus Ratsbeschlüssen ohne Enddatum zusammenstellen** | 📐 Beschlüsse vom Typ „die Verwaltung wird beauftragt, regelmäßig zu …“ verschwinden aus dem Blick, wenn sie nicht gelistet werden — und genau dort stehen die **unerledigten Folgekostenfragen**. Die Liste ist für die Haushaltsplanung oft wertvoller als die Beschlüsse selbst |
+| **Zweite Tabelle anlegen: „laufende Bindungen aus früheren Zuwendungen“** | Je Vorgang **Programm, Jahr, Betrag, Zweckbindungsfrist, Berichtspflicht, Rückforderungsrisiko**. Feststehende Zeilen: **STARK V Rathaus 868.520,24 € (2017)**; ⚠️ **STARK II** falls Teilnahme; **Bedarfszuweisung 10.119.796,00 €**; **KInvFG**; die **vier Stadtwerke-Bescheide** (31.10.); **REVIER-2038-Mittel für Stufe 1**; ⚠️ **Walbeck-Rückforderung**. 📐 Die Tabelle vom 28.10. sagt, was 2027 wegfällt — **diese sagt, was aus der Vergangenheit noch bindet** |
+| **Walbeck-Rückforderung: abgeschlossen, Rückstellungen, weitere übernommene Bindungen?** | ⚠️ Streit mit der Investitionsbank über Rückforderungen aus Fördermitteln, die mit der Eingemeindung **Walbecks** auf die Stadt übergingen; **Datum und Stand unbekannt**. Drei Fragen: Abschluss und Ergebnis; **Rückstellungen**; weitere übernommene Förderbindungen aus den Eingemeindungen **Ritterode und Walbeck (September 2010)** |
+| **Hat die Stadt STARK-II-Hilfen erhalten — und bestehen daraus Konsolidierungsverpflichtungen?** | STARK II ist die **Teilentschuldung** und **an Konsolidierungsmaßnahmen gekoppelt**. Zusammen mit Konsolidierungsauflage und Bedarfszuweisung wären es **mehrere übereinanderliegende Bindungen** — mit eigenen Laufzeiten und Berichtspflichten |
 | **Radwegprojekt (Altvorgang 2024):** Waren dem damaligen Ausstieg Fördermittel zugeordnet, die der Stadt entgangen sind? | Pressemitteilung des Landkreises „Hettstedt verabschiedet sich aus wichtigem Radwegeprojekt“, Pressemitteilungsbestand **2024** ⚠️ (Monat nicht eindeutig belegt). Darstellung des Landkreises: keine Kreiszuständigkeit für Radwege abseits von Kreisstraßen; Hettstedt einzige Stadt, die der Vereinbarung nicht beitrat; Antrag und Route ohne Hettstedt geplant. Die dort genannte Begründung ist die Formulierung des Landkreises, kein festgestellter Sachverhalt; eine Stellungnahme der Stadt liegt in den Quellen nicht vor. **Kein aktueller Vorgang — bei Gelegenheit zu klären, nicht dringlich.** |
 
 ## Vorauswahl vor der Bewilligung — wer wirklich zuerst entscheidet (neu am 29.10.2026)
