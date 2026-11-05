@@ -637,6 +637,7 @@ Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
   sah rechtlichen Anpassungsbedarf. Genehmigung im zweiten Anlauf mit der **Auflage, das
   Finanzplanungsergebnis um 9,6 Mio. € zu verbessern**, und mit **angeordneter Haushaltssperre**
   (nur notwendige Ausgaben, bis die Verbesserung erreicht ist).
+- ⚠️ **Die Kommunalaufsicht hat die Umlageerhöhung selbst angeregt (neu am 05.11.2026).** In einer **Pressemitteilung des Landesverwaltungsamtes vom 19.01.2026** zur Haushaltslage des Landkreises ist als Teil der angestrebten Lösung die **„Neuberatung der Kreisumlage im Kreistag, um die Einnahmesituation zu verbessern“** genannt ⚠️ *(Einzelfundstelle über einen Suchtreffer, Wortlaut an der Primärquelle zu prüfen)*. 📐 **In beide Richtungen zu verwenden:** Es erklärt, warum eine Erhöhung 2027 kommen kann — **und es entlastet den Kreis nicht von der Abwägungspflicht.** Eine Anregung der Aufsichtsbehörde ersetzt keine dokumentierte Abwägung der Finanzkraft der einzelnen Gemeinde; genau daran sind die Festsetzungen 2017, 2018 und 2020 gescheitert. **Beides in denselben Vermerk.**
 - **Berichte zur Haushaltssperre (Stand 17.10.2026).** Die Kommunalaufsicht **begleitet den
   Umsetzungsstand eng und erwartet regelmäßige Berichte zur Haushaltssperre** ⚠️. **Diese
   Berichte existieren** und dokumentieren, wie weit der Kreis mit der Konsolidierung gekommen
@@ -741,7 +742,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 04.11.2026)
+## Laufende lokale Vorgänge (Stand 05.11.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -925,7 +926,70 @@ korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeit
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
 Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 04.11.2026)
+## Denkmalpflegeförderung und Denkmalrecht (neu aufgenommen am 05.11.2026)
+
+**Der Prüfauftrag vom 01.11.2026 ist erledigt.** Der damals als „nicht verwertbar“ gekennzeichnete
+abgeschnittene Treffer („Befristung bis Juni 2027 mit jährlicher Antragsfrist“) ist belegt und
+präzisiert.
+
+| Merkmal | Befund |
+|---|---|
+| Rechtsgrundlage | **Richtlinie über die Gewährung von Zuwendungen zur Denkmalpflege**, Fassung vom **18.12.2023** (Dateistand des Landesverwaltungsamtes) |
+| Verfahrensgrundlage ⚠️ | Erlass der **Staatskanzlei vom 11.08.2023** |
+| Inkrafttreten | am Tag nach der Veröffentlichung |
+| **Außerkrafttreten** | ✅ **30.06.2027** |
+| **Antragsfrist** | ✅ **1. August für das folgende Haushaltsjahr**, **vor Beginn der Maßnahme** |
+| Antragsadressat | **Landesverwaltungsamt Sachsen-Anhalt**; Kirchengemeinden über die **untere Denkmalschutzbehörde** |
+| Antragsberechtigt | **Erhaltungspflichtige** eines Kulturdenkmals sowie natürliche und juristische Personen — **Kommunen eingeschlossen** |
+| Art der Förderung | nicht rückzahlbarer Projektzuschuss, in der Regel **Anteilsfinanzierung** |
+| Fördersatz ⚠️ | eine Portalquelle nennt **bis 49 %** — **im Richtlinientext nicht gefunden, nicht zitierfähig** |
+| Antragsweg ⚠️ | **Widerspruch:** Förderdatenbank = Antrag beim LVwA (nur Kirchengemeinden über die untere Denkmalschutzbehörde); Portalquelle = vollständige Unterlagen über die untere Denkmalschutzbehörde. 📐 *Vermutung, unbewiesen:* die zweite Quelle beschreibt die **fachliche Stellungnahme**, nicht den Antragsweg. **Vor dem ersten Antrag klären — eine falsche Adressierung kostet eine Jahresfrist** |
+
+📐 **Eigene Rechnung, dreistufig:** (1) Die Frist für das Haushaltsjahr **2027** war der **01.08.2026** und
+ist **verstrichen** — das dritte Programm nach Vereinssportstättenbau und Kommunalarm mit geschlossenem
+Jahrgang 2027. (2) Die nächste reguläre Frist wäre der **01.08.2027** für das Haushaltsjahr 2028.
+(3) **Dieser Termin liegt nach dem Außerkrafttreten am 30.06.2027.** → **Ohne Neufassung findet die Runde
+für 2028 nicht statt.** Dasselbe Muster wie bei REVIER 2038 (31.12.2026).
+
+**Zuständigkeit im Denkmalrecht:** **§ 4 DSchG LSA** — die **Landkreise und kreisfreien Städte** nehmen die
+Aufgaben der **unteren Denkmalschutzbehörde** wahr; **übertragener Wirkungskreis**. ⚠️ **Zwei
+Einschränkungen:** Die gefundenen Fassungen stammen aus **2003/2005**, die Paragraphenzählung ist gegen die
+geltende Fassung zu prüfen (**§ 5** regelt das **Denkmalfachamt** = Landesamt für Denkmalpflege und
+Archäologie); und dass der **Landkreis Mansfeld-Südharz** diese Aufgabe tatsächlich wahrnimmt, ist nicht
+ausdrücklich belegt — es folgt aus § 4, und Drs. 7/1555 führt den Landkreis in Statistiken zu
+denkmalrechtlichen Verfahren.
+
+📐 **Dritte Konstellation gleicher Bauart — die Stadt hängt am Landkreis:**
+
+| Nr. | Gegenstand | Rolle des Landkreises |
+|---|---|---|
+| 1 | **Brandschutzförderung** | kreisangehörige Gemeinden reichen **beim Landkreis** ein, der bis 30.04. weiterleitet |
+| 2 | **Kommunale Migrationsarbeit** | **nur Landkreise** antragsberechtigt, nicht die Stadt |
+| 3 | **Denkmalrecht** *(neu am 05.11.2026)* | der Landkreis ist **untere Denkmalschutzbehörde** — Stellungnahmen, Genehmigungen, ⚠️ möglicherweise der Antragsweg |
+
+→ **In den Vorbericht 2027, sachlich und ohne Vorwurf:** Die Stadt ist in drei Förder- und Rechtsbereichen
+auf die Arbeitsfähigkeit einer Behörde angewiesen, deren Haushalt unter **angeordneter Haushaltssperre**
+steht.
+
+## Befristungscluster: vier Enddaten in sieben Monaten (Verdichtung vom 05.11.2026)
+
+| Enddatum | Gegenstand | Belegstatus | Nachfolge durch | Was daran hängt |
+|---|---|---|---|---|
+| **31.12.2026** | **Festbetrags-FAG** | ✅ | **Gesetz** | Schlüsselzuweisungen rund **1,07 Mrd. €**, Investitionspauschale **160 Mio. €/Jahr** |
+| **31.12.2026** | **Geschwisterregelung § 13 Abs. 4 Satz 2 KiFöG** | ✅ | **Gesetz** | Beitragsrecht des Eigenbetriebs ab 01.01.2027 |
+| **31.12.2026** | **REVIER 2038** (MBl. LSA Nr. 1/2022) | ✅ | **Richtlinie** | **Stufe 3** des Fernwärmevorhabens ohne Bescheid |
+| **30.06.2027** | **Denkmalpflegerichtlinie** | ✅ **neu am 05.11.2026** | **Richtlinie** | Runde **01.08.2027** für das Haushaltsjahr 2028 |
+
+📐 **Eigene Folgerung:** Eine **Richtlinie oder Verordnung** kann eine amtierende Regierung erlassen —
+**Sven Schulze (CDU) führt die Amtsgeschäfte nach Art. 71 Verf LSA fort** ⚠️ (Artikelangabe aus einer
+Sekundärquelle, im Wortlaut zu prüfen). Ein **Gesetz** braucht den Landtag und damit eingesetzte
+Ausschüsse. → **REVIER 2038 und die Denkmalpflegerichtlinie sind die beiden Fälle, in denen eine
+Nachfolge auch ohne neue Regierung denkbar ist; FAG und KiFöG sind es nicht.** Das macht die Nachfragen
+gezielter: nach einer **Nachfolgerichtlinie** zu fragen ist aussichtsreich, nach einem FAG-Entwurf nicht.
+⚠️ **Dass eine geschäftsführende Regierung in Sachsen-Anhalt Förderrichtlinien in der Lücke neu
+erlässt, ist nicht belegt** — es ist eine Ableitung aus der Normhierarchie, keine Beobachtung.
+
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 05.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -963,6 +1027,8 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | **Ist der 30.11.2026 als Antragsfrist der Städtebauförderung bestätigt?** | Die Listung, aus der dieses Briefing die Frist übernommen hat, nennt in derselben Fassung **30.11.2025** und gleichzeitig „laufend“ ⚠️ — sie widerspricht sich selbst. Die Städtebauförderung ist derzeit die **einzige für 2027 noch offene Frist**; der Termin ist bei der zuständigen Stelle (Servicebereich Landesverwaltungsamt) **schriftlich** bestätigen zu lassen, bevor weitere Antragsarbeit anfällt |
 | **In welchem der drei Programmbereiche der Städtebauförderung ist Hettstedt aufgenommen — und seit wann?** | Drei Fragen ans Bauamt: (1) **Programmbereich** (Lebendige Zentren / Sozialer Zusammenhalt / Wachstum und nachhaltige Erneuerung) und Aufnahmejahr; (2) läuft dort die **jährliche Fortsetzungsbeantragung**, und wer führt sie; (3) gibt es ein **integriertes städtebauliches Entwicklungskonzept**, und von wann. 📐 Ohne diese Antwort ist nicht entscheidbar, ob der 30.11. die Stadt überhaupt betrifft — die Aufnahmefrist gilt nur für die **erstmalige** Aufnahme |
 | **Welche Anlagen verlangt das Anmeldeformular des Servicebereichs — und ist eine Anmeldung bis 30.11.2026 noch bearbeitbar?** | Ein Anruf beim **Servicebereich Städtebauförderung des Landesverwaltungsamtes**. 📐 *Eigene Einschätzung:* Ein Formularvorgang mit vorhandenen Unterlagen ist in der verbleibenden Zeit leistbar; ein **neu zu erstellendes integriertes Konzept** nicht. **Die Antwort entscheidet, ob das Programmjahr 2027 noch eine Option ist.** Zweiter, billiger Weg: **kollegialer Anruf in Lutherstadt Eisleben** — wie ist die Nachbarstadt vorgegangen |
+| **Gibt es ein städtisches Kulturdenkmal mit Sanierungsbedarf im Planjahr 2028?** | 📐 Eine Aktenfrage von einer halben Stunde, die entscheidet, ob das Außerkrafttreten der Denkmalpflegerichtlinie zum **30.06.2027** dieses Haus betrifft. Nur wenn ja, ist ein zweiter Finanzierungsweg zu suchen, solange keine Nachfolgerichtlinie vorliegt |
+| **Drei Fragen an das Landesverwaltungsamt zur Denkmalpflegeförderung** | (1) Ist eine **Nachfolgerichtlinie** nach dem 30.06.2027 in Vorbereitung? (2) Welcher **Antragsweg** gilt — direkt oder über die untere Denkmalschutzbehörde (⚠️ Widerspruch)? (3) Wie hoch ist der **Regelfördersatz** nach dem geltenden Richtlinientext (⚠️ die Zahl 49 % ist nicht belegt)? **Ein Telefonat** |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
@@ -1024,6 +1090,7 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | offen | **Feuerwehrinfrastruktur über LEADER** | Die gefundenen Landesaufrufe betreffen **2023 und 2025** und sind abgelaufen ⚠️. Ein **LEADER-gefördertes** Programm (Förderprogramm 8702) nennt keine Frist — **beim LEADER-Management der LAG MSH (03475/612387) doppelt fragen: Einreichungsfrist und Förderfähigkeit von Feuerwehrinfrastruktur** |
 | **31.03. und 30.09.** | **Sachsen-Anhalt REGIO (IB)** | zwei Antragstermine je Jahr, **vorbehaltlich verfügbarer Haushaltsmittel** ⚠️; Planungsmaßnahmen bis **80 %**, max. **100.000 €**; Regionalbudget bis **300.000 €/Jahr** über max. 3 Jahre, setzt Regionalmanagement und/oder IREK voraus. Antrag **schriftlich** an IB, Domplatz 12, 39104 Magdeburg |
 | **30.11.** ✅ **bestätigt am 22.10.2026** | Städtebauförderung (StäBauFRL) | ✅ Mehrere Fundstellen, darunter die **Förderdatenbank des Bundes**, nennen übereinstimmend: Antrag auf **erstmalige Aufnahme bis zum 30. November für das jeweils folgende Programmjahr** beim **Landesverwaltungsamt** (Bewilligungsstelle ⚠️ Referat 306). **Der 30.11.2026 für das Programmjahr 2027 ist damit belegt**; die widersprüchliche Angabe „30.11.2025“ in der Aggregatorlistung war eine **veraltete Jahreszahl**, keine andere Frist. **Zwei Verfahren unterscheiden:** erstmalige Aufnahme bis 30.11. — oder, wenn die Kommune **bereits aufgenommen ist**, **jährliche Beantragung der Fortsetzung**. → **Erste Frage ans Bauamt ist daher nicht die Frist, sondern der Programmstatus der Stadt.** Rechtsgrundlage: Runderlass des MID vom **20.09.2021**, MBl. LSA **Nr. 33/2021**; Zuschuss i. d. R. bis **zwei Drittel**; **Eigenanteil mindestens 10 %** ⚠️. ⚠️ Eine Magdeburger Angabe (31. Januar) ist eine **städtische Binnenfrist**, nicht die Landesfrist. ✅ **Ergänzt am 04.11.2026 aus dem Servicebereich Städtebauförderung des Landesverwaltungsamtes selbst** — damit ist die Frist amtsnah und aus drei unabhängigen Quellen belegt: **Drei Programmbereiche seit dem Programmjahr 2020** — **Lebendige Zentren** (Stadt- und Ortskerne), **Sozialer Zusammenhalt** (Quartiere mit besonderem Entwicklungsbedarf), **Wachstum und nachhaltige Erneuerung** (Anpassung an demografischen und strukturellen Wandel, auch Abriss und Aufwertung). **Der Servicebereich führt Formulare**, darunter eines zur **Anmeldung städtebaulicher Erneuerungsmaßnahmen** und eines für **Wachstum und nachhaltige Erneuerung** — 📐 **die Anmeldung ist also ein Formularvorgang, kein frei zu entwickelnder Antrag; welche Anlagen das Formular verlangt, entscheidet, ob ein Jahrgang noch erreichbar ist.** ⚠️ Mittelumfang 2024: knapp **91,5 Mio. €**, davon rund **29,5 Mio. €** für „Lebendige Zentren“ — veraltet, nur Größenordnung. ⚠️ **Vergleichsfall:** PM des MID vom **28.11.2024**, „mehr als 3 Millionen Euro Städtebauförderung für Lutherstadt Eisleben“ — selber Landkreis, vergleichbare Größe, **als Größenordnung brauchbar, nicht als Anspruch** (Programmbereich und Zeitraum dort unbekannt) |
+| **01.08.** (Vorjahr) | **Denkmalpflegeförderung (Richtlinie vom 18.12.2023)** | ✅ Antrag **bis 1. August für das folgende Haushaltsjahr**, **vor Maßnahmenbeginn**, beim **Landesverwaltungsamt**; Kirchengemeinden über die untere Denkmalschutzbehörde. Kommunen sind antragsberechtigt; nicht rückzahlbarer Projektzuschuss, in der Regel Anteilsfinanzierung. ⚠️ Fördersatz „bis 49 %“ nur aus einer Portalquelle, **nicht zitierfähig**; ⚠️ **Antragsweg widersprüchlich dargestellt**. 📐 **Der Jahrgang 2027 ist mit dem 01.08.2026 geschlossen; die Frist 01.08.2027 für 2028 liegt nach dem Außerkrafttreten am 30.06.2027** — ohne Neufassung keine Runde |
 | **offen** | **Schulbauförderung (Landesverwaltungsamt)** | **116,4 Mio. €** auf **113 Kommunen**, Bund bis **90 %**, kommunaler Anteil **10 %** ⚠️. Die Stadt ist Trägerin der Grundschulen und damit grundsätzlich adressiert. 📐 *Eigene Überschlagsrechnung:* im Schnitt rund **1,0 Mio. € je Kommune** — grob, Verteilungsschlüssel nicht belegt. **Zwei Fragen an das LVwA:** Berücksichtigung und Betrag, und bis wann Mittel zu binden sind. Der Eigenanteil von 10 % ist eine der günstigsten Quoten im kommunalen Förderrecht |
 | **im Jahr 2026** | **KInvFG-Abrechnung** | Umsetzung und Abnahme mussten nach Verlängerung bis **31.12.2025** erfolgen, die **Abrechnung bei der Bewilligungsbehörde bis 2026** ⚠️. **Eine versäumte Abrechnungsfrist gefährdet bereits erhaltene Mittel.** Stelle: Kämmerei, Rückfrage beim Landesverwaltungsamt. **Dringlich, nicht im Dezember erledigen** |
 | **31.08.** (Vorjahr) | **Sportstättenbau — kommunale Schiene** | 2026 stellt das Land **fast 14 Mio. €** bereit; damit werden **13 kommunale Sportstättenprojekte** und **über 80 Vereinsmaßnahmen** umgesetzt ⚠️. Zuständig: Ministerium für Inneres und Sport, Antragsweg über die IB. **Offene Fragen:** Ist Hettstedt unter den 13 kommunalen Projekten — und ist für künftige Vorhaben die **kommunale** oder die **Vereinsschiene** günstiger? Beim Kunstrasenplatz lief die Förderung über den Verein mit **50 %** Quote |
@@ -1064,6 +1131,8 @@ Abgabensatzungen mit unmittelbarer Haushaltswirkung.
 | Wärmeplanung (intern) | Bauverwaltungsamt der Stadt Hettstedt |
 | Kita-Beiträge (intern) | Eigenbetrieb der Kindertageseinrichtungen · Kämmerei |
 | Kommunalaufsicht | Landesverwaltungsamt Sachsen-Anhalt |
+| Denkmalpflegeförderung | Landesverwaltungsamt Sachsen-Anhalt, Referat Denkmal |
+| Denkmalrecht vor Ort (untere Denkmalschutzbehörde) | **Landkreis Mansfeld-Südharz** ⚠️ aus § 4 DSchG LSA gefolgert |
 | Verbandsarbeit (kreisangehörige Städte) | Städte- und Gemeindebund Sachsen-Anhalt, Präsident Andreas Dittmann |
 | Städtebauförderung (Programm und Erlass) | Ministerium für Infrastruktur und Digitales (MID) |
 | Städtebauförderung (Aufnahme, Formulare, Bewilligung) | **Servicebereich Städtebauförderung, Landesverwaltungsamt** · Frist **30.11.** für das folgende Programmjahr |
