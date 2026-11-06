@@ -742,7 +742,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 05.11.2026)
+## Laufende lokale Vorgänge (Stand 06.11.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -989,7 +989,70 @@ gezielter: nach einer **Nachfolgerichtlinie** zu fragen ist aussichtsreich, nach
 ⚠️ **Dass eine geschäftsführende Regierung in Sachsen-Anhalt Förderrichtlinien in der Lücke neu
 erlässt, ist nicht belegt** — es ist eine Ableitung aus der Normhierarchie, keine Beobachtung.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 05.11.2026)
+## Regionalplanung: Sachlicher Teilplan Erneuerbare Energien Planungsregion Halle (neu aufgenommen am 06.11.2026)
+
+**Ein Vorgang, der in 51 Ausgaben nicht vorkam.** Hettstedt liegt in der **Planungsregion Halle**. Die
+förmliche öffentliche Beteiligung zum zweiten Entwurf ist am **31.03.2026 abgelaufen**.
+⚠️ **Alle Angaben stammen aus Amtsblatt- und Bekanntmachungstexten über Suchtreffer, nicht aus dem
+Planwerk selbst.** Ob Flächen auf Hettstedter Gebiet betroffen sind, ist von hier aus **nicht
+feststellbar**.
+
+| Merkmal | Befund |
+|---|---|
+| Plan | **Sachlicher Teilplan Erneuerbare Energien**, Planungsregion Halle |
+| Träger | **Regionale Planungsgemeinschaft Halle** |
+| Rechtsgrundlage | **§ 9a Abs. 2 LEntwG LSA** (regionale Teilflächenziele Windenergie); Verfahren nach **§ 9 ROG** und **§ 7 LEntwG LSA** ⚠️ |
+| Aufstellungsbeschluss ⚠️ | **28.11.2023**, Beschluss-Nr. **II-2023-007** |
+| 1. Entwurf | Beteiligung **12.02.2025 – 11.04.2025** |
+| 2. Entwurf | Amtsblatt **28.01.2026**; Beteiligung **02.02.2026 – 31.03.2026** — **abgelaufen** |
+| Inhalt | **52 Vorranggebiete Windenergie**, **8.152,84 ha** = **2,2 %** der Region; **48 Beschleunigungsgebiete** |
+| Teilflächenziel 31.12.2027 | **1,9 %** = **7.052 ha** |
+| Zweites Zieljahr **2032** ⚠️ | Prozentwert **nicht gesichert**; eine Quelle zur Novelle 2023 nennt **2,3 %** ohne erkennbares Zieljahr — **Widerspruch nicht aufgelöst**, die Anlage zu § 9a Abs. 2 LEntwG LSA im Volltext klärt es |
+| Satzungs-/Feststellungsbeschluss | ⚠️ **nicht auffindbar** — nach Aktenlage noch offen |
+
+📐 **Konsistenzprüfung der Zahlen (eigene Rechnung):** Aus 7.052 ha = 1,9 % folgt eine Regionsfläche von
+rund **371.000 ha** (≈ 3.712 km²); 8.152,84 ha darauf ergeben **2,197 %**. ✅ **Die Prozentangaben des
+Entwurfs sind untereinander konsistent.** Der Entwurf liegt damit **rund 1.100 ha über dem Ziel für 2027**
+— 📐 das übliche Vorgehen, wenn ein höheres Ziel für 2032 im Gesetz steht.
+
+**Rechtsfolgen eines Beschleunigungsgebiets — alle Angaben ⚠️ Sekundärquellen, kein Normtext selbst gelesen:**
+
+| Norm | Aussage |
+|---|---|
+| **§ 6b WindBG** | im Genehmigungsverfahren **entfallen** UVP, Natura-2000-Prüfung, artenschutzrechtliche Prüfung und eine wasserwirtschaftliche Prüfung |
+| **§ 6 WindBG** | Erleichterung **nur**, wenn bei der **Ausweisung** eine **SUP** erfolgte; **ausgeschlossen** in Natura-2000-Gebieten, Naturschutzgebieten, Nationalparks |
+| **§ 6a WindBG** | bis **19.05.2024** ausgewiesene Windflächen **gelten** als Beschleunigungsgebiete |
+| **§ 28 Abs. 2 Satz 1 ROG** | **Vorranggebiete Windenergie sind zugleich Beschleunigungsgebiete** |
+
+📐 **Offene Beobachtung:** Der Entwurf nennt **52 Vorranggebiete, aber nur 48 Beschleunigungsgebiete**.
+Wäre § 28 Abs. 2 Satz 1 ROG uneingeschränkt anwendbar, müssten es dieselbe Zahl sein. **Plausibelste
+Erklärung sind die Ausschlussgründe des § 6 WindBG für vier Gebiete — unbewiesen.** Für die Stadt
+entscheidet dieser Unterschied, **ob im Genehmigungsverfahren überhaupt noch eine Umwelt- und
+Artenschutzprüfung stattfindet**.
+
+❗ **Ungeprüfte Rechtsfrage, ausdrücklich kein Befund:** Ob und wie die **Bauleitplanung der Stadt
+anzupassen** ist. Naheliegend wäre **§ 1 Abs. 4 BauGB**; **dazu hat die Recherche keine Fundstelle
+ergeben**. ⚠️ Eine Quelle nennt einen **Entwurf eines § 249a BauGB** zur Darstellung solcher Gebiete in
+Bauleitplänen — **Entwurfsstand unklar, nicht zitierfähig**. **Diese Frage gehört ans Bauamt und
+Rechtsamt, nicht mit einer hier vermuteten Paragraphenangabe in eine Vorlage.**
+
+📐 **Lehre für das Verfahren dieses Briefings:** Die Fristenlisten deckten Förder- und Haushaltsfristen ab,
+**aber keine Planverfahren** — und Planverfahren haben **kurze Beteiligungsfristen mit langen Folgen**.
+**Regionalplanung ist ab 06.11.2026 ein stehender Beobachtungspunkt.**
+
+## Länderfinanzausgleich: Beobachtungsliste, niedrig gewichtet (neu am 06.11.2026)
+
+⚠️ Aus **Oktober 2026** ist eine Forderung der **bayerischen SPD** belegt, den **Länderfinanzausgleich
+rechtlich zu prüfen**, falls die AfD in Sachsen-Anhalt regiert. **Keine Entscheidung, keine bestätigten
+Auswirkungen, kein Verfahren, keine Frist.** Rechtsgrundlage: **Art. 107 GG**, ausgeführt durch das
+**Finanzausgleichsgesetz des Bundes** und das **Maßstäbegesetz**.
+
+📐 **Wirkungskette, mit allen Zwischenschritten:** Der Länderfinanzausgleich ist **Bundesrecht** und
+erreicht die Stadt **nicht direkt**; er speist den **Landeshaushalt**, aus dem die **Finanzausgleichsmasse**
+des kommunalen FAG gebildet wird. **Ein Eingriff wäre mittelbar, aber nicht wirkungslos.**
+👉 **In keine Vorlage und in keine Pressearbeit — Beobachtungsliste.**
+
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 06.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -1029,6 +1092,9 @@ erlässt, ist nicht belegt** — es ist eine Ableitung aus der Normhierarchie, k
 | **Welche Anlagen verlangt das Anmeldeformular des Servicebereichs — und ist eine Anmeldung bis 30.11.2026 noch bearbeitbar?** | Ein Anruf beim **Servicebereich Städtebauförderung des Landesverwaltungsamtes**. 📐 *Eigene Einschätzung:* Ein Formularvorgang mit vorhandenen Unterlagen ist in der verbleibenden Zeit leistbar; ein **neu zu erstellendes integriertes Konzept** nicht. **Die Antwort entscheidet, ob das Programmjahr 2027 noch eine Option ist.** Zweiter, billiger Weg: **kollegialer Anruf in Lutherstadt Eisleben** — wie ist die Nachbarstadt vorgegangen |
 | **Gibt es ein städtisches Kulturdenkmal mit Sanierungsbedarf im Planjahr 2028?** | 📐 Eine Aktenfrage von einer halben Stunde, die entscheidet, ob das Außerkrafttreten der Denkmalpflegerichtlinie zum **30.06.2027** dieses Haus betrifft. Nur wenn ja, ist ein zweiter Finanzierungsweg zu suchen, solange keine Nachfolgerichtlinie vorliegt |
 | **Drei Fragen an das Landesverwaltungsamt zur Denkmalpflegeförderung** | (1) Ist eine **Nachfolgerichtlinie** nach dem 30.06.2027 in Vorbereitung? (2) Welcher **Antragsweg** gilt — direkt oder über die untere Denkmalschutzbehörde (⚠️ Widerspruch)? (3) Wie hoch ist der **Regelfördersatz** nach dem geltenden Richtlinientext (⚠️ die Zahl 49 % ist nicht belegt)? **Ein Telefonat** |
+| **Liegt ein Vorrang- oder Beschleunigungsgebiet Windenergie auf dem Gebiet der Stadt — und hat die Stadt im Verfahren Stellung genommen?** | **Vier Fragen, eine Stunde im Bauamt:** (1) Betroffenheit nach Karten und Begründung des 2. Entwurfs; (2) ob die Stadt in einem der beiden Beteiligungsverfahren (bis 11.04.2025, bis 31.03.2026) Stellung genommen hat — 📐 **beide Fristen sind abgelaufen; ist nichts eingegangen, ist die förmliche Beteiligung versäumt**, was den Plan nicht rechtswidrig macht, aber eine Einwirkungsmöglichkeit kostet; (3) Stand des Satzungs-/Feststellungsbeschlusses; (4) laufende oder angekündigte Windenergieanträge im Stadtgebiet und ihre Lage zu den Gebieten |
+| **Wer vertritt Hettstedt in der Regionalversammlung der Planungsgemeinschaft Halle — oder läuft die Vertretung über den Landkreis?** | ⚠️ Die Mitgliedschaftsstruktur ist nicht belegt. 📐 **Solange der Satzungsbeschluss aussteht, ist das der einzige verbleibende — informelle — Einwirkungsweg.** Läuft die Vertretung über den Landkreis, wäre das die **vierte** Landkreis-Abhängigkeit und gehört in dieselbe Sammelanfrage |
+| **Rechtsfrage ans Rechtsamt: Anpassungspflicht der Bauleitplanung und Folgen des § 6b WindBG** | ❗ **Nur wenn die Stadt betroffen ist.** Die Normen aus dem Briefing vom 06.11.2026 (§§ 6, 6a, 6b WindBG, § 28 Abs. 2 S. 1 ROG, § 9a Abs. 2 LEntwG LSA) sind **Suchhinweise aus Sekundärquellen, keine Belege**; § 1 Abs. 4 BauGB ist **unbelegt**. **Im Normtext nachlesen, bevor etwas in eine Vorlage geht** |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
@@ -1131,6 +1197,7 @@ erlässt, ist nicht belegt** — es ist eine Ableitung aus der Normhierarchie, k
 | Wärmeplanung (intern) | Bauverwaltungsamt der Stadt Hettstedt |
 | Kita-Beiträge (intern) | Eigenbetrieb der Kindertageseinrichtungen · Kämmerei |
 | Kommunalaufsicht | Landesverwaltungsamt Sachsen-Anhalt |
+| Regionalplanung / Teilplan Erneuerbare Energien | **Regionale Planungsgemeinschaft Halle** · planungsregion-halle.de ⚠️ |
 | Denkmalpflegeförderung | Landesverwaltungsamt Sachsen-Anhalt, Referat Denkmal |
 | Denkmalrecht vor Ort (untere Denkmalschutzbehörde) | **Landkreis Mansfeld-Südharz** ⚠️ aus § 4 DSchG LSA gefolgert |
 | Verbandsarbeit (kreisangehörige Städte) | Städte- und Gemeindebund Sachsen-Anhalt, Präsident Andreas Dittmann |
