@@ -742,7 +742,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 06.11.2026)
+## Laufende lokale Vorgänge (Stand 07.11.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -1007,7 +1007,9 @@ feststellbar**.
 | 2. Entwurf | Amtsblatt **28.01.2026**; Beteiligung **02.02.2026 – 31.03.2026** — **abgelaufen** |
 | Inhalt | **52 Vorranggebiete Windenergie**, **8.152,84 ha** = **2,2 %** der Region; **48 Beschleunigungsgebiete** |
 | Teilflächenziel 31.12.2027 | **1,9 %** = **7.052 ha** |
-| Zweites Zieljahr **2032** ⚠️ | Prozentwert **nicht gesichert**; eine Quelle zur Novelle 2023 nennt **2,3 %** ohne erkennbares Zieljahr — **Widerspruch nicht aufgelöst**, die Anlage zu § 9a Abs. 2 LEntwG LSA im Volltext klärt es |
+| Teilflächenziel 31.12.2032 | ✅ **2,3 %** — **Widerspruch am 07.11.2026 aufgelöst:** Die Anlage zu § 9a LEntwG LSA ist dreispaltig — **Spalte 1 = Ziel bis 31.12.2027, Spalte 2 = Ziel bis 31.12.2032, Spalte 3 = Flächengröße je Region**. Die 2,3 % aus der Novelle 2023 sind das **Ziel für 2032**, kein Widerspruch zu den 1,9 % für 2027. ⚠️ Werte aus der PM der Staatskanzlei vom **14.02.2023** und einer dpa-Meldung, **nicht aus dem konsolidierten Gesetzestext** |
+| Regionalwerte aller fünf Regionen ⚠️ | **Harz 1,2 % / 1,6 %**; **Anhalt-Bitterfeld-Wittenberg, Altmark, Halle, Magdeburg je 1,9 % / 2,3 %** |
+| Landesgesamtziele ⚠️ | **1,8 % bis Ende 2027**, **2,2 % bis Ende 2032**. 📐 *Richtungsprüfung vom 07.11.2026:* Das ist **kein Widerspruch** zu den Regionalwerten — die Region **Harz** liegt unter allen anderen, ein flächengewichteter Landesdurchschnitt muss daher **unter** 1,9 bzw. 2,3 % liegen. **Die exakte Gewichtung ist nicht nachgerechnet**, dafür fehlt Spalte 3; **mit geschätzten Flächen wird hier nicht gerechnet** |
 | Satzungs-/Feststellungsbeschluss | ⚠️ **nicht auffindbar** — nach Aktenlage noch offen |
 
 📐 **Konsistenzprüfung der Zahlen (eigene Rechnung):** Aus 7.052 ha = 1,9 % folgt eine Regionsfläche von
@@ -1036,6 +1038,21 @@ ergeben**. ⚠️ Eine Quelle nennt einen **Entwurf eines § 249a BauGB** zur Da
 Bauleitplänen — **Entwurfsstand unklar, nicht zitierfähig**. **Diese Frage gehört ans Bauamt und
 Rechtsamt, nicht mit einer hier vermuteten Paragraphenangabe in eine Vorlage.**
 
+**Die entscheidende Rechtsfolge — § 249 Abs. 7 BauGB (neu am 07.11.2026):**
+
+| Punkt | Befund | Status |
+|---|---|---|
+| Auslöser | **§ 249 Abs. 7 BauGB** greift, „sobald und solange“ nach Ablauf des Stichtags nach **§ 3 Abs. 1 Satz 2 WindBG** **weder der Flächenbeitragswert** (Spalte 1 oder 2 der **Anlage zum WindBG**) **noch ein daraus abgeleitetes Teilflächenziel erreicht** ist | ✅ Normtext, als Ausschnitt gelesen |
+| bei **Zielverfehlung** | Windenergieanlagen sind **überall privilegiert** | ⚠️ Fachpräsentation, nicht Normtext |
+| bei **Zielerreichung** | **innerhalb** der Windenergiegebiete privilegiert; **außerhalb** grundsätzlich **nicht privilegiert** nach **§ 35 Abs. 2 BauGB** | ⚠️ ebenso |
+| Altes Recht | die **Ausschlusswirkung** nach altem Recht **entfällt spätestens am 31.12.2027** | ⚠️ |
+
+📐 **Eigene Ableitung, und sie dreht das Vorzeichen des Befunds vom 06.11.:** Wird das Flächenziel **erreicht**, ist die Windenergie **auf die ausgewiesenen Gebiete gelenkt**. Wird es **verfehlt**, sind Windenergieanlagen **im gesamten Außenbereich privilegiert** — dann verliert die Stadt die Steuerung **überall**. 👉 **Die Stadt hat daher ein eigenes Interesse an der rechtzeitigen Wirksamkeit des Teilplans, nicht an seiner Verzögerung.** Eine Stellungnahme richtet sich sinnvoll auf **Lage und Zuschnitt** einzelner Gebiete, nicht gegen den Plan als solchen.
+
+⚠️ **Verwechslungsgefahr:** Die Spaltensystematik gibt es **zweimal** — in der **Anlage zum WindBG** (Bundesrecht, Flächenbeitragswerte der Länder) und in der **Anlage zu § 9a LEntwG LSA** (Landesrecht, regionale Teilflächenziele). **In Vorlagen ist jedes Mal anzugeben, welche Anlage gemeint ist.**
+
+⚠️ **Zitierweise im Fluss:** Die Landesregierung hat am **22.08.2025** ein **drittes Gesetz zur Änderung des Landesentwicklungsgesetzes** eingebracht, verbunden mit der **Umbenennung in „Landesplanungsgesetz“**; **die Verabschiedung ist nicht belegt**. 👉 **Die Angabe „§ 9a Abs. 2 LEntwG LSA“ kann überholt sein — vor jeder Vorlage die geltende Bezeichnung prüfen.** ⚠️ Der **Landesentwicklungsplan** wird neu aufgestellt; **zweiter Entwurf am 02.09.2025** von der Landesregierung beschlossen. ⚠️ Die Planungsregion **Anhalt-Bitterfeld-Wittenberg** hat ihren Teilplan „Windenergie 2027“ im **August 2025** ausgelegt — **alle Planungsregionen arbeiten parallel auf denselben Stichtag**.
+
 📐 **Lehre für das Verfahren dieses Briefings:** Die Fristenlisten deckten Förder- und Haushaltsfristen ab,
 **aber keine Planverfahren** — und Planverfahren haben **kurze Beteiligungsfristen mit langen Folgen**.
 **Regionalplanung ist ab 06.11.2026 ein stehender Beobachtungspunkt.**
@@ -1052,7 +1069,40 @@ erreicht die Stadt **nicht direkt**; er speist den **Landeshaushalt**, aus dem d
 des kommunalen FAG gebildet wird. **Ein Eingriff wäre mittelbar, aber nicht wirkungslos.**
 👉 **In keine Vorlage und in keine Pressearbeit — Beobachtungsliste.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 06.11.2026)
+## Akzeptanz- und Beteiligungsgesetz: 0,3 ct/kWh an die Standortkommune (neu aufgenommen am 07.11.2026)
+
+**In 52 Ausgaben nicht geführt — und die erste Position seit Wochen, die Geld in die Stadt bringen könnte.**
+Das Gesetz macht aus der Planungsfrage des Teilplans eine **Einnahmefrage**.
+
+| Merkmal | Befund |
+|---|---|
+| Gesetz | **Gesetz zur Akzeptanzsteigerung und Beteiligung beim Ausbau der erneuerbaren Energien** |
+| Datum | ✅ Landtagsbeschluss **12.09.2025** |
+| Verkündung | ✅ **GVBl. LSA Nr. 14/2025** |
+| Kernregelung | Beteiligung der **Standortkommune** **0,3 ct/kWh** statt der 0,2 ct/kWh nach EEG |
+| Photovoltaik | Anspruch der **Gemeinde, auf deren Gebiet die Anlage steht** |
+| Größenordnung Wind ⚠️ | mindestens **5.500 € pro MW Nennleistung und Jahr**; 5-MW-Anlage mindestens **27.500 €/Jahr** |
+| Größenordnung PV-Freifläche ⚠️ | mindestens **2.500 € pro MW und Jahr** |
+| Geltung | **neue Anlagen und Repowering**; **Bestandsanlagen nicht** |
+| Kein Antrag | **gesetzlicher Anspruch, keine Förderung** — **keine Antragsfrist**, gehört in die **Einnahmeplanung**, nicht in die Fristentabelle |
+
+⚠️ **Quellenwarnung, die hierher gehört:** Das zuständige Ministerium hat im **Mai 2025 eine fehlerhafte
+Rechnung** zu diesem Gesetz veröffentlicht und sich später korrigiert. 👉 **Maßgeblich ist der
+Gesetzestext beim Ministerium, nicht die Pressemitteilungen** — auch die hier genannten Mindestbeträge
+stammen aus Pressemitteilungen.
+
+⚠️ **Zwei offene Punkte, die über die Verwendbarkeit entscheiden:** (1) Ob eine **bundesrechtliche
+EEG-Änderung** die 0,3 ct/kWh **deckelt** — das Ministerium hat im **September 2024** eine geplante
+Einschränkung kritisiert, der Stand ist unbekannt. (2) Ob die Zahlungen **zweckgebunden** sind oder frei
+im Haushalt verwendbar.
+
+📐 **Rechenregel statt Rechnung:** Es liegen **keine Angaben über Wind- oder Freiflächen-PV-Anlagen im
+Stadtgebiet** vor, daher keine Zahl für Hettstedt. **Bezugsgröße je Anlage:** eine neue 5-MW-Anlage
+≈ mindestens **27.500 €/Jahr**, fünf solche Anlagen ≈ mindestens **137.500 €/Jahr**.
+👉 **Die Frage „liegt ein Vorrang- oder Beschleunigungsgebiet im Stadtgebiet?“ ist damit die Vorfrage zu
+einer dauerhaften Einnahmeposition.**
+
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 07.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -1095,6 +1145,8 @@ des kommunalen FAG gebildet wird. **Ein Eingriff wäre mittelbar, aber nicht wir
 | **Liegt ein Vorrang- oder Beschleunigungsgebiet Windenergie auf dem Gebiet der Stadt — und hat die Stadt im Verfahren Stellung genommen?** | **Vier Fragen, eine Stunde im Bauamt:** (1) Betroffenheit nach Karten und Begründung des 2. Entwurfs; (2) ob die Stadt in einem der beiden Beteiligungsverfahren (bis 11.04.2025, bis 31.03.2026) Stellung genommen hat — 📐 **beide Fristen sind abgelaufen; ist nichts eingegangen, ist die förmliche Beteiligung versäumt**, was den Plan nicht rechtswidrig macht, aber eine Einwirkungsmöglichkeit kostet; (3) Stand des Satzungs-/Feststellungsbeschlusses; (4) laufende oder angekündigte Windenergieanträge im Stadtgebiet und ihre Lage zu den Gebieten |
 | **Wer vertritt Hettstedt in der Regionalversammlung der Planungsgemeinschaft Halle — oder läuft die Vertretung über den Landkreis?** | ⚠️ Die Mitgliedschaftsstruktur ist nicht belegt. 📐 **Solange der Satzungsbeschluss aussteht, ist das der einzige verbleibende — informelle — Einwirkungsweg.** Läuft die Vertretung über den Landkreis, wäre das die **vierte** Landkreis-Abhängigkeit und gehört in dieselbe Sammelanfrage |
 | **Rechtsfrage ans Rechtsamt: Anpassungspflicht der Bauleitplanung und Folgen des § 6b WindBG** | ❗ **Nur wenn die Stadt betroffen ist.** Die Normen aus dem Briefing vom 06.11.2026 (§§ 6, 6a, 6b WindBG, § 28 Abs. 2 S. 1 ROG, § 9a Abs. 2 LEntwG LSA) sind **Suchhinweise aus Sekundärquellen, keine Belege**; § 1 Abs. 4 BauGB ist **unbelegt**. **Im Normtext nachlesen, bevor etwas in eine Vorlage geht** |
+| **Bestandsaufnahme: welche Windenergie- und Freiflächen-PV-Anlagen stehen im Stadtgebiet, mit welcher Nennleistung — und steht ein Repowering an?** | Vorfrage zum Akzeptanzgesetz: **Bestandsanlagen lösen keinen Anspruch aus, Repowering schon.** 📐 Eine Bestandsaufnahme, keine Prognose — und die Grundlage jeder Einnahmeschätzung |
+| **Sind die Zahlungen nach dem Akzeptanzgesetz zweckgebunden, und deckelt das EEG die 0,3 ct/kWh?** | Zwei Fragen an das **Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt** bzw. an den Städte- und Gemeindebund. **Vom Ergebnis hängt ab, ob die Position in die mittelfristige Planung darf** — und ob als Ertrag oder als zweckgebundene Zuweisung |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
@@ -1198,6 +1250,7 @@ des kommunalen FAG gebildet wird. **Ein Eingriff wäre mittelbar, aber nicht wir
 | Kita-Beiträge (intern) | Eigenbetrieb der Kindertageseinrichtungen · Kämmerei |
 | Kommunalaufsicht | Landesverwaltungsamt Sachsen-Anhalt |
 | Regionalplanung / Teilplan Erneuerbare Energien | **Regionale Planungsgemeinschaft Halle** · planungsregion-halle.de ⚠️ |
+| Akzeptanz- und Beteiligungsgesetz (0,3 ct/kWh) | **Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt** · Gesetzestext auf mwu.sachsen-anhalt.de |
 | Denkmalpflegeförderung | Landesverwaltungsamt Sachsen-Anhalt, Referat Denkmal |
 | Denkmalrecht vor Ort (untere Denkmalschutzbehörde) | **Landkreis Mansfeld-Südharz** ⚠️ aus § 4 DSchG LSA gefolgert |
 | Verbandsarbeit (kreisangehörige Städte) | Städte- und Gemeindebund Sachsen-Anhalt, Präsident Andreas Dittmann |
