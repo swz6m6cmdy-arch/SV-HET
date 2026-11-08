@@ -742,7 +742,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 07.11.2026)
+## Laufende lokale Vorgänge (Stand 08.11.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -1102,7 +1102,73 @@ Stadtgebiet** vor, daher keine Zahl für Hettstedt. **Bezugsgröße je Anlage:**
 👉 **Die Frage „liegt ein Vorrang- oder Beschleunigungsgebiet im Stadtgebiet?“ ist damit die Vorfrage zu
 einer dauerhaften Einnahmeposition.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 07.11.2026)
+❌ **Korrektur am 08.11.2026 — die Rechenregel vom 07.11. ist nicht zu verwenden.** Der erste datierte
+Vergleichsfall liegt deutlich darunter:
+
+| Rechnung | Ergebnis |
+|---|---|
+| Rechenregel vom 07.11.: 53,5 MW × **2.500 €/MW** | **133.750 €/Jahr** |
+| Angabe der Betreiber-Pressemitteilung (Solarpark Gerbstedt) ⚠️ | **„bis zu knapp 90.000 €“/Jahr** |
+| Differenz | 📐 rund **44.000 €** — die Regel liegt etwa **50 % zu hoch** |
+
+📐 **Gegenprobe über die Strommenge:** Bei **0,3 ct/kWh** entsprächen 90.000 € einer Einspeisung von
+**30 Mio. kWh**, also rund **560 kWh je kWp** — ⚠️ auffällig niedrig. Bei **0,2 ct/kWh** wären es
+**45 Mio. kWh**, rund **840 kWh je kWp** — 📐 plausibel. **Vier Erklärungen sind denkbar, keine bewiesen:**
+(1) es gilt noch der **EEG-Satz von 0,2 ct** (Inbetriebnahme November 2025, Landesgesetz vom 12.09.2025 —
+**Übergangsregelung unbekannt**); (2) **Abregelung** — der Park teilt den Netzanschluss mit einem Windpark
+mit **Einspeisevorrang**, ein Parkregler drosselt die Photovoltaik; (3) die Angabe umfasst nur einen Teil
+oder eine Bandbreite („bis zu“); (4) die Fläche liegt in **mehreren Gemeinden**.
+
+👉 **Zwei Lehren für die Planung:** **Die Zahlung ist mengenbezogen, nicht leistungsbezogen** — keine
+€/MW-Daumenwerte. Und: **Jede Abregelung mindert die Einnahme unmittelbar**; an einem geteilten
+Netzanschluss mit Einspeisevorrang eines anderen Parks ist das strukturell, nicht zufällig.
+
+**Vergleichsfall, belegt (Stand 08.11.2026):** **Solarpark Gerbstedt** (Landkreis Mansfeld-Südharz),
+Betreiber **wpd**, **53,5 MWp**, Baubeginn Februar 2025, **Inbetriebnahme November 2025**, Einweihung
+**07.06.2026**; eigenes Umspannwerk, geteilt mit einem **2021 repowerten Windpark** (acht Anlagen).
+⚠️ Quellenabweichungen: **90.000 Module auf 54 ha** (Betreiber) gegen **rund 86.000 auf rund 53 ha**
+(Fachpresse); Windparkleistung **26,4 MW** gegen **30,7 MW** (ältere Datenbank). 👉 **Gerbstedt ist
+kollegial anzurufen** — vier Fragen: Satz (0,2 oder 0,3 ct und auf welcher Grundlage), Behandlung der
+Abregelung, vertragliche Ergänzungen, haushaltsmäßige Behandlung (Ertrag oder zweckgebundene Zuweisung).
+
+**§ 6 EEG und die Frage, worin der Gewinn des Landesgesetzes liegt (neu am 08.11.2026):**
+
+| Ebene | Befund | Status |
+|---|---|---|
+| **§ 6 EEG (Bund)** | **verpflichtet die Anlagenbetreiber nicht**; die Vorschrift stellt sicher, dass Zahlungen an Gemeinden **nicht als Bestechung** gewertet werden. **Die Umsetzung ist freiwillig** | ✅ mehrfach belegt, ⚠️ Normtext nicht selbst gelesen |
+| **Zweckbindung im Bundesrecht** | ✅ **keine** — die Verwendung steht den Kommunen **frei**, die Mittel unterliegen dem **Grundsatz der Gesamtdeckung** | ⚠️ aus einer kommunalen Vorlage |
+| **Landesgesetz** | ⚠️ Der Titel der Ministeriums-PM spricht von „konkret **und verbindlich**“. 📐 **Das deutet darauf hin, dass das Land die freiwillige Regelung in eine Pflicht umwandelt** — **belegt ist das nicht, es ist eine Ableitung aus einem PM-Titel** | ❗ zu prüfen |
+
+📐 **Daraus folgt die Reihenfolge der Fragen an den Gesetzestext:** **zuerst „verbindlich oder
+freiwillig“**, dann Höhe, Bemessungsgrundlage und Zweckbindung. **Wäre die Verbindlichkeit belegt, wäre
+sie der eigentliche Gewinn — nicht das zusätzliche Zehntel Cent.**
+⚠️ **Nebenbefund:** Mehrere Fachstellen und ein Lobbyregister-Eintrag von 2026 fordern eine
+**Veröffentlichungspflicht** für Höhe und Verwendung solcher Zahlungen; **ob daraus Recht geworden ist,
+ist unbelegt**. 📐 Eine Kommune, die diese Einnahme von sich aus transparent ausweist, ist darauf
+vorbereitet — kostenfrei.
+
+## Abgrenzung Hettstedt / Mansfeld im Bereich Großörner (neu aufgenommen am 08.11.2026)
+
+⚠️ **Eine Verwechslungsquelle, die Geld betrifft.** Ein **vorhabenbezogener Bebauungsplan „Sondergebiet
+Photovoltaik“ in der Gemarkung Großörner**, datiert **13.07.2023**, mit drei Baufeldern, ist nach der
+Fundstelle ein Verfahren der **Stadt Mansfeld** — der Investor ist „der Stadt Mansfeld bekannt“ und hat die
+Flächen von den Eigentümern erworben. ⚠️ Aktueller Stand unbelegt.
+
+**Warum das verwechselbar ist:** Dieses Profil führt den Industriestandort als **„Hettstedt/Großörner“**
+(Anschlussbahn, 23,5 Mio. €) und das **HIP-Areal** als „südöstlich von Großörner“. **Der Name steht
+also in beiden Akten — die Planungshoheit offenbar bei Mansfeld.**
+
+👉 **Frage ans Bauamt:** Wo verläuft die **Gemeinde- und Gemarkungsgrenze** zwischen Hettstedt und
+Mansfeld im Bereich Großörner, und auf welcher Seite liegen (a) der Industriestandort der Anschlussbahn,
+(b) das HIP-Areal, (c) das Sondergebiet Photovoltaik von 2023? 📐 **Ohne diese Grenze ist keine
+Einnahmerechnung nach dem Akzeptanzgesetz der Stadt zuzuordnen** — und auch keine Gewerbesteuererwartung.
+
+📐 **Rechercheweg, zweimal in drei Tagen bewährt:** Beide neuen Vorgänge dieser Woche — die
+Teilplan-Bekanntmachung und dieser Bebauungsplan — wurden über die Websites **anderer Kommunen** gefunden
+(Gemeinde Südharz, Stadt Mansfeld). **Nachbarkommunen veröffentlichen dieselben überörtlichen
+Bekanntmachungen und sind besser indexiert.** Dieser Weg wird ab 08.11.2026 bewusst genutzt.
+
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 08.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -1147,6 +1213,9 @@ einer dauerhaften Einnahmeposition.**
 | **Rechtsfrage ans Rechtsamt: Anpassungspflicht der Bauleitplanung und Folgen des § 6b WindBG** | ❗ **Nur wenn die Stadt betroffen ist.** Die Normen aus dem Briefing vom 06.11.2026 (§§ 6, 6a, 6b WindBG, § 28 Abs. 2 S. 1 ROG, § 9a Abs. 2 LEntwG LSA) sind **Suchhinweise aus Sekundärquellen, keine Belege**; § 1 Abs. 4 BauGB ist **unbelegt**. **Im Normtext nachlesen, bevor etwas in eine Vorlage geht** |
 | **Bestandsaufnahme: welche Windenergie- und Freiflächen-PV-Anlagen stehen im Stadtgebiet, mit welcher Nennleistung — und steht ein Repowering an?** | Vorfrage zum Akzeptanzgesetz: **Bestandsanlagen lösen keinen Anspruch aus, Repowering schon.** 📐 Eine Bestandsaufnahme, keine Prognose — und die Grundlage jeder Einnahmeschätzung |
 | **Sind die Zahlungen nach dem Akzeptanzgesetz zweckgebunden, und deckelt das EEG die 0,3 ct/kWh?** | Zwei Fragen an das **Ministerium für Wissenschaft, Energie, Klimaschutz und Umwelt** bzw. an den Städte- und Gemeindebund. **Vom Ergebnis hängt ab, ob die Position in die mittelfristige Planung darf** — und ob als Ertrag oder als zweckgebundene Zuweisung |
+| **Wo verläuft die Gemeinde- und Gemarkungsgrenze im Bereich Großörner?** | Zuordnung von (a) Industriestandort der Anschlussbahn, (b) HIP-Areal, (c) Sondergebiet Photovoltaik 2023. 📐 **Vorfrage für Akzeptanzzahlungen, Gewerbesteuer und Zuständigkeit im Planverfahren** |
+| **Gerbstedt kollegial anrufen: wie wird nach dem Akzeptanzgesetz tatsächlich abgerechnet?** | Vier Fragen: (1) Satz **0,2 oder 0,3 ct/kWh** und Rechtsgrundlage; (2) Behandlung der **Abregelung**; (3) vertragliche Ergänzung zum gesetzlichen Anspruch; (4) Buchung als **Ertrag** oder **zweckgebundene Zuweisung**. 📐 Zweiter kostenloser Nachbaranruf nach Lutherstadt Eisleben |
+| **Gesetzestext AuGB 2025 lesen — in dieser Reihenfolge** | **(1) verbindlich oder freiwillig**, (2) Höhe, (3) **Bemessungsgrundlage** (installierte Leistung oder eingespeiste Menge, Behandlung der Abregelung), (4) **Übergangsregelung** für Anlagen aus 2025, (5) **Zweckbindung**. ❗ Bisher stützt sich alles auf Pressemitteilungen, von denen eine nachweislich fehlerhaft war |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
