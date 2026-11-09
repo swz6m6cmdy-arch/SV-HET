@@ -742,7 +742,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 08.11.2026)
+## Laufende lokale Vorgänge (Stand 09.11.2026)
 
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
@@ -1147,6 +1147,41 @@ sie der eigentliche Gewinn — nicht das zusätzliche Zehntel Cent.**
 ist unbelegt**. 📐 Eine Kommune, die diese Einnahme von sich aus transparent ausweist, ist darauf
 vorbereitet — kostenfrei.
 
+❌ **Zweite Korrektur am 09.11.2026 — die Lehre vom 08.11. („mengenbezogen, Abregelung mindert“)
+wird zurückgenommen.** Angaben aus dem Gesetzestext deuten in die entgegengesetzte Richtung:
+
+| Merkmal | Befund | Status |
+|---|---|---|
+| Rechtsnatur | eine **Abgabe** der Anlagenbetreiber an die anspruchsberechtigten Gemeinden | ⚠️ |
+| Betroffene Anlagen | **Windenergieanlagen mit mehr als 1.000 kW** und **Freiflächenanlagen** | ⚠️ |
+| Dauer | **für die Dauer des Anlagenbetriebs** | ⚠️ |
+| Erstes und letztes Jahr | **anteilig je vollem Betriebsmonat** | ⚠️ |
+| Ausfallzeiten | **Befreiung bei Ausfall über 30 Tage nur bei unverschuldetem Ausfall** | ⚠️ |
+| Verbindlichkeit | ✅ **verpflichtend** — eine Fachmeldung zum Landtagsbeschluss spricht ausdrücklich von „verpflichtender Gemeindebeteiligung“; damit ist die Ableitung vom 08.11. **bestätigt** | ✅ |
+| Zweistufigkeit ⚠️ | nach dem **Gesetzentwurf** greift die Abgabe „nur, wenn der Vorhabenträger seiner Pflicht nicht oder nicht vollständig nachkommt“ — 📐 Hinweis auf eine primäre Pflicht (Beteiligungsangebot) und die Abgabe als **Auffangregelung**. **Nur für den Entwurfsstand belegt** | ❗ |
+| Datum | ⚠️ Ministeriums-PM nennt den Landtagsbeschluss **11.09.2025**, der Gesetzestext ist „**Vom 12. September 2025**“ — 📐 vermutlich Sitzungstag gegen Ausfertigung; **in Vorlagen das Gesetzesdatum verwenden** | ⚠️ |
+
+📐 **Begründung der Rücknahme:** Eine Regelung, die **pro vollem Betriebsmonat** abrechnet und
+**Ausfallzeiten eigens behandelt**, wäre bei einer rein mengenbezogenen Zahlung überflüssig — bei null
+eingespeisten Kilowattstunden fällt dort von selbst nichts an. **Die Struktur spricht für eine
+leistungsbezogene Abgabe mit Zeitanteil.**
+
+⚠️ **Der Wert „0,3 ct/kWh“ ist nicht gesichert:** In der Fachmeldung erscheint er als **Vergleich mit
+Bayern**, nicht zwingend als Satz des sachsen-anhaltischen Gesetzes. **Dieses Profil hat ihn am 07.11.
+als Kernregelung geführt — das war nicht belegt.** Konsistenter sind die Mindestbeträge
+**5.500 €/MW/Jahr** (Wind) und **2.500 €/MW/Jahr** (PV-Freifläche).
+
+📐 **Neue, mechanisch plausible Erklärung des Gerbstedt-Widerspruchs:** 90.000 € ÷ 2.500 €/MW = **36 MW**.
+**MWp ist eine Gleichstromangabe (Modulleistung); abgabenrelevant könnte die Wechselrichter- oder
+Netzanschlussleistung in MW sein.** 53,5 MWp zu 36 MW ergibt ein Verhältnis von **1,49** — für eine
+Anlage, die ihren Netzanschluss mit einem Windpark mit Einspeisevorrang teilt, **plausibel**.
+⚠️ Unbewiesen, aber **mit einer einzigen Frage prüfbar**: 👉 **Auf welche Leistung wird die Abgabe
+berechnet — MWp oder MW?** 📐 Bei dieser Anlage macht die Antwort rund **44.000 € im Jahr** aus.
+
+❗ **Verfahrensregel ab 09.11.2026:** **Zum Akzeptanzgesetz nichts aus Pressemitteilungen in eine
+Vorlage übernehmen.** Zwei Korrekturen in drei Tagen, beide aus derselben Ursache. Die bisherigen
+Angaben stehen als **Suchhinweise**, nicht als Planungsgrößen.
+
 ## Abgrenzung Hettstedt / Mansfeld im Bereich Großörner (neu aufgenommen am 08.11.2026)
 
 ⚠️ **Eine Verwechslungsquelle, die Geld betrifft.** Ein **vorhabenbezogener Bebauungsplan „Sondergebiet
@@ -1168,7 +1203,59 @@ Teilplan-Bekanntmachung und dieser Bebauungsplan — wurden über die Websites *
 (Gemeinde Südharz, Stadt Mansfeld). **Nachbarkommunen veröffentlichen dieselben überörtlichen
 Bekanntmachungen und sind besser indexiert.** Dieser Weg wird ab 08.11.2026 bewusst genutzt.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 08.11.2026)
+## Zwei Haushaltsnotregime, die nicht zu verwechseln sind (neu aufgenommen am 09.11.2026)
+
+**Dieses Profil führte den „Haushaltsvorgriff ab 01.01.2027“ unter Art. 94 Verf LSA. Das ist richtig —
+betrifft aber das Land. Für die Stadt gilt eine andere, strengere Norm.**
+
+| | **Ebene Land** | **Ebene Stadt** |
+|---|---|---|
+| Norm | **Art. 94 Verf LSA** (Haushaltsvorgriff) | **§ 104 KVG LSA** (vorläufige Haushaltsführung) ⚠️ |
+| Auslöser | Haushaltsplan für das Folgejahr **nicht durch Gesetz festgestellt** | Haushalt **beanstandet** und **kein neuer Haushalt vorgelegt** ⚠️ |
+| Zulässige Ausgaben | Erhalt gesetzlicher Einrichtungen, rechtlich begründete Verpflichtungen, **Fortsetzung bereits veranschlagter** Bauten und Beschaffungen | nur **gesetzlich vorgeschriebene oder unabweisbare** Aufwendungen und Auszahlungen ⚠️ |
+| Investitionen | nur bei Veranschlagung in einem Vorjahresplan | **Fortsetzung dessen, was im Vorjahr vorgesehen war** ⚠️ |
+| Abgaben | — | **vorläufige Erhebung nach den Sätzen des Vorjahres** ⚠️ |
+| Kredite | höchstens **ein Viertel** der Vorjahreseinnahmen | **Umschuldung** zulässig; bei fehlenden Mitteln für Fortsetzung oder unaufschiebbare Investitionen **mit Genehmigung der Kommunalaufsicht bis zur Hälfte des durchschnittlichen Betrages der Kreditermächtigung** ⚠️ |
+
+⚠️ **Alle Angaben zu § 104 KVG LSA stammen aus abgeschnittenen Sekundärtreffern; der Wortlaut ist nicht
+gesichert.**
+
+📐 **Beide Regime haben dieselbe Architektur: fortsetzen, was veranschlagt war — nichts Neues
+beginnen.** Dieses Profil hat das Kriterium bisher nur auf die **Einnahmen** aus Landesmitteln angewandt.
+👉 **Es gilt spiegelbildlich für die eigenen Ausgaben: Jedes Vorhaben, das 2027 neu beginnen soll und
+nicht bereits im Plan 2026 steht, ist das gefährdete Vorhaben.** Betroffen wären nach heutigem Stand
+u. a. eine **erstmalige Aufnahme in die Städtebauförderung**, **Stufe 3 des Fernwärmevorhabens**, **neue
+LEADER-Projekte**, Vorhaben aus einer **Prioritätenliste 2027**. → **In den Vorbericht 2027 als eigene
+Spalte „im Plan 2026 enthalten: ja/nein“.**
+
+**Der Weg in § 104 ist bei Hettstedt kürzer als bei anderen:**
+
+| Norm | Bedeutung | Bezug |
+|---|---|---|
+| **§ 100 Abs. 1 KVG LSA** | Pflicht, **für jedes Haushaltsjahr** eine Haushaltssatzung zu erlassen ✅ | gilt uneingeschränkt; § 100 zuletzt geändert **18.06.2022** |
+| **§ 100 Abs. 5 KVG LSA** ⚠️ | **Haushaltskonsolidierungskonzept**, um die Zahlungsfähigkeit im mittelfristigen Zeitraum **ohne Überschreiten der Genehmigungsgrenze** zu sichern | 📐 Die Stadt **hat** ein Konzept **bis 2034** — das deutet darauf hin, dass die Genehmigungslage bereits greift |
+| **§ 102 Abs. 2 KVG LSA** ⚠️ | Satzung mit **genehmigungspflichtigen Teilen** darf **erst nach der Genehmigung** bekanntgemacht werden | 📐 **Verzögerung eingebaut** — nicht der Beschluss, die Genehmigung bestimmt den Zeitpunkt |
+| **§ 108 Abs. 2 Satz 1 KVG LSA** ⚠️ | **Gesamtbetrag der Investitionskredite** bedarf der Genehmigung; Einzelgenehmigung nach Abs. 4 | typischer genehmigungspflichtiger Teil |
+| **§ 110 Abs. 2 KVG LSA** ⚠️ | **Höchstbetrag der Liquiditätskredite** | dieselbe Norm, über die der **Landkreis** 250 Mio. € genehmigt bekam |
+| **§ 146 Abs. 2 KVG LSA** ⚠️ | **Beanstandungsfrist** der Kommunalaufsicht | **Inhalt unbekannt — zu klären** |
+
+📐 **Die Risikokette für 2027:** keine FAG-Nachfolge → Schlüsselzuweisungen nicht belastbar planbar → die
+Satzung 2027 beruht auf einer Annahme → **Beanstandungsrisiko** — oder die Stadt wartet, die Genehmigung
+kommt spät, **§ 102 Abs. 2 verzögert die Bekanntmachung** → **§ 104 greift ab 01.01.2027**.
+**Keine Stufe ist vermeidbar, jede ist vorbereitbar.**
+
+⚠️ **Vergleichsmaßstab zur Terminlage:** **Haldensleben** beschloss seine Haushaltssatzung 2026 am
+**27.11.2025**, **Schwanebeck** erst am **12.02.2026**. 📐 Beide Wege sind in Sachsen-Anhalt praktiziert —
+ein Beschluss im Februar ist **kein Ausnahmefall**; an § 104 für die Zwischenzeit ändert das nichts.
+
+❗ **Offene Rechtsfrage mit Folgen für die Kita-Strategie:** § 104 KVG LSA erlaubt die **vorläufige
+Erhebung von Abgaben nach den Sätzen des Vorjahres** ⚠️. **Berührt das eine eigenständig beschlossene
+Kita-Beitragssatzung mit neuen Sätzen ab 01.01.2027 — oder nur Abgaben, deren Sätze in der
+Haushaltssatzung selbst stehen?** 📐 *Eigene Vermutung, unbelegt:* eine selbstständige Beitragssatzung
+bleibt unberührt. **Wäre es anders, verschöbe sich die gesamte Kita-Beitragsplanung — in genau dem
+Jahr, in dem § 13 Abs. 4 Satz 2 KiFöG ausläuft.** **Vor der Satzungsvorlage klären, nicht danach.**
+
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 09.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -1216,6 +1303,10 @@ Bekanntmachungen und sind besser indexiert.** Dieser Weg wird ab 08.11.2026 bewu
 | **Wo verläuft die Gemeinde- und Gemarkungsgrenze im Bereich Großörner?** | Zuordnung von (a) Industriestandort der Anschlussbahn, (b) HIP-Areal, (c) Sondergebiet Photovoltaik 2023. 📐 **Vorfrage für Akzeptanzzahlungen, Gewerbesteuer und Zuständigkeit im Planverfahren** |
 | **Gerbstedt kollegial anrufen: wie wird nach dem Akzeptanzgesetz tatsächlich abgerechnet?** | Vier Fragen: (1) Satz **0,2 oder 0,3 ct/kWh** und Rechtsgrundlage; (2) Behandlung der **Abregelung**; (3) vertragliche Ergänzung zum gesetzlichen Anspruch; (4) Buchung als **Ertrag** oder **zweckgebundene Zuweisung**. 📐 Zweiter kostenloser Nachbaranruf nach Lutherstadt Eisleben |
 | **Gesetzestext AuGB 2025 lesen — in dieser Reihenfolge** | **(1) verbindlich oder freiwillig**, (2) Höhe, (3) **Bemessungsgrundlage** (installierte Leistung oder eingespeiste Menge, Behandlung der Abregelung), (4) **Übergangsregelung** für Anlagen aus 2025, (5) **Zweckbindung**. ❗ Bisher stützt sich alles auf Pressemitteilungen, von denen eine nachweislich fehlerhaft war |
+| **Spalte „im Plan 2026 enthalten: ja/nein“ für alle Vorhaben 2027 anlegen** | 📐 Die einfachste wirksame Vorsorge gegen § 104 KVG LSA: beide Notregime erlauben **Fortsetzung, nicht Neubeginn**. **Jedes 2027 neu beginnende Vorhaben ist das gefährdete** — eine Tabellenspalte, keine Prognose |
+| **Genehmigungslage der eigenen Haushaltssatzung klären** | Drei Fragen: (1) welche **Teile sind genehmigungspflichtig** (§ 108 Abs. 2, § 110 Abs. 2); (2) **wie lange dauerte die Genehmigung 2026**; (3) welche **Beanstandungsfrist** gilt nach **§ 146 Abs. 2 KVG LSA** ⚠️. 📐 Aus 2026 lässt sich der Zeitbedarf 2027 abschätzen — belastbarer als jede Annahme |
+| ❗ **Berührt § 104 KVG LSA eine eigenständige Kita-Beitragssatzung?** | Die vorläufige Abgabenerhebung nach Vorjahressätzen könnte neue Sätze ab 01.01.2027 betreffen. 📐 *Vermutung: nein*, unbelegt. **Vor der Satzungsvorlage ans Rechtsamt** |
+| **Auf welche Leistung wird die Abgabe nach dem AuGB 2025 berechnet — MWp oder MW?** | 📐 Rechnerisch der wahrscheinlichste Grund für den Gerbstedt-Widerspruch (90.000 € ÷ 2.500 €/MW = 36 MW gegen 53,5 MWp). **Bei dieser Anlagengröße rund 44.000 €/Jahr Unterschied.** Zwei Wege: Gesetzestext und kollegialer Anruf in Gerbstedt |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
