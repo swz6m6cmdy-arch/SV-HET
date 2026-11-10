@@ -638,6 +638,38 @@ Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
   Finanzplanungsergebnis um 9,6 Mio. € zu verbessern**, und mit **angeordneter Haushaltssperre**
   (nur notwendige Ausgaben, bis die Verbesserung erreicht ist).
 - ⚠️ **Die Kommunalaufsicht hat die Umlageerhöhung selbst angeregt (neu am 05.11.2026).** In einer **Pressemitteilung des Landesverwaltungsamtes vom 19.01.2026** zur Haushaltslage des Landkreises ist als Teil der angestrebten Lösung die **„Neuberatung der Kreisumlage im Kreistag, um die Einnahmesituation zu verbessern“** genannt ⚠️ *(Einzelfundstelle über einen Suchtreffer, Wortlaut an der Primärquelle zu prüfen)*. 📐 **In beide Richtungen zu verwenden:** Es erklärt, warum eine Erhöhung 2027 kommen kann — **und es entlastet den Kreis nicht von der Abwägungspflicht.** Eine Anregung der Aufsichtsbehörde ersetzt keine dokumentierte Abwägung der Finanzkraft der einzelnen Gemeinde; genau daran sind die Festsetzungen 2017, 2018 und 2020 gescheitert. **Beides in denselben Vermerk.**
+- ⚠️ **Vergleichsfall Sangerhausen: die Nachzahlung aus der Festsetzung 2026 (neu am 10.11.2026).**
+  Nach dem städtischen Mitteilungsblatt **Ausgabe 07/2026** ⚠️ *(Darstellung einer Stadt, kein Dokument
+  des Landkreises)*: Monatsrate nach der Festsetzung **1.060.000 €**; daraus eine **Nachzahlung von rund
+  1,4 Mio. € für das 1. Halbjahr**; der **Festsetzungsbescheid enthielt dazu keine Ausführungen**; der
+  Antrag, die Nachzahlung **liquiditätssichernd ins 4. Quartal** zu verschieben, wurde **mit Schreiben vom
+  26.06.2026 abgelehnt**, stattdessen ein **Zahlungsplan ab Juli** angekündigt.
+  📐 *Gegenprobe:* Ein erster Suchtreffer nannte eine frühere Monatsrate von **811.000 €** ⚠️, ein
+  zweiter bestätigte sie **nicht**. 1.060.000 − 811.000 = 249.000 € × 6 = **1.494.000 €**; umgekehrt
+  1,4 Mio. € ÷ 6 = 233.333 €/Monat → frühere Rate rund **827.000 €**. **Beide Wege führen auf etwa
+  810.000 bis 830.000 €; die Zahlen passen zueinander, sind aber nicht deckungsgleich.** → **Der
+  Mechanismus ist belastbar, die Beträge sind nicht zitierfähig.**
+  📐 **Der Mechanismus, und er ist auf 2027 übertragbar:** Die Umlage gilt **ab Jahresbeginn**, festgesetzt
+  wird sie aber erst im Februar und genehmigt im März. Die höhere Monatsrate wird **erst ab Jahresmitte**
+  erhoben, die Differenz für die verstrichenen Monate kommt **als Einmalbetrag** obendrauf. **Eine
+  Stundung ist kein Anspruch — sie wurde abgelehnt.** → **Drei Folgerungen für Hettstedt:** (1) nicht nur
+  eine höhere Monatsrate einplanen, sondern einen **Einmalbetrag im zweiten Halbjahr 2027**; (2) **keine
+  Stundung unterstellen**; (3) je später die Festsetzung, desto größer der Einmalbetrag.
+  ❌ **Keine Umrechnung auf Hettstedt:** Sangerhausen hat etwa die doppelte Einwohnerzahl, **aber die
+  Kreisumlage bemisst sich nach den Umlagegrundlagen, nicht nach Einwohnern.** Eine Skalierung über die
+  Einwohnerzahl wäre **methodisch falsch**. Übertragbar ist allein die Rechenregel: **Einmalbetrag ≈
+  monatlicher Mehrbetrag × verstrichene Monate**; maßgeblich ist das eigene Umlagesoll aus dem eigenen
+  Bescheid.
+  📐 **Zweiter, einfacherer Prüfpunkt neben dem Abwägungsmangel:** ob der Bescheid die **Zahlungsfolgen**
+  überhaupt ausweist — Monatsraten, Nachzahlung, Fälligkeiten. ⚠️ **Welche Begründungspflicht rechtlich
+  gilt, ist hier nicht geprüft und wird nicht behauptet; Frage für das Rechtsamt.**
+- ✅ **Zweiter Landkreis unter Haushaltssperre (neu am 10.11.2026).** Das Landesverwaltungsamt hat am
+  **12.05.2026** die **Haushaltssatzung 2026 des Landkreises Harz** unter Auflagen genehmigt und eine
+  **Haushaltssperre angeordnet** — dasselbe Muster wie bei Mansfeld-Südharz am 20.03.2026.
+  📐 **Damit ist der Satz „Systemkonflikt, nicht der Konflikt eines Kreises mit seinen Städten“ mit
+  **zwei datierten Einzelfällen** führbar, nicht nur mit 46 Verfahren und der Verfassungsbeschwerde.
+  👉 **Nutzen: Es verhindert, dass die eigene Argumentation als Streit mit dem eigenen Landrat
+  missverstanden wird.**
 - **Berichte zur Haushaltssperre (Stand 17.10.2026).** Die Kommunalaufsicht **begleitet den
   Umsetzungsstand eng und erwartet regelmäßige Berichte zur Haushaltssperre** ⚠️. **Diese
   Berichte existieren** und dokumentieren, wie weit der Kreis mit der Konsolidierung gekommen
@@ -742,8 +774,15 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 09.11.2026)
+## Laufende lokale Vorgänge (Stand 10.11.2026)
 
+- ⚠️ **Eigener Ratsbeschluss mit Wirkung zum 01.01.2027 (neu am 10.11.2026).** Aus der Beschlussliste
+  der Sitzung vom **16.09.2025**: Der Stadtrat hat **mit Wirkung zum 01.01.2027 eine Miete** beschlossen —
+  nach dem Treffer eine **Garagenmiete** ⚠️; **Betrag und genauer Gegenstand sind aus der Fundstelle nicht
+  erkennbar**. 📐 **Gegenrichtung zur Spalte „im Plan 2026 enthalten“:** ein **bereits beschlossener**
+  Vorgang mit Wirkung ab 2027, der in der Planung erscheinen **muss**, und zwar auf der **Ertragsseite**.
+  → **Die Liste der Ratsbeschlüsse mit Wirkung ab 01.01.2027 ist eigens durchzusehen** — Beschlüsse,
+  die ein Jahr im Voraus gefasst wurden, werden beim Aufstellen eines Haushalts übersehen.
 - **Haushalt 2026 und Haushaltskonsolidierungskonzept** — behandelt in der Stadtratssitzung
   am **24.03.2026**; das Konsolidierungskonzept hat eine Laufzeit **bis 2034**. ⚠️ Einzelfundstelle
   (Lokalmedium); Beschlussstand im Ratsinformationssystem zu verifizieren.
@@ -1255,7 +1294,7 @@ Haushaltssatzung selbst stehen?** 📐 *Eigene Vermutung, unbelegt:* eine selbst
 bleibt unberührt. **Wäre es anders, verschöbe sich die gesamte Kita-Beitragsplanung — in genau dem
 Jahr, in dem § 13 Abs. 4 Satz 2 KiFöG ausläuft.** **Vor der Satzungsvorlage klären, nicht danach.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 09.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 10.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -1307,6 +1346,9 @@ Jahr, in dem § 13 Abs. 4 Satz 2 KiFöG ausläuft.** **Vor der Satzungsvorlage k
 | **Genehmigungslage der eigenen Haushaltssatzung klären** | Drei Fragen: (1) welche **Teile sind genehmigungspflichtig** (§ 108 Abs. 2, § 110 Abs. 2); (2) **wie lange dauerte die Genehmigung 2026**; (3) welche **Beanstandungsfrist** gilt nach **§ 146 Abs. 2 KVG LSA** ⚠️. 📐 Aus 2026 lässt sich der Zeitbedarf 2027 abschätzen — belastbarer als jede Annahme |
 | ❗ **Berührt § 104 KVG LSA eine eigenständige Kita-Beitragssatzung?** | Die vorläufige Abgabenerhebung nach Vorjahressätzen könnte neue Sätze ab 01.01.2027 betreffen. 📐 *Vermutung: nein*, unbelegt. **Vor der Satzungsvorlage ans Rechtsamt** |
 | **Auf welche Leistung wird die Abgabe nach dem AuGB 2025 berechnet — MWp oder MW?** | 📐 Rechnerisch der wahrscheinlichste Grund für den Gerbstedt-Widerspruch (90.000 € ÷ 2.500 €/MW = 36 MW gegen 53,5 MWp). **Bei dieser Anlagengröße rund 44.000 €/Jahr Unterschied.** Zwei Wege: Gesetzestext und kollegialer Anruf in Gerbstedt |
+| **Gab es 2026 auch bei Hettstedt eine Nachzahlung aus der Umlagefestsetzung — und wie wurde sie behandelt?** | **Zwanzig Minuten Aktenarbeit am eigenen Bescheid 2026:** Monatsrate vorher und nachher, Nachzahlung für das 1. Halbjahr, Fälligkeit, ob ein Stundungsantrag gestellt und wie er beschieden wurde, und ob der Bescheid die **Zahlungsfolgen** überhaupt auswies. 📐 **Wurde derselbe Vorgang 2026 unauffällig abgewickelt, ist das der wichtigste Einzelbefund für die Liquiditätsplanung 2027** |
+| **Liquiditätsplanung 2027: Einmalbetrag aus der Umlagenachzahlung einstellen** | 📐 Nach dem Muster 2026 (Beschluss 11.02., Genehmigung 20.03.) ist die Festsetzung 2027 etwa im **Februar bis März** zu erwarten, der Einmalbetrag im **zweiten Halbjahr**. **Ohne Stundung zu unterstellen** — im Nachbarfall wurde sie abgelehnt |
+| **Liste der Ratsbeschlüsse mit Wirkung ab 01.01.2027 zusammenstellen** | Ertrags- **und** Aufwandsseite; Anlass ist der Mietbeschluss vom 16.09.2025 ⚠️. 📐 Beschlüsse mit einjährigem Vorlauf sind die, die beim Haushaltsaufstellen durchfallen |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |

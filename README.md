@@ -120,3 +120,4 @@ die von den installierten Schriften nicht gedeckt sind.
 - [07.11.2026](briefings/2026-11-07-kommunalbriefing-sachsen-anhalt.md)
 - [08.11.2026](briefings/2026-11-08-kommunalbriefing-sachsen-anhalt.md)
 - [09.11.2026](briefings/2026-11-09-kommunalbriefing-sachsen-anhalt.md)
+- [10.11.2026](briefings/2026-11-10-kommunalbriefing-sachsen-anhalt.md)
