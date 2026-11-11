@@ -180,7 +180,56 @@ denselben Gesprächspartnern, mit denen die Kreisumlage abzustimmen ist.
 
 ## Frei zugängliche Vergleichsquelle: Finanzbericht Wegweiser Kommune (neu am 27.10.2026)
 
-✅ **Belegt:** Die Bertelsmann Stiftung veröffentlicht über das Portal **Wegweiser Kommune** je Kommune einen **Finanzbericht** mit unter anderem **Verschuldung im Kernhaushalt (€ je Einwohner)** und **Steuereinnahmen pro Einwohner (€ je Einwohner)**. **Ein Bericht für Hettstedt existiert**; ⚠️ die Hettstedter Werte waren über diese Recherche **nicht auslesbar** — Abruf über das Portal.
+✅ **Belegt:** Die Bertelsmann Stiftung veröffentlicht über das Portal **Wegweiser Kommune** je Kommune einen **Finanzbericht** mit unter anderem **Verschuldung im Kernhaushalt (€ je Einwohner)** und **Steuereinnahmen pro Einwohner (€ je Einwohner)**.
+
+✅ **Die Hettstedter Werte sind am 11.11.2026 auslesbar geworden** — am 27.10. stand hier noch, sie seien es nicht:
+
+| Kennzahl (Indikatorjahr **2023**) | Hettstedt |
+|---|---|
+| **Steuereinnahmen je Einwohner** | **631 €** |
+| davon **Gewerbesteuer (netto)** je Einwohner | **278 €** |
+| davon **Einkommensteuer** je Einwohner | **267 €** |
+| **Hebesatz Grundsteuer B** | **416** |
+| **Hebesatz Gewerbesteuer** | **400** |
+
+⚠️ **Indikatorjahr 2023, Abrufstand 20.12.2025, nur Kernhaushalt.**
+
+**Vergleich im eigenen Landkreis (2023):** **Gemeinde Südharz 867 €**, **Seegebiet Mansfelder Land 701 €**,
+**Hettstedt 631 €** — **die Stadt liegt unter beiden**. 📐 *Eigene Rechnung:* Die Differenz zur Gemeinde
+Südharz beträgt **236 € je Einwohner**; bei 12.626 Einwohnern entspräche das **rund 3,0 Mio. € im Jahr**
+— ⚠️ **631 € sind ein Wert für 2023, 12.626 der Stand 31.12.2025; die Mischung ist nur als
+Größenordnung zulässig.** ⚠️ Ein **Kreisdurchschnitt 2023** lag nicht vor.
+
+📐 *Eigene Rechnung zum Westvergleich:* Hettstedt erreicht **rund 45 %** des Illertissener (1.417 €) und
+**rund 32 %** des Stuhrer Werts (1.953 €). ✅ Dazu passend, ⚠️ **Stand 2019:** Der **Kommunale
+Finanzreport 2019** beschreibt, dass der stärkste Kreis (München) je Einwohner **das Siebenfache** des
+schwächsten erzielt — **und der schwächste ist Mansfeld-Südharz**.
+
+👉 **Damit ist die Umlageargumentation nicht mehr nur juristisch, sondern empirisch unterlegt** — das
+Gegenstück zur vierten Prüffrage vom 25.10.: *Wurde die Mindestausstattung der einzelnen Gemeinde
+geprüft?*
+
+❗ **Eine Unstimmigkeit, die vor jeder Verwendung zu klären ist:** 278 € + 267 € = **545 €**; bis zu den
+ausgewiesenen **631 €** bleiben **86 €** für **Grundsteuer A und B, Umsatzsteueranteil und sonstige
+Steuern**. ⚠️ **Bei einem Hebesatz der Grundsteuer B von 416 ist das unplausibel niedrig.** 📐 Zwei
+Erklärungen denkbar, keine bewiesen: die Kennzahl ist **enger definiert** (etwa netto nach
+Gewerbesteuerumlage oder ohne Grundsteuer), oder die Einzelposten stammen aus **einem anderen Jahr**.
+**Mit einer Zahl zu argumentieren, deren Definition man nicht kennt, ist in einem Umlageverfahren das
+Gegenteil von hilfreich.**
+
+👉 **Rechercheweg für eine vollständige Kreistabelle:** Die Berichte sind über **vorhersagbare Adressen**
+abrufbar, Muster **`…/report/export/finanzbericht+<gemeindename>.pdf`** ⚠️ *(aus drei Treffern
+erschlossen: hettstedt, suedharz, seegebiet-mansfelder-land)*. **Damit lässt sich in einer Sitzung eine
+Tabelle aller Gemeinden des Landkreises erstellen** — Steuereinnahmen je Einwohner, Verschuldung im
+Kernhaushalt, Hebesätze. 📐 **Die billigste belastbare Grundlage für die Umlagestellungnahme 2027:**
+kostenlos, bundesweit einheitlich erhoben, von neutraler Stelle — und sie erlaubt erstmals eine Aussage
+über die **Rangstelle** Hettstedts im Kreis statt über Einzelvergleiche.
+
+📐 **Zur Hebesatzfrage:** Bei einer Gemeinde mit Konsolidierungskonzept fragt die Kommunalaufsicht
+regelmäßig, ob die **Hebesätze mindestens dem Landesdurchschnitt** entsprechen. ⚠️ **Der
+Landesdurchschnitt 2023 lag mir nicht vor; es wird hier nicht behauptet, ob Hettstedt darüber oder
+darunter liegt.** Die Zahl steht im **Realsteuervergleich des Statistischen Landesamtes** — nachgewiesen
+ist eine Ausgabe **2018/2019**; die aktuelle bei der Kämmerei beziehen.
 
 ⚠️ **Zwei Einschränkungen, die mitzulesen sind:** Die Indikatoren beziehen sich auf **2023**, und sie erfassen **nur den Kernhaushalt** — **ausgegliederte Einheiten bleiben außen vor**.
 📐 **Eigene Einordnung, und sie ist der Grund, warum das hier steht:** Weil nur der Kernhaushalt erfasst wird, bleiben die **Stadtwerke Hettstedt unsichtbar**. **Ein Vergleich auf dieser Basis fällt für eine Stadt mit eigenem Versorgungsunternehmen systematisch zu günstig aus.** → **Den Bericht abrufen und ihm eine eigene Seite beilegen, die Stadtwerke und sonstige ausgegliederte Einheiten mit Verbindlichkeiten und Ergebnisbeiträgen ausweist** — das ist für den Vorbericht 2027 mehr wert als die reine Kernhaushaltszahl und nimmt der Kommunalaufsicht ein Argument, bevor es gemacht wird.
@@ -660,6 +709,12 @@ Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
   Einwohnerzahl wäre **methodisch falsch**. Übertragbar ist allein die Rechenregel: **Einmalbetrag ≈
   monatlicher Mehrbetrag × verstrichene Monate**; maßgeblich ist das eigene Umlagesoll aus dem eigenen
   Bescheid.
+  ✅ **Präzisiert am 11.11.2026:** Die Ausgabe datiert vom **28.07.2026** (Nr. 7/2026). ⚠️ Darin
+  zudem: Die Stadt wolle „nun parallel Kraft in die **Aufstellung des Haushaltes 2027**“ investieren.
+  📐 *Einordnung ohne Vorwurf:* Eine vergleichbare Stadt im selben Landkreis hat die Arbeit am Haushalt
+  2027 **im Juli 2026** begonnen — als Reaktion auf die abgelehnte Stundung. → **Frage an die eigene
+  Verwaltung, nicht an dieses Briefing: Wo steht die Aufstellung des Haushalts 2027?** ⚠️ Die Recherche
+  erreicht den internen Stand nicht.
   📐 **Zweiter, einfacherer Prüfpunkt neben dem Abwägungsmangel:** ob der Bescheid die **Zahlungsfolgen**
   überhaupt ausweist — Monatsraten, Nachzahlung, Fälligkeiten. ⚠️ **Welche Begründungspflicht rechtlich
   gilt, ist hier nicht geprüft und wird nicht behauptet; Frage für das Rechtsamt.**
@@ -774,7 +829,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 10.11.2026)
+## Laufende lokale Vorgänge (Stand 11.11.2026)
 
 - ⚠️ **Eigener Ratsbeschluss mit Wirkung zum 01.01.2027 (neu am 10.11.2026).** Aus der Beschlussliste
   der Sitzung vom **16.09.2025**: Der Stadtrat hat **mit Wirkung zum 01.01.2027 eine Miete** beschlossen —
@@ -1294,7 +1349,7 @@ Haushaltssatzung selbst stehen?** 📐 *Eigene Vermutung, unbelegt:* eine selbst
 bleibt unberührt. **Wäre es anders, verschöbe sich die gesamte Kita-Beitragsplanung — in genau dem
 Jahr, in dem § 13 Abs. 4 Satz 2 KiFöG ausläuft.** **Vor der Satzungsvorlage klären, nicht danach.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 10.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 11.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -1349,6 +1404,9 @@ Jahr, in dem § 13 Abs. 4 Satz 2 KiFöG ausläuft.** **Vor der Satzungsvorlage k
 | **Gab es 2026 auch bei Hettstedt eine Nachzahlung aus der Umlagefestsetzung — und wie wurde sie behandelt?** | **Zwanzig Minuten Aktenarbeit am eigenen Bescheid 2026:** Monatsrate vorher und nachher, Nachzahlung für das 1. Halbjahr, Fälligkeit, ob ein Stundungsantrag gestellt und wie er beschieden wurde, und ob der Bescheid die **Zahlungsfolgen** überhaupt auswies. 📐 **Wurde derselbe Vorgang 2026 unauffällig abgewickelt, ist das der wichtigste Einzelbefund für die Liquiditätsplanung 2027** |
 | **Liquiditätsplanung 2027: Einmalbetrag aus der Umlagenachzahlung einstellen** | 📐 Nach dem Muster 2026 (Beschluss 11.02., Genehmigung 20.03.) ist die Festsetzung 2027 etwa im **Februar bis März** zu erwarten, der Einmalbetrag im **zweiten Halbjahr**. **Ohne Stundung zu unterstellen** — im Nachbarfall wurde sie abgelehnt |
 | **Liste der Ratsbeschlüsse mit Wirkung ab 01.01.2027 zusammenstellen** | Ertrags- **und** Aufwandsseite; Anlass ist der Mietbeschluss vom 16.09.2025 ⚠️. 📐 Beschlüsse mit einjährigem Vorlauf sind die, die beim Haushaltsaufstellen durchfallen |
+| **Finanzkennzahlen aller Gemeinden des Landkreises zu einer Tabelle zusammenstellen** | Muster der Abrufadresse: **`…/report/export/finanzbericht+<gemeindename>.pdf`** ⚠️. Spalten: Steuereinnahmen je Einwohner, Verschuldung im Kernhaushalt, Hebesätze. Überschrift **„Indikatorjahr 2023, nur Kernhaushalt“**, dazu die Beilage zu den **ausgegliederten Einheiten**. 📐 Liefert drei Sätze, die der Umlagestellungnahme bisher fehlten: **Rangstelle im Kreis, Abstand zum Kreisdurchschnitt, Ausschöpfung der eigenen Einnahmemöglichkeiten** |
+| ❗ **Definition der Kennzahl „Steuereinnahmen je Einwohner“ im Portal lesen — vor der Tabelle** | Die Gegenprobe geht nicht auf: 278 + 267 = 545 gegen ausgewiesene 631; **86 € für Grundsteuer und alles Übrige sind bei einem Hebesatz von 416 unplausibel**. **Eine Tabelle mit einer missverstandenen Kennzahl ist schlechter als keine** |
+| **Realsteuervergleich des Statistischen Landesamtes beziehen und die eigenen Hebesätze einordnen** | Eigene Werte 2023: **Grundsteuer B 416, Gewerbesteuer 400**. ⚠️ Landesdurchschnitt lag nicht vor. 📐 Die Kommunalaufsicht fragt bei Konsolidierungsgemeinden regelmäßig nach der Ausschöpfung eigener Einnahmemöglichkeiten — **besser selbst beantworten als gefragt werden** |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
