@@ -191,8 +191,73 @@ denselben Gesprächspartnern, mit denen die Kreisumlage abzustimmen ist.
 | davon **Einkommensteuer** je Einwohner | **267 €** |
 | **Hebesatz Grundsteuer B** | **416** |
 | **Hebesatz Gewerbesteuer** | **400** |
+| **Einzahlungen laufende Verwaltung** *(neu 12.11.)* | **1.361 €** |
+| **Auszahlungen laufende Verwaltung** *(neu 12.11.)* | **1.360 €** |
+| **Personalauszahlungen** *(neu 12.11.)* | **411 €** |
+| **Bevölkerung (Basis des Berichts)** *(neu 12.11.)* | **13.498** |
 
 ⚠️ **Indikatorjahr 2023, Abrufstand 20.12.2025, nur Kernhaushalt.**
+
+📐 **Die aussagekräftigste Zahl der Reihe (11./12.11.2026):** 1.361 € × 13.498 = rund **18,37 Mio. €**
+Einzahlungen, 1.360 € × 13.498 = rund **18,36 Mio. €** Auszahlungen — Differenz rund **13.500 €**.
+⚠️ **Beide Werte sind auf ganze Euro gerundet;** bei ±0,50 € je Seite liegt die wahre Differenz
+**zwischen etwa 0 und 27.000 €**. → **Belastbar ist nur: Der laufende Verwaltungshaushalt war 2023
+praktisch exakt ausgeglichen, der Überschuss lag in der Größenordnung weniger Zehntausend Euro.**
+👉 **Bei 18,4 Mio. € laufendem Umsatz gibt es keinen Puffer. Jedes offene Risiko dieses Profils ist
+größer als dieser Überschuss** — eine Umlageerhöhung (im Nachbarfall rund 249.000 € je Monat ⚠️), der
+Wegfall der Geschwisterregelung, ein FAG „nicht besser als 2026“, das Freibaddefizit.
+→ **Ein Haushalt ohne Puffer hat keine Reihenfolge der Dringlichkeit — jedes Risiko ist das erste.**
+**Dieser Absatz gehört an den Anfang des Vorberichts 2027.**
+
+📐 **Personalquote:** 411 € von 1.361 € = **30,2 %**, absolut rund **5,55 Mio. €**. ⚠️ **Es fehlt ein
+Vergleichswert; die Quote wird hier ausdrücklich nicht bewertet.** Sie ist aber die Zahl, die in jedem
+Konsolidierungsgespräch zuerst genannt wird — **den Vergleichswert aus der Kreistabelle selbst
+mitbringen.**
+
+❌ **Methodische Korrektur am 12.11.2026:** Die Rechnung vom 11.11. (236 € × **12.626**) war falsch.
+Portalkennzahlen sind auf die **Portalbevölkerung 13.498** zu beziehen: 236 € × 13.498 = **rund
+3,19 Mio. €**. 👉 **Regel: Portalkennzahl × 13.498, amtliche Pro-Kopf-Lasten × 12.626 — nicht mischen.**
+
+⚠️ **Befund am Rande, eigene Prüfung nötig:** Portalbasis **13.498** (2023) gegen amtlich **12.626**
+(31.12.2025) — 📐 ein Rückgang um **872 Personen** oder **6,5 %** in zwei Jahren, **falls die Basen
+vergleichbar sind; das ist offen** (das Portal kann eine andere Fortschreibung verwenden).
+**Ein Rückgang dieser Größenordnung wäre für Schlüsselzuweisungen, Umlagegrundlagen und
+Förderanträge erheblich** und gehört in den Vorbericht. Grundlage bleiben die Tabellen des
+Statistischen Landesamtes, **immer mit Stichtag**.
+
+**Vergleichsfall Lutherstadt Eisleben (2023, Abrufstand 19.12.2025)** ⚠️: Bevölkerung **22.609**;
+**Verschuldung im Kernhaushalt 834 €/EW**; davon **Liquiditätskredite 715 €/EW** (**−12,8 %** gegenüber
+Vorjahr); **Finanzsaldo +33 €/EW**. 📐 **715 von 834 € sind Liquiditätskredite — rund 86 %.**
+→ **Dieselbe Signatur, die dieses Profil dem Landkreis zuschreibt** (250 Mio. € Liquiditätsrahmen gegen
+7,8 Mio. € Investitionskredite): **eine Verschuldung, die zu sechs Siebteln aus Kassenkrediten besteht,
+ist eine Betriebs-, keine Investitionsschuld.** 📐 Zwei Lesarten: ✅ die Kassenkredite **sinken** und der
+Finanzsaldo ist **positiv**; ⚠️ das **Niveau** bleibt hoch. **Seegebiet Mansfelder Land:** Verschuldung
+im Kernhaushalt **695 €/EW**.
+
+❗ **Wichtigster Einzelabruf für die Kämmerei:** **Verschuldung, Liquiditätskredite und Finanzsaldo
+Hettstedts** waren in zwei Tagen Recherche **nicht auslesbar**. 📐 **Ohne sie fehlt die Hälfte des
+Bildes:** Ein auf den Euro ausgeglichener laufender Haushalt sagt nichts darüber, **wie** er ausgeglichen
+wurde — über Kassenkredite oder aus eigener Kraft.
+
+**Kennungen der Abrufadressen — belegt am 12.11.2026** (Muster `…/report/export/finanzbericht+<kennung>.pdf`):
+
+| Gebietseinheit | Kennung |
+|---|---|
+| Hettstedt | `hettstedt` |
+| **Lutherstadt Eisleben** | `eisleben` — **ohne „Lutherstadt“** |
+| Gemeinde Südharz | `suedharz` |
+| Seegebiet Mansfelder Land | `seegebiet-mansfelder-land` |
+| **Arnstein** | `arnstein-ml` — **mit Unterscheidungszusatz** |
+| Mansfelder Grund-Helbra | `mansfelder-grund-helbra` |
+| **Landkreis Harz** | `harz-lk` — ✅ **auch Landkreise haben einen Bericht** |
+
+👉 **Zwei Folgerungen:** (1) ✅ **Der Kreisdurchschnitt ist beschaffbar** — für Mansfeld-Südharz
+dürfte es nach dem Muster `<name>-lk` einen Bericht geben (⚠️ Kennung unbekannt). 📐 **Noch wertvoller:
+Der Bericht des Landkreises weist dessen Verschuldung und Liquiditätskredite je Einwohner aus — Kreis
+und Gemeinde in derselben Systematik, die sachlichste Grundlage für die Umlagestellungnahme.**
+(2) ⚠️ **Die Kennung ist nicht der amtliche Name** — eine fehlgeschlagene Adresse bedeutet nicht, dass
+es keinen Bericht gibt. ⚠️ Berichte für **Sangerhausen, Mansfeld und Gerbstedt** wurden nicht gefunden;
+📐 vermutlich eine Grenze der Suchmaschine, nicht des Portals.
 
 **Vergleich im eigenen Landkreis (2023):** **Gemeinde Südharz 867 €**, **Seegebiet Mansfelder Land 701 €**,
 **Hettstedt 631 €** — **die Stadt liegt unter beiden**. 📐 *Eigene Rechnung:* Die Differenz zur Gemeinde
@@ -829,7 +894,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 11.11.2026)
+## Laufende lokale Vorgänge (Stand 12.11.2026)
 
 - ⚠️ **Eigener Ratsbeschluss mit Wirkung zum 01.01.2027 (neu am 10.11.2026).** Aus der Beschlussliste
   der Sitzung vom **16.09.2025**: Der Stadtrat hat **mit Wirkung zum 01.01.2027 eine Miete** beschlossen —
@@ -1349,7 +1414,7 @@ Haushaltssatzung selbst stehen?** 📐 *Eigene Vermutung, unbelegt:* eine selbst
 bleibt unberührt. **Wäre es anders, verschöbe sich die gesamte Kita-Beitragsplanung — in genau dem
 Jahr, in dem § 13 Abs. 4 Satz 2 KiFöG ausläuft.** **Vor der Satzungsvorlage klären, nicht danach.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 11.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 12.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -1407,6 +1472,9 @@ Jahr, in dem § 13 Abs. 4 Satz 2 KiFöG ausläuft.** **Vor der Satzungsvorlage k
 | **Finanzkennzahlen aller Gemeinden des Landkreises zu einer Tabelle zusammenstellen** | Muster der Abrufadresse: **`…/report/export/finanzbericht+<gemeindename>.pdf`** ⚠️. Spalten: Steuereinnahmen je Einwohner, Verschuldung im Kernhaushalt, Hebesätze. Überschrift **„Indikatorjahr 2023, nur Kernhaushalt“**, dazu die Beilage zu den **ausgegliederten Einheiten**. 📐 Liefert drei Sätze, die der Umlagestellungnahme bisher fehlten: **Rangstelle im Kreis, Abstand zum Kreisdurchschnitt, Ausschöpfung der eigenen Einnahmemöglichkeiten** |
 | ❗ **Definition der Kennzahl „Steuereinnahmen je Einwohner“ im Portal lesen — vor der Tabelle** | Die Gegenprobe geht nicht auf: 278 + 267 = 545 gegen ausgewiesene 631; **86 € für Grundsteuer und alles Übrige sind bei einem Hebesatz von 416 unplausibel**. **Eine Tabelle mit einer missverstandenen Kennzahl ist schlechter als keine** |
 | **Realsteuervergleich des Statistischen Landesamtes beziehen und die eigenen Hebesätze einordnen** | Eigene Werte 2023: **Grundsteuer B 416, Gewerbesteuer 400**. ⚠️ Landesdurchschnitt lag nicht vor. 📐 Die Kommunalaufsicht fragt bei Konsolidierungsgemeinden regelmäßig nach der Ausschöpfung eigener Einnahmemöglichkeiten — **besser selbst beantworten als gefragt werden** |
+| ❗ **Verschuldung, Liquiditätskredite und Finanzsaldo Hettstedts aus dem Finanzbericht entnehmen** | **Ein Abruf, eine Minute**, Adresse bekannt. 📐 **Wichtigster Einzelabruf überhaupt:** Ohne diese drei Zahlen fehlt die Hälfte des Bildes — ein ausgeglichener laufender Haushalt sagt nichts darüber, ob er über Kassenkredite ausgeglichen wurde. Vergleichsmaßstab: Eisleben **834 €/EW** Kernhaushaltsverschuldung, davon **715 €/EW** Liquiditätskredite (86 %) |
+| **Kreistabelle um die Zeile des Landkreises selbst erweitern** | Kennung nach dem Muster **`<name>-lk`** ⚠️ (belegt für `harz-lk`). 📐 **Erspart das Bilden eines Durchschnitts aus Einzelgemeinden und stellt Kreis und Gemeinde in derselben Systematik gegenüber** — das stärkste Material für die Umlagestellungnahme 2027 |
+| ⚠️ **Einwohnerentwicklung 2023 bis 2025 prüfen** | Portalbasis **13.498** (2023) gegen amtlich **12.626** (31.12.2025) — 📐 wäre ein Rückgang von **6,5 % in zwei Jahren**. **Vergleichbarkeit der Basen offen.** Folgen für Schlüsselzuweisungen, Umlagegrundlagen und Förderanträge; mit Stichtag beim Statistischen Landesamt klären |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
