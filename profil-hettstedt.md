@@ -195,6 +195,10 @@ denselben Gesprächspartnern, mit denen die Kreisumlage abzustimmen ist.
 | **Auszahlungen laufende Verwaltung** *(neu 12.11.)* | **1.360 €** |
 | **Personalauszahlungen** *(neu 12.11.)* | **411 €** |
 | **Bevölkerung (Basis des Berichts)** *(neu 12.11.)* | **13.498** |
+| **Verschuldung im Kernhaushalt** *(neu 13.11.)* | **2.307 €** |
+| davon **Liquiditätskredite** *(neu 13.11.)* | **1.165 €** |
+| **Veränderung der Liquiditätskredite** *(neu 13.11.)* | **+11,2 %** gegenüber Vorjahr |
+| **Grundsteuer B** *(neu 13.11.)* | **99 €** |
 
 ⚠️ **Indikatorjahr 2023, Abrufstand 20.12.2025, nur Kernhaushalt.**
 
@@ -234,10 +238,50 @@ ist eine Betriebs-, keine Investitionsschuld.** 📐 Zwei Lesarten: ✅ die Kass
 Finanzsaldo ist **positiv**; ⚠️ das **Niveau** bleibt hoch. **Seegebiet Mansfelder Land:** Verschuldung
 im Kernhaushalt **695 €/EW**.
 
-❗ **Wichtigster Einzelabruf für die Kämmerei:** **Verschuldung, Liquiditätskredite und Finanzsaldo
-Hettstedts** waren in zwei Tagen Recherche **nicht auslesbar**. 📐 **Ohne sie fehlt die Hälfte des
-Bildes:** Ein auf den Euro ausgeglichener laufender Haushalt sagt nichts darüber, **wie** er ausgeglichen
-wurde — über Kassenkredite oder aus eigener Kraft.
+✅ **Am 13.11.2026 beschafft — und sie verändern das Bild.** 📐 *Eigene Rechnungen mit der
+Portalbevölkerung:* **2.307 € × 13.498 = rund 31,1 Mio. €** Kernhaushaltsverschuldung;
+**1.165 € × 13.498 = rund 15,7 Mio. €** Liquiditätskredite; **Anteil 50,5 %**.
+
+| Kommune (2023) | Verschuldung Kernhaushalt je EW | davon Liquiditätskredite | Richtung |
+|---|---|---|---|
+| **Hettstedt** | **2.307 €** | **1.165 €** (50,5 %) | **+11,2 %** |
+| Lutherstadt Eisleben | 834 € | 715 € (86 %) | **−12,8 %** |
+| Seegebiet Mansfelder Land | 695 € | ⚠️ nicht bekannt | — |
+| Mansfelder Grund-Helbra | ⚠️ nicht bekannt | 668 € | — |
+
+📐 **Vier Rechnungen:** (1) Hettstedts Pro-Kopf-Verschuldung ist **rund das 2,8-fache** von Eisleben und
+**3,3-fache** von Seegebiet Mansfelder Land. (2) Auch bei den **Liquiditätskrediten** liegt Hettstedt **am
+höchsten** — rund das **1,6-fache** des Eislebener Werts. (3) **Die Richtung ist entgegengesetzt:**
+Hettstedt **+11,2 %**, Eisleben **−12,8 %** im selben Jahr. (4) **Der Kassenkreditanteil ist bei Hettstedt
+niedriger** (50,5 % gegen 86 %) — 📐 das spricht dafür, dass ein größerer Teil **Investitionsschuld**
+ist, ⚠️ unbewiesen, passt aber zu den Altvorgängen (STARK V, KInvFG, Quartierspark).
+
+👉 **Die differenzierte Lesart:** **Hettstedt hat die höchste Pro-Kopf-Verschuldung der Vergleichsgruppe,
+aber die gesündere Struktur.** Eisleben hat weniger Schulden, die aber fast vollständig Betriebsschulden
+sind. **Beides ist ein Problem, aber nicht dasselbe:** Hettstedts Problem ist der **Schuldendienst**,
+Eislebens das **laufende Defizit**.
+
+❗ **Ein Widerspruch, der zu klären und nicht wegzuerklären ist:** Der laufende Verwaltungshaushalt 2023
+war praktisch exakt ausgeglichen — **und die Liquiditätskredite stiegen im selben Jahr um 11,2 %.**
+📐 **Drei Erklärungen denkbar, keine bewiesen:** (1) *die wahrscheinlichste:* „laufende Verwaltung“ ist
+nur ein Teil der Finanzrechnung — **Investitionsauszahlungen** stehen gesondert und können über
+Kassenkredite **vorfinanziert** worden sein, etwa in Erwartung von Fördermittelauszahlungen; (2)
+zeitliche Verschiebungen zwischen Fälligkeit und Zahlungseingang; (3) Altlasten, deren Umschuldung als
+Zuwachs erscheint. → **Fall 1 ist beherrschbar und läuft mit den Abrechnungen aus, Fall 3 wäre
+strukturell. Die Antwort steht in der eigenen Finanzrechnung 2023.**
+⚠️ **„Laufende Verwaltung ausgeglichen“ ist nicht „Haushalt ausgeglichen“** — der Zusatz stand schon
+am 12.11. da; heute zeigt sich, warum er zählt.
+
+❌ **Korrektur der Rechnung vom 11.11.2026:** Dort hieß es, 86 € für Grundsteuer und alles Übrige seien
+„unplausibel niedrig“. **Grundsteuer B allein beträgt 99 € je Einwohner.** 278 + 267 + 99 = **644 €**
+gegen ausgewiesene **631 €** — die Einzelposten **übersteigen** die Summe also leicht; die Kennzahl ist
+**enger** definiert, nicht weiter. ✅ **Es gab keine Unplausibilität; mir fehlte eine Zeile.**
+❗ Offen bleibt allein, warum 644 nicht 631 ergibt — naheliegend eine **Verrechnung** oder abweichende
+Abgrenzung. 📐 Nebenbei: Grundsteuer B **99 € × 13.498 = rund 1,34 Mio. €** bei Hebesatz **416**.
+
+👉 **Und eine Hochstufung:** **STARK II** — Teilentschuldung mit **30 % Landesanteil**, an Konsolidierung
+gekoppelt, Teilnahme der Stadt **ungeklärt**. **Bei 31,1 Mio. € Kernhaushaltsverschuldung ist das keine
+Randnotiz mehr.**
 
 **Kennungen der Abrufadressen — belegt am 12.11.2026** (Muster `…/report/export/finanzbericht+<kennung>.pdf`):
 
@@ -783,6 +827,28 @@ Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
   📐 **Zweiter, einfacherer Prüfpunkt neben dem Abwägungsmangel:** ob der Bescheid die **Zahlungsfolgen**
   überhaupt ausweist — Monatsraten, Nachzahlung, Fälligkeiten. ⚠️ **Welche Begründungspflicht rechtlich
   gilt, ist hier nicht geprüft und wird nicht behauptet; Frage für das Rechtsamt.**
+- ✅ **Zeitreihe der genehmigten Liquiditätskredit-Höchstbeträge des Landkreises (neu am 13.11.2026).**
+
+  | Haushaltsjahr | Genehmigter Höchstbetrag | Zuwachs |
+  |---|---|---|
+  | **2022/23** (Doppelhaushalt) | **75 Mio. €** | — |
+  | **2024** | **159 Mio. €** | 📐 **+84 Mio. €** |
+  | **2025** | **216 Mio. €** | 📐 **+57 Mio. €** |
+  | **2026** | **250 Mio. €** | 📐 **+34 Mio. €** |
+
+  ⚠️ Aus vier Pressemitteilungen des Landesverwaltungsamtes (25.01.2022, 04.06.2024, 02.06.2025,
+  20.03.2026). ⚠️ Für 2024 ist das Ziel belegt, **einem weiteren Anstieg der Liquiditätskredite und des
+  Defizits entgegenzuwirken**; für 2026, dass die Liquiditätskredite **die Genehmigungsschwelle deutlich
+  überschreiten**. 📐 *Zwei Rechnungen:* Der Höchstbetrag hat sich von 2022/23 bis 2026 **mehr als
+  verdreifacht** (250 ÷ 75 = 3,33); **die Zuwächse werden kleiner** (+84, +57, +34) — **die einzige
+  positive Nachricht dieser Reihe: der Anstieg verlangsamt sich, hört aber nicht auf.**
+  ⚠️ Lokalpresse, Einzelfundstelle: **Gesamtverschuldung des Landkreises Ende 2023 rund 157 Mio. €** —
+  📐 mehr als der damalige Liquiditätsrahmen von 75 Mio. €, bestand also zu erheblichem Teil aus anderen
+  Schulden. ❌ **Kein Pro-Kopf-Vergleich gerechnet** — die Einwohnerzahl des Landkreises lag nicht vor,
+  und mit einer geschätzten Bezugsgröße wird hier nicht gerechnet.
+  👉 **Für die Umlagestellungnahme 2027:** Die Reihe zeigt, dass der Landkreis seinen Betrieb in
+  zunehmendem Maß über Kassenkredite finanziert — **das erklärt die Umlageerhöhung und erledigt die
+  Abwägungspflicht gegenüber der einzelnen Gemeinde nicht. Beide Sätze in denselben Vermerk.**
 - ✅ **Zweiter Landkreis unter Haushaltssperre (neu am 10.11.2026).** Das Landesverwaltungsamt hat am
   **12.05.2026** die **Haushaltssatzung 2026 des Landkreises Harz** unter Auflagen genehmigt und eine
   **Haushaltssperre angeordnet** — dasselbe Muster wie bei Mansfeld-Südharz am 20.03.2026.
@@ -894,7 +960,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 12.11.2026)
+## Laufende lokale Vorgänge (Stand 13.11.2026)
 
 - ⚠️ **Eigener Ratsbeschluss mit Wirkung zum 01.01.2027 (neu am 10.11.2026).** Aus der Beschlussliste
   der Sitzung vom **16.09.2025**: Der Stadtrat hat **mit Wirkung zum 01.01.2027 eine Miete** beschlossen —
@@ -1414,7 +1480,7 @@ Haushaltssatzung selbst stehen?** 📐 *Eigene Vermutung, unbelegt:* eine selbst
 bleibt unberührt. **Wäre es anders, verschöbe sich die gesamte Kita-Beitragsplanung — in genau dem
 Jahr, in dem § 13 Abs. 4 Satz 2 KiFöG ausläuft.** **Vor der Satzungsvorlage klären, nicht danach.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 12.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 13.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -1475,6 +1541,8 @@ Jahr, in dem § 13 Abs. 4 Satz 2 KiFöG ausläuft.** **Vor der Satzungsvorlage k
 | ❗ **Verschuldung, Liquiditätskredite und Finanzsaldo Hettstedts aus dem Finanzbericht entnehmen** | **Ein Abruf, eine Minute**, Adresse bekannt. 📐 **Wichtigster Einzelabruf überhaupt:** Ohne diese drei Zahlen fehlt die Hälfte des Bildes — ein ausgeglichener laufender Haushalt sagt nichts darüber, ob er über Kassenkredite ausgeglichen wurde. Vergleichsmaßstab: Eisleben **834 €/EW** Kernhaushaltsverschuldung, davon **715 €/EW** Liquiditätskredite (86 %) |
 | **Kreistabelle um die Zeile des Landkreises selbst erweitern** | Kennung nach dem Muster **`<name>-lk`** ⚠️ (belegt für `harz-lk`). 📐 **Erspart das Bilden eines Durchschnitts aus Einzelgemeinden und stellt Kreis und Gemeinde in derselben Systematik gegenüber** — das stärkste Material für die Umlagestellungnahme 2027 |
 | ⚠️ **Einwohnerentwicklung 2023 bis 2025 prüfen** | Portalbasis **13.498** (2023) gegen amtlich **12.626** (31.12.2025) — 📐 wäre ein Rückgang von **6,5 % in zwei Jahren**. **Vergleichbarkeit der Basen offen.** Folgen für Schlüsselzuweisungen, Umlagegrundlagen und Förderanträge; mit Stichtag beim Statistischen Landesamt klären |
+| ❗ **Warum stiegen die Liquiditätskredite 2023 um 11,2 %, obwohl die laufende Verwaltung ausgeglichen war?** | **Finanzrechnung 2023, eine halbe Stunde.** 📐 Vorfinanzierung von Investitionen wäre beherrschbar und läuft mit den Abrechnungen aus; eine strukturelle Lücke wäre es nicht. **Die wichtigste offene Frage zur eigenen Finanzlage** |
+| ⚠️ **Zwei Altvorgänge prüfen: Landesmittel für Mansfeld und für Gerbstedt/Südharz 2023** | PM des Finanzministeriums vom **16.05.2023** (Stadt Mansfeld) und **25.04.2023** (Gerbstedt und Südharz) ⚠️. **Welches Programm steht dahinter — und hat Hettstedt es genutzt?** 📐 Möglicherweise STARK V oder Bedarfszuweisungen; wenn es eine ungenutzte Schiene ist, ist das eine Frage wert |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
