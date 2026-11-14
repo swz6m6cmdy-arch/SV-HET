@@ -960,7 +960,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 13.11.2026)
+## Laufende lokale Vorgänge (Stand 14.11.2026)
 
 - ⚠️ **Eigener Ratsbeschluss mit Wirkung zum 01.01.2027 (neu am 10.11.2026).** Aus der Beschlussliste
   der Sitzung vom **16.09.2025**: Der Stadtrat hat **mit Wirkung zum 01.01.2027 eine Miete** beschlossen —
@@ -1480,7 +1480,74 @@ Haushaltssatzung selbst stehen?** 📐 *Eigene Vermutung, unbelegt:* eine selbst
 bleibt unberührt. **Wäre es anders, verschöbe sich die gesamte Kita-Beitragsplanung — in genau dem
 Jahr, in dem § 13 Abs. 4 Satz 2 KiFöG ausläuft.** **Vor der Satzungsvorlage klären, nicht danach.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 13.11.2026)
+## Ausgleichsstock nach § 17 FAG: drei Nachbarn haben ihn genutzt (neu aufgenommen am 14.11.2026)
+
+**Die Frage vom 13.11., welches Programm hinter den Landesmitteln für Mansfeld, Gerbstedt und Südharz
+steht, ist beantwortet.** ❌ **Es war nicht STARK V und keine Entschuldung**, sondern der
+**Ausgleichsstock**.
+
+| Kommune | Datum | Leistung | Form |
+|---|---|---|---|
+| **Gemeinde Südharz** | 25.04.2023 | **rund 1,7 Mio. €** | **Bedarfszuweisung** — deckt **Altfehlbeträge** und begleicht **offene Forderungen aus einer früheren Liquiditätshilfe** |
+| **Stadt Gerbstedt** | 25.04.2023 | **rund 1,5 Mio. €** | **Liquiditätshilfe**, auf **fünf Jahre befristet** |
+| **Stadt Mansfeld** | 16.05.2023 | **rund 1,27 Mio. €** | **Liquiditätshilfe** — **zinsloses, fünf Jahre befristetes Darlehen** |
+
+**Das Instrument:**
+
+| Merkmal | Befund |
+|---|---|
+| Rechtsgrundlage | **§ 17 FAG** nebst **Verwaltungsvorschrift Ausgleichsstock**; ✅ **Lesefassung 2026 liegt beim Finanzministerium vor** |
+| Zwei Formen | **Bedarfszuweisung** (Zuschuss, senkt die Schulden) oder **Liquiditätshilfe** (zinsloses Darlehen, verschiebt sie zinsfrei) — jeweils **auf Antrag** |
+| ❗ **Nachrangigkeit** | **nachrangig gegenüber anderen Finanzierungsquellen der Kommune** |
+| Voraussetzungen ⚠️ | u. a. **dauernde Leistungsfähigkeit** nach dem **Haushaltskonsolidierungskonzept (HKS)** |
+| **Volumen 2026** | **40,9 Mio. €** |
+| Antragsfrist | ⚠️ **nicht auffindbar** |
+
+**Bewilligungen 2026** ⚠️: **Oberharz am Brocken knapp 10 Mio. €** (PM 13.03.2026, Anlass unbekannt);
+**Stadt Hecklingen gut 10 Mio. €** (PM 21.04.2026, **Ausgleich von Fehlbeträgen der Jahre 2004 bis 2011**).
+
+📐 **Drei eigene Folgerungen:** (1) **Zwei Kommunen banden etwa die Hälfte des Jahresvolumens** — kein
+Breitenprogramm, sondern ein **Einzelfallinstrument mit großen Beträgen**. (2) **Beide Bewilligungen
+wurden im März und April bekanntgegeben** → **ein Antrag für 2027 muss zum Jahreswechsel fertig sein**;
+⚠️ **keine Frist belegt, die Folgerung stützt sich auf zwei Bewilligungsdaten.** (3) Hecklingen erhielt
+Mittel für Fehlbeträge **von 2004 bis 2011** — **Altfehlbeträge sind kein verlorener Posten.**
+
+❗ **Die Nachrangigkeit verbindet drei Befunde dieser Woche:** Wer nachrangige Hilfe beantragt, muss
+zeigen, dass er **eigene Quellen ausgeschöpft** hat. → **Die Hebesatzfrage vom 11.11. (Grundsteuer B 416,
+Gewerbesteuer 400; Landesdurchschnitt ⚠️ unbekannt) ist damit wahrscheinlich eine Antragsvoraussetzung**;
+das **HKS bis 2034** liegt vor; die **Bedarfslage** ist mit **2.307 €/EW Verschuldung und 1.165 €/EW
+Liquiditätskrediten** belegbar. 👉 **Reihenfolge: zuerst der Realsteuervergleich, dann der Antrag.**
+
+📐 **Rechenregel zur Liquiditätshilfe, keine Behauptung:** Ersetzt ein zinsloses Darlehen verzinste
+Kassenkredite, ist die Ersparnis **der Zins auf den ersetzten Betrag**. Bei **15,7 Mio. €** wäre **ein
+Prozentpunkt rund 157.000 € im Jahr** — ⚠️ **Zinssatz unbekannt**; 📐 etwa das **Elffache** des
+Überschusses der laufenden Verwaltung 2023 (rund 13.500 €).
+
+⚠️ **Die Grenze dieses Befunds:** **Ob Hettstedt den Ausgleichsstock genutzt hat, ist unbekannt** — es
+ist keine Pressemitteilung auffindbar, **was nichts beweist** (nicht jede Bewilligung wird
+veröffentlicht, ein laufender oder abgelehnter Antrag ohnehin nicht). → **Erste Frage ist eine
+Aktenfrage: Hat die Stadt je beantragt oder erhalten, und mit welchem Ergebnis?** **Dieses Profil
+empfiehlt keinen Antrag — es weist auf ein Instrument hin, dessen Voraussetzungen hier sichtbar erfüllt
+scheinen, und auf drei Nachbarn, die es genutzt haben.**
+
+✅ **Neuer primärer Beobachtungspunkt für den FAG:** Das Finanzministerium veröffentlicht die Fassung
+**FAG 2025/2026** und die **Runderlasse „FAG-Ausgleichszahlung“** (2024 und 2025 belegt, mit
+ausfüllbarem Antragsformular) in einem **nach Jahren geordneten Verzeichnis** zum kommunalen
+Finanzausgleich. 📐 **Dort wird eine Nachfolgeregelung für 2027 zuerst sichtbar — früher als in
+Pressemitteilungen.** ⚠️ Die **besonderen Bedarfszuweisungen 2025** an kreisangehörige Gemeinden liefen
+über diesen Runderlass und sollten **Verwerfungen aus der Umsetzung des Gutachtens zum horizontalen
+Finanzausgleich** teilweise ausgleichen — **ein anderer Vorgang als der Ausgleichsstock**; für 2024 ist
+eine **Übergangsregelung zum Ausgleich von Einzahlungsverlusten** belegt (PM 05.06.2024).
+
+⚠️ **Zwei weitere Vorgänge aus der Nachbarschaft:** (1) **Sonderzuweisung an den Landkreis
+Mansfeld-Südharz**, Kabinettsbeschluss **06.09.2024** — Betrag und Zweck unbekannt. 👉 **Für den
+Umlagevermerk: Der Kreis erhält Sonderhilfen und erhöht die Umlage — beides in dieselbe Darstellung.**
+(2) **Sanierung des Schlosses Henriette in Gerbstedt**, PM des Landesverwaltungsamtes **08.12.2025** —
+📐 mit hoher Wahrscheinlichkeit **Denkmalpflegeförderung**, also die zum **30.06.2027** auslaufende
+Richtlinie; **ein naher Präzedenzfall für die Anfrage ans Landesverwaltungsamt.** ⚠️ Programmzuordnung
+nicht belegt.
+
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 14.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -1543,6 +1610,9 @@ Jahr, in dem § 13 Abs. 4 Satz 2 KiFöG ausläuft.** **Vor der Satzungsvorlage k
 | ⚠️ **Einwohnerentwicklung 2023 bis 2025 prüfen** | Portalbasis **13.498** (2023) gegen amtlich **12.626** (31.12.2025) — 📐 wäre ein Rückgang von **6,5 % in zwei Jahren**. **Vergleichbarkeit der Basen offen.** Folgen für Schlüsselzuweisungen, Umlagegrundlagen und Förderanträge; mit Stichtag beim Statistischen Landesamt klären |
 | ❗ **Warum stiegen die Liquiditätskredite 2023 um 11,2 %, obwohl die laufende Verwaltung ausgeglichen war?** | **Finanzrechnung 2023, eine halbe Stunde.** 📐 Vorfinanzierung von Investitionen wäre beherrschbar und läuft mit den Abrechnungen aus; eine strukturelle Lücke wäre es nicht. **Die wichtigste offene Frage zur eigenen Finanzlage** |
 | ⚠️ **Zwei Altvorgänge prüfen: Landesmittel für Mansfeld und für Gerbstedt/Südharz 2023** | PM des Finanzministeriums vom **16.05.2023** (Stadt Mansfeld) und **25.04.2023** (Gerbstedt und Südharz) ⚠️. **Welches Programm steht dahinter — und hat Hettstedt es genutzt?** 📐 Möglicherweise STARK V oder Bedarfszuweisungen; wenn es eine ungenutzte Schiene ist, ist das eine Frage wert |
+| ❗ **Hat die Stadt je Leistungen aus dem Ausgleichsstock beantragt oder erhalten — mit welchem Ergebnis?** | **Aktenfrage, steht vor jeder Empfehlung.** ⚠️ Das Fehlen einer Pressemitteilung beweist nichts. Drei Nachbarn haben 2023 genutzt: Südharz (Bedarfszuweisung 1,7 Mio. €), Gerbstedt (Liquiditätshilfe 1,5 Mio. €), Mansfeld (1,27 Mio. €) |
+| **Lesefassung der VV Ausgleichsstock 2026 lesen** | Vier Punkte: **Antragsfrist** ⚠️, **Voraussetzungen zur dauernden Leistungsfähigkeit**, **Unterschied Bedarfszuweisung / Liquiditätshilfe**, **bis zu welchen Jahren Altfehlbeträge ausgeglichen werden** (Hecklingen 2026: Fehlbeträge **2004 bis 2011** ⚠️). 📐 Volumen 2026: **40,9 Mio. €**, davon rund die Hälfte an zwei Kommunen |
+| **War Hettstedt von den besonderen Bedarfszuweisungen 2025 betroffen?** | Runderlass **„FAG-Ausgleichszahlung 2025“**; Zweck war der teilweise Ausgleich von **Verwerfungen aus dem Gutachten zum horizontalen Finanzausgleich** ⚠️. 📐 Zu prüfen ist auch, ob für die **FAG-Umstellung 2027** eine vergleichbare Übergangsregelung vorgesehen ist — für 2024 ist eine belegt |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
@@ -1631,7 +1701,7 @@ Jahr, in dem § 13 Abs. 4 Satz 2 KiFöG ausläuft.** **Vor der Satzungsvorlage k
 
 | Anliegen | Stelle |
 |---|---|
-| Bedarfszuweisung / Liquiditätshilfe | ausgleichsstock@sachsen-anhalt.de (Betreff: Gemeindename + Art der Leistung) |
+| Bedarfszuweisung / Liquiditätshilfe (**Ausgleichsstock § 17 FAG**) | ausgleichsstock@sachsen-anhalt.de (Betreff: Gemeindename + Art der Leistung) · **Ministerium der Finanzen**; VV-Lesefassung 2026 und Runderlasse im Verzeichnis zum kommunalen Finanzausgleich |
 | Sondervermögen Infrastruktur | Investitionsbank Sachsen-Anhalt (IB) |
 | LEADER | LAG Mansfeld-Südharz, 03475 / 612 387 |
 | Strukturwandel | SEG Mansfeld-Südharz mbH · strukturwandel.sachsen-anhalt.de |
