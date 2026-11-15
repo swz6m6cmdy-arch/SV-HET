@@ -827,6 +827,23 @@ Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
   📐 **Zweiter, einfacherer Prüfpunkt neben dem Abwägungsmangel:** ob der Bescheid die **Zahlungsfolgen**
   überhaupt ausweist — Monatsraten, Nachzahlung, Fälligkeiten. ⚠️ **Welche Begründungspflicht rechtlich
   gilt, ist hier nicht geprüft und wird nicht behauptet; Frage für das Rechtsamt.**
+- 📐 **Auflagenkette des Landkreises aus fünf Pressemitteilungen (neu am 15.11.2026).**
+
+  | Datum | Vorgang |
+  |---|---|
+  | **25.01.2022** | Doppelhaushalt 2022/23 genehmigt; Liquiditätskredite bis **75 Mio. €** |
+  | **04.06.2024** | Haushaltssatzung 2024 **bestätigt, aber mit der Anordnung**, dass **spätestens mit der Satzung für 2025 ein gesetzeskonformer Haushalt** vorliegt ⚠️ |
+  | **02.06.2025** | Haushalt 2025 **genehmigt**; Liquiditätskredite bis **216 Mio. €** |
+  | **19.01.2026** | Erster Beschluss zum Haushalt 2026 **beanstandet** |
+  | **20.03.2026** | Haushalt 2026 **im zweiten Anlauf genehmigt**, mit Auflagen und **angeordneter Haushaltssperre** |
+
+  📐 **Eigene Lesart, als solche gekennzeichnet:** 2024 wurde ein gesetzeskonformer Haushalt **spätestens
+  für 2025** verlangt; 2026 wurde der erste Beschluss **beanstandet**. → **Sachlich und ohne Vorwurf
+  festzuhalten: Die Anordnung von 2024 wurde nicht erreicht.** ⚠️ **Die Formulierung stammt aus einer
+  Pressemitteilung, nicht aus dem Genehmigungsbescheid — vor Verwendung im Originaltext prüfen.**
+  👉 **Für die Abwägungsfrage zur Umlage 2027 erheblich:** Macht eine Gemeinde geltend, der Kreis müsse
+  seine Konsolidierung nicht allein über die Umlage betreiben, ist die dokumentierte Auflagenkette das
+  Material dafür — **zusammen mit der Zeitreihe der Liquiditätskredite und den Sonderhilfen des Landes.**
 - ✅ **Zeitreihe der genehmigten Liquiditätskredit-Höchstbeträge des Landkreises (neu am 13.11.2026).**
 
   | Haushaltsjahr | Genehmigter Höchstbetrag | Zuwachs |
@@ -960,8 +977,17 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 14.11.2026)
+## Laufende lokale Vorgänge (Stand 15.11.2026)
 
+- ⚠️ **§ 105 Abs. 1 KVG LSA ist in diesem Haus eingeübt (neu am 15.11.2026).** Eine Beschlussvorlage
+  vom **11.06.2025** betraf eine **außerplanmäßige Auszahlung gemäß § 105 Abs. 1 KVG LSA im
+  Haushaltsjahr 2024** samt Mitteln für 2025 ⚠️ *(Gegenstand und Betrag nicht erkennbar)*.
+  📐 **Warum das zählt:** Für den ab 10.11.2026 geführten **Einmalbetrag aus der Umlagefestsetzung 2027**
+  — eine Auszahlung, die in keinem Plan steht — ist **§ 105 KVG LSA das passende Instrument**, und das
+  Verfahren ist hier bereits angewandt worden. → **Zwei Fragen an die Kämmerei:** Welche Voraussetzungen
+  und welches Beschlussverfahren verlangt § 105 Abs. 1, und **wie lange dauert es**? Und 📐 **ist eine
+  Umlagenachzahlung „unabweisbar“ im Sinne der Vorschrift?** ⚠️ **Die Rechtsfrage wird hier nicht
+  beantwortet** — aber wer im Juli 2027 davorsteht, sollte das Verfahren vorher kennen.
 - ⚠️ **Eigener Ratsbeschluss mit Wirkung zum 01.01.2027 (neu am 10.11.2026).** Aus der Beschlussliste
   der Sitzung vom **16.09.2025**: Der Stadtrat hat **mit Wirkung zum 01.01.2027 eine Miete** beschlossen —
   nach dem Treffer eine **Garagenmiete** ⚠️; **Betrag und genauer Gegenstand sind aus der Fundstelle nicht
@@ -1539,6 +1565,46 @@ Pressemitteilungen.** ⚠️ Die **besonderen Bedarfszuweisungen 2025** an kreis
 Finanzausgleich** teilweise ausgleichen — **ein anderer Vorgang als der Ausgleichsstock**; für 2024 ist
 eine **Übergangsregelung zum Ausgleich von Einzahlungsverlusten** belegt (PM 05.06.2024).
 
+**Das Verfahren im Einzelnen — ergänzt am 15.11.2026:**
+
+✅ **Die Bearbeitung erfolgt nach Antragseingang, mit Vorrang für Anträge auf Liquiditätshilfe.**
+📐 **Damit steht die Terminfolgerung vom 14.11. nicht mehr nur auf zwei Bewilligungsdaten, sondern auf
+der Vorschrift selbst:** Bei begrenztem Jahresvolumen entscheidet der **Eingangszeitpunkt** mit.
+
+**Gliederung der VV zur Liquiditätshilfe** — damit ist die Leseaufgabe präzise benannt:
+
+| Nummer | Gegenstand |
+|---|---|
+| **2.6.1** | Antragsberechtigung |
+| **2.6.2** | **Antragsfrist** ⚠️ **Inhalt nicht auslesbar — der entscheidende Abschnitt** |
+| **2.6.3** | Voraussetzungen |
+| folgende | Umfang und Höhe · Verfahren · Verlängerung |
+
+**Weitere belegte Einzelheiten:** ✅ Die **Liquiditätshilfe** ist **zinslos, befristet und rückzahlbar**.
+✅ Maßgeblich für die Voraussetzungen ist die Bewertung nach dem **Haushaltskennzahlensystem (HKS)** des
+Landes; die Gemeinde muss eine **weggefallene oder gefährdete** dauernde Leistungsfähigkeit aufweisen.
+❗ **Bei Bedarfszuweisungen ist eine von der Kommunalaufsicht bestätigte HKS-Bewertung beizufügen.**
+✅ Antrag **ausschließlich per E-Mail**; für Bedarfszuweisungen gibt es ein **Formblatt mit Anlagen**.
+✅ Bewilligungen können mit **Nebenbestimmungen zur Haushaltskonsolidierung** verbunden werden, um die
+**geordnete Haushaltswirtschaft nach § 98 KVG LSA** wiederherzustellen.
+
+❗ **Die Vorlaufzeit, die daraus folgt:** Für eine Bedarfszuweisung braucht die Stadt eine **HKS-Bewertung
+mit Bestätigung der Kommunalaufsicht** — **kein Vorgang des eigenen Hauses**, sondern ein Schritt bei
+einer Behörde mit eigener Bearbeitungszeit. 👉 **Reihenfolge: (1) HKS-Bewertung erstellen und bestätigen
+lassen, (2) Realsteuervergleich beilegen (Nachrangigkeit), (3) Antrag so früh wie möglich im
+Haushaltsjahr.** 📐 **Schritt 1 ist der Grund, nicht erst im Februar anzufangen.**
+
+⚠️ **Warnung:** **Nebenbestimmungen zur Haushaltskonsolidierung können über das hinausgehen, was das
+eigene Konzept vorsieht.** → **Vor der Antragstellung klären, welche Auflagen die Nachbarkommunen
+erhalten haben** — dritte Frage für den kollegialen Anruf in Gerbstedt und Mansfeld.
+
+⚠️ **Ein vierter Nachbarfall, Programmzuordnung offen:** PM des Finanzministeriums vom **27.09.2022**,
+„**gut 3,5 Mio. € für Sangerhausen**“ — ⚠️ **könnte Ausgleichsstock oder Energiepreishilfe sein** (für
+letztere galt 2022 ein vereinfachtes Verfahren mit Frist 31.10.2022). 📐 Mit diesem Vorbehalt:
+**mindestens drei, möglicherweise vier Gemeinden des Landkreises haben diese Instrumente in zwei Jahren
+genutzt — für Hettstedt ist kein Fall auffindbar.** ⚠️ **Das Fehlen einer Meldung beweist nichts;** die
+Antwort kann legitim lauten: nicht gebraucht, abgelehnt, oder nicht veröffentlicht.
+
 ⚠️ **Zwei weitere Vorgänge aus der Nachbarschaft:** (1) **Sonderzuweisung an den Landkreis
 Mansfeld-Südharz**, Kabinettsbeschluss **06.09.2024** — Betrag und Zweck unbekannt. 👉 **Für den
 Umlagevermerk: Der Kreis erhält Sonderhilfen und erhöht die Umlage — beides in dieselbe Darstellung.**
@@ -1547,7 +1613,7 @@ Umlagevermerk: Der Kreis erhält Sonderhilfen und erhöht die Umlage — beides 
 Richtlinie; **ein naher Präzedenzfall für die Anfrage ans Landesverwaltungsamt.** ⚠️ Programmzuordnung
 nicht belegt.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 14.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 15.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -1613,6 +1679,10 @@ nicht belegt.
 | ❗ **Hat die Stadt je Leistungen aus dem Ausgleichsstock beantragt oder erhalten — mit welchem Ergebnis?** | **Aktenfrage, steht vor jeder Empfehlung.** ⚠️ Das Fehlen einer Pressemitteilung beweist nichts. Drei Nachbarn haben 2023 genutzt: Südharz (Bedarfszuweisung 1,7 Mio. €), Gerbstedt (Liquiditätshilfe 1,5 Mio. €), Mansfeld (1,27 Mio. €) |
 | **Lesefassung der VV Ausgleichsstock 2026 lesen** | Vier Punkte: **Antragsfrist** ⚠️, **Voraussetzungen zur dauernden Leistungsfähigkeit**, **Unterschied Bedarfszuweisung / Liquiditätshilfe**, **bis zu welchen Jahren Altfehlbeträge ausgeglichen werden** (Hecklingen 2026: Fehlbeträge **2004 bis 2011** ⚠️). 📐 Volumen 2026: **40,9 Mio. €**, davon rund die Hälfte an zwei Kommunen |
 | **War Hettstedt von den besonderen Bedarfszuweisungen 2025 betroffen?** | Runderlass **„FAG-Ausgleichszahlung 2025“**; Zweck war der teilweise Ausgleich von **Verwerfungen aus dem Gutachten zum horizontalen Finanzausgleich** ⚠️. 📐 Zu prüfen ist auch, ob für die **FAG-Umstellung 2027** eine vergleichbare Übergangsregelung vorgesehen ist — für 2024 ist eine belegt |
+| ❗ **HKS-Bewertung erstellen und von der Kommunalaufsicht bestätigen lassen** | **Der zeitkritische Schritt vor jedem Ausgleichsstock-Antrag** — bei Bedarfszuweisungen zwingend beizufügen, und **kein Vorgang des eigenen Hauses**. 📐 Zusammen mit der **Bearbeitung nach Antragseingang** heißt das: die Kette beginnt mit der Bewertung, nicht mit dem Antrag |
+| **VV Ausgleichsstock 2026, Nummern 2.6.2 und 2.6.3 lesen** | **Antragsfrist** und **Voraussetzungen** — beide Inhalte waren nicht auslesbar, die Abschnitte sind jetzt benannt. Dazu die Parallelabschnitte zur **Bedarfszuweisung**. 📐 Zwei Abschnitte, nicht die ganze Vorschrift |
+| ❗ **Welche Nebenbestimmungen zur Haushaltskonsolidierung trugen die Bewilligungen der Nachbarn?** | Kollegialer Anruf in **Gerbstedt** und **Mansfeld**, dritte Frage neben MWp/MW und Schloss Henriette. ⚠️ **Auflagen können über das eigene Konsolidierungskonzept hinausgehen** — vor der Antragstellung zu klären |
+| **§ 105 Abs. 1 KVG LSA nachlesen: Voraussetzungen, Beschlussverfahren, Dauer** | Instrument für eine **außerplanmäßige Auszahlung**, in diesem Haus **2024/2025 bereits angewandt**. 📐 Gebraucht wird es voraussichtlich im **zweiten Halbjahr 2027** für den Einmalbetrag aus der Umlage. ⚠️ Ob eine Umlagenachzahlung „unabweisbar“ ist, ist eine Rechtsfrage und hier nicht beantwortet |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
