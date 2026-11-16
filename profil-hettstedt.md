@@ -644,9 +644,46 @@ AfD-Landtagspräsident in der Bundesrepublik. Vizepräsidenten: **Hans-Thomas Ti
 📐 *Eigene Rechnung mit den Fraktionsstärken (AfD 39, CDU 15, SPD 8, Grüne 8, Linke 8, BSW 5
 von 83):* **beide Verfahren führen zum selben Ergebnis** — bei 12 Sitzen 6 für die AfD, bei
 11 Sitzen 5. **Der Streit hängt an der Größe, nicht am Verfahren.**
-📐 *Vergleichsmaßstab, belegt für die 8. Wahlperiode:* **elf ständige Ausschüsse mit je 13 Mitgliedern**. **Eine neue Geschäftsordnung für die 9. WP wurde beschlossen; die
-Ausschussgröße ist aus den vorliegenden Quellen nicht belegbar** (11 nach Empfehlung der
+📐 *Vergleichsmaßstab, belegt für die 8. Wahlperiode:* **elf ständige Ausschüsse mit je 13 Mitgliedern**. **Eine neue Geschäftsordnung für die 9. WP wurde beschlossen** (11 nach Empfehlung der
 Landtagsverwaltung = 5 AfD-Sitze, 12 nach Forderung der AfD-Fraktion = 6 und damit 6:6).
+
+⚠️ **Am 16.11.2026 ergänzt — die Lücke schließt sich, aber nur auf Presseberichten:** Mehrere
+Meldungen legen nahe, dass die Ausschussgröße bei **elf** liegt und die **AfD eingelenkt** hat; Rausch
+nannte es einen **Konsens**, der Grünen-Vertreter **Olaf Meister** führte es darauf zurück, dass die AfD
+eine Niederlage vor Gericht vermeiden wollte; auch die strittige **Raumverteilung** sei gelöst.
+✅ **Mechanismus:** Die Größe sollte **mit der Geschäftsordnung** festgelegt werden, die der Landtag am
+**06.10.** beschließen konnte; der **Vor-Ältestenrat** (AfD, CDU, SPD, Grüne, Linke, BSW) sollte die
+Frage elf oder zwölf am **30.09.** klären.
+⚠️ **Gegenmeldung:** Parallel existiert „**Keine Einigung** zu Landtagsausschüssen in Sachsen-Anhalt“.
+📐 **Beide können in zeitlicher Folge richtig sein — die Reihenfolge ist nicht sicher datierbar.**
+❗ **Amtlich bestätigt ist nichts davon; am Ausschussverzeichnis oder an der Geschäftsordnung der
+9. Wahlperiode zu verifizieren.**
+
+❗ **Und ein Befund, der die vier Beobachtungsfragen zum 18./19.11. überholt (16.11.2026):** ⚠️ Ein
+Bericht von etwa dem **14.11.2026** beschreibt den **Medienausschuss** als Gremium mit **elf
+Abgeordneten, davon fünf AfD und einem BSW**, und berichtet, **AfD und BSW hätten dort ihre gemeinsame
+Mehrheit genutzt** und einen neuen Staatsvertrag abgelehnt. ⚠️ **Einzelfundstelle, politisch
+positioniertes Portal — nicht zitierfähig.** ✅ **Konsistenzprüfung:** Die Zusammensetzung 11 / 5 AfD
+**stimmt mit der eigenen Rechnung vom 01.11.2026 genau überein.**
+
+📐 **Folgen, falls der Befund zutrifft:** (1) **Die Ausschüsse sind eingesetzt** — erste Beobachtungsfrage
+erledigt. (2) **Größe elf** — zweite erledigt. (3) **Die LVerfG-Klage ist gegenstandslos** (sie galt für
+den Fall von zwölf) — vierte erledigt. (4) ❗ **Der Frühindikator ist gefallen und zeigt in die
+unerwünschte Richtung: das BSW stimmt in Sachfragen mit der AfD** (📐 5 + 1 = 6 von 11).
+→ **Daraus folgt: Mehrheiten für Gesetze sind in diesem Landtag bildbar.** ❌ **Daraus folgt nicht**,
+dass das BSW bei der **geheimen** Ministerpräsidentenwahl anders stimmt als angekündigt — **die
+Unterscheidung offene gegen geheime Abstimmung stand hier schon am 02.11.2026.**
+👉 **Die Weiche vom 02.11. löst sich in Richtung „verfahrensmäßig möglich“ auf:** Ausschussberatung im
+November, Beschluss in der Sitzung 15.–17.12. wäre gangbar. ❗ **Die Planungsannahme bleibt dennoch
+„nicht besser als 2026“:** „möglich“ ist nicht „beschlossen“, und **beim FAG fehlt weiterhin ein
+Entwurf — ohne Entwurf hilft kein Ausschuss.** 👉 **Die gute Nachricht betrifft das KiFöG.**
+
+⚠️ **Tagesordnung des Plenums 18./19.11. nicht auffindbar;** die veröffentlichten Tagesordnungen reichen
+bis zur **8. Wahlperiode (23.06.2026)**. 📐 Zwei Lesarten (Seite nicht nachgeführt oder Suchindex hinkt
+nach), **nicht unterscheidbar**. ✅ Der Termin selbst bleibt aus dem Sitzungsplan (Stand 12.10.2026)
+belegt. 👉 **Revidierte Beobachtungsliste: Steht auf der Tagesordnung ein KiFöG-Entwurf, ein
+FAG-Entwurf, das Haushaltsgesetz 2027?** **Frage zwei ist die wichtigste des Jahres für diesen
+Haushalt.**
 📐 *Eigene Ableitung vom 04.11.2026 aus der Rangfolge:* Der Erste Vizepräsident vertritt den
 Präsidenten. **Mit einem AfD-Präsidenten und einem AfD-Ersten Vizepräsidenten liegt die
 Sitzungsleitung des Landtages durchgehend bei einer Fraktion** — eine Vertretung durch ein
@@ -977,7 +1014,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 15.11.2026)
+## Laufende lokale Vorgänge (Stand 16.11.2026)
 
 - ⚠️ **§ 105 Abs. 1 KVG LSA ist in diesem Haus eingeübt (neu am 15.11.2026).** Eine Beschlussvorlage
   vom **11.06.2025** betraf eine **außerplanmäßige Auszahlung gemäß § 105 Abs. 1 KVG LSA im
@@ -1496,7 +1533,9 @@ kommt spät, **§ 102 Abs. 2 verzögert die Bekanntmachung** → **§ 104 greift
 **Keine Stufe ist vermeidbar, jede ist vorbereitbar.**
 
 ⚠️ **Vergleichsmaßstab zur Terminlage:** **Haldensleben** beschloss seine Haushaltssatzung 2026 am
-**27.11.2025**, **Schwanebeck** erst am **12.02.2026**. 📐 Beide Wege sind in Sachsen-Anhalt praktiziert —
+**27.11.2025**, **Schwanebeck** erst am **12.02.2026**; ⚠️ **Dresden** hat den Beschluss über seinen
+Doppelhaushalt 2027/2028 auf den **26.11.2026** gelegt (anderes Land, nur als Einordnung). 📐 **Spannweite
+also Ende November bis Mitte Februar.** 📐 Beide Wege sind in Sachsen-Anhalt praktiziert —
 ein Beschluss im Februar ist **kein Ausnahmefall**; an § 104 für die Zwischenzeit ändert das nichts.
 
 ❗ **Offene Rechtsfrage mit Folgen für die Kita-Strategie:** § 104 KVG LSA erlaubt die **vorläufige
@@ -1613,7 +1652,7 @@ Umlagevermerk: Der Kreis erhält Sonderhilfen und erhöht die Umlage — beides 
 Richtlinie; **ein naher Präzedenzfall für die Anfrage ans Landesverwaltungsamt.** ⚠️ Programmzuordnung
 nicht belegt.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 15.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 16.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -1683,6 +1722,9 @@ nicht belegt.
 | **VV Ausgleichsstock 2026, Nummern 2.6.2 und 2.6.3 lesen** | **Antragsfrist** und **Voraussetzungen** — beide Inhalte waren nicht auslesbar, die Abschnitte sind jetzt benannt. Dazu die Parallelabschnitte zur **Bedarfszuweisung**. 📐 Zwei Abschnitte, nicht die ganze Vorschrift |
 | ❗ **Welche Nebenbestimmungen zur Haushaltskonsolidierung trugen die Bewilligungen der Nachbarn?** | Kollegialer Anruf in **Gerbstedt** und **Mansfeld**, dritte Frage neben MWp/MW und Schloss Henriette. ⚠️ **Auflagen können über das eigene Konsolidierungskonzept hinausgehen** — vor der Antragstellung zu klären |
 | **§ 105 Abs. 1 KVG LSA nachlesen: Voraussetzungen, Beschlussverfahren, Dauer** | Instrument für eine **außerplanmäßige Auszahlung**, in diesem Haus **2024/2025 bereits angewandt**. 📐 Gebraucht wird es voraussichtlich im **zweiten Halbjahr 2027** für den Einmalbetrag aus der Umlage. ⚠️ Ob eine Umlagenachzahlung „unabweisbar“ ist, ist eine Rechtsfrage und hier nicht beantwortet |
+| ❗ **Tagesordnung des Plenums vom 18./19.11.2026 abrufen und drei Punkte suchen** | **KiFöG-Entwurf? FAG-Entwurf? Haushaltsgesetz 2027?** 📐 Ein öffentliches Dokument, das mehr beantwortet als jede Pressemitteilung danach; es gibt auch das Format einer **kommentierten Tagesordnung**. ⚠️ Bisher nicht auffindbar |
+| ⚠️ **Ausschussgröße elf und Einsetzung der Ausschüsse am Landtag verifizieren** | Über **Ausschussverzeichnis** oder **Geschäftsordnung der 9. Wahlperiode**. ❗ Der Befund vom 16.11.2026 stützt sich auf Presseberichte, darunter eine politisch positionierte Einzelfundstelle — **so nicht zitierfähig**, obwohl die Zahlen mit der eigenen Rechnung übereinstimmen |
+| **Zweistufige Satzungsvorlage um eine zweite Variante ergänzen** | Für den Fall einer **KiFöG-Verlängerung**. 📐 Die Weiche vom 02.11.2026 löst sich in Richtung „verfahrensmäßig möglich“ auf; **eine Vorlage, die nur den Wegfall abbildet, wäre dann unvollständig** |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
