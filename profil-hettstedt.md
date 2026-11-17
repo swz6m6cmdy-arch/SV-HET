@@ -659,6 +659,17 @@ Frage elf oder zwölf am **30.09.** klären.
 ❗ **Amtlich bestätigt ist nichts davon; am Ausschussverzeichnis oder an der Geschäftsordnung der
 9. Wahlperiode zu verifizieren.**
 
+✅ **Drei Präzisierungen vom 17.11.2026:** (1) Die Fraktionen entsenden ihre Mitglieder nach dem
+**Rangmaßzahlverfahren gemäß § 12 GO-LT LSA** — **damit ist der Widerspruch vom 01.11.2026 aufgelöst,
+welches Zuteilungsverfahren gilt.** (2) **Wahlprüfungsausschuss und Petitionsausschuss sind
+verfassungsrechtlich vorgeschrieben** — 📐 ein vollständiges Ausbleiben von Ausschüssen war daher nie
+eine Option. (3) Das **Ausschussverzeichnis erscheint als Drucksache**; für die 8. Wahlperiode war es
+**Drs. 8/4426 (Stand 02.08.2024)**. 👉 **Damit ist der Suchweg präzise: Ausschussverzeichnis der
+9. Wahlperiode als Drucksache.** ⚠️ Für die 9. WP nicht auffindbar; bestätigt ist nur der
+Verhandlungsstand, dass im **Vor-Ältestenrat Konsens bestand, die Ausschüsse kleiner als 13 zu machen**.
+📐 **Nüchterner Zwischenstand: Dass es weniger als 13 werden, ist belegt. Dass es elf sind, ist
+berichtet, nicht belegt.**
+
 ❗ **Und ein Befund, der die vier Beobachtungsfragen zum 18./19.11. überholt (16.11.2026):** ⚠️ Ein
 Bericht von etwa dem **14.11.2026** beschreibt den **Medienausschuss** als Gremium mit **elf
 Abgeordneten, davon fünf AfD und einem BSW**, und berichtet, **AfD und BSW hätten dort ihre gemeinsame
@@ -1014,7 +1025,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 16.11.2026)
+## Laufende lokale Vorgänge (Stand 17.11.2026)
 
 - ⚠️ **§ 105 Abs. 1 KVG LSA ist in diesem Haus eingeübt (neu am 15.11.2026).** Eine Beschlussvorlage
   vom **11.06.2025** betraf eine **außerplanmäßige Auszahlung gemäß § 105 Abs. 1 KVG LSA im
@@ -1080,6 +1091,31 @@ Landkreis ist für Hettstedt berichtspflichtig.
 
 ✅ **Präzisierung am 25.10.2026 — die Aussage „SPD und Linke haben eingebracht“ war zu grob:** Der **Entwurf der Linken liegt im Landtag vor**; der **SPD-Entwurf ist von der Fraktion beschlossen und soll erst in die Novembersitzung eingebracht werden**. Die Linke will bis **Ende 2031, also bis zum Ende der laufenden Wahlperiode**; die SPD um **ein Jahr** und zusätzlich die **Förderung zusätzlicher Kita-Fachkräfte und der pädagogischen Fachberatung** fortsetzen. Die CDU kritisiert, die SPD habe als Teil der Landesregierung nicht früher gehandelt. ⚠️ **Alle Fraktionen, die sich äußerten, befürworten eine Fortsetzung; debattiert wird im November über ein, zwei oder fünf Jahre.** Drucksachennummern der 9. WP weiterhin nicht ermittelt. → **Neu und bisher nicht im Blick: Zum 31.12.2026 stehen nicht eine, sondern mindestens drei Landesleistungen im Kita-Bereich zur Disposition** — Geschwisterregelung, Ausgleichszahlungen an die Gemeinden (bis 10,7 Mio. €/Jahr landesweit) und **Fachkräfte- bzw. Fachberatungsförderung**. **Auftrag: Welche dieser Landesförderungen erhält Hettstedt heute, in welcher Höhe, auf welcher Rechtsgrundlage und mit welcher Befristung?** Das liegt im Haus, nicht in der Presse. Das Thema steht **im Novemberplenum** auf der Tagesordnung. Ohne Änderung zahlen Familien **ab Januar wieder für jedes betreute Kind**; ⚠️ **bis zu 60.000 Kinder** haben seit **2019** profitiert (kumulierte Angabe, **keine Pro-Kopf-Rechnung darauf**).
 
+✅ **Ergänzt am 17.11.2026 — vier Entwürfe mit vier Fristen** ⚠️ *(Pressebericht Oktober 2026, nicht die Drucksachen)*:
+
+| Fraktion | Verlängerung bis | Status |
+|---|---|---|
+| **Die Linke** | **31.12.2031** (Ende der Wahlperiode) | ✅ eingebracht |
+| **SPD** | ⚠️ **ein Jahr**, also 31.12.2027 | ✅ nach eigenen Angaben eingereicht |
+| **CDU** | **31.12.2028** — zwei Jahre | ✅ **ausdrücklich für das Novemberplenum angekündigt**; familienpolitischer Sprecher **Ronny Kumpf** |
+| **AfD** | ⚠️ unbekannt | ✅ eigener Entwurf geplant |
+| **Grüne** | — | ⚠️ hatten sich zum Stand des Berichts nicht geäußert |
+
+✅ Belegt ist zudem: Für eine Verlängerung muss die **Befristung im Kinderförderungsgesetz geändert**
+werden — eine Gesetzesänderung, keine Verwaltungsentscheidung. **Alle Fraktionen, die sich geäußert
+haben, befürworten eine Fortsetzung.**
+
+📐 **Belastbare untere Kante:** **Der kürzeste der vier Vorschläge ist ein Jahr.** → **Wird überhaupt
+verlängert, dann mindestens bis 31.12.2027.** 👉 **Darauf ist Variante B der Satzungsvorlage zu rechnen —
+nicht auf zwei und nicht auf fünf Jahre.**
+⚠️ **Nicht übernommen:** Der Bericht *geht davon aus*, die Regelung bleibe „in jedem Fall mindestens ein
+Jahr“ bestehen. **Das ist eine journalistische Einschätzung, kein Beschluss.** ❗ **Die Planungsannahme
+bleibt: Wegfall zum 31.12.2026, solange kein Gesetz verkündet ist** — ein Beitragsbescheid vom Januar
+2027 muss auf geltendem Recht beruhen, nicht auf einer Mehrheitserwartung.
+📐 **Für die Tagesordnung heißt das: nach vier Drucksachen suchen, nicht nach einer.** Bei vier
+Entwürfen zum selben Gegenstand ist die **Zusammenführung im Ausschuss** der Regelfall — **das kostet
+Zeit, und es bleibt nur die Sitzung 15.–17.12.**
+
 📐 **Eigene Rechnung, keine Prognose:** Vier Fraktionen wollen verlängern — **AfD 39 + CDU 15 + SPD 8 + Linke 8 = 70 von 83**. **Eine Mehrheit für *irgendeine* Verlängerung ist arithmetisch leicht erreichbar; der Streit ist die Dauer, nicht das Ob.** ⚠️ **Trotzdem keine Umstellung der Planungsannahme:** Es gibt keinen Beschluss, die Mehrheitsbildung in diesem Landtag ist unerprobt — und 📐 **ein Gesetzentwurf wird im Regelfall im Ausschuss beraten, die Ausschüsse sind aber nicht eingesetzt.** Werden sie erst am **18./19.11.** eingesetzt, bleibt für einen Beschluss realistisch nur die Sitzung **15.–17.12.** — zwei Wochen vor dem Auslaufen, in derselben Sitzung wie Ministerpräsidentenwahl und Haushaltsgesetz 2027.
 → **Die Risikoart hat sich damit geändert:** nicht mehr vorrangig **ob** die Regelung ausläuft, sondern **wann** die Nachfolge kommt — möglicherweise zu spät für Satzung, Bescheide und Elternkommunikation.
 → **Der für den städtischen Haushalt wichtigste Satz der ganzen Debatte** ist nicht die Dauer der Geschwisterregelung, sondern die Forderung der Linken, **die Landeszahlungen an die Kommunen abzusichern und zu dynamisieren**. **Über die Spitzenverbände unterstützen, unabhängig von der Herkunft des Antrags.**
@@ -1093,11 +1129,25 @@ Landkreis ist für Hettstedt berichtspflichtig.
 | Wahlgang | Datum | Ergebnis |
 |---|---|---|
 | **1. Wahlgang** | **26.10.2025** | **Tallig 1.874 = 41,0 %**; Steffi Rieger (parteilos) 1.119 = 24,5 %; André Ulrich 734 = 16,1 %; Dirk Ermisch 421 = 9,2 %. **Wahlbeteiligung 42,0 %** |
-| **Stichwahl** | **09.11.2025** | **Wahlbeteiligung 36,6 %**; Landesstatistik führt „Bürgermeister: Tallig, Frank (CDU)“ — ⚠️ **Einzelstimmen der Stichwahl in den Quellen nicht ausgewiesen** |
+| **Stichwahl** | **09.11.2025** | **Wahlbeteiligung 36,6 %**; Landesstatistik führt „Bürgermeister: Tallig, Frank (CDU)“. ✅ **Einzelstimmen am 17.11.2026 belegt: Tallig 2.692, Rieger 1.290** (Rieger trat als **unabhängige Kandidatin** an); **Feststellung des Ergebnisses 11.11.2025**, Bekanntmachung **13.11.2025** |
 
 ⚠️ **Zwei Widersprüche, benannt und offen:** Eine Ergebnisseite des kommunalen Dienstleisters zeigt für die Stichwahl **null Stimmen** und „kein Ergebnis verfügbar“ (veralteter Zwischenstand; maßgeblich ist die Landesstatistik); die Wikipedia-Seite führt weiterhin **Dirk Fuhlert (PdF–FBM), 2018–2025** — **veraltet**, wie schon am 18.10. notiert.
 
-📐 **Eigene Überschlagsrechnungen:** Aus 1.874 = 41,0 % folgen **rund 4.570 gültige Stimmen**, bei 42,0 % Beteiligung **rund 10.880 Wahlberechtigte**; Talligs Erstergebnis entspricht **rund 17 % der Wahlberechtigten**, in der Stichwahl haben **rund 3.980** Personen abgestimmt. ⚠️ **Unstimmigkeit:** Die vier bekannten Bewerber ergeben zusammen 4.148 Stimmen und damit nur rund **90,8 %** — es muss mindestens einen weiteren Bewerber oder einen nicht ausgewiesenen Rest geben; **die Kandidatenliste der vorliegenden Quellen ist unvollständig.**
+📐 **Eigene Überschlagsrechnungen:** Aus 1.874 = 41,0 % folgen **rund 4.570 gültige Stimmen**, bei 42,0 % Beteiligung **rund 10.880 Wahlberechtigte**; Talligs Erstergebnis entspricht **rund 17 % der Wahlberechtigten**, in der Stichwahl haben **rund 3.980** Personen abgestimmt.
+✅ **Bestätigt am 17.11.2026:** 2.692 + 1.290 = **3.982 gültige Stimmen** — **die eigene
+Überschlagsrechnung von „rund 3.980“ trifft zu.** 📐 **Drei weitere Prüfungen:** (1) **Stimmenanteil
+Talligs in der Stichwahl: 2.692 von 3.982 = 67,6 %** — diese Zahl fehlte bisher. (2) **Gegenprobe:**
+3.982 gültige Stimmen bei 36,6 % Beteiligung ergeben **rund 10.880 Wahlberechtigte** — **genau der Wert,
+der sich unabhängig aus dem ersten Wahlgang ergibt.** ✅ **Beide Wahlgänge sind untereinander
+konsistent.** (3) **10.880 Wahlberechtigte zu 12.626 Einwohnern = rund 86 %**, ein plausibler Anteil —
+✅ **das stützt die amtliche Einwohnerzahl** und spricht eher gegen die am 12.11.2026 erwogene Lesart,
+die Portalbasis von 13.498 sei direkt vergleichbar. ⚠️ **Beweist nichts:** Die Wahlberechtigtenzahl
+betrifft 2025, die Einwohnerzahl den 31.12.2025, und Wahlberechtigung hängt an Alter und
+Staatsangehörigkeit. **Die Prüfung beim Statistischen Landesamt bleibt nötig.**
+👉 **Zum Amtsantrittsdatum:** Die **Feststellung des Wahlergebnisses am 11.11.2025** ist der
+Anknüpfungspunkt, von dem aus die Amtszeit zu berechnen wäre. ⚠️ **Den Amtsantritt belegt das nicht** —
+maßgeblich ist, was das Gesetz als Beginn bestimmt; **aber die Frage ist auf ein Datum zugespitzt statt
+auf „irgendwann im November 2025“.** ⚠️ **Unstimmigkeit:** Die vier bekannten Bewerber ergeben zusammen 4.148 Stimmen und damit nur rund **90,8 %** — es muss mindestens einen weiteren Bewerber oder einen nicht ausgewiesenen Rest geben; **die Kandidatenliste der vorliegenden Quellen ist unvollständig.**
 
 ✅ **Amtszeit belegt am 23.10.2026: sieben Jahre.** Nach dem **Kommunalverfassungsgesetz (§ 96 KVG LSA in der geltenden Zählung)** wird der Bürgermeister nach dem Kommunalwahlgesetz gewählt, **die Amtszeit beträgt sieben Jahre**; sie **beginnt mit dem Amtsantritt**, bei **Wiederwahl** schließt die neue Amtszeit unmittelbar an das Ende der vorangegangenen an. ⚠️ **Paragraphenzählung uneinheitlich:** Fassung 2014 **§ 61**, eine Broschüre nennt **§ 58** (offenbar Satzfehler; § 58 betrifft die Niederschrift). **In Vorlagen die konsolidierte geltende Fassung zitieren, keine Broschüre.**
 → **Verbleibender Prüfpunkt:** **Amtsbeginn** (aus der Stichwahl vom 09.11.2025 nicht ableitbar) aus Bekanntmachung oder Niederschrift der Amtseinführung belegen. 📐 *Eigene Rechnung mit unbelegtem Anfangsdatum:* Liegt der Amtsantritt Ende 2025 oder Anfang 2026, endet die laufende Amtszeit **etwa Ende 2032 bis Anfang 2033** — **keine Angabe, eine Rechnung.** **Relevanz:** Mehrjährige Bindungen überdauern Amtszeiten — REVIER 2038 verlangt Abschluss bis 31.12.2038 und Abrechnung bis 31.12.2040. **In Vorlagen ist das zu benennen, und der Haushaltsvorbehalt ist die Standardklausel.**
@@ -1652,7 +1702,7 @@ Umlagevermerk: Der Kreis erhält Sonderhilfen und erhöht die Umlage — beides 
 Richtlinie; **ein naher Präzedenzfall für die Anfrage ans Landesverwaltungsamt.** ⚠️ Programmzuordnung
 nicht belegt.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 16.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 17.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -1725,6 +1775,9 @@ nicht belegt.
 | ❗ **Tagesordnung des Plenums vom 18./19.11.2026 abrufen und drei Punkte suchen** | **KiFöG-Entwurf? FAG-Entwurf? Haushaltsgesetz 2027?** 📐 Ein öffentliches Dokument, das mehr beantwortet als jede Pressemitteilung danach; es gibt auch das Format einer **kommentierten Tagesordnung**. ⚠️ Bisher nicht auffindbar |
 | ⚠️ **Ausschussgröße elf und Einsetzung der Ausschüsse am Landtag verifizieren** | Über **Ausschussverzeichnis** oder **Geschäftsordnung der 9. Wahlperiode**. ❗ Der Befund vom 16.11.2026 stützt sich auf Presseberichte, darunter eine politisch positionierte Einzelfundstelle — **so nicht zitierfähig**, obwohl die Zahlen mit der eigenen Rechnung übereinstimmen |
 | **Zweistufige Satzungsvorlage um eine zweite Variante ergänzen** | Für den Fall einer **KiFöG-Verlängerung**. 📐 Die Weiche vom 02.11.2026 löst sich in Richtung „verfahrensmäßig möglich“ auf; **eine Vorlage, die nur den Wegfall abbildet, wäre dann unvollständig** |
+| **Variante B der Satzungsvorlage auf ein Jahr rechnen — bis 31.12.2027** | 📐 Kürzester der vier KiFöG-Entwürfe (SPD) und damit die belastbare untere Kante; CDU **2028**, Linke **2031**, AfD unbekannt. ❗ **Variante A — Wegfall zum 31.12.2026 — bleibt Planungsgrundlage, bis ein Gesetz verkündet ist** |
+| **Tagesordnung des Plenums nach vier KiFöG-Drucksachen durchsuchen** | Linke, SPD, CDU, AfD — dazu **FAG-Entwurf** und **Haushaltsgesetz 2027**. 📐 Die Zahl der Drucksachen sagt etwas über die Beratungsdauer: Zusammenführung im Ausschuss ist der Regelfall |
+| **Ausschussverzeichnis der 9. Wahlperiode als Drucksache suchen** | 8. WP: **Drs. 8/4426**. 📐 **Ein Verzeichnis ist amtlich, ein Pressebericht nicht** — solange es fehlt, bleibt die Größe elf unbestätigt |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
