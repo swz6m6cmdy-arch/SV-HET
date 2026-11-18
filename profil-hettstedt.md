@@ -1025,7 +1025,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 17.11.2026)
+## Laufende lokale Vorgänge (Stand 18.11.2026)
 
 - ⚠️ **§ 105 Abs. 1 KVG LSA ist in diesem Haus eingeübt (neu am 15.11.2026).** Eine Beschlussvorlage
   vom **11.06.2025** betraf eine **außerplanmäßige Auszahlung gemäß § 105 Abs. 1 KVG LSA im
@@ -1115,6 +1115,49 @@ bleibt: Wegfall zum 31.12.2026, solange kein Gesetz verkündet ist** — ein Bei
 📐 **Für die Tagesordnung heißt das: nach vier Drucksachen suchen, nicht nach einer.** Bei vier
 Entwürfen zum selben Gegenstand ist die **Zusammenführung im Ausschuss** der Regelfall — **das kostet
 Zeit, und es bleibt nur die Sitzung 15.–17.12.**
+
+✅ **Aktualisiert am 18.11.2026 — der Vorgang steht auf der Tagesordnung des Plenums (18./19.11.):**
+
+| Fraktion(en) | Verlängerung bis | Danach | Form |
+|---|---|---|---|
+| **SPD** | **31.12.2027** | reguläre Ermäßigung | Gesetzentwurf |
+| **AfD und BSW gemeinsam** | **31.12.2028** | ✅ **ab 2029 vollständige Beitragsfreiheit** | **gemeinsamer Antrag** |
+| **Die Linke** | **31.12.2031** | — | Gesetzentwurf |
+| **CDU** | ⚠️ am 17.11. mit 31.12.2028 angekündigt | — | ⚠️ **in der Vorschau vom 18.11. nicht erwähnt — Status offen** |
+
+❗ **Die eigentliche Nachricht ist der gemeinsame Antrag.** 📐 *Eigene Rechnung:* **AfD 39 + BSW 5 = 44 von
+83; die Mehrheit liegt bei 42.** → **Ein gemeinsamer Antrag beider Fraktionen hat eine eigene Mehrheit.**
+📐 **Zweiter Beleg binnen drei Tagen** nach dem Medienausschuss (16.11.) — diesmal aus regionaler
+Tagespresse statt aus einer politisch positionierten Einzelfundstelle. ❌ **Für die geheime
+Ministerpräsidentenwahl folgt daraus nichts** — die Unterscheidung offene gegen geheime Abstimmung steht
+hier seit dem 02.11.2026.
+
+❗ **Und die Frage, die für diese Stadt wichtiger ist als die Dauer:** ✅ **Belegt ist der Satz „die
+Finanzierung ist offen“.** 📐 **Eigene Ableitung:** **Eine Verlängerung der Geschwisterregelung ist nicht
+dasselbe wie eine Verlängerung der Ausgleichszahlungen des Landes.** Die Regelung verpflichtet die
+**Kommune** zum Beitragsverzicht; der Ausgleich ist eine **getrennte** Leistung und wird in diesem Profil
+seit Wochen als ⚠️ ungeprüft geführt. → **Wird verlängert, ohne dass der Ausgleich gesichert ist,
+entsteht für den Eigenbetrieb eine Lücke — keine Entlastung.**
+
+👉 **Daraus eine dritte Variante der Satzungsvorlage:**
+
+| Variante | Inhalt |
+|---|---|
+| **A** | **Wegfall** zum 31.12.2026 — unverändert die Planungsgrundlage |
+| **B** | **Verlängerung um ein Jahr** mit **gesichertem Landesausgleich** |
+| **C** *(neu am 18.11.2026)* | ❗ **Verlängerung ohne gesicherten Landesausgleich** |
+
+👉 **Frage an den Städte- und Gemeindebund:** **Enthalten die Entwürfe und Anträge eine
+Ausgleichsregelung — und in welcher Höhe?** 📐 Das kann ein Verband beantworten, eine Kommune allein
+nicht.
+
+❗ **Vollständige Beitragsfreiheit ab 2029 — neuer Posten der mittelfristigen Planung.** 📐 Sie entzieht
+dem Eigenbetrieb **die gesamten Elternbeiträge**; ⚠️ **die Kompensation ist unbekannt**, und derselbe
+Satz „die Finanzierung ist offen“ gilt hier erst recht. → **Drei Fragen:** (1) **Jahressumme der
+Elternbeiträge** des Eigenbetriebs — liegt im Haus vor und fehlt diesem Profil; (2) enthält der Antrag
+eine **Kompensationsregelung**; (3) welche **Rechtsgrundlage** hätte eine Kompensation.
+⚠️ **Eine Konnexitätsnorm wird hier nicht genannt — die naheliegende Vorschrift ist nicht geprüft.
+Frage für das Rechtsamt.**
 
 📐 **Eigene Rechnung, keine Prognose:** Vier Fraktionen wollen verlängern — **AfD 39 + CDU 15 + SPD 8 + Linke 8 = 70 von 83**. **Eine Mehrheit für *irgendeine* Verlängerung ist arithmetisch leicht erreichbar; der Streit ist die Dauer, nicht das Ob.** ⚠️ **Trotzdem keine Umstellung der Planungsannahme:** Es gibt keinen Beschluss, die Mehrheitsbildung in diesem Landtag ist unerprobt — und 📐 **ein Gesetzentwurf wird im Regelfall im Ausschuss beraten, die Ausschüsse sind aber nicht eingesetzt.** Werden sie erst am **18./19.11.** eingesetzt, bleibt für einen Beschluss realistisch nur die Sitzung **15.–17.12.** — zwei Wochen vor dem Auslaufen, in derselben Sitzung wie Ministerpräsidentenwahl und Haushaltsgesetz 2027.
 → **Die Risikoart hat sich damit geändert:** nicht mehr vorrangig **ob** die Regelung ausläuft, sondern **wann** die Nachfolge kommt — möglicherweise zu spät für Satzung, Bescheide und Elternkommunikation.
@@ -1702,7 +1745,47 @@ Umlagevermerk: Der Kreis erhält Sonderhilfen und erhöht die Umlage — beides 
 Richtlinie; **ein naher Präzedenzfall für die Anfrage ans Landesverwaltungsamt.** ⚠️ Programmzuordnung
 nicht belegt.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 17.11.2026)
+## Energie- und Versorgungssperren: ein Vorhaben, das die Stadtwerke trifft (neu aufgenommen am 18.11.2026)
+
+✅ **Belegt:** Der Landtag berät am **18.11.2026** über die **Abschaffung von Energie- und
+Versorgungssperren**.
+
+📐 **Warum das hierher gehört, obwohl es wie ein sozialpolitisches Thema klingt:** Die **Stadtwerke
+Hettstedt** sind **Versorgungsunternehmen** — Trinkwasser ist belegt (2,47 €/m³ brutto ab 01.08.2026),
+und das Fernwärmevorhaben ist das größte Investitionsprojekt im Umfeld der Stadt. → **Ein Verbot von
+Versorgungssperren verändert die Position des Versorgers gegenüber zahlungsunfähigen Kunden** und damit
+**Forderungsausfälle, Rückstellungen und Liquidität** eines Unternehmens, dessen Gesellschafterin die
+Stadt ist.
+
+⚠️ **Nicht belegt sind Inhalt, Reichweite und Form** — Antrag oder Gesetzentwurf, welche Sparten (Strom,
+Gas, Wasser, Wärme), mit oder ohne Ausgleich für die Versorger.
+
+👉 **Zwei Fragen über die Beteiligungsverwaltung an die Geschäftsführung:** (1) **Wie hoch sind
+Forderungsausfälle und Sperren im Jahr** — die Größenordnung, um die es geht? (2) **Verfolgt der Verband
+kommunaler Unternehmen oder der Städte- und Gemeindebund das Vorhaben**, und gibt es eine Stellungnahme?
+📐 **Es ist der erste Tagesordnungspunkt dieses Landtages, der die Stadtwerke unmittelbar betrifft.**
+
+**Weitere Themen des ersten Sitzungstages mit Kommunalbezug** ✅: **Schulsozialarbeit** (die Stadt ist
+Trägerin der Grundschulen) sowie Schutz von Elbe und Saale, Stärkung der demokratischen Teilhabe und die
+Wahl der sachsen-anhaltischen Mitglieder der 18. Bundesversammlung. ⚠️ **Ein Haushaltsgesetz 2027 geht
+aus den Ankündigungen für den ersten Tag nicht hervor** — am zweiten Sitzungstag erneut zu prüfen.
+
+## Recherchegrenze zur 9. Wahlperiode (festgehalten am 18.11.2026)
+
+⚠️ **Seit dem 15.11.2026 ist täglich nach Primärdokumenten der 9. Wahlperiode gesucht worden —
+Tagesordnung, Ausschussverzeichnis, Drucksachen der Reihe 9/. Keines war auffindbar.** Auffindbar sind
+durchgehend Dokumente der **8. Wahlperiode**, zuletzt die kommentierte Tagesordnung für Juni 2026 und der
+Zeitplan der 52. Sitzungsperiode (23.–26.06.2026).
+
+📐 **Schlussfolgerung:** **Das ist eine Grenze dieser Recherche, keine Feststellung über den Landtag.**
+Die Veröffentlichungspraxis ist über die 8. Wahlperiode durchgehend belegt; dass sie in der 9. aussetzt,
+ist unwahrscheinlich. ⚠️ **Unterscheiden lässt sich das von hier aus nicht.**
+👉 **Praktische Folge:** **Zur 9. Wahlperiode liefert dieses Briefing keine parlamentarischen
+Primärdokumente — nur Presseberichte.** **Für Drucksachennummern, Abstimmungsergebnisse und das
+Ausschussverzeichnis ist die Website des Landtages unmittelbar aufzurufen.** 📐 **Keine große
+Einschränkung, solange man sie kennt — aber Beschlussvorlagen brauchen Drucksachennummern.**
+
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 18.11.2026)
 
 | Prüfpunkt | Anlass |
 |---|---|
@@ -1778,6 +1861,9 @@ nicht belegt.
 | **Variante B der Satzungsvorlage auf ein Jahr rechnen — bis 31.12.2027** | 📐 Kürzester der vier KiFöG-Entwürfe (SPD) und damit die belastbare untere Kante; CDU **2028**, Linke **2031**, AfD unbekannt. ❗ **Variante A — Wegfall zum 31.12.2026 — bleibt Planungsgrundlage, bis ein Gesetz verkündet ist** |
 | **Tagesordnung des Plenums nach vier KiFöG-Drucksachen durchsuchen** | Linke, SPD, CDU, AfD — dazu **FAG-Entwurf** und **Haushaltsgesetz 2027**. 📐 Die Zahl der Drucksachen sagt etwas über die Beratungsdauer: Zusammenführung im Ausschuss ist der Regelfall |
 | **Ausschussverzeichnis der 9. Wahlperiode als Drucksache suchen** | 8. WP: **Drs. 8/4426**. 📐 **Ein Verzeichnis ist amtlich, ein Pressebericht nicht** — solange es fehlt, bleibt die Größe elf unbestätigt |
+| ❗ **Enthalten die KiFöG-Entwürfe und -Anträge eine Ausgleichsregelung für die Kommunen — und in welcher Höhe?** | **Frage an den Städte- und Gemeindebund.** ✅ Belegt ist: „die Finanzierung ist offen“. 📐 **Eine Verlängerung der Regelung ist nicht dasselbe wie eine Verlängerung der Ausgleichszahlung** — ohne gesicherten Ausgleich entsteht eine Lücke, keine Entlastung. **Wichtiger als die Dauer** |
+| **Jahressumme der Elternbeiträge des Eigenbetriebs ermitteln** | Für die Bewertung der **vollständigen Beitragsfreiheit ab 2029** nach dem gemeinsamen Antrag von AfD und BSW. 📐 Die Zahl liegt im Haus vor und fehlt diesem Profil; sie ist die Bezugsgröße für jede Kompensationsrechnung |
+| ❗ **Forderungsausfälle und Versorgungssperren der Stadtwerke im Jahr erfragen** | Über die **Beteiligungsverwaltung** an die Geschäftsführung; dazu, ob ein Verband das Vorhaben zur **Abschaffung von Energie- und Versorgungssperren** verfolgt. 📐 Erster Tagesordnungspunkt dieses Landtages, der die Stadtwerke unmittelbar betrifft |
 | Ruft der **Landkreis** die Mittel für **kommunale Migrationsarbeit** ab? | Frist **31.12.2026**, antragsberechtigt sind **Landkreise und kreisfreie Städte**, nicht die Stadt ⚠️. Zweite Konstellation nach der Brandschutzförderung, in der die Stadt nur über den Landkreis an Landesmittel kommt. In dieselbe Anfrage wie der Kreishaushalt 2027 aufnehmen |
 | **Urteilsgründe der eigenen Kreisumlageverfahren beschaffen und auswerten** | Die Stadt war **Klägerin** (VG Halle, 28.06.2023, Umlagen 2018 und 2020; früher 2017). Vier Aufgaben: (1) Urteilsgründe im Volltext **mit Aktenzeichen** aus den eigenen Akten ziehen, damit sie zitierfähig sind; (2) den **tatsächlich auf Hettstedt entfallenen Rückzahlungsbetrag** belegen — 16,8 Mio. € sind zwei Städte, 20,3 Mio. € drei; (3) prüfen, **welcher Maßstab für die finanzielle Mindestausstattung im Urteil wirklich steht** und ob ein Viertel-Kriterium darin vorkommt; (4) **Folgejahre:** für welche Jahre nach 2020 Umlagebescheide ergangen sind, welche angefochten wurden und ob für 2021 bis 2026 noch Fristen oder Verfahren laufen. Bei landesweit 46 Verfahren ⚠️ ist das keine akademische Frage. 📐 *Eigene Einschätzung:* höchster erwartbarer Geldwert aller offenen Punkte, und nur Aktenarbeit im eigenen Haus |
 | Ab wann gilt die **Ausgleichspflicht für den kommunalen Finanzhaushalt**, und wie weit ist die Stadt davon entfernt? | ⚠️ Einzelfundstelle: Verschiebung auf **01.01.2028**, gekoppelt an die FAG-Reform. Vorschrift und Fassung des KVG LSA bestimmen; Abstand des eigenen Finanzhaushalts vom Ausgleich beziffern und **in den Vorbericht 2027** aufnehmen |
