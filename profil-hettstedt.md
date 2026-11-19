@@ -1025,7 +1025,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 18.11.2026)
+## Laufende lokale Vorgänge (Stand 19.11.2026)
 
 - ⚠️ **§ 105 Abs. 1 KVG LSA ist in diesem Haus eingeübt (neu am 15.11.2026).** Eine Beschlussvorlage
   vom **11.06.2025** betraf eine **außerplanmäßige Auszahlung gemäß § 105 Abs. 1 KVG LSA im
@@ -1132,6 +1132,38 @@ Tagespresse statt aus einer politisch positionierten Einzelfundstelle. ❌ **Fü
 Ministerpräsidentenwahl folgt daraus nichts** — die Unterscheidung offene gegen geheime Abstimmung steht
 hier seit dem 02.11.2026.
 
+✅ **Eingetreten am 18.11.2026: Der gemeinsame Antrag ist beschlossen.** AfD und BSW haben einen **Entschließungsantrag** durchgebracht, der die **Landesregierung** beauftragt, **bis Ende 2027** einen
+**Stufenplan** und einen **Gesetzentwurf** für die **Kita-Beitragsfreiheit ab 2029** vorzulegen.
+⚠️ Belegt ist, dass die BSW-Abgeordneten gemeinsam mit der AfD-Fraktion für den eigenen Antrag
+stimmten; **Stimmenzahlen sind nicht belegt.** 📐 **Damit ist die Rechnung 39 + 5 = 44 von 83 in einer
+Plenarabstimmung bestätigt** — **der erste belegte gemeinsame Plenarbeschluss beider Fraktionen in
+dieser Wahlperiode.** ✅ Eine Agenturmeldung hält ausdrücklich fest, dass **AfD und BSW zusammen eine
+Mehrheit im Landtag haben**.
+
+❗ **Was dieser Beschluss nicht ist — der wichtigste Satz dazu:** **Ein Entschließungsantrag ist kein
+Gesetz.** Er ändert das KiFöG nicht und führt die Beitragsfreiheit nicht ein. ❗ **Die
+Geschwisterregelung läuft unverändert am 31.12.2026 aus.** ⚠️ **Ob die drei Gesetzentwürfe zur
+Geschwisterregelung beschlossen, abgelehnt oder in einen Ausschuss überwiesen wurden, ist nicht
+belegt** — 📐 eine Überweisung ist bei konkurrierenden Entwürfen der Regelfall, aber das ist eine
+Vermutung. 👉 **Erste Frage an das Plenarprotokoll.** 📐 Wird im Ausschuss beraten, bleibt für einen
+Beschluss nur die Sitzung **15.–17.12.** — **14 Tage vor dem Auslaufen.**
+
+📐 **Der scheinbare Widerspruch 2028 gegen 2029 löst sich als Abfolge auf.** ⚠️ Eine Quelle nennt eine
+Verlängerung **bis Ende 2028**, eine andere die Beitragsfreiheit **ab 2029**. 📐 **Eigene Lesart: das ist
+kein Widerspruch, sondern eine Stufenfolge** — Geschwisterregelung **bis 31.12.2028**,
+Beitragsfreiheit **ab 01.01.2029**, lückenlos. ⚠️ **Nicht ausdrücklich belegt**, aber die einzige
+Lesart, die beide Angaben zugleich wahr macht.
+
+✅ **Die Finanzierung bleibt ausdrücklich offen** — belegt: es ist unklar, wie AfD und BSW die Pläne
+finanzieren wollen, und **Kosten für die vollständige Beitragsfreiheit sind nicht genannt.** 📐
+**Terminliche Folge für die Stadt: Die Kostenaussage des Landes kommt erst bis Ende 2027 — also nach
+dem Haushalt 2027 und nach der Umlagefestsetzung 2027.** 👉 **In der mittelfristigen Finanzplanung
+daher als unbezifferter Posten mit Datum führen, nicht als Einnahmeausfall mit Zahl.**
+⚠️ **Zwei Namen für die CDU-Position, nicht zu verwechseln:** am 17.11. **Ronny Kumpf** als
+familienpolitischer Sprecher, am 18.11. äußert sich **Teßmann** für die Fraktion („Familien weiter
+entlasten“, finanzielle Auswirkungen im Blick behalten). 📐 Kein Widerspruch — verschiedene Rollen sind
+möglich; **in einer Vorlage ist die Zuordnung zu prüfen.**
+
 ❗ **Und die Frage, die für diese Stadt wichtiger ist als die Dauer:** ✅ **Belegt ist der Satz „die
 Finanzierung ist offen“.** 📐 **Eigene Ableitung:** **Eine Verlängerung der Geschwisterregelung ist nicht
 dasselbe wie eine Verlängerung der Ausgleichszahlungen des Landes.** Die Regelung verpflichtet die
@@ -1145,7 +1177,18 @@ entsteht für den Eigenbetrieb eine Lücke — keine Entlastung.**
 |---|---|
 | **A** | **Wegfall** zum 31.12.2026 — unverändert die Planungsgrundlage |
 | **B** | **Verlängerung um ein Jahr** mit **gesichertem Landesausgleich** |
-| **C** *(neu am 18.11.2026)* | ❗ **Verlängerung ohne gesicherten Landesausgleich** |
+| **C** *(neu am 18.11.2026, am 19.11.2026 herabgestuft)* | ⚠️ **Verlängerung ohne gesicherten Landesausgleich** — **nach heutiger Quellenlage weniger wahrscheinlich** |
+
+❗ **Korrektur der eigenen Zuspitzung vom 18.11.2026.** Oben steht, die Regelung verpflichte die
+**Kommune** zum Beitragsverzicht und der Ausgleich sei eine **getrennte** Leistung. ⚠️ **Am 19.11.2026
+liegt eine präzisere Formulierung vor:** Für jedes weitere Geschwisterkind, das Krippe, Kindergarten
+oder Hort besucht, **übernimmt das Land den Beitrag.** 📐 **Damit ist die Konstruktion offenbar eine
+Kostenübernahme des Landes, nicht ein ausgleichsloser Verzicht der Kommune** — die günstigere Lesart.
+⚠️ **Einschränkungen:** es ist eine **journalistische Formulierung**, keine Normangabe, und sie
+beschreibt die **geltende** Regelung, nicht zwingend eine verlängerte. 👉 **Variante C bleibt daher auf
+der Liste, aber herabgestuft. Und die Frage an den Städte- und Gemeindebund lautet jetzt schärfer:
+Wird die Kostenübernahme des Landes in einer Verlängerung fortgeschrieben — in welcher Höhe und in
+welcher Form?**
 
 👉 **Frage an den Städte- und Gemeindebund:** **Enthalten die Entwürfe und Anträge eine
 Ausgleichsregelung — und in welcher Höhe?** 📐 Das kann ein Verband beantworten, eine Kommune allein
@@ -1785,9 +1828,26 @@ Primärdokumente — nur Presseberichte.** **Für Drucksachennummern, Abstimmung
 Ausschussverzeichnis ist die Website des Landtages unmittelbar aufzurufen.** 📐 **Keine große
 Einschränkung, solange man sie kennt — aber Beschlussvorlagen brauchen Drucksachennummern.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 18.11.2026)
+✅ **Teilweise überwunden am 19.11.2026 — das Fundstellenmuster der Plenarprotokolle ist bekannt.**
+Plenarprotokolle der **8. Wahlperiode** sind unter Adressen der Form
+**`…/files/plenum/wp8/<Nummer>stzg.pdf`** abrufbar — belegt für zahlreiche Sitzungen (038, 041, 045,
+049, 051, 055, 056, 059, 062). 👉 **Für die 9. Wahlperiode ist analog
+`…/files/plenum/wp9/<Nummer>stzg.pdf` zu erwarten.** ⚠️ **Die Sitzungsnummer der Sitzung vom
+18./19.11.2026 ist nicht bekannt** — gezählt werden Sitzungen, nicht Sitzungsperioden, und die
+Konstituierung am 06.10. sowie die Sondersitzung am 14.10. liegen davor. 📐 *Einordnung:* **Das ist der
+direkteste Weg zu Drucksachennummern, Abstimmungsergebnissen und Überweisungen** — genau zu dem, was
+dieses Briefing nicht liefern kann. ⚠️ Ein Plenarprotokoll erscheint mit Verzug; unmittelbar nach der
+Sitzung ist es nicht zu erwarten.
+
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 19.11.2026)
 
 | Prüfpunkt | Anlass |
+|---|---|
+| ❗ **Plenarprotokoll der Sitzung vom 18./19.11.2026 auswerten — drei Fragen** *(neu 19.11.2026)* | (1) **Was geschah mit den drei Gesetzentwürfen zur Geschwisterregelung** — beschlossen, abgelehnt, überwiesen, und an welchen Ausschuss? (2) **Drucksachennummer des angenommenen Entschließungsantrags** — eine Beschlussvorlage braucht sie. (3) **Was wurde zur Abschaffung von Energie- und Versorgungssperren beschlossen** und in welcher Form? ✅ **Fundstellenmuster** `…/files/plenum/wp9/<Nummer>stzg.pdf`; ⚠️ Sitzungsnummer unbekannt, Veröffentlichung mit Verzug |
+| ❗ **Frage an den Städte- und Gemeindebund neu fassen** *(präzisiert 19.11.2026)* | **Nicht mehr „gibt es überhaupt einen Ausgleich?“, sondern: Wird die Kostenübernahme des Landes für Geschwisterkinder in einer Verlängerung fortgeschrieben — in welcher Höhe und in welcher Form?** 📐 Grundlage: ⚠️ die Formulierung „übernimmt das Land den Beitrag“ vom 19.11.2026, die die eigene Zuspitzung vom 18.11. korrigiert |
+| **Beitragsfreiheit ab 2029 in die mittelfristige Finanzplanung aufnehmen** *(neu 19.11.2026)* | 📐 **Als unbezifferter Posten mit Datum**, nicht als Einnahmeausfall mit Zahl. ✅ Begründung: Der Entschließungsantrag verlangt Stufenplan und Gesetzentwurf **erst bis Ende 2027** — **nach dem Haushalt 2027 und nach der Umlagefestsetzung 2027.** ⚠️ Die **Jahressumme der Elternbeiträge** des Eigenbetriebs bleibt zu ermitteln; sie ist die Bezugsgröße, sobald eine Kostenaussage vorliegt |
+| ⚠️ **Rollen von Ronny Kumpf und Teßmann in der CDU-Fraktion klären** *(neu 19.11.2026)* | Am 17.11. als familienpolitischer Sprecher **Kumpf**, am 18.11. äußert sich **Teßmann** für die Fraktion. 📐 Kein Widerspruch, aber **in einer Vorlage ist die Zuordnung zu prüfen** |
+| **BSW-Bundesparteitag Ende November höher gewichten** *(neu 19.11.2026)* | 📐 **Nach dem ersten gemeinsamen Plenarbeschluss von AfD und BSW ist er der wichtigste Beobachtungstermin vor der Dezembersitzung** — er entscheidet mittelbar über die Tragfähigkeit dieser Mehrheit |
 |---|---|
 | Erhält Hettstedt Ausgleichsleistungen nach dem **MBAG LSA**? | OVG LSA hält § 1 Satz 2 MBAG LSA für unvereinbar mit Art. 87 Abs. 1 Verf LSA ⚠️. Mutmaßlich **OVG LSA, Urteil vom 24.07.2026, Az. 3 L 48/24** (Folgenbeseitigungsanspruch einer Gemeinde gegen das Land) — Identität der Entscheidung **nicht belegt**; Volltext über das Aktenzeichen beschaffen |
 | Werden **Stellplatzablösebeträge** vereinnahmt und zweckgerecht gebucht? | Bauordnungsnovelle, in Kraft seit 24.01.2026: Zweckbindung für öffentliche Parkflächen und Fahrradabstellanlagen |
