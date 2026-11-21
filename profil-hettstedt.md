@@ -1025,7 +1025,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 19.11.2026)
+## Laufende lokale Vorgänge (Stand 21.11.2026)
 
 - ⚠️ **§ 105 Abs. 1 KVG LSA ist in diesem Haus eingeübt (neu am 15.11.2026).** Eine Beschlussvorlage
   vom **11.06.2025** betraf eine **außerplanmäßige Auszahlung gemäß § 105 Abs. 1 KVG LSA im
@@ -1163,6 +1163,52 @@ daher als unbezifferter Posten mit Datum führen, nicht als Einnahmeausfall mit 
 familienpolitischer Sprecher, am 18.11. äußert sich **Teßmann** für die Fraktion („Familien weiter
 entlasten“, finanzielle Auswirkungen im Blick behalten). 📐 Kein Widerspruch — verschiedene Rollen sind
 möglich; **in einer Vorlage ist die Zuordnung zu prüfen.**
+
+✅ **Amtliches Ergebnis, belegt am 21.11.2026 über die Sitzungsperioden-Seite des Landtages — und damit
+eine Korrektur der eigenen Ausgabe vom 19.11.2026.**
+
+| Drucksache | Gegenstand | Ergebnis |
+|---|---|---|
+| **Drs. 9/44** | **Entwurf eines Achten Gesetzes zur Änderung des Kinderförderungsgesetzes**, **erste Beratung** — einschließlich Weiterführung der Geschwisterregelung | ✅ **überwiesen** |
+| **Drs. 9/46** | **Entschließungsantrag** | ✅ **überwiesen** |
+
+✅ **Überweisung an den Ausschuss für Arbeit, Soziales, Gesundheit und Gleichstellung (federführend)**,
+**mitberatend** an den **Ausschuss für Finanzen** und den **Ausschuss für Bildung**.
+✅ **Der Antrag von AfD und BSW wurde beschlossen; der Antrag der CDU-Fraktion wurde abgelehnt.**
+⚠️ Einer Fundstelle zufolge stimmten **SPD und Grüne** dagegen.
+❗ **Die Ausgabe vom 19.11.2026 hielt fest, das Schicksal der Entwürfe sei nicht belegt, und vermutete
+eine Überweisung als Regelfall. ✅ Die Vermutung hat sich bestätigt — sie war eine Vermutung, jetzt
+liegt der Befund vor. Der Gesetzentwurf ist überwiesen, nicht beschlossen.**
+
+⚠️ **Zwei Widersprüche, von hier aus nicht auflösbar.** (1) Das Landtagsportal titelt
+**„Geschwisterbonus soll weiter bleiben"**, als sei die Fortführung beschlossen, während die
+Ergebniszeile **überwiesen** sagt — 📐 *eigene Lesart:* **die Überschrift beschreibt die Absicht, die
+Ergebniszeile das Verfahren; maßgeblich ist das Verfahren.** (2) Die Presse berichtet, der Antrag von
+AfD und BSW sei **angenommen**, die Ergebniszeile nennt **Drs. 9/46 als überwiesen** — 📐 **naheliegend
+sind mehrere Papiere (Gesetzentwurf, Entschließungsantrag, Antrag AfD/BSW, Antrag CDU), so dass das
+angenommene Papier ein anderes ist als 9/46.** ⚠️ Eine Fundstelle spricht von **acht Drucksachen**, eine
+andere listet **drei** Dokumente. 👉 **In Beschlussvorlagen nur zitieren, was belegt ist: 9/44 und 9/46
+sind überwiesen.**
+
+❗ **Die Verfahrensfolge ist der eigentliche Befund.** 📐 *Eigene Rechnung:* Vom **18.11.** bis zum ersten
+Tag der letzten Plenarsitzung des Jahres am **15.12.** sind es **27 Tage**. In diese Zeit müssten **drei
+Ausschüsse** und die **zweite Beratung im Plenum** passen. ❗ **Und der mitberatende Finanzausschuss soll
+eine Regelung bewerten, deren Finanzierung in einem Landeshaushalt steht, den es nicht gibt** (siehe
+eigener Abschnitt zum Landeshaushalt 2027).
+→ ❗ **Eigene Bewertung, ausdrücklich als solche: Variante A — Wegfall zum 31.12.2026 — ist nicht mehr
+nur die vorsichtige Planungsgrundlage, sondern nach heutiger Verfahrenslage der wahrscheinlichste
+Fall.** ⚠️ **Gleichzeitig bleibt richtig: eine Mehrheit für irgendeine Verlängerung ist arithmetisch
+leicht. Die Mehrheit ist da, die Zeit ist knapp — beides gilt.**
+
+✅ **Erste bezifferte Kostenaussage, belegt am 21.11.2026:** **Das Sozialministerium schätzt die
+vollständige Beitragsfreiheit für Kita und Tagespflege auf zusätzlich rund 250 Mio. € im Jahr.**
+❌ **Eine Umrechnung auf Hettstedt unterbleibt bewusst:** die Kosten fallen **nach Kinderzahl** an, nicht
+nach Einwohnern, und sie fallen **beim Land** an, nicht bei der Stadt — **genau der Fehler, der in
+diesem Kontext am 12.11.2026 zu korrigieren war.** 👉 **Die maßgebliche Zahl bleibt die Jahressumme der
+Elternbeiträge des Eigenbetriebs; sie liegt im Haus und fehlt diesem Profil.**
+⚠️ **CDU-Fraktionschef Sven Schulze warf AfD und BSW „Schaufensterpolitik" vor.** ⚠️ **Zu prüfen: Dieselbe
+Person wird in den Quellen als geschäftsführender Ministerpräsident und als CDU-Fraktionschef geführt** —
+📐 in einer Übergangslage möglich, aber ungewöhnlich; **nicht ungeprüft zitieren.**
 
 ❗ **Und die Frage, die für diese Stadt wichtiger ist als die Dauer:** ✅ **Belegt ist der Satz „die
 Finanzierung ist offen“.** 📐 **Eigene Ableitung:** **Eine Verlängerung der Geschwisterregelung ist nicht
@@ -1813,6 +1859,97 @@ Trägerin der Grundschulen) sowie Schutz von Elbe und Saale, Stärkung der demok
 Wahl der sachsen-anhaltischen Mitglieder der 18. Bundesversammlung. ⚠️ **Ein Haushaltsgesetz 2027 geht
 aus den Ankündigungen für den ersten Tag nicht hervor** — am zweiten Sitzungstag erneut zu prüfen.
 
+## Landeshaushalt 2027 und kommunale Folgekette (belegt am 21.11.2026)
+
+**Dieser Kontext hat die vorläufige Haushaltsführung des Landes seit dem 15.11.2026 als eines von
+mehreren Szenarien geführt. Sie ist es nicht mehr.**
+
+| Befund | Status |
+|---|---|
+| **Die Landesregierung hat bislang keinen Haushaltsentwurf 2027 vorgelegt** | ✅ |
+| Finanzminister **Michael Richter**: die nächsten Schritte hängen von der **Regierungsbildung** ab; Warnung vor einer **„Etat-Lücke 2027"** | ✅ |
+| **„Das Jahr dürfte mit einer vorläufigen Haushaltsführung beginnen – das hat Folgen."** | ✅ |
+| Der geschäftsführende Ministerpräsident **Sven Schulze** rechnet mit einem **Entwurf erst im Januar** | ⚠️ Einzelfundstelle; Urheber des Zitats „Ein Skandal" nicht belegt |
+| **Bis Ende 2026 muss der Landtag ein Haushaltsgesetz 2027 verabschieden; andernfalls bleibt nur die vorläufige Haushaltsführung als Notlösung — das Land bleibt finanziell handlungsfähig** | ✅ verfassungsrechtlicher Fachbeitrag |
+| **Landesregierung und AfD schieben sich die Verantwortung zu** | ⚠️ |
+| ❌ **Haushaltsgesetz 2027 und FAG standen nicht auf der Tagesordnung der 3. Sitzungsperiode** | ✅ |
+
+📐 **Planungsannahme damit umgestellt: Die vorläufige Haushaltsführung des Landes zum 01.01.2027 ist der
+erwartete Fall, nicht mehr ein Szenario.** ⚠️ Kein Beschluss, keine Gewissheit.
+📐 **Und das erklärt nachträglich den seit Oktober vergeblich gesuchten FAG-Nachfolgeentwurf: Ohne
+Landeshaushalt gibt es kein FAG 2027.** **Die Lücke in diesem Kontext war keine Recherchelücke.**
+
+### Die kommunale Folgekette — jetzt vom Verbandspräsidenten selbst beschrieben
+
+❗ **Dieser Kontext hat seit Wochen als eigene Ableitung geführt: ohne Landeshaushalt kein FAG, ohne FAG
+kein rechtssicherer Kreishaushalt, ohne Kreishaushalt keine planbare Kreisumlage. ✅ Diese Kette ist
+belegt.**
+
+| Aussage | Status |
+|---|---|
+| **Ohne Landeshaushalt steht nicht fest, wie viel Geld die Kommunen bekommen** | ✅ |
+| **Dann können die Landkreise ihre Haushalte nicht rechtssicher aufstellen — sie wüssten nicht, wie viel sie über die Kreisumlage von ihren Städten und Gemeinden holen müssten** | ✅ **wörtlich die eigene Kette** |
+| **Die Landkreise müssten möglicherweise in die vorläufige Haushaltsführung** (nur Pflicht- und unabweisbare Ausgaben) | ✅ |
+| **Städte müssten womöglich Steuern anheben; Parkgebühren und Bibliotheksausweise könnten teurer werden** — Städte- und Gemeindebund-Präsident **Andreas Dittmann (SPD)** | ✅ |
+| **Vereine könnten Zuschüsse verlieren, neue Investitionen ausbleiben** | ✅ |
+
+📐 **Folge für die Umlagefestsetzung 2027: Sie kommt eher später als im bisher angenommenen Zeitraum
+Februar bis März — und in einem Jahr, in dem der Landkreis selbst in der vorläufigen Haushaltsführung
+stecken kann.** 👉 **Die Liquiditätsvorsorge für den Einmalbetrag bleibt der wichtigste eigene
+Vorsorgeposten; Instrument § 105 Abs. 1 KVG LSA.** ✅ **Und die Stadt hat jetzt eine zitierfähige Quelle
+dafür.**
+
+### „Heimatmilliarde" — die bezifferte FAG-Position der Spitzenverbände
+
+✅ **Die kommunalen Spitzenverbände fordern eine zusätzliche Milliarde Euro jährlich aus dem
+Landeshaushalt, ab 2027 dauerhaft über den kommunalen Finanzausgleich verteilt.**
+📐 **Größenordnung, ausdrücklich grob und ausdrücklich keine Erwartung für Hettstedt:** eine Milliarde
+in einem Land mit ⚠️ gut zwei Millionen Einwohnern entspricht **rechnerisch gut 450 € je Einwohner**.
+❗ **Keine Prognose für diese Stadt** — der Finanzausgleich verteilt **nicht je Einwohner**, sondern über
+Schlüsselzuweisungen nach Steuerkraft und Aufgabenlast. 📐 **Die Zahl sagt nur: die Forderung liegt in
+der Größenordnung einer kompletten kommunalen Steuerkraftposition** (Hettstedt: **631 €/EW**, Wegweiser
+Kommune, Indikatorjahr 2023). 👉 **Über den Verband unterstützen — und im eigenen Haushalt 2027 nicht
+einplanen: eine Verbandsforderung ohne Haushaltsentwurf ist keine Einnahmeerwartung.**
+
+### ❗ Verpflichtungsermächtigung Städtebauförderung 2027 nicht freigegeben
+
+✅ **Die Oberbürgermeisterinnen und Oberbürgermeister sowie Bürgermeisterinnen und Bürgermeister der
+Städte und Gemeinden Sachsen-Anhalts appellieren gemeinsam an Landesregierung und Landtag, die im
+Landeshaushalt vorgesehene Verpflichtungsermächtigung für die Städtebauförderung des Jahres 2027
+unverzüglich freizugeben** — ⚠️ andernfalls seien **Millionen-Investitionen** gefährdet.
+
+❗ **Das betrifft unmittelbar die Frist 30.11.2026 für die erstmalige Aufnahme in das Programmjahr
+2027.** 👉 **Trotzdem fristgerecht beantragen: ein nicht gestellter Antrag ist in jedem Szenario
+verloren, ein gestellter wartet nur. Die Freigabe ist ein Problem des Landes, die Frist ein Problem der
+Stadt — und nur die Frist kann die Stadt versäumen.**
+👉 **Zwei Fragen:** (1) **an den Servicebereich:** bleibt die Frist bestehen, und was geschieht mit
+fristgerechten Anträgen, wenn die Freigabe ausbleibt? (2) **im eigenen Haus:** hat Hettstedt den Appell
+mitgetragen — falls nicht, nachzeichnen, es kostet nichts.
+📐 **Verallgemeinerung als Vermutung:** **Ist für andere Landesprogramme mit Bewilligungen in 2027
+ebenfalls keine Verpflichtungsermächtigung freigegeben?** ⚠️ Dazu liegt nichts vor; **programmweise
+fragen.**
+
+## Versorgungssperren und die Fernwärme der Stadtwerke (belegt am 21.11.2026)
+
+✅ **Es ist ein Antrag der Fraktion Die Linke** (Agenturmeldung **07.11.2026**): **gesetzliches Verbot von
+Strom-, Gas- und Wärmesperren für private Haushalte wegen Zahlungsrückständen**, und die
+**Landesregierung soll sich im Bundesrat** dafür einsetzen. ⚠️ Antragstitel laut Fraktionsseite
+**„Niemand soll im Kalten sitzen – Energie- und Versorgungssperren abschaffen"** (undatiert).
+✅ **Zusätzlich ein Härtefallfonds von 10,5 Mio. €.**
+✅ **Anlassfall ist ein Fernwärmefall: August 2026, Halle-Neustadt, rund 260 Mieterhaushalte, Sperrung
+von Fernwärme und Warmwasser wegen Schulden der Eigentümer, nicht der Mieter.**
+
+❗ **Relevanz für Hettstedt: Der Anlassfall ist ein Fernwärmefall, und diese Stadt baut Fernwärme aus**
+(Stufe 1 bis Ende 2027, 3,15 Mio. €; Stufe 2 bis Ende 2028, 1,9 Mio. €; Stufe 3 in Vorbereitung).
+📐 **Dreiteilige eigene Einordnung:** (1) **ein Sperrverbot verlagert das Ausfallrisiko vom Kunden auf
+das Versorgungsunternehmen** — bei einem kommunalen Versorger mittelbar auf die Stadt; (2) **der
+Härtefallfonds wäre die Gegenfinanzierung, also ist die Frage nicht das Verbot, sondern ob Verbot und
+Fonds zusammen kommen** — und ob ein Fonds in einem Jahr ohne Landeshaushalt bedient werden kann;
+(3) ⚠️ **ob ein Landesgesetz Energiesperren überhaupt verbieten kann, ist zweifelhaft** — die
+einschlägigen Regeln sind bundesrechtlich (Energiewirtschaftsrecht, Grundversorgungsverordnungen);
+📐 **das erklärt den Bundesratsweg im Antrag.** ⚠️ Eigene rechtliche Einordnung, nicht belegt.
+⚠️ **Abstimmungsergebnis nicht auffindbar.**
+
 ## Recherchegrenze zur 9. Wahlperiode (festgehalten am 18.11.2026)
 
 ⚠️ **Seit dem 15.11.2026 ist täglich nach Primärdokumenten der 9. Wahlperiode gesucht worden —
@@ -1839,9 +1976,49 @@ direkteste Weg zu Drucksachennummern, Abstimmungsergebnissen und Überweisungen*
 dieses Briefing nicht liefern kann. ⚠️ Ein Plenarprotokoll erscheint mit Verzug; unmittelbar nach der
 Sitzung ist es nicht zu erwarten.
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 19.11.2026)
+✅ **Aufgehoben am 21.11.2026 — die Drucksachen der 9. Wahlperiode sind erreichbar.**
+
+| Fundstelle | Muster | Status |
+|---|---|---|
+| **Drucksachen der 9. WP**, PADOKA-Portal des Landtages | **`padoka.landtag.sachsen-anhalt.de/files/drs/wp9/drs/d<Nummer vierstellig><Kürzel>.pdf`** — belegt an **Drs. 9/31** als `d0031ran.pdf`, ausgegeben **07.10.2026** | ✅ **belegt** |
+| **Plenarprotokolle** | `…/files/plenum/wp8/<Nummer>stzg.pdf`, für die 9. WP analog `wp9` | ✅ Muster belegt, Sitzungsnummer unbekannt |
+| **Sitzungsperioden-Seite** mit Tagesordnung **und Ergebnissen** | Seite zur **3. Sitzungsperiode** der 9. WP | ✅ **erreichbar — Quelle der Ergebnisse zu Drs. 9/44 und 9/46** |
+
+⚠️ **Die Systematik des Kürzels im Dateinamen** (bei Drs. 9/31: `ran`) **ist nicht bekannt** —
+📐 vermutlich eine Kennung für Dokumentart und Urheber.
+👉 **Praktische Folge: Drucksachennummern der 9. Wahlperiode sind ab jetzt beschaffbar. Das war die
+größte Einzelbeschränkung dieses Kontextes; sie ist weg.** 👉 **Erste Anwendung: Drs. 9/44 und 9/46 im
+Original — wegen Begründung und Kostenfolgenabschätzung.**
+
+✅ **Verfahrensbefunde zur 3. Sitzungsperiode:** **18. und 19.11.2026**, Magdeburger Plenarsaal,
+**15 Tagesordnungspunkte**; die ersten Punkte am **Mittwoch, 18.11.**, als Debatten mit **je fünf
+Minuten Redezeit**: KiFöG einschließlich Geschwisterregelung, **Schutz von Elbe und Saale**,
+**Schulsozialarbeit**, **Stärkung demokratischer Beteiligung**, **Abschaffung von Energie- und
+Versorgungssperren**, **Wahl der Mitglieder der 18. Bundesversammlung** (diese tritt am **30.01.2027**
+zusammen und wählt den Bundespräsidenten). ✅ **Die Berichte datieren die KiFöG-Debatte auf „Mittwoch" —
+das ist der 18.11.2026**; der 19.11. war ein Donnerstag. ⚠️ Ein Fraktionskalender nennt **19.–20.11.**;
+**der Landtagsseite folgen.**
+
+❗ **Lücke im eigenen Kontext, aufgefallen beim Nachrechnen am 21.11.2026:** Dieser Kontext führt
+**AfD 39 + CDU 15 + SPD 8 + Linke 8 + BSW 5 = 75** von **83** Sitzen. ⚠️ **Acht Sitze sind nicht
+zugeordnet**, und eine Fundstelle nennt **die Grünen** als abstimmende Fraktion. 📐 Plausibel, aber
+unbelegt, dass die fehlenden acht Sitze dort liegen. ✅ **Für die Mehrheitsrechnung ändert sich nichts**
+(44 von 83 liegt über der Mehrheit von 42). 👉 **Amtliche Sitzverteilung der 9. WP beschaffen.**
+
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 21.11.2026)
 
 | Prüfpunkt | Anlass |
+|---|---|
+| ❗❗ **Antrag Städtebauförderung fristgerecht einreichen — und beim Servicebereich nachfragen** *(neu 21.11.2026)* | ✅ **Die Verpflichtungsermächtigung für das Programmjahr 2027 ist nach dem gemeinsamen Appell der Bürgermeister nicht freigegeben**, die Frist **30.11.2026** läuft gleichwohl. 📐 **Ein nicht gestellter Antrag ist in jedem Szenario verloren, ein gestellter wartet nur.** Zusätzlich fragen: **bleibt die Frist bestehen, und was geschieht mit fristgerechten Anträgen, wenn die Freigabe ausbleibt?** |
+| ❗ **Hat Hettstedt den Bürgermeister-Appell zur Verpflichtungsermächtigung mitgetragen?** *(neu 21.11.2026)* | Der Appell wird als Appell **der** Oberbürgermeister und Bürgermeister geführt; ⚠️ ob die Teilnahme individuell erklärt wurde oder über den Verband lief, ist nicht belegt. 👉 **Falls nicht mitgetragen: nachzeichnen, es kostet nichts** |
+| ❗ **Drs. 9/44 und Drs. 9/46 im Original beschaffen** *(neu 21.11.2026)* | ✅ **Fundstellenmuster jetzt bekannt** (PADOKA, `…/files/drs/wp9/drs/d<Nummer><Kürzel>.pdf`). Gebraucht werden **Begründung und Kostenfolgenabschätzung** des Gesetzentwurfs — genau das fehlt dem Haus |
+| ❗ **Variante A operativ vorbereiten, nicht nur vorhalten** *(hochgestuft 21.11.2026)* | ✅ Das Gesetz ist **überwiesen**, dreifach, und es bleiben **27 Tage** bis zur letzten Plenarsitzung. 📐 **Eigene Bewertung: Variante A ist der wahrscheinlichste Fall.** → **Satzungsstand, Bescheidlauf Januar, Elternhinweis ohne Zahlen und ohne Versprechen** |
+| ❗ **Jahressumme der Elternbeiträge des Eigenbetriebs — jetzt dringlich** *(hochgestuft 21.11.2026)* | ✅ **Auf der Landesseite steht eine Zahl: rund 250 Mio. €/Jahr** (Schätzung des Sozialministeriums für die vollständige Beitragsfreiheit), **auf der städtischen keine.** ❌ **Eine Umrechnung der Landeszahl auf die Stadt ist methodisch unzulässig und unterbleibt** |
+| **Stadtwerke: Ausfälle und Sperren je Sparte, inkl. Fernwärme** *(präzisiert 21.11.2026)* | **Forderungsausfälle, Zahl der Sperrandrohungen und Sperren — getrennt für Strom, Gas und Fernwärme** — sowie **die Wirkung eines Sperrverbots auf die Wirtschaftlichkeitsrechnung der Fernwärmestufen.** ❗ Der Anlassfall des Linke-Antrags ist ein **Fernwärmefall** |
+| **„Heimatmilliarde" über den Städte- und Gemeindebund unterstützen — und nicht einplanen** *(neu 21.11.2026)* | ✅ Bezifferte Verbandsforderung: **1 Mrd. €/Jahr zusätzlich ab 2027 über den Finanzausgleich.** 📐 **Eine Verbandsforderung ohne Haushaltsentwurf ist keine Einnahmeerwartung** |
+| **Programmweise fragen: Verpflichtungsermächtigung 2027 vorhanden und freigegeben?** *(neu 21.11.2026)* | ⚠️ Belegt nur für die Städtebauförderung; 📐 die Frage drängt sich für alle Landesprogramme mit Bewilligungen in 2027 auf und ist mit einer Zeile zu stellen |
+| ⚠️ **Amtliche Sitzverteilung der 9. Wahlperiode beschaffen** *(neu 21.11.2026)* | ❗ In diesem Kontext sind **acht von 83 Sitzen nicht zugeordnet**; eine Fundstelle nennt **die Grünen**. ✅ Die Mehrheitsrechnung bleibt davon unberührt |
+| ⚠️ **Doppelrolle Sven Schulze klären** *(neu 21.11.2026)* | Die Quellen führen dieselbe Person als **geschäftsführenden Ministerpräsidenten** und als **CDU-Fraktionschef**. 📐 In einer Übergangslage möglich, aber ungewöhnlich — **nicht ungeprüft zitieren** |
 |---|---|
 | ❗ **Plenarprotokoll der Sitzung vom 18./19.11.2026 auswerten — drei Fragen** *(neu 19.11.2026)* | (1) **Was geschah mit den drei Gesetzentwürfen zur Geschwisterregelung** — beschlossen, abgelehnt, überwiesen, und an welchen Ausschuss? (2) **Drucksachennummer des angenommenen Entschließungsantrags** — eine Beschlussvorlage braucht sie. (3) **Was wurde zur Abschaffung von Energie- und Versorgungssperren beschlossen** und in welcher Form? ✅ **Fundstellenmuster** `…/files/plenum/wp9/<Nummer>stzg.pdf`; ⚠️ Sitzungsnummer unbekannt, Veröffentlichung mit Verzug |
 | ❗ **Frage an den Städte- und Gemeindebund neu fassen** *(präzisiert 19.11.2026)* | **Nicht mehr „gibt es überhaupt einen Ausgleich?“, sondern: Wird die Kostenübernahme des Landes für Geschwisterkinder in einer Verlängerung fortgeschrieben — in welcher Höhe und in welcher Form?** 📐 Grundlage: ⚠️ die Formulierung „übernimmt das Land den Beitrag“ vom 19.11.2026, die die eigene Zuspitzung vom 18.11. korrigiert |
