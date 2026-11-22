@@ -722,7 +722,32 @@ Mehrheit. **Die CDU-Fraktion ist zerstritten (Stand 11.10.2026).** **Sven Schulz
 
 **Sitzungsplan des Landtages (Stand 12.10.2026, belegt).** Plenartermine 2026: **06.10.** (Konstituierung), **Sondersitzung 14.10., 10:00 Uhr** (2. Sitzungsperiode, außerhalb des vom **Ältestenrat** beschlossenen Plans), **18./19.11.** und **15./16./17.12.2026** — **die letzte Plenarsitzung des Jahres**.
 
-📐 **Eigene Ableitung, Folgerung und keine Quelle:** Die für Dezember angekündigte **Ministerpräsidentenwahl kann nur am 15., 16. oder 17.12.** stattfinden. Ein **Haushaltsgesetz 2027** müsste in **denselben drei Tagen** beschlossen werden; danach gibt es 2026 keine Plenarsitzung mehr. **Maßgebliches Datum ist damit der 17.12.2026, nicht der 31.12.** — vorbehaltlich weiterer Sondersitzungen.
+⚠️❗ **Überholt am 22.11.2026 — die Wahl ist voraussichtlich vorgezogen.** ⚠️ **Einzelfundstelle, etwa
+einen Tag alt:** **Am 8. Dezember 2026 will sich Ulrich Siegmund zum Ministerpräsidenten wählen
+lassen — eine Woche früher als geplant, weil die Sondierungen schneller vorangekommen seien als
+erwartet.** ⚠️ **Mit wem sondiert wird, ist nicht belegt.** ✅ **Die Mehrheit hat er noch nicht**, und es
+ist offen, ob die absolute Mehrheit in den ersten zwei Wahlgängen erreicht wird; ⚠️ eine Fundstelle
+sieht **im dritten Wahlgang gute Chancen**.
+📐 **Der 8.12.2026 ist ein Dienstag und liegt außerhalb der regulären Sitzungsperiode — also eine
+Sondersitzung. ✅ Verfahrensrechtlich ohne Weiteres möglich: nach dem unten belegten Verfahren kann die
+AfD mit 39 Sitzen eine Sondersitzung allein erzwingen (erforderlich 24).**
+📐 **Prüfbare eigene Rechnung und Frühindikator:** § 55 Abs. 4 GO-LT verlangt die Sitzung **spätestens
+zwei Wochen** nach Eingang des Verlangens — **für den 8.12. muss ein Verlangen spätestens etwa am
+24.11.2026 eingehen.** 👉 **Wird bis Anfang der Woche einberufen, ist die Meldung bestätigt; geschieht
+das nicht, bleibt der 15.12. der Termin.** 📐 **Damit ist die Einzelfundstelle binnen Tagen überprüfbar,
+ohne auf eine zweite Pressemeldung zu warten.**
+📐 **Folgen für den Beobachtungskalender:** **BSW-Bundesparteitag (Ende November) und CDU-Landesparteitag
+(05.12.) liegen damit unmittelbar vor der Wahl — ihre Bedeutung steigt.** ❗ **Und was sich ausdrücklich
+nicht verschiebt: der Landeshaushalt 2027.** Der Entwurf wird erst im Januar erwartet; **die vorläufige
+Haushaltsführung des Landes zum 01.01.2027 bleibt der erwartete Fall.** 📐 **Der Termin für die
+Regierungsbildung rückt näher, der für den Haushalt nicht.**
+📐 **Ein Zeitfenster ist gleichwohl zu notieren:** Wird am 8.12. gewählt, gibt es erstmals seit September
+eine handlungsfähige Regierung **vor** der letzten Plenarsitzung — 📐 am ehesten für Einzelakte wie die
+Freigabe einer Verpflichtungsermächtigung, nicht für einen Haushalt. ⚠️ Spekulation über ein Fenster,
+keine Erwartung.
+
+📐 **Eigene Ableitung vom 04.11.2026, am 22.11.2026 überholt — der mitgeschriebene Vorbehalt trägt die
+Korrektur:** Die für Dezember angekündigte **Ministerpräsidentenwahl kann nur am 15., 16. oder 17.12.** stattfinden. Ein **Haushaltsgesetz 2027** müsste in **denselben drei Tagen** beschlossen werden; danach gibt es 2026 keine Plenarsitzung mehr. **Maßgebliches Datum ist damit der 17.12.2026, nicht der 31.12.** — vorbehaltlich weiterer Sondersitzungen.
 → **Planungsannahme für den Vorbericht:** nicht „kommt nie“, sondern **Haushaltsvorgriff im ersten Quartal 2027, Haushaltsgesetz voraussichtlich im ersten Halbjahr**. Präzedenz: Beim **Haushalt 2025** zielten die Beratungstermine des Finanzausschusses auf einen Beschluss im **Februar 2025** ⚠️. **Eigene Hausaufgabe daraus: Wie überbrückt die Stadt das erste Quartal 2027 liquide?**
 
 **Sondersitzungen.** Rechtsgrundlage **Art. 45 Abs. 2 Verf LSA i. V. m. § 55 Abs. 4 GO-LT**; der Präsident beruft unverzüglich ein, die Sitzung findet **spätestens zwei Wochen** nach Eingang des Verlangens statt. **Erforderlich sind nach Angabe des Landtages 24 Abgeordnete** — ✅ **korrigiert am 12.10.2026**: Früher stand hier die eigene Rechnung „21 = ein Viertel von 83“; die Bezugsgröße der Viertelschwelle ist offenbar eine andere und ⚠️ **nicht belegt** — Art. 45 Abs. 2 Verf LSA im Wortlaut lesen. **Die Folgerung bleibt:** Die AfD hat **39** Sitze und liegt auch über 24, kann Sondersitzungen also **allein** erzwingen. **Der Sitzungskalender ist nicht verlässlich vorhersehbar — in beide Richtungen:** Zusätzliche Termine können ein Haushaltsgesetz doch noch ermöglichen. Erste Sondersitzung **14.10.2026**: Antrag **Drs. 9/31** (AfD und BSW) zur Russland- und Ukraine-Politik, Verlangen **Drs. 9/32**. Bei jeder Sitzung die **Tagesordnung** prüfen, ob Geschäftsordnung und Ausschusseinsetzung aufgerufen werden.
@@ -1025,7 +1050,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 21.11.2026)
+## Laufende lokale Vorgänge (Stand 22.11.2026)
 
 - ⚠️ **§ 105 Abs. 1 KVG LSA ist in diesem Haus eingeübt (neu am 15.11.2026).** Eine Beschlussvorlage
   vom **11.06.2025** betraf eine **außerplanmäßige Auszahlung gemäß § 105 Abs. 1 KVG LSA im
@@ -1391,6 +1416,28 @@ für Hettstedt und seine Ortsteile. ⚠️ Einzelfundstelle; maßgeblich ist die
 
 → **Für die Recherche:** maßgeblicher Kanal ist `hettstedt.de/neuigkeiten/bekanntmachungen/`,
 nicht die Amtsblatt-Seite.
+
+❗ **Anwendungsfehler, festgehalten am 22.11.2026.** Diese Angaben stehen hier seit dem **09.10.2026**.
+**Trotzdem wurde am 04.11. und noch am 21.11. nach einem „Amtsblatt November 2026" gesucht und das
+Ergebnis als „nicht indexiert" gedeutet.** 📐 **Das ist kein Quellenproblem, sondern ein
+Anwendungsfehler: Der Kontext wird fortgeschrieben, aber bei der Tagesrecherche nicht konsequent
+gegengelesen.** 👉 **Verfahrensregel ab 22.11.2026: Bevor ein Suchergebnis als „nichts auffindbar"
+vermerkt wird, ist zu prüfen, ob dieser Kontext die Erklärung schon enthält.**
+
+⚠️ **Widerspruch in den Pfadangaben, sichtbar geworden am 22.11.2026:** Dieser Kontext führt
+**`hettstedt.de/neuigkeiten/bekanntmachungen/`**, eine Fundstelle vom 22.11.2026 nennt
+**`hettstedt.de/aktuelles/bekanntmachungen`**. 📐 Vermutlich zwei Pfade auf denselben Inhalt — **für die
+Wirksamkeit elektronischer Bekanntmachungen ist der maßgebliche Pfad aber kein Detail.**
+👉 **Im Haus klären: Welcher Pfad ist der in der Bekanntmachungssatzung bezeichnete?**
+
+✅ **Neu belegt am 22.11.2026:** Eine Amtsblatt-Seite mit Stand **08.05.2026** listet Sitzungen bis Juni
+2026, darunter die **15. Sitzung des Stadtrates am 05.05.2026**. ⚠️ Zum Haushalt 2027 enthält sie nichts.
+⚠️ **Prüfhinweis:** Ein Verlagsportal für amtliche Mitteilungsblätter führt einen **Hettstedt-Eintrag**;
+ob darüber Bekanntmachungen laufen, ist **nicht belegt**.
+❌ **Verworfener Fehltreffer, zur Warnung festgehalten:** Ein Suchergebnis „Der Stadthaushalt für 2026
+soll am 20.11. im Stadtrat verabschiedet werden" **betrifft nicht Hettstedt** — fremde Website, nennt
+die **ADD** (rheinland-pfälzische Aufsichtsbehörde), rund **410 Tage alt**. 📐 **Datum und Wortwahl
+passen scheinbar perfekt; die Zuordnung ist falsch. So entstehen falsche Sätze in Beschlussvorlagen.**
 → **Rechtlich:** Bei elektronischer Bekanntmachung hängt die **Wirksamkeit von Satzungen** an der
 korrekten Umsetzung (dauerhafte Verfügbarkeit, Nachweis des Bekanntmachungszeitpunkts,
 gegebenenfalls Hinweisbekanntmachung). Fehler können Satzungen unwirksam machen — bei
@@ -1929,6 +1976,44 @@ mitgetragen — falls nicht, nachzeichnen, es kostet nichts.
 ebenfalls keine Verpflichtungsermächtigung freigegeben?** ⚠️ Dazu liegt nichts vor; **programmweise
 fragen.**
 
+### Präzisierung am 22.11.2026 — wofür eine Verpflichtungsermächtigung da ist
+
+✅ **Belegt:** Die Freigabe soll es dem Land erlauben, **bereits im laufenden Haushaltsjahr verbindliche
+Förderzusagen für das kommende Jahr** zu geben. ✅ **Begründung des Verbandes:** Städtebauprojekte laufen
+**über mehrere Jahre** und hängen von **verlässlicher Kofinanzierung durch Bund, Land und Kommunen** ab,
+regelmäßig mit **mehrjährigem Vorlauf**; ohne Freigabe drohe ein **abruptes Ausbremsen dringend
+erforderlicher Entwicklungsmaßnahmen**. ✅ Der Verband erwartet die Freigabe **noch im laufenden
+Haushaltsjahr**.
+
+❗ **Daraus eine Unterscheidung, die die Darstellung vom 21.11.2026 präzisiert — und sie ist eine gute
+Nachricht:** **Die Verpflichtungsermächtigung steht im laufenden Landeshaushalt — und das ist der
+Doppelhaushalt 2025/2026, dessen Existenz belegt ist. Sie muss freigegeben, nicht erst beschlossen
+werden.** 📐 **Eine Bewilligung für das Programmjahr 2027 hängt damit nicht am fehlenden Haushalt 2027,
+sondern an einer Freigabeentscheidung im bestehenden Haushalt — ein erheblich kleineres Hindernis als
+ein ganzes Haushaltsgesetz.** ⚠️ **Eigene Ableitung aus der Formulierung „die im Landeshaushalt
+vorgesehene Verpflichtungsermächtigung", keine Aussage der Quelle.** 👉 **Vor einer Verwendung in einer
+Vorlage prüfen, in welchem Haushaltsjahr die Verpflichtungsermächtigung veranschlagt ist.**
+
+| Bundesrahmen | Status |
+|---|---|
+| **Verwaltungsvereinbarung Städtebauförderung 2026/2027 in Kraft seit 14.04.2026** | ✅ |
+| **Erstmals 1 Mrd. € jährlich vom Bund; für 2027 sind 1,2 Mrd. € vorgesehen** | ✅ ⚠️ für 2027 als **Absicht des Bundes** bezeichnet |
+| **Anteile Sachsen-Anhalts an den Bundesmitteln: 4,880 / 6,806 / 6,155 Prozent** | ✅ ⚠️ **Jahreszuordnung nicht belegt** |
+| Der Bund legt den Betrag je Land in einem **gesonderten Verteilschreiben** fest | ✅ |
+
+📐 **Eigene Überschlagsrechnung mit Spanne:** 1,2 Mrd. € mal die drei Sätze ergibt **rund 59, 74 und
+82 Mio. €** — **der Bundesanteil für Sachsen-Anhalt im Programmjahr 2027 liegt also grob bei 60 bis
+80 Mio. €**, dazu Landes- und Kommunalanteil. ⚠️ Welcher Satz gilt, ist nicht belegt.
+⚠️ **Rücknahme einer Zahl:** In der Vorbereitung zum 21.11.2026 war von **rund 180 Mio. € gefährdeter
+Investitionen** die Rede. ❗ **Die Nachprüfung am 22.11.2026 hat diese Zahl nicht bestätigt; sie ist
+nicht zitierfähig.** 📐 **Plausibel bleibt sie** — Bundesanteil plus Landes- und Kommunalanteil erreicht
+ohne Weiteres den dreistelligen Millionenbereich. **Plausibel ist nicht belegt.**
+❗ **Unbeantwortet:** **Keine Reaktion der Landesregierung oder des Finanzministeriums auffindbar**, und
+**ob der Landtag die Freigabe beschlossen hat, ist nicht belegt** — ⚠️ auf der auffindbaren Tagesordnung
+vom 18./19.11. stand sie nicht. 📐 **Die nächste Gelegenheit ist die Sitzung 15.–17.12. — zwei Wochen
+nach Ablauf der Antragsfrist.** 👉 **Umso mehr gilt: fristgerecht beantragen; ein nicht gestellter
+Antrag ist in jedem Szenario verloren, ein gestellter wartet nur.**
+
 ## Versorgungssperren und die Fernwärme der Stadtwerke (belegt am 21.11.2026)
 
 ✅ **Es ist ein Antrag der Fraktion Die Linke** (Agenturmeldung **07.11.2026**): **gesetzliches Verbot von
@@ -2005,9 +2090,15 @@ zugeordnet**, und eine Fundstelle nennt **die Grünen** als abstimmende Fraktion
 unbelegt, dass die fehlenden acht Sitze dort liegen. ✅ **Für die Mehrheitsrechnung ändert sich nichts**
 (44 von 83 liegt über der Mehrheit von 42). 👉 **Amtliche Sitzverteilung der 9. WP beschaffen.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 21.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 22.11.2026)
 
 | Prüfpunkt | Anlass |
+|---|---|
+| ❗ **Maßgeblichen Pfad der Bekanntmachungsseite klären** *(neu 22.11.2026)* | ⚠️ Zwei Pfade im Umlauf: `…/neuigkeiten/bekanntmachungen/` und `…/aktuelles/bekanntmachungen`. ❗ **Daran hängt die Wirksamkeit elektronisch bekanntgemachter Satzungen** — bei Abgabensatzungen mit unmittelbarer Haushaltswirkung. **Welcher Pfad ist in der Bekanntmachungssatzung bezeichnet?** |
+| ❗ **In welchem Haushaltsjahr ist die Verpflichtungsermächtigung Städtebauförderung 2027 veranschlagt?** *(neu 22.11.2026)* | 📐 Eigene Ableitung: **im laufenden Doppelhaushalt 2025/2026** — dann muss sie nur **freigegeben**, nicht beschlossen werden, und die Bewilligung hängt **nicht** am fehlenden Haushalt 2027. ⚠️ Ableitung, keine Quellenaussage — **vor Verwendung prüfen** |
+| ❗ **Sondersitzung zum 08.12.2026 beobachten — Frühindikator** *(neu 22.11.2026)* | 📐 § 55 Abs. 4 GO-LT: Sitzung **spätestens zwei Wochen** nach Eingang des Verlangens → **für den 08.12. Eingang spätestens etwa 24.11.2026.** ✅ Die AfD kann sie mit 39 Sitzen allein erzwingen (erforderlich 24). 👉 **Wird einberufen, ist die vorgezogene Wahl bestätigt; geschieht es nicht, bleibt der 15.12.** |
+| **Beobachtungskalender umstellen** *(neu 22.11.2026)* | ⚠️ **Ministerpräsidentenwahl voraussichtlich 08.12.2026** statt 15.–17.12. → **BSW-Bundesparteitag (Ende November) und CDU-Landesparteitag (05.12.) liegen unmittelbar davor; Bedeutung gestiegen.** ❗ **Am Landeshaushalt 2027 ändert das nichts** |
+| ⚠️ **Verlagsportal für amtliche Mitteilungsblätter** *(neu 22.11.2026)* | Ein Portal führt einen **Hettstedt-Eintrag**; ob darüber Bekanntmachungen laufen, ist **nicht belegt**. **In einem Satz zu klären**, nützlich für die Nachvollziehbarkeit der Veröffentlichungspraxis |
 |---|---|
 | ❗❗ **Antrag Städtebauförderung fristgerecht einreichen — und beim Servicebereich nachfragen** *(neu 21.11.2026)* | ✅ **Die Verpflichtungsermächtigung für das Programmjahr 2027 ist nach dem gemeinsamen Appell der Bürgermeister nicht freigegeben**, die Frist **30.11.2026** läuft gleichwohl. 📐 **Ein nicht gestellter Antrag ist in jedem Szenario verloren, ein gestellter wartet nur.** Zusätzlich fragen: **bleibt die Frist bestehen, und was geschieht mit fristgerechten Anträgen, wenn die Freigabe ausbleibt?** |
 | ❗ **Hat Hettstedt den Bürgermeister-Appell zur Verpflichtungsermächtigung mitgetragen?** *(neu 21.11.2026)* | Der Appell wird als Appell **der** Oberbürgermeister und Bürgermeister geführt; ⚠️ ob die Teilnahme individuell erklärt wurde oder über den Verband lief, ist nicht belegt. 👉 **Falls nicht mitgetragen: nachzeichnen, es kostet nichts** |
