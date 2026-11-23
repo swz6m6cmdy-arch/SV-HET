@@ -979,6 +979,41 @@ Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
   ⚠️ **Landesweite Größenordnung, ältere Angabe des Landkreistages:** **46 Verfahren** von Städten und Gemeinden gegen Kreisumlagen, **Streitwert 114 Mio. €**. 📐 *Eigene Einordnung:* Das erklärt die Verfassungsbeschwerde in Karlsruhe besser als jede Pressemitteilung — **der Streit ist ein Systemkonflikt, nicht der Konflikt eines Kreises mit seinen Städten.**
   ⚠️ **OVG Magdeburg, Dezember 2023:** Nach einer späteren Meldung hat das OVG entschieden, dass der Kreis **über Jahre** zu viel erhoben hat; **Datum und Aktenzeichen unbelegt**, Verhältnis zum hier geführten OVG-Beschluss vom 26.05. **offen**.
   ✅ **Der konkrete Abwägungsmangel, belegt am 25.10.2026** ⚠️ Einzelfundstelle, Regionalpresse, nicht die Urteilsgründe: Das Gericht habe es **als unzureichend angesehen, dass der Kreis zur Ermittlung der Kreisumlage lediglich die vom Statistischen Landesamt dargestellten Steuerkraftmesszahlen und Schlüsselzuweisungen der Gemeinden herangezogen hatte.** → **Vier Prüffragen zur Festsetzung 2027, die nichts kosten:** (1) Wurden **nur** Steuerkraftmesszahlen und Schlüsselzuweisungen herangezogen? (2) Wurde die **tatsächliche** Finanzlage ermittelt — Pflichtaufgaben, Kassenlage, Konsolidierungsauflagen, Liquiditätskredite? (3) Liegt eine **dokumentierte Abwägung** vor oder nur eine Rechnung? (4) Wurde die **Mindestausstattung der einzelnen Gemeinde** geprüft oder nur der Kreisbedarf? **Bleiben sie unbeantwortet, ist das selbst ein Befund** — eine Abwägung muss dokumentiert sein, um überprüfbar zu sein.
+  ✅ **Klageermächtigung für die Kreisumlage 2026, belegt am 23.11.2026** ⚠️ **über ein nichtamtliches
+  lokales Nachrichtenportal, an der Beschlussniederschrift zu verifizieren:** In der **15.
+  Stadtratssitzung** — 📐 nach der Amtsblatt-Seite vom 08.05.2026 der **05.05.2026**, wozu die
+  Altersangabe der Fundstelle passt — hat der Stadtrat **den Bürgermeister ermächtigt, Klage zu
+  erheben, sofern der Umlagesatz 30 % übersteigt oder der Bescheid insgesamt rechtlich angreifbar
+  ist**. **Die Vorlage hat Bürgermeister Frank Tallig selbst vorgestellt**; der Beschluss fiel
+  **mehrheitlich bei zwei Enthaltungen**. **Begründung: erhebliche Bedenken, dass der Landkreis die
+  finanzielle Mindestausstattung Hettstedts nicht ausreichend berücksichtigt.** ✅ **Rechtsbeistand
+  wechselt zu Prof. Dr. Gundlach**; ⚠️ zuvor **Dombert Rechtsanwälte, Potsdam**, aufgrund eines
+  Beschlusses **2023**. In derselben Sitzung: ✅ **außerplanmäßiger Auszahlungsvorgang für das
+  Haushaltsjahr 2025 einstimmig** — 📐 **§ 105 KVG LSA ist damit im Haus mehrfach eingeübt.**
+  ⚠️ Ebenfalls behandelt: **„neue Möglichkeiten im Humboldt-Schloss"** — **Inhalt nicht belegt, neuer
+  Vorgang.**
+  → ❗ **Damit ist die seit dem 13.10.2026 offene Teilfrage „für welche Jahre nach 2020 wurden
+  Umlagebescheide angefochten" für 2026 beantwortet — und die Bedingung des Beschlusses ist
+  erfüllt: Die Kreisumlage 2026 ist auf 40 % festgesetzt, also über 30 %.**
+  → 👉 **Dringlichste Frage daraus: Ist Klage erhoben — Gericht, Aktenzeichen, Streitwert? Wenn nein,
+  läuft noch eine Frist?** 📐 Ein Umlagebescheid ist ein Verwaltungsakt und unterliegt
+  Rechtsbehelfsfristen; ⚠️ welche Frist konkret gilt, ist von außen nicht feststellbar.
+  → ❗ **Für 2027 deckt der Beschluss nichts.** 👉 **Die Ratsvorlage für die Kreisumlage 2027 jetzt
+  vorbereiten, mit derselben Konstruktion (Schwellenwert plus Auffangklausel). Sie kann liegen, bis
+  der Bescheid kommt; sie kann aber nicht in der Frist erst geschrieben werden.** 📐 **Und: ein
+  Bescheid, den der Landkreis ohne rechtssicheren Haushalt festsetzt, ist eher angreifbar, nicht
+  weniger** — die Auffangklausel ist dafür die passende Formulierung.
+  → 👉 **Rechtsfrage: Sind die Argumente aus dem Verfahren der Landkreise gegen das Land für die Stadt
+  gegen den Landkreis nutzbar — und ist die fehlende Landesfinanzierung ein Argument der Stadt oder
+  eine Entschuldigung des Landkreises?** 📐 „Finanzielle Mindestausstattung" ist in beiden Verfahren
+  derselbe Maßstab, nur eine Ebene versetzt.
+  ⚠️ **Erste Größenordnung der eigenen Umlagelast, mit Vorbehalt:** Eine mehrere Jahre alte
+  Pressefundstelle nennt **rund 5,3 Mio. € Umlage insgesamt, davon rund 2,5 Mio. € streitig**, nach
+  einem **Änderungsantrag** im Stadtrat. ⚠️ **Das Jahr ist nicht belegt.** 📐 Überschlag: **rund
+  420 €/EW**, streitiger Anteil **rund 47 %**. ❌ **Eine Rückrechnung auf die Umlagegrundlagen
+  unterbleibt — sie bräuchte den Umlagesatz desselben Jahres; die am 13.11.2026 aus dem
+  Sangerhausen-Fall gezogene Regel gilt auch gegen die eigene Neugier.**
+
   ✅ **Zitierfähige Leitentscheidung, belegt am 25.10.2026:** **BVerwG, Urteil vom 31.01.2013, Az. 8 C 1.12** zur finanziellen Mindestausstattung ⚠️ Volltext nicht geprüft, über die Entscheidungsdatenbank beschaffen. **Erstmals eine Fundstelle oberhalb der Landesebene.** ⚠️ **Nicht zu zitieren** ist dagegen die Formulierung einer Gemeindeseite, das Urteil des VG Halle habe „erstmals“ das Recht auf eine verfassungsgebotene Mindestausstattung zugebilligt — das ist die Sprache einer Kommune, nicht eines Gerichts, und passt nicht zu einer BVerwG-Entscheidung aus 2013.
   ✅ **Rechtskraft geklärt, aber zwei Verfahren auseinanderhalten (25.10.2026):** **Kreisumlage 2017** (Sangerhausen, Hettstedt) — rechtskräftig, **rund 16 Mio. € plus Zinsen verbleiben endgültig bei den Städten** ⚠️. **Kreisumlagen 2018 und 2020** — VG Halle 28.06.2023; **das OVG Magdeburg hat den Antrag des Landkreises auf Zulassung der Berufung abgelehnt**, damit rechtskräftig (Bericht aus Dezember 2023 ⚠️). **Es gibt also mindestens zwei OVG-Entscheidungen; der hier geführte „OVG-Beschluss vom 26.05.“ darf nicht mit der Entscheidung zu 2018/2020 verwechselt werden.** ⚠️ Dazu eine separat zu prüfende Pressemitteilung vom **22.11.2022** („Verfahren gegen Kreisumlagen teilweise erfolgreich“).
   ⚠️ **Zwei offene Widersprüche:** (a) **Klägerliste 2018/2020** — die PM des VG Halle nennt vier Städte (mit **Wallhausen**), die Fundstelle vom 25.10. nur drei. (b) **Jahreszuordnung der Beträge** — die Zwei-Städte-Beträge (16 bzw. 16,8 Mio. €) und der Drei-Städte-Betrag (20,3 Mio. €) sind untereinander konsistent, aber **welcher Betrag zu welchem Urteilsjahr gehört, ist offen**; Eisleben war nach der heutigen Fundstelle Klägerin im Verfahren **2018/2020**. **Damit ist meine Zuordnung vom 20.10. („20,3 = dieselbe Runde zuzüglich Eisleben“) nicht gesichert.** Maßgeblich bleibt der eigene Zahlungseingang aus den Akten.
@@ -1050,7 +1085,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 22.11.2026)
+## Laufende lokale Vorgänge (Stand 23.11.2026)
 
 - ⚠️ **§ 105 Abs. 1 KVG LSA ist in diesem Haus eingeübt (neu am 15.11.2026).** Eine Beschlussvorlage
   vom **11.06.2025** betraf eine **außerplanmäßige Auszahlung gemäß § 105 Abs. 1 KVG LSA im
@@ -1375,6 +1410,18 @@ auf „irgendwann im November 2025“.** ⚠️ **Unstimmigkeit:** Die vier beka
 
 ⚠️ **Nicht belegt:** Eine Pressemeldung vom **19.08.2026** soll berichten, Hettstedt habe „plötzlich das teuerste Trinkwasser der Region“, das Thema sei im Stadtrat zu behandeln. **Die Gegenprüfung trägt den Vergleich nicht:** Ein Preisvergleich über 22 Städte nennt eine Spanne von **1,29 bis 2,88 €/m³**; der Hettstedter Bruttoarbeitspreis liegt darin, und **ohne Einbeziehung der Grundpreise ist kein Rang ermittelbar**.
 
+✅ **Ergänzt am 23.11.2026 — die Struktur ist zweigeteilt:** Neben der **Stadtwerke Hettstedt GmbH**
+(Vertrieb, eigene Tarifseiten) besteht eine **Netzgesellschaft mit eigenem Auftritt**. ✅ **Die
+Netzentgelte sind gültig vom 01.01.2026 bis 31.12.2026.** 📐 **Folge: Zum 01.01.2027 stehen neue
+Netzentgelte an, üblicherweise im Dezember veröffentlicht — ein weiteres Datum auf den
+Jahreswechsel, neben § 104 KVG LSA, Geschwisterregelung, Festbetrags-FAG und eigenem
+Mietbeschluss.**
+📐 **Und eine Einordnung zum Versorgungssperren-Antrag:** Eine **entflochtene Netzgesellschaft** ist
+davon nur mittelbar betroffen — **ein Sperrverbot trifft Vertrieb und Wärmeversorgung, nicht das
+Netz.** 👉 **Die Fragen nach Forderungsausfällen und Sperrandrohungen sind deshalb an die Vertriebs-
+und Wärmeseite zu richten, nicht an die Netzgesellschaft.** ⚠️ Eigene Einordnung aus der Struktur,
+nicht belegt.
+
 → **Drei stehende Prüfpunkte:** (1) **Vergleichsrechnung für einen Referenzhaushalt** (z. B. 80 m³/Jahr) **einschließlich Grundpreis** gegen drei bis fünf Nachbarversorger — der einzige Vergleich, der in einer Sitzung trägt. (2) **Prüfungszuständigkeit:** § 137 KVG LSA erfasst **Zweckverbände**; die Versorgung läuft hier über ein **kommunales Unternehmen**, für das andere Regeln gelten — zu klären. (3) **Beteiligungssteuerung:** Gewinnabführung, Querverbund, Konzessionsabgabe und Investitionsbedarf berühren den städtischen Haushalt unmittelbar und gehören in den Beteiligungsbericht.
 
 ## Verwaltungsorganisation — belegte Zuständigkeiten
@@ -1416,6 +1463,18 @@ für Hettstedt und seine Ortsteile. ⚠️ Einzelfundstelle; maßgeblich ist die
 
 → **Für die Recherche:** maßgeblicher Kanal ist `hettstedt.de/neuigkeiten/bekanntmachungen/`,
 nicht die Amtsblatt-Seite.
+
+✅ **Zwei auffindbare Fundstellen für lokale Vorgänge, ergänzt am 23.11.2026 — damit ist die seit dem
+04.11.2026 beklagte Hettstedt-Lücke zu einem guten Teil ein Rechercheproblem gewesen, kein
+Veröffentlichungsproblem:**
+1. ⚠️ **Ein indexiertes nichtamtliches lokales Nachrichtenportal berichtet Stadtratsergebnisse** — mit
+   Beschlussinhalten, Abstimmungsverhältnissen und Begründungen. **Nichtamtlich, aber konkret; für
+   Vorlagen ist stets die Beschlussniederschrift maßgeblich.**
+2. ✅ **Das Amtsblattarchiv besteht als PDF-Reihe** nach dem Muster
+   `hettstedt.de/fileadmin/redaktion/Amtsblatt/JJJJ_MM_Monat.pdf` — belegt für 2017, 2018, 2019, 2020
+   und **Juli 2023**. 📐 **Das passt zur Abschaffung durch Ratsbeschluss vom 09.07.2024: Die Reihe
+   endet, das Archiv bleibt.**
+👉 **Beide Fundstellen gehören ab 23.11.2026 zum festen Suchweg.**
 
 ❗ **Anwendungsfehler, festgehalten am 22.11.2026.** Diese Angaben stehen hier seit dem **09.10.2026**.
 **Trotzdem wurde am 04.11. und noch am 21.11. nach einem „Amtsblatt November 2026" gesucht und das
@@ -2090,9 +2149,16 @@ zugeordnet**, und eine Fundstelle nennt **die Grünen** als abstimmende Fraktion
 unbelegt, dass die fehlenden acht Sitze dort liegen. ✅ **Für die Mehrheitsrechnung ändert sich nichts**
 (44 von 83 liegt über der Mehrheit von 42). 👉 **Amtliche Sitzverteilung der 9. WP beschaffen.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 22.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 23.11.2026)
 
 | Prüfpunkt | Anlass |
+|---|---|
+| ❗❗ **Klagestand Kreisumlage 2026 feststellen** *(neu 23.11.2026)* | ✅ **Ratsermächtigung vom 05.05.2026 liegt vor, und ihre Bedingung ist erfüllt** (40 % > 30 %). 👉 **Ist Klage erhoben — Gericht, Aktenzeichen, Streitwert? Wenn nein: läuft noch eine Frist?** 📐 Rechtsbehelfsfristen laufen ab Bekanntgabe des Bescheids |
+| ❗ **Ratsvorlage Kreisumlage 2027 jetzt vorbereiten** *(neu 23.11.2026)* | ❗ **Der Beschluss vom 05.05.2026 betrifft 2026 und deckt 2027 nicht.** Konstruktion wie 2026: **Schwellenwert plus Auffangklausel „oder der Bescheid insgesamt rechtlich angreifbar ist".** 📐 **Ein Bescheid ohne rechtssicheren Kreishaushalt ist eher angreifbar, nicht weniger.** **Die Vorlage kann liegen, bis der Bescheid kommt; sie kann nicht in der Frist erst geschrieben werden** |
+| ❗ **Rechtsfrage: Übertragbarkeit der Mindestausstattungsargumente** *(neu 23.11.2026)* | 📐 „Finanzielle Mindestausstattung" ist derselbe verfassungsrechtliche Maßstab, mit dem die **Landkreise gegen das Land** vorgehen — die Stadt argumentiert eine Ebene tiefer auf derselben Linie. 👉 **Nutzbar? Und ist die fehlende Landesfinanzierung Argument der Stadt oder Entschuldigung des Landkreises?** |
+| ❗ **Mandatslage klären** *(neu 23.11.2026)* | **Ist das Mandat an Prof. Dr. Gundlach erteilt?** ⚠️ **Und was wurde aus dem Mandat Dombert Rechtsanwälte (Beschluss 2023)?** |
+| ⚠️ **Humboldt-Schloss** *(neu 23.11.2026)* | In der 15. Stadtratssitzung behandelt; **Inhalt nicht belegt.** **Neuer Vorgang für diesen Kontext — in einem Satz im Haus zu klären** |
+| **Netzentgelte 2027 der Netzgesellschaft im Blick behalten** *(neu 23.11.2026)* | ✅ Entgelte gelten bis **31.12.2026**; 📐 neue üblicherweise im Dezember veröffentlicht. **Ausfall- und Sperrfragen an Vertrieb und Wärme richten, nicht an das Netz** |
 |---|---|
 | ❗ **Maßgeblichen Pfad der Bekanntmachungsseite klären** *(neu 22.11.2026)* | ⚠️ Zwei Pfade im Umlauf: `…/neuigkeiten/bekanntmachungen/` und `…/aktuelles/bekanntmachungen`. ❗ **Daran hängt die Wirksamkeit elektronisch bekanntgemachter Satzungen** — bei Abgabensatzungen mit unmittelbarer Haushaltswirkung. **Welcher Pfad ist in der Bekanntmachungssatzung bezeichnet?** |
 | ❗ **In welchem Haushaltsjahr ist die Verpflichtungsermächtigung Städtebauförderung 2027 veranschlagt?** *(neu 22.11.2026)* | 📐 Eigene Ableitung: **im laufenden Doppelhaushalt 2025/2026** — dann muss sie nur **freigegeben**, nicht beschlossen werden, und die Bewilligung hängt **nicht** am fehlenden Haushalt 2027. ⚠️ Ableitung, keine Quellenaussage — **vor Verwendung prüfen** |
