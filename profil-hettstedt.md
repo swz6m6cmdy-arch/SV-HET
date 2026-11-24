@@ -722,6 +722,25 @@ Mehrheit. **Die CDU-Fraktion ist zerstritten (Stand 11.10.2026).** **Sven Schulz
 
 **Sitzungsplan des Landtages (Stand 12.10.2026, belegt).** Plenartermine 2026: **06.10.** (Konstituierung), **Sondersitzung 14.10., 10:00 Uhr** (2. Sitzungsperiode, außerhalb des vom **Ältestenrat** beschlossenen Plans), **18./19.11.** und **15./16./17.12.2026** — **die letzte Plenarsitzung des Jahres**.
 
+✅ **Präzisiert am 24.11.2026 — der Termin ist aus zweiter Quelle bestätigt, aber als Ankündigung, nicht
+als Einberufung.** ✅ **Eine zweite, unabhängige Fundstelle nennt den 08.12.2026**; ❗ **beide berichten,
+Siegmund habe den Termin in einem Video auf X angekündigt — die Wahl war zunächst für den
+15. Dezember geplant.** 📐 **Damit ist der Frühindikator vom 22.11.2026 beantwortet: Es gibt keinen
+Verfahrensschritt, es gibt eine Ankündigung des Kandidaten. Das erklärt, warum keine Einberufung
+auffindbar war.** 👉 **Im Kalender als „angekündigt, nicht einberufen" führen; der 15.–17.12. bleibt der
+gesicherte Sitzungstermin.**
+✅ **Wahlverfahren jetzt präzise belegt: Die Wahl erfolgt ohne Aussprache und geheim; im ersten
+Wahlgang ist die Mehrheit der Mitglieder erforderlich, mindestens 42 der 83 Abgeordneten; die AfD
+allein erreicht diese Zahl nicht.** ✅ **Das bestätigt die hier seit dem 02.11.2026 geführte Arithmetik
+und die Unterscheidung offene gegen geheime Abstimmung aus einer Quelle.**
+⚠️ **Neuer Vorgang mit terminlicher Folge:** **Siegmund plant, den Medienstaatsvertrag noch 2026 zu
+kündigen** und damit den Rundfunkbeitrag zu Fall zu bringen. 📐 **Für die Stadt ohne direkten
+Haushaltsbezug — aber die Plenarzeit im Dezember wird knapper: In die Sitzung 15.–17.12. müssten dann
+Ministerpräsidentenwahl, zweite Beratung des KiFöG-Entwurfs nach drei Ausschüssen, die Kündigung des
+Medienstaatsvertrags und möglicherweise die Freigabe der Verpflichtungsermächtigung passen.**
+📐 **Eigene Bewertung: Eine überfüllte Tagesordnung ist kein guter Ort für ein Gesetz, das durch drei
+Ausschüsse muss — Variante A beim KiFöG bleibt der wahrscheinlichste Fall.**
+
 ⚠️❗ **Überholt am 22.11.2026 — die Wahl ist voraussichtlich vorgezogen.** ⚠️ **Einzelfundstelle, etwa
 einen Tag alt:** **Am 8. Dezember 2026 will sich Ulrich Siegmund zum Ministerpräsidenten wählen
 lassen — eine Woche früher als geplant, weil die Sondierungen schneller vorangekommen seien als
@@ -1085,7 +1104,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 23.11.2026)
+## Laufende lokale Vorgänge (Stand 24.11.2026)
 
 - ⚠️ **§ 105 Abs. 1 KVG LSA ist in diesem Haus eingeübt (neu am 15.11.2026).** Eine Beschlussvorlage
   vom **11.06.2025** betraf eine **außerplanmäßige Auszahlung gemäß § 105 Abs. 1 KVG LSA im
@@ -1312,6 +1331,46 @@ Frage für das Rechtsamt.**
 → **Die Risikoart hat sich damit geändert:** nicht mehr vorrangig **ob** die Regelung ausläuft, sondern **wann** die Nachfolge kommt — möglicherweise zu spät für Satzung, Bescheide und Elternkommunikation.
 → **Der für den städtischen Haushalt wichtigste Satz der ganzen Debatte** ist nicht die Dauer der Geschwisterregelung, sondern die Forderung der Linken, **die Landeszahlungen an die Kommunen abzusichern und zu dynamisieren**. **Über die Spitzenverbände unterstützen, unabhängig von der Herkunft des Antrags.**
 
+## Ratsbeschlüsse und Sitzungsrhythmus 2026 (neu aufgenommen am 24.11.2026)
+
+⚠️ **Die Beschlussangaben stammen aus einem nichtamtlichen lokalen Nachrichtenportal und aus
+Bekanntmachungen der Stadt; für Vorlagen ist stets die Beschlussniederschrift maßgeblich.**
+
+| Sitzung | Beschluss | Status |
+|---|---|---|
+| **14. Stadtrat, 24.03.2026** | ❗❗ **Änderung der Kostenbeitragssatzung Kinderbetreuung** — mehrheitlich | ⚠️ |
+| **14. Stadtrat, 24.03.2026** | ✅ **„Neubau Kunstrasenplatz" für den FC Hettstedt einschließlich Nutzungsvertrag und Durchführungsregeln** — mehrheitlich, ⚠️ nach emotionaler Debatte | ⚠️ |
+| **HWV-Ausschuss, 13. Sitzung, 22.04.2026** | Beschluss amtlich bekanntgemacht | ✅ |
+| **15. Stadtrat, 05.05.2026** | ✅ **Jahresabschluss 2025 einstimmig gebilligt**; **getrennt davon** die außerplanmäßige Auszahlung, ebenfalls einstimmig — ✅ **präzisiert den Befund vom 23.11.2026: zwei Beschlüsse, nicht einer**; dazu die **Klageermächtigung Kreisumlage 2026** | ⚠️ |
+| **16. Stadtrat, 23.06.2026** | Beschlüsse amtlich bekanntgemacht | ✅ |
+
+📐 **Sitzungsrhythmus: 24.03. — 05.05. — 23.06.2026, also etwa alle sechs bis acht Wochen.** 📐 **Seit
+dem 23.06. müssten drei bis vier weitere Sitzungen stattgefunden haben; zu keiner ist etwas
+auffindbar.** 👉 **Frage ins Haus: Wann ist die nächste Stadtratssitzung, und steht die
+Haushaltssatzung 2027 auf der Tagesordnung?** 📐 **Bei diesem Rhythmus wäre Dezember der typische
+Termin für einen Haushaltsbeschluss.**
+
+❗ **Zwei Verbindungen zu offenen Punkten dieses Kontextes:**
+1. 📐 **Der „Neubau Kunstrasenplatz" dürfte der hier als „Sportforum" geführte Vorgang sein** —
+   ⚠️ **Vermutung, nicht belegt.** 👉 **Im Haus klären; ein Neubau mit Nutzungsvertrag ist ein
+   Investitions- und Folgekostenvorgang und gehört in die mittelfristige Planung.** 📐 Dazu passt die
+   Antragsfrist **31.08.2027** für Sportstättenbau und Vereinssportstättenbau 2028.
+2. ❗❗ **Das Ratsinformationssystem enthält einen Vorgang zu Ausgleichsbeiträgen im „Sanierungsgebiet
+   Ortskern Hettstedt"** (Beschluss-Nr. **SRT-0878/2014**, Bauausschuss **19.08.2014**). 📐 **Ein
+   Sanierungsgebiet ist städtebaurechtlich regelmäßig Grundlage einer Städtebauförderung** —
+   👉 **Hinweis auf die seit Wochen offene Frage nach dem Programmbereich.** ⚠️ **Fortbestand nicht
+   belegt; Sanierungsgebiete laufen allerdings lange.**
+
+⚠️ **Historischer Fund mit Gegenwartsbezug:** Stadtratsbeschluss vom **26.03.2013** zur **Aufgabe von
+Garagenstandorten und zum Abriss**. 📐 **Dieser Kontext führt einen Mietbeschluss zu städtischen
+Garagen mit Wirkung ab 01.01.2027 — es gibt also eine Vorgeschichte.** 👉 **Beim Mietbeschluss
+mitlesen.**
+✅ **Nebenbefund:** Der **Haushaltsplan 2009 einschließlich Konsolidierungsprogramm** wurde mit
+**19 Ja, 0 Nein, 5 Enthaltungen** beschlossen. 📐 **Ein Konsolidierungsprogramm gab es also schon 2009**
+— das passt zum Haushaltskonsolidierungskonzept mit Laufzeit bis 2034 und zeigt, dass die
+Konsolidierung keine Erscheinung der letzten Jahre ist. ✅ **Und es belegt, dass das
+Ratsinformationssystem Abstimmungsergebnisse enthält.**
+
 ## Amtsinhaber und Bürgermeisterwahl (neu aufgenommen am 22.10.2026)
 
 **Dieser Recherchekontext hat fünf Wochen lang „Bürgermeister der Stadt Hettstedt“ als Adressat geführt, ohne den Amtsinhaber zu prüfen. Nachgetragen am 22.10.2026.**
@@ -1475,6 +1534,26 @@ Veröffentlichungsproblem:**
    und **Juli 2023**. 📐 **Das passt zur Abschaffung durch Ratsbeschluss vom 09.07.2024: Die Reihe
    endet, das Archiv bleibt.**
 👉 **Beide Fundstellen gehören ab 23.11.2026 zum festen Suchweg.**
+
+❗❗ **Erweitert am 24.11.2026 — fünf Zugänge, die dieser Kontext nicht kannte. Damit war die seit dem
+04.11.2026 wiederholte Notiz „zu Hettstedt nichts auffindbar" nicht teilweise, sondern vollständig ein
+Rechercheproblem.**
+
+| Zugang | Was dort liegt |
+|---|---|
+| **Ratsinformationssystem** `ratsinfo-online.net/hettstedt-bi/` | **Tagesordnungspunkte mit Auszügen, einschließlich Abstimmungsergebnissen** — Muster `to020.asp?TOLFDNR=<Nummer>` |
+| **Sitzungskalender** `hettstedt.de/buergerservice/stadtpolitik/sitzungskalender/` | Sitzungstermine |
+| **Stadtratsseite mit Unterseite Beschlussvorlagen** `hettstedt.de/buergerservice/stadtpolitik/stadtrat/` | ❗ **Beschlussvorlagen** |
+| **Eigenbetrieb Kindertageseinrichtungen** `eigenbetrieb-kita.de`, Seite **„Nutzungssatzung/Kostenbeitragssatzung"** | ❗❗ **die Kita-Beitragssatzung selbst** |
+| **Satzungssammlung** `hettstedt.de/buergerservice/satzungen/…` | Satzungstexte, belegt an der Verwaltungskostensatzung |
+
+⚠️ **Einschränkung zum Ratsinformationssystem:** In den Suchtreffern sind **nur Auszüge aus etwa 2002 bis
+2014** indexiert. 📐 **Das heißt nicht, dass neuere Sitzungen fehlen — nur dass die Suchmaschine sie
+nicht erfasst.** 👉 **Direkt aufrufen, nicht über eine Suchmaschine.**
+
+👉 **Verfahrensregel ab 24.11.2026: Für eine Kommune ist zuerst nach Ratsinformationssystem,
+Sitzungskalender, Beschlussvorlagen und Satzungssammlung zu suchen — nicht nach Nachrichten über die
+Kommune.** 📐 **Dritte Verfahrenskorrektur in drei Tagen, alle mit derselben Ursache: zu enges Suchen.**
 
 ❗ **Anwendungsfehler, festgehalten am 22.11.2026.** Diese Angaben stehen hier seit dem **09.10.2026**.
 **Trotzdem wurde am 04.11. und noch am 21.11. nach einem „Amtsblatt November 2026" gesucht und das
@@ -2149,9 +2228,14 @@ zugeordnet**, und eine Fundstelle nennt **die Grünen** als abstimmende Fraktion
 unbelegt, dass die fehlenden acht Sitze dort liegen. ✅ **Für die Mehrheitsrechnung ändert sich nichts**
 (44 von 83 liegt über der Mehrheit von 42). 👉 **Amtliche Sitzverteilung der 9. WP beschaffen.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 23.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 24.11.2026)
 
 | Prüfpunkt | Anlass |
+|---|---|
+| ❗ **Nächster Sitzungstermin und Tagesordnung — steht die Haushaltssatzung 2027 darauf?** *(neu 24.11.2026)* | 📐 Sitzungsrhythmus etwa alle sechs bis acht Wochen; seit dem 23.06.2026 ist keine Sitzung auffindbar. **Über Sitzungskalender und Ratsinformationssystem in einem Satz zu klären** |
+| ⚠️ **Fortbestand des Sanierungsgebiets Ortskern Hettstedt** *(neu 24.11.2026)* | 📐 Ein Sanierungsgebiet ist regelmäßig Grundlage einer Städtebauförderung. ❗ **Sechs Tage vor der Antragsfrist 30.11.2026 ist das der schnellste Weg zur offenen Frage nach dem Programmbereich** — und er führt ins eigene Haus, nicht zum Land |
+| ⚠️ **Ist der „Neubau Kunstrasenplatz" derselbe Vorgang wie das hier geführte „Sportforum"?** *(neu 24.11.2026)* | Mehrheitlich beschlossen **24.03.2026**, ⚠️ nach emotionaler Debatte, **einschließlich Nutzungsvertrag und Durchführungsregeln.** 👉 **Folgekosten in der mittelfristigen Planung?** 📐 Antragsfrist Sportstättenbau 2028: **31.08.2027** |
+| ⚠️ **Garagenbeschluss vom 26.03.2013 beim Mietbeschluss ab 01.01.2027 mitlesen** *(neu 24.11.2026)* | **Aufgabe von Garagenstandorten und Abriss** — 📐 **Vorgeschichte zum eigenen Mietbeschluss** |
 |---|---|
 | ❗❗ **Klagestand Kreisumlage 2026 feststellen** *(neu 23.11.2026)* | ✅ **Ratsermächtigung vom 05.05.2026 liegt vor, und ihre Bedingung ist erfüllt** (40 % > 30 %). 👉 **Ist Klage erhoben — Gericht, Aktenzeichen, Streitwert? Wenn nein: läuft noch eine Frist?** 📐 Rechtsbehelfsfristen laufen ab Bekanntgabe des Bescheids |
 | ❗ **Ratsvorlage Kreisumlage 2027 jetzt vorbereiten** *(neu 23.11.2026)* | ❗ **Der Beschluss vom 05.05.2026 betrifft 2026 und deckt 2027 nicht.** Konstruktion wie 2026: **Schwellenwert plus Auffangklausel „oder der Bescheid insgesamt rechtlich angreifbar ist".** 📐 **Ein Bescheid ohne rechtssicheren Kreishaushalt ist eher angreifbar, nicht weniger.** **Die Vorlage kann liegen, bis der Bescheid kommt; sie kann nicht in der Frist erst geschrieben werden** |
@@ -2188,6 +2272,7 @@ unbelegt, dass die fehlenden acht Sitze dort liegen. ✅ **Für die Mehrheitsrec
 | Stand der offenen **rückzahlbaren Liquiditätshilfen** | Präzedenz Gerbstedt: Bedarfszuweisung zur Ablösung einer früheren Liquiditätshilfe |
 | Welche **TVergG-LSA-Fassung** liegt Vergabevermerken zugrunde? | Widersprüchliche Angaben zum Inkrafttreten der geänderten Fassung (01.11.2025 vs. 01.11.2026); Wertgrenzen sollen entfallen, Vereinfachungen bis Ende 2028 |
 | Szenarien **KiFöG ab 01.01.2027** | Rechtsgrundlage **§ 13 Abs. 4 Satz 2 KiFöG**, befristet bis **31.12.2026**. **Jetzt in zwei Varianten vorbereiten** — mit und ohne Verlängerung; 📐 kommt das Gesetz erst am 17.12., reichen zwei Wochen nur für eine **vorbereitete** Satzungsänderung. Außerdem: **eigene Betroffenenzahl** (Kinder unter der Geschwisterregelung in den städtischen Einrichtungen) und **Beitragsausfall ab Januar** beziffern — nicht mit der Presseangabe „bis zu 60.000 Kinder“ rechnen, die die **seit 2019** Begünstigten bezeichnet |
+| ❗❗ **Wortlaut und Reichweite der Satzungsänderung vom 24.03.2026 klären** *(neu 24.11.2026)* | ✅ **Belegt (⚠️ nichtamtlich): In der 14. Stadtratssitzung am 24.03.2026 wurde eine Änderung der Kostenbeitragssatzung für die Kinderbetreuung mehrheitlich beschlossen** — **fünf Tage nach der Mitteilung vom 19.03.2026.** ❗ **Damit ist die bis heute geführte Aussage „ein Beschluss ist nicht belegt" überholt.** 👉 **Den Wortlaut über den Eigenbetrieb (`eigenbetrieb-kita.de`, Seite „Nutzungssatzung/Kostenbeitragssatzung") oder die Satzungssammlung beschaffen und die entscheidende Frage prüfen: Nimmt die Satzung auf § 13 Abs. 4 Satz 2 KiFöG Bezug?** ⚠️ **Offen bleibt, ob die Änderung den Einrichtungsteil erfasste oder nur die Tagespflege — der Einrichtungsteil ist der größere Posten.** 📐 **Diese Unterscheidung stand seit dem 09.10.2026 in diesem Kontext und war die ganze Zeit mit einem Blick in eine öffentlich erreichbare Satzung zu klären** |
 | Nimmt die **Kostenbeitragssatzung Kita** auf die KiFöG-Geschwisterregelung Bezug? | **Fundstellen jetzt belegt (09.10.2026):** geltende **Kostenbeitragssatzung für die Benutzung der Kindertageseinrichtungen und die Inanspruchnahme von Tagespflege**, beschlossen am **19.12.2017**, **Beschluss-Nr. SRT-1150/2017**, in Kraft **01.01.2018** (Amtliches Mitteilungsblatt Januar 2018). Die Stadt **beabsichtigt eine Neufassung** für die **Kindertagespflege** — Mitteilung vom **19.03.2026** mit Richtigstellung zu MZ-Artikeln vom 19.02. und 14.03.2026; ein **Beschluss ist nicht belegt**. Zwei mögliche Lagen: **A** Satzung nimmt Bezug → **Satzungswiderspruch** zum 01.01.2027, Änderung vorher nötig; **B** kein Bezug, Ermäßigung unmittelbar nach Landesrecht gewährt → ab 01.01.2027 gelten **automatisch die vollen Satzungsbeiträge**, Kommunikations- und Ertragsthema im Wirtschaftsplan des Eigenbetriebs. Die Neufassung betrifft nach ihrem Wortlaut die **Tagespflege**; ob sie den **Einrichtungsteil** mit erfasst, ist nicht belegt — das ist der größere Posten. Szenarien zweistufig (Eigenbetrieb und Haushalt) rechnen |
 | Entspricht die **elektronische Bekanntmachung** seit dem 09.07.2024 der Bekanntmachungssatzung? | Risiko unwirksamer Satzungen |
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |

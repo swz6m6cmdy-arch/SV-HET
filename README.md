@@ -133,3 +133,4 @@ die von den installierten Schriften nicht gedeckt sind.
 - [21.11.2026](briefings/2026-11-21-kommunalbriefing-sachsen-anhalt.md) — deckt auch den 20.11.2026 ab; an diesem Tag ist keine Ausgabe erschienen
 - [22.11.2026](briefings/2026-11-22-kommunalbriefing-sachsen-anhalt.md)
 - [23.11.2026](briefings/2026-11-23-kommunalbriefing-sachsen-anhalt.md)
+- [24.11.2026](briefings/2026-11-24-kommunalbriefing-sachsen-anhalt.md)
