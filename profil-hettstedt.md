@@ -722,6 +722,14 @@ Mehrheit. **Die CDU-Fraktion ist zerstritten (Stand 11.10.2026).** **Sven Schulz
 
 **Sitzungsplan des Landtages (Stand 12.10.2026, belegt).** Plenartermine 2026: **06.10.** (Konstituierung), **Sondersitzung 14.10., 10:00 Uhr** (2. Sitzungsperiode, außerhalb des vom **Ältestenrat** beschlossenen Plans), **18./19.11.** und **15./16./17.12.2026** — **die letzte Plenarsitzung des Jahres**.
 
+✅ **Neuer prüfbarer Indikator für die KiFöG-Frage, aufgenommen am 25.11.2026:** Nach der
+Terminübersicht des Landtages fand in der **Woche vom 16. bis 20.11.2026** eine **Ausschusssitzungswoche**
+statt. 📐 **Die Überweisung von Drs. 9/44 am 18.11. kam mitten in diese Woche, also zu spät für sie.**
+📐 **Damit braucht die Beratung eine weitere Ausschusssitzungswoche vor dem 15.12.** 👉 **Prüffrage:
+Gibt es zwischen dem 20.11. und dem 15.12.2026 noch eine Ausschusssitzungswoche? Wenn nein, ist eine
+zweite Beratung praktisch ausgeschlossen und Variante A beim KiFöG nicht mehr nur der
+wahrscheinlichste, sondern der einzige Fall.** ⚠️ Die Terminübersicht war nicht einsehbar.
+
 ✅ **Präzisiert am 24.11.2026 — der Termin ist aus zweiter Quelle bestätigt, aber als Ankündigung, nicht
 als Einberufung.** ✅ **Eine zweite, unabhängige Fundstelle nennt den 08.12.2026**; ❗ **beide berichten,
 Siegmund habe den Termin in einem Video auf X angekündigt — die Wahl war zunächst für den
@@ -1104,7 +1112,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 24.11.2026)
+## Laufende lokale Vorgänge (Stand 25.11.2026)
 
 - ⚠️ **§ 105 Abs. 1 KVG LSA ist in diesem Haus eingeübt (neu am 15.11.2026).** Eine Beschlussvorlage
   vom **11.06.2025** betraf eine **außerplanmäßige Auszahlung gemäß § 105 Abs. 1 KVG LSA im
@@ -1330,6 +1338,43 @@ Frage für das Rechtsamt.**
 📐 **Eigene Rechnung, keine Prognose:** Vier Fraktionen wollen verlängern — **AfD 39 + CDU 15 + SPD 8 + Linke 8 = 70 von 83**. **Eine Mehrheit für *irgendeine* Verlängerung ist arithmetisch leicht erreichbar; der Streit ist die Dauer, nicht das Ob.** ⚠️ **Trotzdem keine Umstellung der Planungsannahme:** Es gibt keinen Beschluss, die Mehrheitsbildung in diesem Landtag ist unerprobt — und 📐 **ein Gesetzentwurf wird im Regelfall im Ausschuss beraten, die Ausschüsse sind aber nicht eingesetzt.** Werden sie erst am **18./19.11.** eingesetzt, bleibt für einen Beschluss realistisch nur die Sitzung **15.–17.12.** — zwei Wochen vor dem Auslaufen, in derselben Sitzung wie Ministerpräsidentenwahl und Haushaltsgesetz 2027.
 → **Die Risikoart hat sich damit geändert:** nicht mehr vorrangig **ob** die Regelung ausläuft, sondern **wann** die Nachfolge kommt — möglicherweise zu spät für Satzung, Bescheide und Elternkommunikation.
 → **Der für den städtischen Haushalt wichtigste Satz der ganzen Debatte** ist nicht die Dauer der Geschwisterregelung, sondern die Forderung der Linken, **die Landeszahlungen an die Kommunen abzusichern und zu dynamisieren**. **Über die Spitzenverbände unterstützen, unabhängig von der Herkunft des Antrags.**
+
+## Sanierungsgebiet Ortskern Hettstedt — abgeschlossen und aufgehoben (neu aufgenommen am 25.11.2026)
+
+❗ **Dieser Abschnitt berichtigt die Empfehlung vom 24.11.2026, das Sanierungsgebiet sei ein Hinweis auf
+den Programmbereich der Städtebauförderung. Richtig gedacht, im Ergebnis falsch.**
+
+| Datum | Vorgang | Status |
+|---|---|---|
+| **17.07.1991** | **Aufnahme Hettstedts in das Förderprogramm „Städtebauliche Sanierungs- und Entwicklungsmaßnahmen" mit Schreiben** | ✅ |
+| **19.05.1992** | **Erhaltungssatzung nach § 172 BauGB beschlossen** | ✅ |
+| **22.06.1992** | **Sanierungssatzung von der Stadtverordnetenversammlung beschlossen** | ✅ |
+| **24.05.1993** | **Bezirksregierung Halle genehmigt — teilweise** | ✅ |
+| — | **Geltungsbereich 26 ha** | ✅ |
+| **um 2000** | ⚠️ **17,2 Mio. DM für den Ortskern**; ⚠️ eine **Landesinitiative** sollte „die komplizierte Situation von Hettstedt überwinden helfen" (PM 18.04.2000) | ⚠️ |
+| **2018** | ⚠️ Nach dem Entwurf der 1. FNP-Änderung standen **im Förderprogramm keine Fördermittel des Bundes und des Landes mehr zur Verfügung**; ⚠️ dort ist ein **Abgrenzungsvorschlag für ein neues Sanierungsgebiet** erwähnt — **ob festgelegt, ist nicht belegt** | ⚠️ |
+| **13.12.2022** | ❗❗ **Der Stadtrat hebt die Sanierungssatzung auf** | ✅ |
+| **28.12.2022** | ✅ **Bekanntmachung der Aufhebung; Sanierungsvermerke im Grundbuch gelöscht** | ✅ |
+| — | ✅ **Mit Abschluss der Sanierung: Ausgleichsbetragspflicht nach § 154 BauGB**; **Gestaltungssatzung für den Stadtkern erlassen** | ✅ |
+
+📐 **Folge für die Städtebauförderung, eigene Ableitung aus dem allgemeinen Städtebauförderungsrecht und
+nicht aus den Landesrichtlinien:** Die Förderung setzt je Programmbereich ein **Fördergebiet** voraus —
+regelmäßig ein **städtebauliches Entwicklungskonzept** und eine **Gebietsfestlegung** (§ 142 BauGB,
+§ 171b BauGB, § 172 BauGB oder § 171e BauGB). 👉 **Die Frage ans Bauamt lautet daher nicht „welcher
+Programmbereich?", sondern: Liegen ein aktuelles Entwicklungskonzept und eine wirksame
+Gebietsfestlegung vor — und ist ohne sie eine erstmalige Aufnahme für 2027 überhaupt möglich?**
+📐 **Ehrliche Konsequenz: Fehlen Konzept und Gebiet, ist nicht die Frist das Problem, sondern die
+Vorarbeit — dann ist 2027 zu spät und die Frist 30.11.2027 für das Programmjahr 2028 der realistische
+Zieltermin.**
+
+❗❗ **Und ein Einnahmeposten, der bisher fehlte: Ausgleichsbeträge nach § 154 BauGB.** ✅ Die Stadt hat
+das Instrument vorbereitet und angewandt — **Beschluss-Nr. SRT-0878/2014**, Erhebung **auf dem Weg der
+vorzeitigen Ablösung im Rahmen einer freiwilligen Vereinbarung**, mit Musteranschreiben und
+Mustervereinbarung (Bauausschuss 19.08.2014). 👉 **Sind die Beträge vollständig erhoben? Welcher Betrag
+steht aus, wie viele Grundstücke betrifft es?** 📐 **Zwei Gründe für Eile: (1) Ausgleichsbeträge sind
+eine Einnahme, die § 104 KVG LSA nicht sperrt — anders als Ausgaben. (2) Abgabenansprüche verjähren,
+und mit der Aufhebung Ende 2022 ist eine Uhr angelaufen.** ⚠️ **Welche Frist gilt, ist eine Rechtsfrage
+und hier nicht geprüft — deshalb gehört sie ins Rechtsamt.**
 
 ## Ratsbeschlüsse und Sitzungsrhythmus 2026 (neu aufgenommen am 24.11.2026)
 
@@ -2228,9 +2273,13 @@ zugeordnet**, und eine Fundstelle nennt **die Grünen** als abstimmende Fraktion
 unbelegt, dass die fehlenden acht Sitze dort liegen. ✅ **Für die Mehrheitsrechnung ändert sich nichts**
 (44 von 83 liegt über der Mehrheit von 42). 👉 **Amtliche Sitzverteilung der 9. WP beschaffen.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 24.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 25.11.2026)
 
 | Prüfpunkt | Anlass |
+|---|---|
+| ❗❗ **Bauamt: Entwicklungskonzept und Gebietsfestlegung für die Städtebauförderung** *(neu 25.11.2026)* | ❗ **Das Sanierungsgebiet Ortskern ist seit dem 13.12.2022 aufgehoben.** 👉 **Liegen ein aktuelles städtebauliches Entwicklungskonzept und eine wirksame Gebietsfestlegung vor? Wurde der Abgrenzungsvorschlag aus dem FNP-Entwurf festgelegt? Und ist ein Antrag zum 30.11. danach möglich?** 📐 **Fehlen beide, ist 2027 zu spät und 2028 der Zieltermin** |
+| ❗❗ **Ausgleichsbeträge nach § 154 BauGB: erhoben, offener Betrag, Verjährung** *(neu 25.11.2026)* | ✅ Mit Abschluss der Sanierung entstanden; Instrument 2014 vorbereitet (**SRT-0878/2014**, vorzeitige Ablösung). 📐 **Einnahme, die § 104 KVG LSA nicht sperrt — und seit der Aufhebung Ende 2022 läuft eine Verjährungsuhr.** ⚠️ Fristfrage ans Rechtsamt |
+| ❗ **Ausschusssitzungswoche zwischen 20.11. und 15.12.2026 prüfen** *(neu 25.11.2026)* | 📐 Entscheidet, ob eine zweite KiFöG-Beratung am 15.–17.12. überhaupt möglich ist — **der schärfste Test für Variante A** |
 |---|---|
 | ❗ **Nächster Sitzungstermin und Tagesordnung — steht die Haushaltssatzung 2027 darauf?** *(neu 24.11.2026)* | 📐 Sitzungsrhythmus etwa alle sechs bis acht Wochen; seit dem 23.06.2026 ist keine Sitzung auffindbar. **Über Sitzungskalender und Ratsinformationssystem in einem Satz zu klären** |
 | ⚠️ **Fortbestand des Sanierungsgebiets Ortskern Hettstedt** *(neu 24.11.2026)* | 📐 Ein Sanierungsgebiet ist regelmäßig Grundlage einer Städtebauförderung. ❗ **Sechs Tage vor der Antragsfrist 30.11.2026 ist das der schnellste Weg zur offenen Frage nach dem Programmbereich** — und er führt ins eigene Haus, nicht zum Land |
@@ -2273,6 +2322,9 @@ unbelegt, dass die fehlenden acht Sitze dort liegen. ✅ **Für die Mehrheitsrec
 | Welche **TVergG-LSA-Fassung** liegt Vergabevermerken zugrunde? | Widersprüchliche Angaben zum Inkrafttreten der geänderten Fassung (01.11.2025 vs. 01.11.2026); Wertgrenzen sollen entfallen, Vereinfachungen bis Ende 2028 |
 | Szenarien **KiFöG ab 01.01.2027** | Rechtsgrundlage **§ 13 Abs. 4 Satz 2 KiFöG**, befristet bis **31.12.2026**. **Jetzt in zwei Varianten vorbereiten** — mit und ohne Verlängerung; 📐 kommt das Gesetz erst am 17.12., reichen zwei Wochen nur für eine **vorbereitete** Satzungsänderung. Außerdem: **eigene Betroffenenzahl** (Kinder unter der Geschwisterregelung in den städtischen Einrichtungen) und **Beitragsausfall ab Januar** beziffern — nicht mit der Presseangabe „bis zu 60.000 Kinder“ rechnen, die die **seit 2019** Begünstigten bezeichnet |
 | ❗❗ **Wortlaut und Reichweite der Satzungsänderung vom 24.03.2026 klären** *(neu 24.11.2026)* | ✅ **Belegt (⚠️ nichtamtlich): In der 14. Stadtratssitzung am 24.03.2026 wurde eine Änderung der Kostenbeitragssatzung für die Kinderbetreuung mehrheitlich beschlossen** — **fünf Tage nach der Mitteilung vom 19.03.2026.** ❗ **Damit ist die bis heute geführte Aussage „ein Beschluss ist nicht belegt" überholt.** 👉 **Den Wortlaut über den Eigenbetrieb (`eigenbetrieb-kita.de`, Seite „Nutzungssatzung/Kostenbeitragssatzung") oder die Satzungssammlung beschaffen und die entscheidende Frage prüfen: Nimmt die Satzung auf § 13 Abs. 4 Satz 2 KiFöG Bezug?** ⚠️ **Offen bleibt, ob die Änderung den Einrichtungsteil erfasste oder nur die Tagespflege — der Einrichtungsteil ist der größere Posten.** 📐 **Diese Unterscheidung stand seit dem 09.10.2026 in diesem Kontext und war die ganze Zeit mit einem Blick in eine öffentlich erreichbare Satzung zu klären** |
+| ❗ **Satzungsstand der Kostenbeitragssatzung berichtigen** *(neu 25.11.2026)* | ⚠️ **Widerspruch, von hier aus nicht auflösbar:** Dieser Kontext führt seit dem 09.10.2026 die Satzung vom **19.12.2017** (SRT-1150/2017, in Kraft 01.01.2018) als geltend. ✅ **Eine Fundstelle vom 25.11.2026 belegt dagegen: Satzung von 2019, 2023 geändert, Gebührentabelle in Anlage 1 in Kraft seit 01.06.2023** — dazu die **Änderung vom 24.03.2026.** 📐 **Mindestens drei, eher vier Stände.** ❗ **Der hier als „geltend" geführte Stand ist nicht der geltende; jede Aussage über Beitragshöhen und Satzungsbezüge hing daran** |
+| ❗❗ **Anlage 1 der Kostenbeitragssatzung beim Eigenbetrieb einsehen** *(neu 25.11.2026)* | ✅ **Belegt: Die Anlagen liegen beim Eigenbetrieb Kindertageseinrichtungen, Fichtestraße 28a, zu den Öffnungszeiten zur Einsichtnahme aus — sie sind nicht im Netz.** 📐 **Das erklärt wochenlanges Suchen ins Leere, und eine Geschwisterklausel steht typischerweise genau dort.** 👉 **Die Frage „Bezug auf § 13 Abs. 4 Satz 2 KiFöG?" ist ausschließlich im Haus zu beantworten — an der Anlage, nicht am Satzungstext allein** |
+| **§-90-SGB-VIII-Verfahren auf mehr Anträge vorbereiten** *(neu 25.11.2026)* | ✅ **Belegt über das Landesportal: Für die KiTa-Gebühr besteht ein eingerichtetes Antragsverfahren — „auf Antrag können die Kosten ermäßigt, erlassen oder vom Träger der öffentlichen Jugendhilfe übernommen werden".** 📐 **Das ist die einkommensabhängige Ermäßigung, nicht die Geschwisterregelung.** 👉 **Fällt die Geschwisterregelung weg, ist dies die naheliegende Auffangregel für Familien — ab Januar sind mehr Anträge zu erwarten** |
 | Nimmt die **Kostenbeitragssatzung Kita** auf die KiFöG-Geschwisterregelung Bezug? | **Fundstellen jetzt belegt (09.10.2026):** geltende **Kostenbeitragssatzung für die Benutzung der Kindertageseinrichtungen und die Inanspruchnahme von Tagespflege**, beschlossen am **19.12.2017**, **Beschluss-Nr. SRT-1150/2017**, in Kraft **01.01.2018** (Amtliches Mitteilungsblatt Januar 2018). Die Stadt **beabsichtigt eine Neufassung** für die **Kindertagespflege** — Mitteilung vom **19.03.2026** mit Richtigstellung zu MZ-Artikeln vom 19.02. und 14.03.2026; ein **Beschluss ist nicht belegt**. Zwei mögliche Lagen: **A** Satzung nimmt Bezug → **Satzungswiderspruch** zum 01.01.2027, Änderung vorher nötig; **B** kein Bezug, Ermäßigung unmittelbar nach Landesrecht gewährt → ab 01.01.2027 gelten **automatisch die vollen Satzungsbeiträge**, Kommunikations- und Ertragsthema im Wirtschaftsplan des Eigenbetriebs. Die Neufassung betrifft nach ihrem Wortlaut die **Tagespflege**; ob sie den **Einrichtungsteil** mit erfasst, ist nicht belegt — das ist der größere Posten. Szenarien zweistufig (Eigenbetrieb und Haushalt) rechnen |
 | Entspricht die **elektronische Bekanntmachung** seit dem 09.07.2024 der Bekanntmachungssatzung? | Risiko unwirksamer Satzungen |
 | Werden **Kommunalarm-Mittel als Eigenanteil bei REVIER 2038** anerkannt? | Kumulierungsverbote sind im Förderrecht die Regel; vor jeder Planung bei der IB klären |
