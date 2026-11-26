@@ -722,6 +722,49 @@ Mehrheit. **Die CDU-Fraktion ist zerstritten (Stand 11.10.2026).** **Sven Schulz
 
 **Sitzungsplan des Landtages (Stand 12.10.2026, belegt).** Plenartermine 2026: **06.10.** (Konstituierung), **Sondersitzung 14.10., 10:00 Uhr** (2. Sitzungsperiode, außerhalb des vom **Ältestenrat** beschlossenen Plans), **18./19.11.** und **15./16./17.12.2026** — **die letzte Plenarsitzung des Jahres**.
 
+❗❗ **Fortgeschrieben am 26.11.2026 — der Verfahrensschritt ist da, und es gibt eine Gegenkandidatin.**
+
+| Befund | Status |
+|---|---|
+| **Die AfD-Fraktion hat Ulrich Siegmund formell vorgeschlagen und eine Sondersitzung des Landtages verlangt** | ⚠️ **Aggregator-Fundstelle, nicht aus erster Hand** |
+| **Alle 39 Abgeordneten der Fraktion haben den Antrag unterstützt** | ⚠️ |
+| **Landtagspräsident Tobias Rausch will unverzüglich einen Termin bestimmen** | ⚠️ ✅ **neue Personalie: Rausch ist Landtagspräsident** |
+| ✅ **Eine Sondersitzung verlangt mindestens ein Viertel der Mitglieder — die 39 Sitze erfüllen das** | ✅ **bestätigt die hier seit dem 12.10.2026 geführte Rechtsgrundlage** |
+| ❗❗ **Eva von Angern, Vorsitzende der Linksfraktion, tritt als Gegenkandidatin an** | ⚠️ **neu — bisher gab es keine Gegenkandidatur** |
+| ❗❗ **Das BSW will sich enthalten; damit ist unklar, wie der AfD-Kandidat die erforderliche Stimmenzahl erreichen soll** | ⚠️ ✅ **beantwortet die seit dem 16.10.2026 offene Kernfrage** |
+| ✅ **Die Wahl war bislang für den 15. Dezember geplant** | ✅ **drei weitere Fundstellen** |
+
+📐 **Damit ist der Frühindikator vom 22.11.2026 beantwortet: Es gibt einen Verfahrensschritt, nicht nur
+ein Video.** ❗ **Berichtet ist das Verlangen, nicht die Einberufung — der Termin bleibt nicht amtlich
+bestätigt.** ⚠️ **Spannung in der Darstellung: zwei Fundstellen sprechen von „erwägt" (etwa 19.11.),
+eine von einem gestellten Antrag.** 📐 Plausible Abfolge erst erwogen, dann verlangt — **nicht belegt.**
+⚠️ **Der Widerspruch zur Viertelschwelle bleibt: Ein Viertel von 83 wären 21, der Landtag nennt 24.**
+✅ **Heute ist das Viertel-Prinzip bestätigt, die Zahl nicht aufgelöst.** 📐 Für das Ergebnis ohne Belang.
+
+📐 **Die Rechnung, und sie bestätigt den Stand dieses Kontextes exakt:** Bei Enthaltung des BSW stehen
+**39** Stimmen zur Verfügung, erforderlich sind im ersten Wahlgang **42** — ❗ **es fehlen drei Stimmen.**
+📐 **Die gemeinsame Abstimmung vom 18.11.2026 widerspricht dem nicht: offene Sachabstimmung gegen
+geheime Personenwahl — die Unterscheidung steht hier seit dem 02.11.2026. Der Frühindikator hat in der
+Sachfrage ausgeschlagen und in der Personenfrage nicht; beides ist vereinbar und beides jetzt belegt.**
+
+❗ **Was die Gegenkandidatur ändert — und das ist neu.** Dieser Kontext führt seit dem 19.10.2026 den
+Beschluss der CDU-Fraktion, bei der Wahl den **Plenarsaal zu verlassen**, damit in geheimer Wahl keine
+CDU-Stimme für Siegmund abgegeben werden kann. 📐 **Mit einer Gegenkandidatin kehrt sich die Wirkung
+um: Wer den Saal verlässt, gibt keine Stimme für Siegmund ab — aber auch keine für die
+Gegenkandidatin.** 📐 **In einem dritten Wahlgang, in dem die einfache Mehrheit genügt, wird das zur
+entscheidenden Größe; ein Lager, das nicht im Saal ist, senkt nicht die Zahl, die der andere Kandidat
+braucht, sondern die, die seine eigene Kandidatin erreicht.** ❗ **Das ist ein Argument, das es ohne
+Gegenkandidatur nicht gab, und dürfte in der CDU-Fraktion neu zu bewerten sein.**
+❗ **Eine Rechnung dazu unterbleibt bewusst: In diesem Kontext sind acht von 83 Sitzen nicht
+zugeordnet.** 👉 **Die amtliche Sitzverteilung der 9. Wahlperiode zu beschaffen, ist damit keine
+Fleißaufgabe mehr, sondern Voraussetzung jeder Mehrheitsrechnung für einen dritten Wahlgang.**
+
+👉 **Für die Stadt unmittelbar nichts, und das ist die wichtigste Aussage.** 📐 **Wer am 8. oder am
+15. Dezember gewählt wird, ändert nichts daran, dass der Haushaltsentwurf 2027 erst im Januar erwartet
+wird.** 📐 **Mittelbar zählt genau ein Punkt: Je mehr Wahlgänge, desto später der Landeshaushalt und
+desto später die Umlagefestsetzung 2027.** 👉 **Liquiditätsvorsorge erstes Quartal 2027, Instrument
+§ 105 Abs. 1 KVG LSA.**
+
 ✅ **Neuer prüfbarer Indikator für die KiFöG-Frage, aufgenommen am 25.11.2026:** Nach der
 Terminübersicht des Landtages fand in der **Woche vom 16. bis 20.11.2026** eine **Ausschusssitzungswoche**
 statt. 📐 **Die Überweisung von Drs. 9/44 am 18.11. kam mitten in diese Woche, also zu spät für sie.**
@@ -729,6 +772,15 @@ statt. 📐 **Die Überweisung von Drs. 9/44 am 18.11. kam mitten in diese Woche
 Gibt es zwischen dem 20.11. und dem 15.12.2026 noch eine Ausschusssitzungswoche? Wenn nein, ist eine
 zweite Beratung praktisch ausgeschlossen und Variante A beim KiFöG nicht mehr nur der
 wahrscheinlichste, sondern der einzige Fall.** ⚠️ Die Terminübersicht war nicht einsehbar.
+✅ **Ergänzt am 26.11.2026 — die Fundstelle ist jetzt bekannt:** Der Landtag veröffentlicht die
+**Terminübersicht der Ausschusssitzungen 2026 als PDF** unter
+`landtag.sachsen-anhalt.de/fileadmin/Downloads/Terminuebersicht/2026_Terminuebersicht_Ausschusssitzungen/…`;
+⚠️ **Stand des Dokuments 31.07.2026**, es kann seither aktualisiert worden sein. ✅ Die Seite
+„Terminübersichten" führt **Jahres- und Wochenübersichten der Landtags- und Ausschusssitzungen sowie
+die Jahresplanung der Plenarsitzungen.** ❗ **Die Dezember-Einträge waren in den Treffern abgeschnitten
+— das Dokument ist direkt aufzurufen; die Frage ist damit in wenigen Minuten im Haus zu beantworten.**
+✅ **Bestätigt: Der federführende Ausschuss heißt amtlich „Ausschuss für Arbeit, Soziales, Gesundheit
+und Gleichstellung".**
 
 ✅ **Präzisiert am 24.11.2026 — der Termin ist aus zweiter Quelle bestätigt, aber als Ankündigung, nicht
 als Einberufung.** ✅ **Eine zweite, unabhängige Fundstelle nennt den 08.12.2026**; ❗ **beide berichten,
@@ -1112,7 +1164,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 25.11.2026)
+## Laufende lokale Vorgänge (Stand 26.11.2026)
 
 - ⚠️ **§ 105 Abs. 1 KVG LSA ist in diesem Haus eingeübt (neu am 15.11.2026).** Eine Beschlussvorlage
   vom **11.06.2025** betraf eine **außerplanmäßige Auszahlung gemäß § 105 Abs. 1 KVG LSA im
@@ -2273,9 +2325,13 @@ zugeordnet**, und eine Fundstelle nennt **die Grünen** als abstimmende Fraktion
 unbelegt, dass die fehlenden acht Sitze dort liegen. ✅ **Für die Mehrheitsrechnung ändert sich nichts**
 (44 von 83 liegt über der Mehrheit von 42). 👉 **Amtliche Sitzverteilung der 9. WP beschaffen.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 25.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 26.11.2026)
 
 | Prüfpunkt | Anlass |
+|---|---|
+| ❗ **Amtliche Sitzverteilung der 9. Wahlperiode beschaffen — jetzt Voraussetzung, nicht Fleißaufgabe** *(hochgestuft 26.11.2026)* | ❗ In diesem Kontext sind **acht von 83 Sitzen nicht zugeordnet.** 📐 **Mit einer Gegenkandidatin (Eva von Angern, Linke) und einem möglichen dritten Wahlgang mit einfacher Mehrheit ist jede Mehrheitsrechnung ohne vollständige Sitzverteilung Zahlenspielerei** |
+| ⚠️ **Haltung der CDU-Fraktion angesichts der Gegenkandidatur** *(neu 26.11.2026)* | 📐 Der Beschluss, den Plenarsaal zu verlassen, wirkte bisher als „keine Stimme für Siegmund". **Mit einer Gegenkandidatin heißt er auch „keine Stimme für sie"** — ❗ in einem dritten Wahlgang entscheidend. **Der CDU-Landesparteitag am 05.12.2026 liegt drei Tage vor dem angekündigten Wahltermin** |
+| ❗ **Terminübersicht der Ausschusssitzungen 2026 aufrufen** *(präzisiert 26.11.2026)* | ✅ **Fundstelle jetzt bekannt** (PDF des Landtages, ⚠️ Stand 31.07.2026). 👉 **Gibt es zwischen dem 20.11. und dem 15.12.2026 eine Ausschusssitzungswoche? Keine heißt: keine zweite KiFöG-Beratung — und Variante A ist der einzige Fall** |
 |---|---|
 | ❗❗ **Bauamt: Entwicklungskonzept und Gebietsfestlegung für die Städtebauförderung** *(neu 25.11.2026)* | ❗ **Das Sanierungsgebiet Ortskern ist seit dem 13.12.2022 aufgehoben.** 👉 **Liegen ein aktuelles städtebauliches Entwicklungskonzept und eine wirksame Gebietsfestlegung vor? Wurde der Abgrenzungsvorschlag aus dem FNP-Entwurf festgelegt? Und ist ein Antrag zum 30.11. danach möglich?** 📐 **Fehlen beide, ist 2027 zu spät und 2028 der Zieltermin** |
 | ❗❗ **Ausgleichsbeträge nach § 154 BauGB: erhoben, offener Betrag, Verjährung** *(neu 25.11.2026)* | ✅ Mit Abschluss der Sanierung entstanden; Instrument 2014 vorbereitet (**SRT-0878/2014**, vorzeitige Ablösung). 📐 **Einnahme, die § 104 KVG LSA nicht sperrt — und seit der Aufhebung Ende 2022 läuft eine Verjährungsuhr.** ⚠️ Fristfrage ans Rechtsamt |
