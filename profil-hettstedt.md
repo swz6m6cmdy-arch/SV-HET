@@ -722,6 +722,50 @@ Mehrheit. **Die CDU-Fraktion ist zerstritten (Stand 11.10.2026).** **Sven Schulz
 
 **Sitzungsplan des Landtages (Stand 12.10.2026, belegt).** Plenartermine 2026: **06.10.** (Konstituierung), **Sondersitzung 14.10., 10:00 Uhr** (2. Sitzungsperiode, außerhalb des vom **Ältestenrat** beschlossenen Plans), **18./19.11.** und **15./16./17.12.2026** — **die letzte Plenarsitzung des Jahres**.
 
+❗❗❗ **Fortgeschrieben am 27.11.2026 — amtlich auf den Weg gebracht, und ein Verfahrensfaktum, das alles
+andere überragt.**
+
+✅ **Jetzt aus einer Tageszeitung belegt, nicht nur über einen Aggregator:** Die **AfD-Fraktion hat einen
+Antrag auf Einberufung einer Sondersitzung des Landtages in Magdeburg am 8. Dezember gestellt**, **von
+allen 39 Abgeordneten unterzeichnet**. ✅ **Landtagspräsident Tobias Rausch will unverzüglich einen
+Termin bestimmen** — ❗ **dass er es getan hat, ist weiterhin nicht belegt.**
+✅ **Neu: Rausch gehört der AfD an und ist seit 2026 Landtagspräsident.** 📐 **Der Präsident, der den
+Termin bestimmt, ist Mitglied der antragstellenden Fraktion. Das ist keine Unregelmäßigkeit — die
+Einberufungspflicht nach § 55 Abs. 4 GO-LT ist gebunden —, erklärt aber, warum mit zügiger
+Terminierung zu rechnen ist.**
+✅ **Aus der Quelle bestätigt:** **Siegmund braucht 42 Stimmen im ersten oder zweiten Wahlgang, also drei
+Stimmen aus anderen Fraktionen; die Wahl ist geheim; Stimmen von SPD, Grünen oder Linken gelten als
+ausgeschlossen; die Linke hat Eva von Angern nominiert; das BSW will sich enthalten.**
+
+> ✅ ❗❗❗ **Scheitern die ersten beiden Wahlgänge, müsste der Landtag binnen 14 Tagen über eine
+> vorzeitige Beendigung der Wahlperiode abstimmen.**
+
+❗ **Das widerspricht einem Punkt dieses Kontextes.** Hier steht seit dem 19.10.2026, im **dritten
+Wahlgang** genüge die einfache Mehrheit und die CDU wäre dann im Saal. ⚠️ **Die heutige Darstellung
+kennt diesen dritten Wahlgang nicht, sondern führt nach zwei gescheiterten Wahlgängen unmittelbar zur
+Abstimmung über die vorzeitige Beendigung der Wahlperiode.** 📐 *Mögliche Auflösung, Vermutung:* Die
+Verfassung sieht nach zwei erfolglosen Wahlgängen **beide Wege** vor — dritter Wahlgang mit relativer
+Mehrheit **oder** Selbstauflösung. ⚠️ **Von hier aus nicht auflösbar.**
+→ ❗❗ **Damit wird „Art. 65 Verf LSA im Wortlaut lesen" von einer Fleißaufgabe zur zentralen
+Rechtsfrage.**
+
+📐 **Terminfolge, eigene Rechnung:** Scheitern die ersten beiden Wahlgänge am **08.12.**, läuft die
+14-Tage-Frist bis etwa zum **22.12.** ❗ **Die Abstimmung über die vorzeitige Beendigung der
+Wahlperiode fiele damit genau in die Plenarsitzung vom 15. bis 17.12.** — neben
+Ministerpräsidentenwahl, zweiter KiFöG-Beratung, ⚠️ Medienstaatsvertrag und möglicherweise der
+Verpflichtungsermächtigung.
+📐 **Zwei Folgen:** (1) **Die Dezembertagesordnung wird noch voller — das stützt Variante A beim
+KiFöG.** (2) ❗❗ **Wird die Wahlperiode vorzeitig beendet, folgt eine Neuwahl; dann gibt es auf
+absehbare Zeit keinen Landeshaushalt 2027, und die vorläufige Haushaltsführung dauert nicht Wochen,
+sondern Monate.** 📐 **Der seit Oktober geführte „Pfad 3: Neuwahl" hat damit erstmals eine belegte
+Frist und einen konkreten Termin.**
+👉 **Für die Stadt keine neue Zahl, sondern eine Verschärfung: Die Liquiditätsvorsorge für das erste
+Quartal 2027 ist nicht Vorsicht, sondern Vorbereitung auf den wahrscheinlichen Fall — und sie hat jetzt
+zwei Posten: die Rate aus dem Kreisumlage-Vergleich und Umlagevorauszahlungen ohne festgesetzte
+Umlage. Beide sind rechtlich verpflichtend und deshalb nicht gesperrt. Instrument § 105 Abs. 1 KVG LSA.**
+❌ **Eine Fundstelle wird ausdrücklich nicht verwendet:** ein Treffer „Mission 8.12" von einem Ableger
+russischer Staatsmedien — **nicht zitierfähig, in keiner Richtung.**
+
 ❗❗ **Fortgeschrieben am 26.11.2026 — der Verfahrensschritt ist da, und es gibt eine Gegenkandidatin.**
 
 | Befund | Status |
@@ -1058,6 +1102,34 @@ Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
   ⚠️ **Landesweite Größenordnung, ältere Angabe des Landkreistages:** **46 Verfahren** von Städten und Gemeinden gegen Kreisumlagen, **Streitwert 114 Mio. €**. 📐 *Eigene Einordnung:* Das erklärt die Verfassungsbeschwerde in Karlsruhe besser als jede Pressemitteilung — **der Streit ist ein Systemkonflikt, nicht der Konflikt eines Kreises mit seinen Städten.**
   ⚠️ **OVG Magdeburg, Dezember 2023:** Nach einer späteren Meldung hat das OVG entschieden, dass der Kreis **über Jahre** zu viel erhoben hat; **Datum und Aktenzeichen unbelegt**, Verhältnis zum hier geführten OVG-Beschluss vom 26.05. **offen**.
   ✅ **Der konkrete Abwägungsmangel, belegt am 25.10.2026** ⚠️ Einzelfundstelle, Regionalpresse, nicht die Urteilsgründe: Das Gericht habe es **als unzureichend angesehen, dass der Kreis zur Ermittlung der Kreisumlage lediglich die vom Statistischen Landesamt dargestellten Steuerkraftmesszahlen und Schlüsselzuweisungen der Gemeinden herangezogen hatte.** → **Vier Prüffragen zur Festsetzung 2027, die nichts kosten:** (1) Wurden **nur** Steuerkraftmesszahlen und Schlüsselzuweisungen herangezogen? (2) Wurde die **tatsächliche** Finanzlage ermittelt — Pflichtaufgaben, Kassenlage, Konsolidierungsauflagen, Liquiditätskredite? (3) Liegt eine **dokumentierte Abwägung** vor oder nur eine Rechnung? (4) Wurde die **Mindestausstattung der einzelnen Gemeinde** geprüft oder nur der Kreisbedarf? **Bleiben sie unbeantwortet, ist das selbst ein Befund** — eine Abwägung muss dokumentiert sein, um überprüfbar zu sein.
+  ❗❗ **Inhalt des Kreisumlage-Vergleichs, belegt am 27.11.2026** ⚠️ **über das nichtamtliche lokale
+  Portal; an Beschlussniederschrift und Vergleichstext zu verifizieren:** Der **Kreistag hat am
+  30.09.2026 einen umfassenden Vergleichsvorschlag beschlossen**, der **zwölf Klagen** von
+  **Hettstedt, Sangerhausen, Eisleben und Klostermansfeld** beenden würde. ❗❗ **Die drei Städte würden
+  85 Prozent der zuletzt festgesetzten Kreisumlage an den Landkreis zurückzahlen.** Für die
+  Rechtskraft mussten **bis Anfang November 2026 auch die Räte der beteiligten Kommunen zustimmen**,
+  darunter der Stadtrat von Hettstedt — ✅ **das ist nach der Agenturmeldung vom 06.11.2026 erfolgt.**
+  → ❗ **Richtungskorrektur:** Dieser Kontext führt aus den gewonnenen Verfahren **Rückzahlungen des
+  Landkreises an die Städte** (16,8 / 20,3 / landesweit rund 39 Mio. €). **Der Vergleich dreht die
+  Richtung: die Städte zahlen zurück.** 📐 *Eigene Deutung, nicht die Quelle:* plausibel ist, dass die
+  Städte zuvor erhaltene oder einbehaltene Beträge zu **85 Prozent abgeben und 15 Prozent behalten.**
+  ⚠️ **Und „zuletzt festgesetzte Kreisumlage" ist mehrdeutig — strittiger Betrag oder Jahresumlage.**
+  → ❌ **Keine Rechnung:** Die Größenordnung vom 23.11.2026 (⚠️ rund 5,3 Mio. €, davon 2,5 Mio. €
+  streitig, **Jahr unbelegt**) lässt sich damit nicht verknüpfen, ohne zwei Unbekannte zu
+  multiplizieren — **die Regeln vom 12. und 13.11.2026 gelten.**
+  → 👉 **Wichtigste Zahl der Akte, liegt im Haus: Welchen Betrag zahlt Hettstedt zurück, in welchen
+  Raten, in welchem Haushaltsjahr?** 📐 **Eine Vergleichsverpflichtung ist eine rechtlich
+  verpflichtende Auszahlung und damit in der vorläufigen Haushaltsführung nach § 104 KVG LSA nicht
+  gesperrt — sie trifft die Liquidität im ersten Quartal 2027 unabhängig von einem Haushaltsbeschluss.**
+  → ❗❗ **Rechtsfrage, die der Empfehlung vom 23.11.2026 vorzuschalten ist: Enthält der Vergleich eine
+  Verzichts-, Rechtsfriedens- oder Erledigungsklausel, die über die streitigen Jahre hinausreicht?**
+  📐 Die Fundstelle trägt die Überschrift **„Rechtsfrieden in Sicht"**. ❗ **Trifft das zu, wäre eine
+  Klage gegen die Umlage 2026 oder 2027 nicht ohne Weiteres möglich, obwohl die Ratsermächtigung
+  vorliegt.** 👉 **Reihenfolge: (1) Vergleichstext und erfasste Jahre, (2) Verzichtsklausel,
+  (3) erst danach Klagestand 2026 und Ratsvorlage 2027.**
+  ⚠️ In den Treffern erscheinen zusätzlich Verfahren zu den Umlagen **2020 und 2021**; 📐 zwölf Klagen
+  passen zu einer langen Jahreskette über mehrere Kommunen.
+
   ✅ **Klageermächtigung für die Kreisumlage 2026, belegt am 23.11.2026** ⚠️ **über ein nichtamtliches
   lokales Nachrichtenportal, an der Beschlussniederschrift zu verifizieren:** In der **15.
   Stadtratssitzung** — 📐 nach der Amtsblatt-Seite vom 08.05.2026 der **05.05.2026**, wozu die
@@ -1164,7 +1236,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 26.11.2026)
+## Laufende lokale Vorgänge (Stand 27.11.2026)
 
 - ⚠️ **§ 105 Abs. 1 KVG LSA ist in diesem Haus eingeübt (neu am 15.11.2026).** Eine Beschlussvorlage
   vom **11.06.2025** betraf eine **außerplanmäßige Auszahlung gemäß § 105 Abs. 1 KVG LSA im
@@ -2325,9 +2397,13 @@ zugeordnet**, und eine Fundstelle nennt **die Grünen** als abstimmende Fraktion
 unbelegt, dass die fehlenden acht Sitze dort liegen. ✅ **Für die Mehrheitsrechnung ändert sich nichts**
 (44 von 83 liegt über der Mehrheit von 42). 👉 **Amtliche Sitzverteilung der 9. WP beschaffen.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 26.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 27.11.2026)
 
 | Prüfpunkt | Anlass |
+|---|---|
+| ❗❗ **Vergleichstext beschaffen: erfasste Jahre, Rückzahlungsbetrag für Hettstedt, Raten, Haushaltsjahr — und eine etwaige Verzichtsklausel** *(neu 27.11.2026)* | ❗❗ **85 Prozent der zuletzt festgesetzten Kreisumlage sind an den Landkreis zurückzuzahlen.** 📐 **Rechtlich verpflichtende Auszahlung, in der vorläufigen Haushaltsführung nicht gesperrt.** ❗ **Und eine Rechtsfriedensklausel würde die Klageermächtigung vom 05.05.2026 praktisch entwerten — deshalb vor allem Weiteren zu prüfen** |
+| ❗❗ **Liquiditätsplanung erstes Quartal 2027 mit zwei Posten aufstellen** *(hochgestuft 27.11.2026)* | **Rate aus dem Vergleich** und **Umlagevorauszahlungen ohne festgesetzte Umlage** — 📐 beide rechtlich verpflichtend, beide im selben Quartal. **Instrument § 105 Abs. 1 KVG LSA** |
+| ❗❗ **Art. 65 Verf LSA im Wortlaut lesen** *(hochgestuft 27.11.2026)* | ✅ **Belegt: Scheitern die ersten beiden Wahlgänge, muss der Landtag binnen 14 Tagen über die vorzeitige Beendigung der Wahlperiode abstimmen.** ⚠️ **Das widerspricht dem hier geführten dritten Wahlgang mit einfacher Mehrheit.** 👉 **Was gilt — dritter Wahlgang, Selbstauflösung, oder beides zur Wahl?** 📐 **Bei Neuwahl: vorläufige Haushaltsführung über Monate** |
 |---|---|
 | ❗ **Amtliche Sitzverteilung der 9. Wahlperiode beschaffen — jetzt Voraussetzung, nicht Fleißaufgabe** *(hochgestuft 26.11.2026)* | ❗ In diesem Kontext sind **acht von 83 Sitzen nicht zugeordnet.** 📐 **Mit einer Gegenkandidatin (Eva von Angern, Linke) und einem möglichen dritten Wahlgang mit einfacher Mehrheit ist jede Mehrheitsrechnung ohne vollständige Sitzverteilung Zahlenspielerei** |
 | ⚠️ **Haltung der CDU-Fraktion angesichts der Gegenkandidatur** *(neu 26.11.2026)* | 📐 Der Beschluss, den Plenarsaal zu verlassen, wirkte bisher als „keine Stimme für Siegmund". **Mit einer Gegenkandidatin heißt er auch „keine Stimme für sie"** — ❗ in einem dritten Wahlgang entscheidend. **Der CDU-Landesparteitag am 05.12.2026 liegt drei Tage vor dem angekündigten Wahltermin** |
