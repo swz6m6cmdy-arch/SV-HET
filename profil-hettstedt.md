@@ -722,6 +722,44 @@ Mehrheit. **Die CDU-Fraktion ist zerstritten (Stand 11.10.2026).** **Sven Schulz
 
 **Sitzungsplan des Landtages (Stand 12.10.2026, belegt).** Plenartermine 2026: **06.10.** (Konstituierung), **Sondersitzung 14.10., 10:00 Uhr** (2. Sitzungsperiode, außerhalb des vom **Ältestenrat** beschlossenen Plans), **18./19.11.** und **15./16./17.12.2026** — **die letzte Plenarsitzung des Jahres**.
 
+✅❗ **Amtlich einberufen — belegt am 28.11.2026 durch eine Agenturmeldung vom 27.11.2026.**
+
+| Angabe | Status |
+|---|---|
+| ✅ **Sondersitzung des Landtages am 08.12.2026, 9.30 Uhr** | ✅ |
+| ✅ **Einziger Beratungsgegenstand: „Wahl des Ministerpräsidenten"** | ✅ |
+| ✅ **Einberufen von Landtagspräsident Tobias Rausch**, dessen AfD-Fraktion den Termin geschlossen beantragt hatte | ✅ |
+| ✅ **Mindestens ein Viertel der Mitglieder ist nötig; mit 39 von 83 Sitzen kann die AfD allein beantragen** | ✅ **Viertel-Prinzip ausdrücklich bestätigt**; ⚠️ der Zahlenwiderspruch 21 gegen 24 bleibt, ist aber ohne Belang |
+| ✅ **Ursprünglich war der 15. Dezember vorgesehen** | ✅ |
+| ⚠️ **Die Landesvorsitzende der Grünen, Susan Sziborra-Seidlitz, kritisiert etwa 10.000 € Extrakosten** | ⚠️ 📐 stützt die Vermutung zu den acht nicht zugeordneten Sitzen, **belegt sie aber nicht** |
+
+📐 **Der Frühindikator vom 22.11.2026 ist damit endgültig erledigt, und die hier seit dem 12.10.2026
+geführte Rechtsgrundlage hat getragen.**
+
+> ✅ ❗❗ **Der Widerspruch vom 27.11.2026 ist vollständig aufgelöst: Scheitern die ersten beiden
+> Wahlgänge, muss der Landtag innerhalb von 14 Tagen über ein vorzeitiges Ende der Wahlperiode
+> abstimmen. Findet sich dafür eine Mehrheit, kommt es zu Neuwahlen. Gibt es keine Mehrheit, folgt
+> unverzüglich ein dritter Wahlgang.**
+
+📐 **Die Vermutung vom 27.11. war richtig, und die Reihenfolge ist jetzt bekannt: nicht „entweder
+oder", sondern nacheinander.** ✅ **Beide Angaben dieses Kontextes waren zutreffend — der dritte
+Wahlgang mit einfacher Mehrheit und die 14-Tage-Frist —, unbekannt war allein ihr Verhältnis.**
+📐 **Damit ist „Art. 65 Verf LSA im Wortlaut lesen" wieder ein Punkt der Vollständigkeit, nicht die
+zentrale Rechtsfrage.** ⚠️ **Offen bleibt das Mehrheitserfordernis für die Auflösungsabstimmung.**
+
+✅ **Abstimmungstaktik, jetzt präzise und den Kontext bestätigend:** **14 von 15 CDU-Abgeordneten wollen
+in den ersten beiden Wahlgängen den Saal verlassen** — ✅ **das deckt sich mit dem hier seit dem
+19.10.2026 geführten Beschluss „14 Ja bei einer Enthaltung" und mit der Ankündigung, im dritten
+Wahlgang im Saal zu sein.** **Das BSW will sich enthalten; Stimmen von SPD, Grünen und Linken gelten
+als ausgeschlossen; Gegenkandidatin ist Eva von Angern.**
+
+| Schritt | Wann | Mehrheit |
+|---|---|---|
+| **1. und 2. Wahlgang** | **08.12.2026, 9.30 Uhr** | **42 von 83**; 📐 der AfD fehlen drei Stimmen |
+| **Abstimmung über vorzeitiges Ende der Wahlperiode** | **binnen 14 Tagen**, 📐 bis etwa **22.12.** — ❗ fällt in die Sitzung **15.–17.12.** | ⚠️ **nicht belegt** |
+| **Bei Mehrheit** | Neuwahlen, 📐 frühestens Frühjahr 2027 | — |
+| **Bei keiner Mehrheit** | **unverzüglich dritter Wahlgang** | ✅ **einfache Mehrheit — und dann ist die CDU im Saal** |
+
 ❗❗❗ **Fortgeschrieben am 27.11.2026 — amtlich auf den Weg gebracht, und ein Verfahrensfaktum, das alles
 andere überragt.**
 
@@ -1102,6 +1140,31 @@ Konfliktfeld mit unmittelbarer Haushaltswirkung für Hettstedt:
   ⚠️ **Landesweite Größenordnung, ältere Angabe des Landkreistages:** **46 Verfahren** von Städten und Gemeinden gegen Kreisumlagen, **Streitwert 114 Mio. €**. 📐 *Eigene Einordnung:* Das erklärt die Verfassungsbeschwerde in Karlsruhe besser als jede Pressemitteilung — **der Streit ist ein Systemkonflikt, nicht der Konflikt eines Kreises mit seinen Städten.**
   ⚠️ **OVG Magdeburg, Dezember 2023:** Nach einer späteren Meldung hat das OVG entschieden, dass der Kreis **über Jahre** zu viel erhoben hat; **Datum und Aktenzeichen unbelegt**, Verhältnis zum hier geführten OVG-Beschluss vom 26.05. **offen**.
   ✅ **Der konkrete Abwägungsmangel, belegt am 25.10.2026** ⚠️ Einzelfundstelle, Regionalpresse, nicht die Urteilsgründe: Das Gericht habe es **als unzureichend angesehen, dass der Kreis zur Ermittlung der Kreisumlage lediglich die vom Statistischen Landesamt dargestellten Steuerkraftmesszahlen und Schlüsselzuweisungen der Gemeinden herangezogen hatte.** → **Vier Prüffragen zur Festsetzung 2027, die nichts kosten:** (1) Wurden **nur** Steuerkraftmesszahlen und Schlüsselzuweisungen herangezogen? (2) Wurde die **tatsächliche** Finanzlage ermittelt — Pflichtaufgaben, Kassenlage, Konsolidierungsauflagen, Liquiditätskredite? (3) Liegt eine **dokumentierte Abwägung** vor oder nur eine Rechnung? (4) Wurde die **Mindestausstattung der einzelnen Gemeinde** geprüft oder nur der Kreisbedarf? **Bleiben sie unbeantwortet, ist das selbst ein Befund** — eine Abwägung muss dokumentiert sein, um überprüfbar zu sein.
+  ❗❗ **Korrektur am 28.11.2026 — der Vergleich entlastet, er belastet nicht.** ✅ **Belegt durch eine
+  präzisere Auswertung derselben Fundstelle: Für die Jahre 2018 bis 2021 werden 15 Prozent der
+  damaligen Streitwerte mit der Kreisumlageschuld für das Haushaltsjahr 2027 verrechnet; eine
+  Barauszahlung ist nicht vorgesehen.** 📐 **Beide Angaben beschreiben dasselbe aus entgegengesetzter
+  Richtung: 85 Prozent gehen an den Kreis, 15 Prozent bleiben bei den Städten — und der verbleibende
+  Anteil wird nicht ausgezahlt, sondern gegen die Umlageschuld 2027 aufgerechnet.**
+  → ❗ **Damit ist die Ableitung vom 27.11.2026 falsch, es handele sich um eine Liquiditätsbelastung im
+  ersten Quartal 2027. Richtig ist das Gegenteil: eine Minderung der Umlageschuld 2027, also eine
+  Entlastung.** 📐 *Fehlerursache, festgehalten:* Aus „85 Prozent zurückzahlen" wurde eine
+  Zahlungspflicht gemacht, ohne Bezugsgröße und Erfüllungsweg zu kennen.
+  → ✅ **Präzisiert: Der Vergleich betrifft die Jahre 2018 bis 2021.**
+  → 👉 **Die Frage ans Haus lautet daher nicht mehr „welchen Betrag zahlt Hettstedt zurück", sondern:
+  Welcher Verrechnungsbetrag mindert die Kreisumlageschuld 2027 — und steht er in der mittelfristigen
+  Planung und im Entwurf 2027?** ❌ **Keine Rechnung: 15 Prozent lassen sich nur auf die Streitwerte
+  2018 bis 2021 anwenden, und die sind nicht belegt; sie liegen in den eigenen Akten.** ⚠️ Die Angabe
+  vom 23.11.2026 (rund 2,5 Mio. € streitig von rund 5,3 Mio. €) betrifft **ein unbekanntes Jahr** und
+  ist keine Vierjahressumme.
+  → 📐 **Praktischer Grund für Eile: Wird der Betrag nicht vorher ermittelt, ist bei der Prüfung des
+  Umlagebescheids 2027 nicht erkennbar, ob die Verrechnung korrekt berücksichtigt wurde.**
+  → ❗ **Und die Rechtsfrage nach einer Verzichtsklausel ist dadurch wichtiger geworden, nicht
+  geringer: Der Vergleich bezieht das Haushaltsjahr 2027 ausdrücklich ein — also genau das Jahr, für
+  das hier eine Ratsvorlage zur Klage empfohlen wird.**
+  ✅ **Neue brauchbare Quelle:** eine kommunalfinanzielle Fachpublikation führt „Mansfeld-Südharz zahlt
+  Kreisumlage zurück" ⚠️ — **betrifft ältere Rückzahlungen, u. a. zur Kreisumlage 2021.**
+
   ❗❗ **Inhalt des Kreisumlage-Vergleichs, belegt am 27.11.2026** ⚠️ **über das nichtamtliche lokale
   Portal; an Beschlussniederschrift und Vergleichstext zu verifizieren:** Der **Kreistag hat am
   30.09.2026 einen umfassenden Vergleichsvorschlag beschlossen**, der **zwölf Klagen** von
@@ -1236,7 +1299,7 @@ geltend macht, kann sie gegenüber seinen kreisangehörigen Gemeinden schwerlich
 → Jede Änderung der Kreisumlage und jede kommunalaufsichtliche Maßnahme gegenüber dem
 Landkreis ist für Hettstedt berichtspflichtig.
 
-## Laufende lokale Vorgänge (Stand 27.11.2026)
+## Laufende lokale Vorgänge (Stand 28.11.2026)
 
 - ⚠️ **§ 105 Abs. 1 KVG LSA ist in diesem Haus eingeübt (neu am 15.11.2026).** Eine Beschlussvorlage
   vom **11.06.2025** betraf eine **außerplanmäßige Auszahlung gemäß § 105 Abs. 1 KVG LSA im
@@ -2397,9 +2460,13 @@ zugeordnet**, und eine Fundstelle nennt **die Grünen** als abstimmende Fraktion
 unbelegt, dass die fehlenden acht Sitze dort liegen. ✅ **Für die Mehrheitsrechnung ändert sich nichts**
 (44 von 83 liegt über der Mehrheit von 42). 👉 **Amtliche Sitzverteilung der 9. WP beschaffen.**
 
-## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 27.11.2026)
+## Offene Prüfaufträge an Kämmerei und Rechtsamt (Stand 28.11.2026)
 
 | Prüfpunkt | Anlass |
+|---|---|
+| ❗❗ **Verrechnungsbetrag aus dem Vergleich ermitteln und prüfen, ob er im Entwurf 2027 steht** *(korrigiert 28.11.2026)* | ✅ **15 Prozent der Streitwerte 2018 bis 2021 werden mit der Kreisumlageschuld 2027 verrechnet — Entlastung, keine Auszahlung.** ❌ Keine Rechnung möglich: die Streitwerte sind nicht belegt und liegen in den eigenen Akten. 📐 **Ohne den Betrag ist bei der Prüfung des Umlagebescheids 2027 nicht erkennbar, ob die Verrechnung korrekt berücksichtigt wurde** |
+| ❗ **Der 30.11.2026 ist ein Montag** *(neu 28.11.2026)* | 📐 **Der Montag ist der einzige verbleibende Arbeitstag vor Ablauf der Städtebauförderungsfrist.** 👉 **Die Gebietsfrage muss vormittags geklärt sein, damit der Antrag am selben Tag hinausgeht** |
+| ⚠️ **Mehrheitserfordernis für die Abstimmung über das vorzeitige Ende der Wahlperiode** *(neu 28.11.2026)* | ✅ Der Ablauf steht (14 Tage, dann bei Scheitern dritter Wahlgang), ⚠️ **das erforderliche Quorum nicht.** 📐 Bei einer Selbstauflösung regelmäßig qualifiziert — **nicht belegt** |
 |---|---|
 | ❗❗ **Vergleichstext beschaffen: erfasste Jahre, Rückzahlungsbetrag für Hettstedt, Raten, Haushaltsjahr — und eine etwaige Verzichtsklausel** *(neu 27.11.2026)* | ❗❗ **85 Prozent der zuletzt festgesetzten Kreisumlage sind an den Landkreis zurückzuzahlen.** 📐 **Rechtlich verpflichtende Auszahlung, in der vorläufigen Haushaltsführung nicht gesperrt.** ❗ **Und eine Rechtsfriedensklausel würde die Klageermächtigung vom 05.05.2026 praktisch entwerten — deshalb vor allem Weiteren zu prüfen** |
 | ❗❗ **Liquiditätsplanung erstes Quartal 2027 mit zwei Posten aufstellen** *(hochgestuft 27.11.2026)* | **Rate aus dem Vergleich** und **Umlagevorauszahlungen ohne festgesetzte Umlage** — 📐 beide rechtlich verpflichtend, beide im selben Quartal. **Instrument § 105 Abs. 1 KVG LSA** |
